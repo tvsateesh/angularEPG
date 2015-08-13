@@ -1,0 +1,7 @@
+{
+  "name": "Sample Angular.js EPG",
+  "description": "An EPG application using Express 4",
+  "repository": "https://github.com/tvsateesh/angularEPG",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static","EPG","angular.js"]
+}
