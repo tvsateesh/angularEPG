@@ -7,14 +7,6 @@
 var couldEPG = angular.module('CloudEPG', []).
   config(['$routeProvider', function($routeProvider) {
   $routeProvider.
-      when('/channels', {
-          templateUrl: 'partials/channels.htm',
-          controller: channelListController
-      }).
-      when('/channelDetails', {
-          templateUrl: 'partials/channelDetails.htm',
-          controller: ChannelDetailController
-      }).
       when('/subMenu', {
           templateUrl: 'partials/subMenu.htm',
           controller: SubmMenuController
@@ -23,17 +15,9 @@ var couldEPG = angular.module('CloudEPG', []).
           templateUrl: 'partials/subMenuLevel1.htm',
           controller: SubmMenuController
       }).
-      when('/epg', {
-          templateUrl: 'partials/epg.htm',
-          controller: EPGController
-      }).
       when('/mainMenu', {
           templateUrl: 'partials/mainMenu.htm',
           controller: MainMenuController
-      }).
-      when('/EPGDetails', {
-          templateUrl: 'partials/epgDetails.htm',
-          controller: EPGDetailsController
       }).
       otherwise({
         redirectTo: '/mainMenu'
