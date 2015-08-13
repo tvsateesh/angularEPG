@@ -1,6 +1,0 @@
-<item id="devices" title="TV remote" labelbgcolor="#4b2e05">
-  <icon url="media/icons/mainmenu/main menu icon devices.png"/>
-  <item id="1" text="learn">
-  	<action module="ActionLearnTVRemote"  menu="xml/devices/ActionLearnTVRemote.xml"/>
-  </item>
-</item>
