@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping>
+  <item id="1" name="Admin" pin="1234" lang="en-US"/>
+  <item id="2" name="User" pin="4567" lang="en-US"/>
+<!--
+  <item id="2" name="Christine" pin="4567" lang="de"/>
+  <item id="3" name="Peter" pin="7890" lang="en-US"/>
+  <item id="4" name="Martina" pin="7890" lang="en-US"/>
+  <item id="5" name="Eckhard" pin="7890" lang="en-US"/>
+  <item id="6" name="Mirela" pin="7654" lang="hr"/>
+-->
+</mapping>
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

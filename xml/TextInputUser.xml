@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="text_input">
+  <meta>
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="410" />
+      <element id="longTxtHolder" type="TextField" x="20" y="20" width="690" height="380" />
+      <element id="txtHolder" type="TextField" x="100" y="100" width="370" height="380" />
+    </screen>
+    <select id="uppercase"/>
+    <info>
+      <longtext>
+        <span class="headline">Username</span> 
+        <p>Please type in the username of your account: </p>
+      </longtext>
+    </info>
+  </meta>
+  <item id="uppercase" title="A-Z">
+    <item id="A" text="A" shortcut_hidden="2"/>
+    <item id="B" text="B" shortcut_hidden="22"/>
+    <item id="C" text="C" shortcut_hidden="222"/>
+    <item id="D" text="D" shortcut_hidden="3"/>
+    <item id="E" text="E" shortcut_hidden="33"/>
+    <item id="F" text="F" shortcut_hidden="333"/>
+    <item id="G" text="G" shortcut_hidden="4"/>
+    <item id="H" text="H" shortcut_hidden="44"/>
+    <item id="I" text="I" shortcut_hidden="444"/>
+    <item id="J" text="J" shortcut_hidden="5"/>
+    <item id="K" text="K" shortcut_hidden="55"/>
+    <item id="L" text="L" shortcut_hidden="555"/>
+    <item id="M" text="M" shortcut_hidden="6"/>
+    <item id="N" text="N" shortcut_hidden="66"/>
+    <item id="O" text="O" shortcut_hidden="666"/>
+    <item id="P" text="P" shortcut_hidden="7"/>
+    <item id="Q" text="Q" shortcut_hidden="77"/>
+    <item id="R" text="R" shortcut_hidden="777"/>
+    <item id="S" text="S" shortcut_hidden="7777"/>
+    <item id="T" text="T" shortcut_hidden="8"/>
+    <item id="U" text="U" shortcut_hidden="88"/>
+    <item id="V" text="V" shortcut_hidden="888"/>
+    <item id="W" text="W" shortcut_hidden="9"/>
+    <item id="X" text="X" shortcut_hidden="99"/>
+    <item id="Y" text="Y" shortcut_hidden="999"/>
+    <item id="Z" text="Z" shortcut_hidden="9999"/>
+  </item>
+  <item id="lowercase" title="a-z">
+    <item id="a" text="a" shortcut_hidden="2"/>
+    <item id="b" text="b" shortcut_hidden="22"/>
+    <item id="c" text="c" shortcut_hidden="222"/>
+    <item id="d" text="d" shortcut_hidden="3"/>
+    <item id="e" text="e" shortcut_hidden="33"/>
+    <item id="f" text="f" shortcut_hidden="333"/>
+    <item id="g" text="g" shortcut_hidden="4"/>
+    <item id="h" text="h" shortcut_hidden="44"/>
+    <item id="i" text="i" shortcut_hidden="444"/>
+    <item id="j" text="j" shortcut_hidden="5"/>
+    <item id="k" text="k" shortcut_hidden="55"/>
+    <item id="l" text="l" shortcut_hidden="555"/>
+    <item id="m" text="m" shortcut_hidden="6"/>
+    <item id="n" text="n" shortcut_hidden="66"/>
+    <item id="o" text="o" shortcut_hidden="666"/>
+    <item id="p" text="p" shortcut_hidden="7"/>
+    <item id="q" text="q" shortcut_hidden="77"/>
+    <item id="r" text="r" shortcut_hidden="777"/>
+    <item id="s" text="s" shortcut_hidden="7777"/>
+    <item id="t" text="t" shortcut_hidden="8"/>
+    <item id="u" text="u" shortcut_hidden="88"/>
+    <item id="v" text="v" shortcut_hidden="888"/>
+    <item id="w" text="w" shortcut_hidden="9"/>
+    <item id="x" text="x" shortcut_hidden="99"/>
+    <item id="y" text="y" shortcut_hidden="999"/>
+    <item id="z" text="z" shortcut_hidden="9999"/>
+  </item>
+  <item id="edit" title="Edit">
+    <item id="action_backspace" text="delete"/>
+  </item>
+  <item id="return" title="Finished">
+    <item id="action_return" text="yes"/>
+  </item>
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="action_timeline" cache="false">
+  <meta>
+    <!--		<select id="action_view"/> -->
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="410" />
+      <element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+      <element id="imgHolder" type="MovieClip" x="410" y="0"/>
+      <element id="progHolder" type="MovieClip" x="20" y="320"/>
+    </screen>
+  </meta>
+
+  <item id="actions" title="Actions" labelbgcolor="#014a8d">
+    <item id="action_view" text="view"/>
+    <item id="action_record" text="record this Program"/>
+    <item id="action_addtoFavorites" text="add to Favorites"/>
+  </item>
+</menu>

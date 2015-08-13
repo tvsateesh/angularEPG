@@ -1,0 +1,18 @@
+<p class="text-info">
+    <h1>Channel List</h1><br />
+</p>
+
+<p>
+    Search: <input ng-model="search">
+</p>
+
+<table class="table table-bordered">
+    <tr  >
+        <td ng-repeat="channel in channelsList.channels | orderBy:'name' | filter:search" class="channelLogo">
+            <a href="default.htm#/channelDetails?id={{channel.name}}">
+                <img ng-src="img/channels/{{channel.id}}.png" alt="{{channel.name}}" /></a></td>
+
+    </tr>
+    <tr>
+
+</table>

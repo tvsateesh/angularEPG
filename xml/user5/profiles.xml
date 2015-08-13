@@ -1,0 +1,26 @@
+<item id="profiles" title="Profiles" labelbgcolor="#084007">
+    <meta>
+      <select id="1"/>
+    </meta>
+    <icon url="media/icons/mainmenu/main menu icon profiles.png"/>
+    <item id="add new" text="add new">
+      <action module="AppProfile" menu="xml/AppProfileAddNew.xml"/>
+    </item>
+    <item id="1" text="Admin" type="admin">
+      <action module="AppProfile" menu="xml/AppProfile.xml"/>
+    </item>
+<!--
+    <item id="2" text="Christine" type="restricted">
+      <action module="AppProfile" menu="xml/user2/AppProfile.xml"/>
+    </item>
+    <item id="3" text="Peter" type="restricted">
+      <action module="AppProfile" menu="xml/AppProfile.xml"/>
+    </item>
+    <item id="4" text="Martina" type="restricted">
+      <action module="AppProfile" menu="xml/AppProfile.xml"/>
+    </item>
+    <item id="5" text="Eckhard" type="restricted">
+      <action module="AppProfile" menu="xml/AppProfile.xml"/>
+    </item>
+-->
+  </item>

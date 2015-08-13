@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="RTL2">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+	<item id="californication" text="Californication">
+    <meta>
+      <duration>50</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/californication.png">
+      <shorttext>
+        <span class="headline">Californication</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: The Last Waltz</p>
+        <p class="description">Hank struggles with the onrushing reality of Karen's wedding to Bill. Becca receives an unexpected visitor prompting some vintage Hank Moody problem solving. Bill, meanwhile, breaks it to Mia that he has no intention of allowing her book to be published.</p>
+      </shorttext>
+    <time><start hour="20" min="50"/><end hour="21" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="evening" title="Evening">
+	<item id="departed" text="The Departed">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/departed.png">
+      <shorttext>
+        <span class="headline">The Departed</span>
+        <p class="subheadline">Thriller, USA 2006</p>
+        <p class="description">As the police force attempts to reign in the increasingly powerful Irish mafia, authorities are faced with the prospect of sending in an undercover agent or seeing their already frail grip on the criminal underworld slip even further.</p>
+      </shorttext>
+    <time><start hour="14" min="30"/><end hour="17" min="00"/></time></info>
+  </item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="17" min="50"/><end hour="18" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gilmore-girls" text="Gilmore Girls">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gilmore-girls.png">
+      <shorttext>
+        <span class="headline">Gilmore Girls</span>
+        <p class="subheadline">Dramedy, USA 2007</p>
+        <p class="subsubheadline">Season 7, Ep. 12: To Whom It May Concern</p>
+        <p class="description">Rory makes amends with Lucy while Christopher finds the letter Lorelai wrote for Luke's character reference. Rory witnesses a frightening sight while at Richard's Economics class. Sookie is acting weirdly so Lorelai makes Jackson confess: Sookie is pregnant again.</p>
+      </shorttext>
+    <time><start hour="18" min="50"/><end hour="19" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="charmed" text="Charmed">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/charmed.png">
+      <shorttext>
+        <span class="headline">Charmed</span>
+        <p class="subheadline">Drama, USA 2006</p>
+        <p class="subsubheadline">Season 8, Ep. 14: Angry Zen</p>
+        <p class="description">In searching for information about Leo, Piper discovers a message from Lo-Pan, a monk and keeper of a sacred Buddhist staff containing the power of influence. Billie finds her sister Christy after being kidnapped fifteen years ago.</p>
+      </shorttext>
+    <time><start hour="19" min="50"/><end hour="20" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="californication" text="Californication">
+    <meta>
+      <duration>50</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/californication.png">
+      <shorttext>
+        <span class="headline">Californication</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: The Last Waltz</p>
+        <p class="description">Hank struggles with the onrushing reality of Karen's wedding to Bill. Becca receives an unexpected visitor prompting some vintage Hank Moody problem solving. Bill, meanwhile, breaks it to Mia that he has no intention of allowing her book to be published.</p>
+      </shorttext>
+    <time><start hour="20" min="50"/><end hour="21" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="afternoon" title="Afternoon">
+	<item id="pianist" text="The Pianist">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/pianist.png">
+      <shorttext>
+        <span class="headline">The Pianist</span>
+        <p class="subheadline">Drama, USA 2002</p>
+        <p class="description">A brilliant pianist, a Polish Jew, witnesses the restrictions Nazis place on Jews in the Polish capital, from restricted access to the building of the Warsaw ghetto. As his family is rounded up to be shipped off to the Nazi labor camps, he escapes deportation and eludes capture by living in the ruins of Warsaw.</p>
+      </shorttext>
+    <time><start hour="08" min="40"/><end hour="11" min="10"/></time></info>
+  </item>
+	<item id="closer" text="Closer">
+    <meta>
+      <duration>110</duration>
+    </meta>
+    <info url="media/tv/closer.png">
+      <shorttext>
+        <span class="headline">Closer</span>
+        <p class="subheadline">Drama, USA 2004</p>
+        <p class="description">In London, the new arrival Alice Ayres meets the mediocre obituary journalist Daniel and they move together. Dan writes a book, inspired in the life of Alice, and while photographing for the release of the book, he meets the photographer Anna. Dan introduces the dermatologist Larry to Anna, and they get married.</p>
+      </shorttext>
+    <time><start hour="11" min="10"/><end hour="13" min="00"/></time></info>
+  </item>
+	<item id="tudors" text="The Tudors">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tudors.png">
+      <shorttext>
+        <span class="headline">The Tudors</span>
+        <p class="subheadline">Historical Drama, UK 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 9: Kings Aside</p>
+        <p class="description">Anne has lost a son and with it her last chance at a lasting marriage with Henry. The King's affections are shifting anyway: the Seymour family are awarded rooms at court and seem likely to replace the Boleyns as royal favourites. Several in the court begin to move against Anne who is accused of adultery.</p>
+      </shorttext>
+    <time><start hour="13" min="00"/><end hour="14" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="simpsons" text="The Simpsons">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/simpsons.png">
+      <shorttext>
+        <span class="headline">The Simpsons</span>
+        <p class="subheadline">Animated TV Series, USA 1994</p>
+        <p class="subsubheadline">Season 6, Ep. 1: Bart of Darkness</p>
+        <p class="description">Bart breaks his leg and has to spend the rest of the summer in his bedroom wearing a cast. Lisa gives him her telescope to entertain him. Witnessing Ned Flanders burying something in his backyard, Bart becomes convinced that Flanders has murdered his wife Maude, and vows to reveal the truth.</p>
+      </shorttext>
+    <time><start hour="14" min="00"/><end hour="14" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="departed" text="The Departed">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/departed.png">
+      <shorttext>
+        <span class="headline">The Departed</span>
+        <p class="subheadline">Thriller, USA 2006</p>
+        <p class="description">As the police force attempts to reign in the increasingly powerful Irish mafia, authorities are faced with the prospect of sending in an undercover agent or seeing their already frail grip on the criminal underworld slip even further.</p>
+      </shorttext>
+    <time><start hour="14" min="30"/><end hour="17" min="00"/></time></info>
+  </item>
+	<item id="office" text="The Office">
+    <meta>
+      <duration>50</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/office.png">
+      <shorttext>
+        <span class="headline">The Office</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Job Fair</p>
+        <p class="description">In response to Ryan's warning, Jim hits the links with Andy and Kevin to attempt to land his biggest client ever. Michael, Pam, Oscar, and Darryl set up a booth at a job fair at Pam's old high school to find applicants for Dunder Mifflin's summer internship, but Michael's shenanigans produce failure.</p>
+      </shorttext>
+    <time><start hour="17" min="00"/><end hour="17" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="17" min="50"/><end hour="18" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="noon" title="Noon">
+	<item id="pianist" text="The Pianist">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/pianist.png">
+      <shorttext>
+        <span class="headline">The Pianist</span>
+        <p class="subheadline">Drama, USA 2002</p>
+        <p class="description">A brilliant pianist, a Polish Jew, witnesses the restrictions Nazis place on Jews in the Polish capital, from restricted access to the building of the Warsaw ghetto. As his family is rounded up to be shipped off to the Nazi labor camps, he escapes deportation and eludes capture by living in the ruins of Warsaw.</p>
+      </shorttext>
+    <time><start hour="08" min="40"/><end hour="11" min="10"/></time></info>
+  </item>
+	<item id="closer" text="Closer">
+    <meta>
+      <duration>110</duration>
+    </meta>
+    <info url="media/tv/closer.png">
+      <shorttext>
+        <span class="headline">Closer</span>
+        <p class="subheadline">Drama, USA 2004</p>
+        <p class="description">In London, the new arrival Alice Ayres meets the mediocre obituary journalist Daniel and they move together. Dan writes a book, inspired in the life of Alice, and while photographing for the release of the book, he meets the photographer Anna. Dan introduces the dermatologist Larry to Anna, and they get married.</p>
+      </shorttext>
+    <time><start hour="11" min="10"/><end hour="13" min="00"/></time></info>
+  </item>
+</item>
+<item id="morning" title="Morning">
+	<item id="csi" text="CSI">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/csi.png">
+      <shorttext>
+        <span class="headline">CSI</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 8, Ep. 14: Drops Out</p>
+        <p class="description">After finding two dead bodies at Drops' apartment and suspecting his girlfriend of murder, the police allow him to leave prison so he can help them out. Brass and Nick follow him as he looks for their suspect.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gladiator" text="Gladiator">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/gladiator.png">
+      <shorttext>
+        <span class="headline">Gladiator</span>
+        <p class="subheadline">Historical Drama, USA 2000</p>
+        <p class="subsubheadline">In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos. Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor. As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed. He escapes, but is captured by slave traders.</p>
+      </shorttext>
+    <time><start hour="01" min="10"/><end hour="03" min="40"/></time></info>
+  </item>
+	<item id="amadeus" text="Amadeus">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/amadeus.png">
+      <shorttext>
+        <span class="headline">Amadeus</span>
+        <p class="subheadline">Drama, USA 1984</p>
+        <p class="description">Antonio Salieri believes that Mozart's music is divine. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. But he can't understand why God favored Mozart, such a vulgar creature, to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is set to take revenge.</p>
+      </shorttext>
+    <time><start hour="03" min="40"/><end hour="06" min="40"/></time></info>
+  </item>
+	<item id="smurfs" text="The Smurfs">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/smurfs.png">
+      <shorttext>
+        <span class="headline">The Smurfs</span>
+        <p class="subheadline">Animated TV Series, USA 1989</p>
+        <p class="subsubheadline">Season 9, Ep. 14: Sky High Surprise</p>
+        <p class="description">A band of baby bandits in the desert steal the time crystals. Meanwhile, the Smurfs end up trapped in Gargamel's lair, after trying to hide a magic egg that grants every Smurf their fondest wish.</p>
+      </shorttext>
+    <time><start hour="06" min="40"/><end hour="07" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="monk" text="Monk">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/monk.png">
+      <shorttext>
+        <span class="headline">Monk</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 7, Ep. 7: Take A Punch</p>
+        <p class="description">Mr. Monk feels he is too over the hill and will never pass the SFPD physical. He finally gives up on his dream of reinstatement and finds it liberating, but a case in which he meets a boxer making a comeback in the ring re-inspires Monk.</p>
+      </shorttext>
+    <time><start hour="07" min="40"/><end hour="08" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="now" title="Now">
+	<item id="csi" text="CSI">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/csi.png">
+      <shorttext>
+        <span class="headline">CSI</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 8, Ep. 14: Drops Out</p>
+        <p class="description">After finding two dead bodies at Drops' apartment and suspecting his girlfriend of murder, the police allow him to leave prison so he can help them out. Brass and Nick follow him as he looks for their suspect.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gladiator" text="Gladiator">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/gladiator.png">
+      <shorttext>
+        <span class="headline">Gladiator</span>
+        <p class="subheadline">Historical Drama, USA 2000</p>
+        <p class="subsubheadline">In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos. Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor. As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed. He escapes, but is captured by slave traders.</p>
+      </shorttext>
+    <time><start hour="01" min="10"/><end hour="03" min="40"/></time></info>
+  </item>
+	<item id="amadeus" text="Amadeus">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/amadeus.png">
+      <shorttext>
+        <span class="headline">Amadeus</span>
+        <p class="subheadline">Drama, USA 1984</p>
+        <p class="description">Antonio Salieri believes that Mozart's music is divine. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. But he can't understand why God favored Mozart, such a vulgar creature, to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is set to take revenge.</p>
+      </shorttext>
+    <time><start hour="03" min="40"/><end hour="06" min="40"/></time></info>
+  </item>
+	<item id="smurfs" text="The Smurfs">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/smurfs.png">
+      <shorttext>
+        <span class="headline">The Smurfs</span>
+        <p class="subheadline">Animated TV Series, USA 1989</p>
+        <p class="subsubheadline">Season 9, Ep. 14: Sky High Surprise</p>
+        <p class="description">A band of baby bandits in the desert steal the time crystals. Meanwhile, the Smurfs end up trapped in Gargamel's lair, after trying to hide a magic egg that grants every Smurf their fondest wish.</p>
+      </shorttext>
+    <time><start hour="06" min="40"/><end hour="07" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="monk" text="Monk">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/monk.png">
+      <shorttext>
+        <span class="headline">Monk</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 7, Ep. 7: Take A Punch</p>
+        <p class="description">Mr. Monk feels he is too over the hill and will never pass the SFPD physical. He finally gives up on his dream of reinstatement and finds it liberating, but a case in which he meets a boxer making a comeback in the ring re-inspires Monk.</p>
+      </shorttext>
+    <time><start hour="07" min="40"/><end hour="08" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="pianist" text="The Pianist">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/pianist.png">
+      <shorttext>
+        <span class="headline">The Pianist</span>
+        <p class="subheadline">Drama, USA 2002</p>
+        <p class="description">A brilliant pianist, a Polish Jew, witnesses the restrictions Nazis place on Jews in the Polish capital, from restricted access to the building of the Warsaw ghetto. As his family is rounded up to be shipped off to the Nazi labor camps, he escapes deportation and eludes capture by living in the ruins of Warsaw.</p>
+      </shorttext>
+    <time><start hour="08" min="40"/><end hour="11" min="10"/></time></info>
+  </item>
+	<item id="closer" text="Closer">
+    <meta>
+      <duration>110</duration>
+    </meta>
+    <info url="media/tv/closer.png">
+      <shorttext>
+        <span class="headline">Closer</span>
+        <p class="subheadline">Drama, USA 2004</p>
+        <p class="description">In London, the new arrival Alice Ayres meets the mediocre obituary journalist Daniel and they move together. Dan writes a book, inspired in the life of Alice, and while photographing for the release of the book, he meets the photographer Anna. Dan introduces the dermatologist Larry to Anna, and they get married.</p>
+      </shorttext>
+    <time><start hour="11" min="10"/><end hour="13" min="00"/></time></info>
+  </item>
+	<item id="tudors" text="The Tudors">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tudors.png">
+      <shorttext>
+        <span class="headline">The Tudors</span>
+        <p class="subheadline">Historical Drama, UK 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 9: Kings Aside</p>
+        <p class="description">Anne has lost a son and with it her last chance at a lasting marriage with Henry. The King's affections are shifting anyway: the Seymour family are awarded rooms at court and seem likely to replace the Boleyns as royal favourites. Several in the court begin to move against Anne who is accused of adultery.</p>
+      </shorttext>
+    <time><start hour="13" min="00"/><end hour="14" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="simpsons" text="The Simpsons">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/simpsons.png">
+      <shorttext>
+        <span class="headline">The Simpsons</span>
+        <p class="subheadline">Animated TV Series, USA 1994</p>
+        <p class="subsubheadline">Season 6, Ep. 1: Bart of Darkness</p>
+        <p class="description">Bart breaks his leg and has to spend the rest of the summer in his bedroom wearing a cast. Lisa gives him her telescope to entertain him. Witnessing Ned Flanders burying something in his backyard, Bart becomes convinced that Flanders has murdered his wife Maude, and vows to reveal the truth.</p>
+      </shorttext>
+    <time><start hour="14" min="00"/><end hour="14" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="departed" text="The Departed">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/departed.png">
+      <shorttext>
+        <span class="headline">The Departed</span>
+        <p class="subheadline">Thriller, USA 2006</p>
+        <p class="description">As the police force attempts to reign in the increasingly powerful Irish mafia, authorities are faced with the prospect of sending in an undercover agent or seeing their already frail grip on the criminal underworld slip even further.</p>
+      </shorttext>
+    <time><start hour="14" min="30"/><end hour="17" min="00"/></time></info>
+  </item>
+	<item id="office" text="The Office">
+    <meta>
+      <duration>50</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/office.png">
+      <shorttext>
+        <span class="headline">The Office</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Job Fair</p>
+        <p class="description">In response to Ryan's warning, Jim hits the links with Andy and Kevin to attempt to land his biggest client ever. Michael, Pam, Oscar, and Darryl set up a booth at a job fair at Pam's old high school to find applicants for Dunder Mifflin's summer internship, but Michael's shenanigans produce failure.</p>
+      </shorttext>
+    <time><start hour="17" min="00"/><end hour="17" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="17" min="50"/><end hour="18" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gilmore-girls" text="Gilmore Girls">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gilmore-girls.png">
+      <shorttext>
+        <span class="headline">Gilmore Girls</span>
+        <p class="subheadline">Dramedy, USA 2007</p>
+        <p class="subsubheadline">Season 7, Ep. 12: To Whom It May Concern</p>
+        <p class="description">Rory makes amends with Lucy while Christopher finds the letter Lorelai wrote for Luke's character reference. Rory witnesses a frightening sight while at Richard's Economics class. Sookie is acting weirdly so Lorelai makes Jackson confess: Sookie is pregnant again.</p>
+      </shorttext>
+    <time><start hour="18" min="50"/><end hour="19" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="charmed" text="Charmed">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/charmed.png">
+      <shorttext>
+        <span class="headline">Charmed</span>
+        <p class="subheadline">Drama, USA 2006</p>
+        <p class="subsubheadline">Season 8, Ep. 14: Angry Zen</p>
+        <p class="description">In searching for information about Leo, Piper discovers a message from Lo-Pan, a monk and keeper of a sacred Buddhist staff containing the power of influence. Billie finds her sister Christy after being kidnapped fifteen years ago.</p>
+      </shorttext>
+    <time><start hour="19" min="50"/><end hour="20" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="californication" text="Californication">
+    <meta>
+      <duration>50</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/californication.png">
+      <shorttext>
+        <span class="headline">Californication</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: The Last Waltz</p>
+        <p class="description">Hank struggles with the onrushing reality of Karen's wedding to Bill. Becca receives an unexpected visitor prompting some vintage Hank Moody problem solving. Bill, meanwhile, breaks it to Mia that he has no intention of allowing her book to be published.</p>
+      </shorttext>
+    <time><start hour="20" min="50"/><end hour="21" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+</menu>

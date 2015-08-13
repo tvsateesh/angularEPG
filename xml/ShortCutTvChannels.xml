@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="shortcut_tv">
+  <meta>
+    <screen>
+      <element id="container" type="Container" x="0" y="390" width="1280" height="90"/>
+      <element id="txtTitle" type="TextField" x="160" y="10" width="600" height="380"/>
+      <element id="txtDescription" type="TextField" x="615" y="10" width="600" height="380"/>
+    </screen>
+  </meta>
+  <item id="channels" title="Channels" labelbgcolor="#461588">
+    <meta>
+      <select id="ORF1"/>
+    </meta>
+    <icon url="media/icons/mainmenu/main menu icon channels.png"/>
+	<item id="orf1" shortcut="1">
+		<icon url="media/icons/tv_logos/orf1.png"/>
+		<media url="media/tvbackground/channel01.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Great Gatsby</span>
+          <p class="subheadline">Drama &#183; 2013 &#183; PG-13 &#183; 143 min</p>
+        </titletext>
+        <description>
+          <p class="description">Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, the cracks of Gatsby's nouveau riche existence reveal a world of obsession, madness, and tragedy.</p>
+        </description>
+      </info>
+    </item>
+<item id="orf2" shortcut="2">
+ <icon url="media/icons/tv_logos/orf2.png"/>
+ <media url="media/tvbackground/channel02.mp4"/>
+      <info>
+        <percent val=".2"/>
+        <titletext>
+          <span class="headline">The Lorax</span>
+          <p class="subheadline">Comedy &#183; 2012 &#183; PG &#183; 86 min</p>
+        </titletext>
+        <description>
+          <p class="description">A 12-year-old boy searches for the one thing to win the affection of his dream girl. To find it he must discover the Lorax, the grumpy yet charming creature who fights to protect his world.</p>
+        </description>
+      </info>
+    </item>
+ <item id="orf3" shortcut="3">
+ <icon url="media/icons/tv_logos/orf3.png"/>
+ <media url="media/tvbackground/channel03.mp4"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".75"/>
+        <titletext>
+          <span class="headline">The Last Days on Mars</span>
+          <p class="subheadline">Sci-Fi &#183; 2013 &#183; R &#183; 98 min</p>
+        </titletext>
+        <description>
+          <p class="description">On the last day of the first manned mission to Mars, a crew member of Tantalus Base believes he has made an astounding discovery: fossilized evidence of bacterial life.</p>
+        </description>
+      </info>
+    </item>
+ <item id="puls4" shortcut="4">
+ <icon url="media/icons/tv_logos/puls4.png"/>
+ <media url="media/tvbackground/channel04.mp4"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".92"/>
+        <titletext>
+          <span class="headline">Frozen</span>
+          <p class="subheadline">Music &#183; 2013 &#183; PG &#183; 102 min</p>
+        </titletext>
+        <description>
+          <p class="description">Fearless optimist Anna teams up with Kristoff and a hilarious snowman named Olaf in a race to find Anna's sister Elsa, whose icy powers have trapped the kingdom in eternal winter.</p>
+        </description>
+      </info>
+    </item>
+ <item id="servustv" shortcut="5">
+ <icon url="media/icons/tv_logos/servustv.png"/>
+ <media url="media/tvbackground/channel05.mp4"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".95"/>
+        <titletext>
+          <span class="headline">Her</span>
+          <p class="subheadline">Drama &#183; 2013 &#183; R &#183; 126 min</p>
+        </titletext>
+        <description>
+          <p class="description">In a not so distant future, Theodore purchases a newly designed operating system. To the lonely writer’s surprise, a romantic relationship develops between him and his operating system.</p>
+        </description>
+      </info>
+    </item>
+ <item id="bbc1" shortcut="6">
+ <icon url="media/icons/tv_logos/bbc1.png"/>
+ <media url="media/tvbackground/channel06.mp4"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".3"/>
+        <titletext>
+          <span class="headline">How to Train Your Dragon 2</span>
+          <p class="subheadline">Adventure &#183; 2014 &#183; PG &#183; 102 min</p>
+        </titletext>
+        <description>
+          <p class="description">When Hiccup and Toothless discover an ice cave that is home to hundreds of the mysterious Dragon Rider, they find themselves at the center of a battle to protect the peace.</p>
+        </description>
+      </info>
+    </item>
+ <item id="bbc2" shortcut="7">
+ <icon url="media/icons/tv_logos/bbc2.png"/>
+ <media url="media/tvbackground/channel07.mp4"/>
+      <info>
+        <percent val=".18"/>
+        <titletext>
+          <span class="headline">Inception</span>
+          <p class="subheadline">Action &#183; 2010 &#183; PG-13 &#183; 148 min</p>
+        </titletext>
+        <description>
+          <p class="description">A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.</p>
+        </description>
+      </info>
+    </item>
+ <item id="bbc3" shortcut="8">
+ <icon url="media/icons/tv_logos/bbc3.png"/>
+ <media url="media/tvbackground/channel08.mp4"/>
+      <info>
+        <percent val=".18"/>
+        <titletext>
+          <span class="headline">The Three Musketeers</span>
+          <p class="subheadline">Action &#183; 2011 &#183; PG-13 &#183; 110 min</p>
+        </titletext>
+        <description>
+          <p class="description">The hot-headed young D'Artagnan along with three former legendary but now down on their luck Musketeers must unite and defeat a beautiful double agent and her villainous employer.</p>
+        </description>
+      </info>
+    </item>
+ <item id="bbc4" shortcut="9">
+ <icon url="media/icons/tv_logos/bbc4.png"/>
+ <media url="media/tvbackground/channel09.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Despicable Me 2</span>
+          <p class="subheadline">Comedy &#183; 2013 &#183; PG &#183; 98 min</p>
+        </titletext>
+        <description>
+          <p class="description">When Gru has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.</p>
+        </description>
+      </info>
+    </item>
+ <item id="itv" shortcut="10">
+ <icon url="media/icons/tv_logos/itv.png"/>
+ <media url="media/tvbackground/channel10.mp4"/>
+       <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Tree of Life</span>
+          <p class="subheadline">Drama &#183; 2011 &#183; PG-13 &#183; 139 min</p>
+        </titletext>
+        <description>
+          <p class="description">The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.</p>
+        </description>
+      </info>
+    </item>
+ <item id="comedycentral" shortcut="11">
+ <icon url="media/icons/tv_logos/comedycentral.png"/>
+ <media url="media/tvbackground/channel01.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Great Gatsby</span>
+          <p class="subheadline">Drama &#183; 2013 &#183; PG-13 &#183; 143 min</p>
+        </titletext>
+        <description>
+          <p class="description">Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, the cracks of Gatsby's nouveau riche existence reveal a world of obsession, madness, and tragedy.</p>
+        </description>
+      </info>
+    </item>
+ <item id="rts1" shortcut="12">
+ <icon url="media/icons/tv_logos/rts1.png"/>
+ <media url="media/tvbackground/channel02.mp4"/>
+       <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Lorax</span>
+          <p class="subheadline">Comedy &#183; 2012 &#183; PG &#183; 86 min</p>
+        </titletext>
+        <description>
+          <p class="description">A 12-year-old boy searches for the one thing to win the affection of his dream girl. To find it he must discover the Lorax, the grumpy yet charming creature who fights to protect his world.</p>
+        </description>
+      </info>
+    </item>
+ <item id="rts2" shortcut="13">
+ <icon url="media/icons/tv_logos/rts2.png"/>
+ <media url="media/tvbackground/channel03.mp4"/>
+       <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Last Days on Mars</span>
+          <p class="subheadline">Sci-Fi &#183; 2013 &#183; R &#183; 98 min</p>
+        </titletext>
+        <description>
+          <p class="description">On the last day of the first manned mission to Mars, a crew member of Tantalus Base believes he has made an astounding discovery: fossilized evidence of bacterial life.</p>
+        </description>
+      </info>
+    </item>
+ <item id="be1" shortcut="14">
+ <icon url="media/icons/tv_logos/be1.png"/>
+ <media url="media/tvbackground/channel04.mp4"/>
+       <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Frozen</span>
+          <p class="subheadline">Music &#183; 2013 &#183; PG &#183; 102 min</p>
+        </titletext>
+        <description>
+          <p class="description">Fearless optimist Anna teams up with Kristoff and a hilarious snowman named Olaf in a race to find Anna's sister Elsa, whose icy powers have trapped the kingdom in eternal winter.</p>
+        </description>
+      </info>
+    </item>
+ <item id="be2" shortcut="15">
+ <icon url="media/icons/tv_logos/be2.png"/>
+ <media url="media/tvbackground/channel05.mp4"/>
+       <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Her</span>
+          <p class="subheadline">Drama &#183; 2013 &#183; R &#183; 126 min</p>
+        </titletext>
+        <description>
+          <p class="description">In a not so distant future, Theodore purchases a newly designed operating system. To the lonely writer’s surprise, a romantic relationship develops between him and his operating system.</p>
+        </description>
+      </info>
+    </item>
+ <item id="sky" shortcut="16">
+ <icon url="media/icons/tv_logos/sky.png"/>
+ <media url="media/tvbackground/channel06.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">How to Train Your Dragon 2</span>
+          <p class="subheadline">Adventure &#183; 2014 &#183; PG &#183; 102 min</p>
+        </titletext>
+        <description>
+          <p class="description">When Hiccup and Toothless discover an ice cave that is home to hundreds of the mysterious Dragon Rider, they find themselves at the center of a battle to protect the peace.</p>
+        </description>
+      </info>
+    </item>
+ <item id="srf1" shortcut="17">
+ <icon url="media/icons/tv_logos/srf1.png"/>
+ <media url="media/tvbackground/channel07.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Inception</span>
+          <p class="subheadline">Action &#183; 2010 &#183; PG-13 &#183; 148 min</p>
+        </titletext>
+        <description>
+          <p class="description">A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.</p>
+        </description>
+      </info>
+    </item>
+ <item id="srf2" shortcut="18">
+ <icon url="media/icons/tv_logos/srf2.png"/>
+ <media url="media/tvbackground/channel08.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Three Musketeers</span>
+          <p class="subheadline">Action &#183; 2011 &#183; PG-13 &#183; 110 min</p>
+        </titletext>
+        <description>
+          <p class="description">The hot-headed young D'Artagnan along with three former legendary but now down on their luck Musketeers must unite and defeat a beautiful double agent and her villainous employer.</p>
+        </description>
+      </info>
+    </item>
+ <item id="tf1" shortcut="19">
+ <icon url="media/icons/tv_logos/tf1.png"/>
+ <media url="media/tvbackground/channel09.mp4"/>
+       <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Despicable Me 2</span>
+          <p class="subheadline">Comedy &#183; 2013 &#183; PG &#183; 98 min</p>
+        </titletext>
+        <description>
+          <p class="description">When Gru has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.</p>
+        </description>
+      </info>
+    </item>
+ <item id="franceo" shortcut="20">
+ <icon url="media/icons/tv_logos/franceo.png"/>
+ <media url="media/tvbackground/channel10.mp4"/>
+       <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Tree of Life</span>
+          <p class="subheadline">Drama &#183; 2011 &#183; PG-13 &#183; 139 min</p>
+        </titletext>
+        <description>
+          <p class="description">The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.</p>
+        </description>
+      </info>
+    </item>
+ <item id="france1" shortcut="21">
+ <icon url="media/icons/tv_logos/france1.png"/>
+ <media url="media/tvbackground/channel01.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Great Gatsby</span>
+          <p class="subheadline">Drama &#183; 2013 &#183; PG-13 &#183; 143 min</p>
+        </titletext>
+        <description>
+          <p class="description">Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, the cracks of Gatsby's nouveau riche existence reveal a world of obsession, madness, and tragedy.</p>
+        </description>
+      </info>
+    </item>
+ <item id="france2" shortcut="22">
+ <icon url="media/icons/tv_logos/france2.png"/>
+ <media url="media/tvbackground/channel02.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Lorax</span>
+          <p class="subheadline">Comedy &#183; 2012 &#183; PG &#183; 86 min</p>
+        </titletext>
+        <description>
+          <p class="description">A 12-year-old boy searches for the one thing to win the affection of his dream girl. To find it he must discover the Lorax, the grumpy yet charming creature who fights to protect his world.</p>
+        </description>
+      </info>
+    </item>
+ <item id="france3" shortcut="23">
+ <icon url="media/icons/tv_logos/france3.png"/>
+ <media url="media/tvbackground/channel03.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Last Days on Mars</span>
+          <p class="subheadline">Sci-Fi &#183; 2013 &#183; R &#183; 98 min</p>
+        </titletext>
+        <description>
+          <p class="description">On the last day of the first manned mission to Mars, a crew member of Tantalus Base believes he has made an astounding discovery: fossilized evidence of bacterial life.</p>
+        </description>
+      </info>
+    </item>
+ <item id="france4" shortcut="24">
+ <icon url="media/icons/tv_logos/france4.png"/>
+ <media url="media/tvbackground/channel04.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Frozen</span>
+          <p class="subheadline">Music &#183; 2013 &#183; PG &#183; 102 min</p>
+        </titletext>
+        <description>
+          <p class="description">Fearless optimist Anna teams up with Kristoff and a hilarious snowman named Olaf in a race to find Anna's sister Elsa, whose icy powers have trapped the kingdom in eternal winter.</p>
+        </description>
+      </info>
+    </item>
+ <item id="france5" shortcut="25">
+ <icon url="media/icons/tv_logos/france5.png"/>
+ <media url="media/tvbackground/channel05.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Her</span>
+          <p class="subheadline">Drama &#183; 2013 &#183; R &#183; 126 min</p>
+        </titletext>
+        <description>
+          <p class="description">In a not so distant future, Theodore purchases a newly designed operating system. To the lonely writer’s surprise, a romantic relationship develops between him and his operating system.</p>
+        </description>
+      </info>
+    </item>
+ <item id="m6" shortcut="26">
+ <icon url="media/icons/tv_logos/m6.png"/>
+ <media url="media/tvbackground/channel06.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">How to Train Your Dragon 2</span>
+          <p class="subheadline">Adventure &#183; 2014 &#183; PG &#183; 102 min</p>
+        </titletext>
+        <description>
+          <p class="description">When Hiccup and Toothless discover an ice cave that is home to hundreds of the mysterious Dragon Rider, they find themselves at the center of a battle to protect the peace.</p>
+        </description>
+      </info>
+    </item>
+ <item id="arte" shortcut="27">
+ <icon url="media/icons/tv_logos/arte.png"/>
+ <media url="media/tvbackground/channel07.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Inception</span>
+          <p class="subheadline">Action &#183; 2010 &#183; PG-13 &#183; 148 min</p>
+        </titletext>
+        <description>
+          <p class="description">A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.</p>
+        </description>
+      </info>
+    </item>
+ <item id="canalplus" shortcut="28">
+ <icon url="media/icons/tv_logos/canalplus.png"/>
+ <media url="media/tvbackground/channel08.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Three Musketeers</span>
+          <p class="subheadline">Action &#183; 2011 &#183; PG-13 &#183; 110 min</p>
+        </titletext>
+        <description>
+          <p class="description">The hot-headed young D'Artagnan along with three former legendary but now down on their luck Musketeers must unite and defeat a beautiful double agent and her villainous employer.</p>
+        </description>
+      </info>
+    </item>
+ <item id="nt1" shortcut="29">
+ <icon url="media/icons/tv_logos/nt1.png"/>
+ <media url="media/tvbackground/channel09.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Despicable Me 2</span>
+          <p class="subheadline">Comedy &#183; 2013 &#183; PG &#183; 98 min</p>
+        </titletext>
+        <description>
+          <p class="description">When Gru has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.</p>
+        </description>
+      </info>
+    </item>
+ <item id="wdr" shortcut="30">
+ <icon url="media/icons/tv_logos/wdr.png"/>
+ <media url="media/tvbackground/channel10.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Tree of Life</span>
+          <p class="subheadline">Drama &#183; 2011 &#183; PG-13 &#183; 139 min</p>
+        </titletext>
+        <description>
+          <p class="description">The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.</p>
+        </description>
+      </info>
+    </item>
+ <item id="ard" shortcut="31">
+ <icon url="media/icons/tv_logos/ard.png"/>
+ <media url="media/tvbackground/channel01.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Great Gatsby</span>
+          <p class="subheadline">Drama &#183; 2013 &#183; PG-13 &#183; 143 min</p>
+        </titletext>
+        <description>
+          <p class="description">Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, the cracks of Gatsby's nouveau riche existence reveal a world of obsession, madness, and tragedy.</p>
+        </description>
+      </info>
+    </item>
+ <item id="ardplus" shortcut="32">
+ <icon url="media/icons/tv_logos/ardplus.png"/>
+ <media url="media/tvbackground/channel02.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Lorax</span>
+          <p class="subheadline">Comedy &#183; 2012 &#183; PG &#183; 86 min</p>
+        </titletext>
+        <description>
+          <p class="description">A 12-year-old boy searches for the one thing to win the affection of his dream girl. To find it he must discover the Lorax, the grumpy yet charming creature who fights to protect his world.</p>
+        </description>
+      </info>
+    </item>
+ <item id="zdf" shortcut="33">
+ <icon url="media/icons/tv_logos/zdf.png"/>
+ <media url="media/tvbackground/channel03.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Last Days on Mars</span>
+          <p class="subheadline">Sci-Fi &#183; 2013 &#183; R &#183; 98 min</p>
+        </titletext>
+        <description>
+          <p class="description">On the last day of the first manned mission to Mars, a crew member of Tantalus Base believes he has made an astounding discovery: fossilized evidence of bacterial life.</p>
+        </description>
+      </info>
+    </item>
+ <item id="zdfneo" shortcut="34">
+ <icon url="media/icons/tv_logos/zdfneo.png"/>
+ <media url="media/tvbackground/channel04.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Frozen</span>
+          <p class="subheadline">Music &#183; 2013 &#183; PG &#183; 102 min</p>
+        </titletext>
+        <description>
+          <p class="description">Fearless optimist Anna teams up with Kristoff and a hilarious snowman named Olaf in a race to find Anna's sister Elsa, whose icy powers have trapped the kingdom in eternal winter.</p>
+        </description>
+      </info>
+    </item>
+ <item id="3sat" shortcut="35">
+ <icon url="media/icons/tv_logos/3sat.png"/>
+ <media url="media/tvbackground/channel05.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Her</span>
+          <p class="subheadline">Drama &#183; 2013 &#183; R &#183; 126 min</p>
+        </titletext>
+        <description>
+          <p class="description">In a not so distant future, Theodore purchases a newly designed operating system. To the lonely writer’s surprise, a romantic relationship develops between him and his operating system.</p>
+        </description>
+      </info>
+    </item>
+ <item id="sat1" shortcut="36">
+ <icon url="media/icons/tv_logos/sat1.png"/>
+ <media url="media/tvbackground/channel06.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">How to Train Your Dragon 2</span>
+          <p class="subheadline">Adventure &#183; 2014 &#183; PG &#183; 102 min</p>
+        </titletext>
+        <description>
+          <p class="description">When Hiccup and Toothless discover an ice cave that is home to hundreds of the mysterious Dragon Rider, they find themselves at the center of a battle to protect the peace.</p>
+        </description>
+      </info>
+    </item>
+ <item id="prosieben" shortcut="37">
+ <icon url="media/icons/tv_logos/prosieben.png"/>
+ <media url="media/tvbackground/channel07.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Inception</span>
+          <p class="subheadline">Action &#183; 2010 &#183; PG-13 &#183; 148 min</p>
+        </titletext>
+        <description>
+          <p class="description">A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.</p>
+        </description>
+      </info>
+    </item>
+ <item id="kabeleins" shortcut="38">
+ <icon url="media/icons/tv_logos/kabeleins.png"/>
+ <media url="media/tvbackground/channel08.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Three Musketeers</span>
+          <p class="subheadline">Action &#183; 2011 &#183; PG-13 &#183; 110 min</p>
+        </titletext>
+        <description>
+          <p class="description">The hot-headed young D'Artagnan along with three former legendary but now down on their luck Musketeers must unite and defeat a beautiful double agent and her villainous employer.</p>
+        </description>
+      </info>
+    </item>
+ <item id="sixx" shortcut="39">
+ <icon url="media/icons/tv_logos/sixx.png"/>
+ <media url="media/tvbackground/channel09.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Despicable Me 2</span>
+          <p class="subheadline">Comedy &#183; 2013 &#183; PG &#183; 98 min</p>
+        </titletext>
+        <description>
+          <p class="description">When Gru has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.</p>
+        </description>
+      </info>
+    </item>
+ <item id="e4" shortcut="40">
+ <icon url="media/icons/tv_logos/e4.png"/>
+ <media url="media/tvbackground/channel10.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Tree of Life</span>
+          <p class="subheadline">Drama &#183; 2011 &#183; PG-13 &#183; 139 min</p>
+        </titletext>
+        <description>
+          <p class="description">The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.</p>
+        </description>
+      </info>
+    </item>
+  <item id="nickelodeon" shortcut="41">
+ <icon url="media/icons/tv_logos/nickelodeon.png"/>
+ <media url="media/tvbackground/channel01.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Great Gatsby</span>
+          <p class="subheadline">Drama &#183; 2013 &#183; PG-13 &#183; 143 min</p>
+        </titletext>
+        <description>
+          <p class="description">Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, the cracks of Gatsby's nouveau riche existence reveal a world of obsession, madness, and tragedy.</p>
+        </description>
+      </info>
+    </item>
+ <item id="disneychannel" shortcut="42">
+ <icon url="media/icons/tv_logos/disneychannel.png"/>
+ <media url="media/tvbackground/channel02.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Lorax</span>
+          <p class="subheadline">Comedy &#183; 2012 &#183; PG &#183; 86 min</p>
+        </titletext>
+        <description>
+          <p class="description">A 12-year-old boy searches for the one thing to win the affection of his dream girl. To find it he must discover the Lorax, the grumpy yet charming creature who fights to protect his world.</p>
+        </description>
+      </info>
+    </item>
+ <item id="sho" shortcut="43">
+ <icon url="media/icons/tv_logos/sho.png"/>
+ <media url="media/tvbackground/channel03.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">The Last Days on Mars</span>
+          <p class="subheadline">Sci-Fi &#183; 2013 &#183; R &#183; 98 min</p>
+        </titletext>
+        <description>
+          <p class="description">On the last day of the first manned mission to Mars, a crew member of Tantalus Base believes he has made an astounding discovery: fossilized evidence of bacterial life.</p>
+        </description>
+      </info>
+    </item>
+ <item id="mtv" shortcut="44">
+ <icon url="media/icons/tv_logos/mtv.png"/>
+ <media url="media/tvbackground/channel04.mp4"/>
+      <info>
+        <percent val=".2"/>
+        <titletext>
+          <span class="headline">Frozen</span>
+          <p class="subheadline">Music &#183; 2013 &#183; PG &#183; 102 min</p>
+        </titletext>
+        <description>
+          <p class="description">Fearless optimist Anna teams up with Kristoff and a hilarious snowman named Olaf in a race to find Anna's sister Elsa, whose icy powers have trapped the kingdom in eternal winter.</p>
+        </description>
+      </info>
+    </item>
+ <item id="sf" shortcut="45">
+ <icon url="media/icons/tv_logos/sf.png"/>
+ <media url="media/tvbackground/channel05.mp4"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".75"/>
+        <titletext>
+          <span class="headline">Her</span>
+          <p class="subheadline">Drama &#183; 2013 &#183; R &#183; 126 min</p>
+        </titletext>
+        <description>
+          <p class="description">In a not so distant future, Theodore purchases a newly designed operating system. To the lonely writer’s surprise, a romantic relationship develops between him and his operating system.</p>
+        </description>
+      </info>
+    </item>
+ <item id="cnn" shortcut="46">
+ <icon url="media/icons/tv_logos/cnn.png"/>
+ <media url="media/tvbackground/channel06.mp4"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".92"/>
+        <titletext>
+          <span class="headline">How to Train Your Dragon 2</span>
+          <p class="subheadline">Adventure &#183; 2014 &#183; PG &#183; 102 min</p>
+        </titletext>
+        <description>
+          <p class="description">When Hiccup and Toothless discover an ice cave that is home to hundreds of the mysterious Dragon Rider, they find themselves at the center of a battle to protect the peace.</p>
+        </description>
+      </info>
+    </item>
+ <item id="hbo" shortcut="47">
+ <icon url="media/icons/tv_logos/hbo.png"/>
+ <media url="media/tvbackground/channel07.mp4"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".95"/>
+        <titletext>
+          <span class="headline">Inception</span>
+          <p class="subheadline">Action &#183; 2010 &#183; PG-13 &#183; 148 min</p>
+        </titletext>
+        <description>
+          <p class="description">A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.</p>
+        </description>
+      </info>
+    </item>
+ <item id="animalplanet" shortcut="48">
+ <icon url="media/icons/tv_logos/animalplanet.png"/>
+ <media url="media/tvbackground/channel08.mp4"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".3"/>
+        <titletext>
+          <span class="headline">The Three Musketeers</span>
+          <p class="subheadline">Action &#183; 2011 &#183; PG-13 &#183; 110 min</p>
+        </titletext>
+        <description>
+          <p class="description">The hot-headed young D'Artagnan along with three former legendary but now down on their luck Musketeers must unite and defeat a beautiful double agent and her villainous employer.</p>
+        </description>
+      </info>
+    </item>
+ <item id="discoverychannel" shortcut="49">
+ <icon url="media/icons/tv_logos/discoverychannel.png"/>
+ <media url="media/tvbackground/channel09.mp4"/>
+      <info>
+        <percent val=".18"/>
+        <titletext>
+          <span class="headline">Despicable Me 2</span>
+          <p class="subheadline">Comedy &#183; 2013 &#183; PG &#183; 98 min</p>
+        </titletext>
+        <description>
+          <p class="description">When Gru has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.</p>
+        </description>
+      </info>
+    </item>
+ <item id="nationalgeographicchannel" shortcut="50">
+ <icon url="media/icons/tv_logos/nationalgeographicchannel.png"/>
+ <media url="media/tvbackground/channel10.mp4"/>
+      <info>
+        <percent val=".18"/>
+        <titletext>
+          <span class="headline">The Tree of Life</span>
+          <p class="subheadline">Drama &#183; 2011 &#183; PG-13 &#183; 139 min</p>
+        </titletext>
+        <description>
+          <p class="description">The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.</p>
+        </description>
+      </info>
+    </item>
+	<!--
+    <item id="aATV" shortcut="51">
+      <icon url="media/icons/tv_logos/atv.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aKabel1" shortcut="52">
+      <icon url="media/icons/tv_logos/Kabel1.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aPremiere Austria" shortcut="53">
+      <icon url="media/icons/tv_logos/premiere.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aVOX" shortcut="54">
+      <icon url="media/icons/tv_logos/vox.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="a3Sat" shortcut="55">
+      <icon url="media/icons/tv_logos/3sat.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="a9Live" shortcut="56">
+      <icon url="media/icons/tv_logos/9live.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aAB1" shortcut="57">
+      <icon url="media/icons/tv_logos/ab1.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aAnimal Planet" shortcut="58">
+      <icon url="media/icons/tv_logos/Animal Planet.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aArte" shortcut="59">
+      <icon url="media/icons/tv_logos/arte.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aBaby Channel" shortcut="60">
+      <icon url="media/icons/tv_logos/Baby Channel.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aBBC HD" shortcut="61">
+      <icon url="media/icons/tv_logos/BBC HD.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aCanal SUR" shortcut="62">
+      <icon url="media/icons/tv_logos/Canal SUR.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aCartoon Network" shortcut="63">
+      <icon url="media/icons/tv_logos/Cartoon Network.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aCine Greek" shortcut="64">
+      <icon url="media/icons/tv_logos/Cine Greek.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aCNN" shortcut="65">
+      <icon url="media/icons/tv_logos/cnn.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aDiscovery HD" shortcut="66">
+      <icon url="media/icons/tv_logos/Discovery HD.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aDisney Channel" shortcut="67">
+      <icon url="media/icons/tv_logos/Disney Channel.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aEuronews" shortcut="68">
+      <icon url="media/icons/tv_logos/EuroNews.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aEurosport" shortcut="69">
+      <icon url="media/icons/tv_logos/Euro Sport.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aFox Business" shortcut="70">
+      <icon url="media/icons/tv_logos/Fox Business.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aJetix" shortcut="71">
+      <icon url="media/icons/tv_logos/jetix.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aKinderkanal" shortcut="72">
+      <icon url="media/icons/tv_logos/Kinder Kanal.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aMad" shortcut="73">
+      <icon url="media/icons/tv_logos/mad.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aMotorsTV" shortcut="74">
+      <icon url="media/icons/tv_logos/Motors TV.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aNet TV" shortcut="75">
+      <icon url="media/icons/tv_logos/Net TV.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aNickelodeon" shortcut="76">
+      <icon url="media/icons/tv_logos/nickelodeon.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aNova TV" shortcut="77">
+      <icon url="media/icons/tv_logos/Nova TV.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aRTL II" shortcut="78">
+      <icon url="media/icons/tv_logos/rtl2.png"/>
+      <media url="media/tvbackground/Bjork - All Is Full Of Love.mp4"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aSF 1" shortcut="79">
+      <icon url="media/icons/tv_logos/sf1.png"/>
+      <media url="media/tvbackground/channel03.m4v"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aSky One" shortcut="80">
+      <icon url="media/icons/tv_logos/Sky One.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aTV5" shortcut="81">
+      <icon url="media/icons/tv_logos/tv5.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aViasat TV3" shortcut="82">
+      <icon url="media/icons/tv_logos/viasat tv3.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="aVTM" shortcut="83">
+      <icon url="media/icons/tv_logos/vtm.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="b9Live" shortcut="84">
+      <icon url="media/icons/tv_logos/9live.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bAB1" shortcut="85">
+      <icon url="media/icons/tv_logos/ab1.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bAnimal Planet" shortcut="86">
+      <icon url="media/icons/tv_logos/Animal Planet.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bArte" shortcut="87">
+      <icon url="media/icons/tv_logos/arte.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bBaby Channel" shortcut="88">
+      <icon url="media/icons/tv_logos/Baby Channel.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bBBC HD" shortcut="89">
+      <icon url="media/icons/tv_logos/BBC HD.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bCanal SUR" shortcut="90">
+      <icon url="media/icons/tv_logos/Canal SUR.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bCartoon Network" shortcut="91">
+      <icon url="media/icons/tv_logos/Cartoon Network.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bCine Greek" shortcut="92">
+      <icon url="media/icons/tv_logos/Cine Greek.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bCNN" shortcut="93">
+      <icon url="media/icons/tv_logos/cnn.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bDiscovery HD" shortcut="94">
+      <icon url="media/icons/tv_logos/Discovery HD.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bDisney Channel" shortcut="95">
+      <icon url="media/icons/tv_logos/Disney Channel.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bEuronews" shortcut="96">
+      <icon url="media/icons/tv_logos/EuroNews.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bEurosport" shortcut="97">
+      <icon url="media/icons/tv_logos/Euro Sport.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bFox Business" shortcut="98">
+      <icon url="media/icons/tv_logos/Fox Business.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bJetix" shortcut="99">
+      <icon url="media/icons/tv_logos/jetix.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>
+    <item id="bKinderkanal" shortcut="100">
+      <icon url="media/icons/tv_logos/Kinder Kanal.png"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Metropolis</span>
+          <p class="subheadline">Drama, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees</p>
+        </description>
+      </info>
+    </item>-->
+  </item>
+</menu>
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

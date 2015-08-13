@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="learn_biometrics" cache="false">
+  <meta>
+    <select id="Learn" />
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="410" />
+      <element id="shorttext" type="TextField" x="20" y="70" width="300" height="300" />
+      <element id="imgHolder" type="MovieClip" x="230" y="0" />
+    </screen>
+  </meta>
+  <item title="Learn">
+    <icon url="icons/submenu/submenu icon profile fingerprint.png"/>
+    <item id="voicebiometrics" text="Start learning" >
+      <info>
+        <shorttext>
+          <span class="headline">Biometrics</span>
+          <p class="description">Please speak the following sentence into the microphone:
+The quick brown fox jumps over the lazy dog.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+</menu>

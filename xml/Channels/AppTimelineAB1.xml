@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="AB1">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+	<item id="om-shanti-om" text="Om Shanti Om">
+    <meta>
+      <duration>190</duration>
+    </meta>
+    <info url="media/tv/om-shanti-om.png">
+      <shorttext>
+        <span class="headline">Om Shanti Om</span>
+        <p class="subheadline">Musical, IN 2007</p>
+        <p class="description">Om is a junior artist in the 1970s. Shanti is the reigning superstar. He is her biggest fan. He is in love with her. Om dreams of being a superstar, but an incident changes his life forever. Om dies in a mishap, but is reborn into the present day, where he attempts to discover the mystery of his demise.</p>
+      </shorttext>
+    <time><start hour="16" min="50"/><end hour="20" min="00"/></time></info>
+  </item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="20" min="00"/><end hour="21" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="monk" text="Monk">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/monk.png">
+      <shorttext>
+        <span class="headline">Monk</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 7, Ep. 7: Take A Punch</p>
+        <p class="description">Mr. Monk feels he is too over the hill and will never pass the SFPD physical. He finally gives up on his dream of reinstatement and finds it liberating, but a case in which he meets a boxer making a comeback in the ring re-inspires Monk.</p>
+      </shorttext>
+    <time><start hour="21" min="00"/><end hour="22" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="evening" title="Evening">
+	<item id="om-shanti-om" text="Om Shanti Om">
+    <meta>
+      <duration>190</duration>
+    </meta>
+    <info url="media/tv/om-shanti-om.png">
+      <shorttext>
+        <span class="headline">Om Shanti Om</span>
+        <p class="subheadline">Musical, IN 2007</p>
+        <p class="description">Om is a junior artist in the 1970s. Shanti is the reigning superstar. He is her biggest fan. He is in love with her. Om dreams of being a superstar, but an incident changes his life forever. Om dies in a mishap, but is reborn into the present day, where he attempts to discover the mystery of his demise.</p>
+      </shorttext>
+    <time><start hour="16" min="50"/><end hour="20" min="00"/></time></info>
+  </item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="20" min="00"/><end hour="21" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="monk" text="Monk">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/monk.png">
+      <shorttext>
+        <span class="headline">Monk</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 7, Ep. 7: Take A Punch</p>
+        <p class="description">Mr. Monk feels he is too over the hill and will never pass the SFPD physical. He finally gives up on his dream of reinstatement and finds it liberating, but a case in which he meets a boxer making a comeback in the ring re-inspires Monk.</p>
+      </shorttext>
+    <time><start hour="21" min="00"/><end hour="22" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="afternoon" title="Afternoon">
+	<item id="godfather" text="The Godfather">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/godfather.png">
+      <shorttext>
+        <span class="headline">The Godfather</span>
+        <p class="subheadline">Drama, USA 1972</p>
+        <p class="description">Vito Corleone is the aging don of the Corleone Mafia Family. His youngest son Michael has returned from World War II just in time to see the wedding of Connie Corleone, his sister, to Carlo Rizzi. All of Michael's family is involved with the Mafia, but Michael just wants to live a normal life.</p>
+      </shorttext>
+    <time><start hour="11" min="20"/><end hour="14" min="20"/></time></info>
+  </item>
+	<item id="rome" text="Rome">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/rome.png">
+      <shorttext>
+        <span class="headline">Rome</span>
+        <p class="subheadline">Drama, UK/USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 7: Death Mask</p>
+        <p class="description">Servilia mourns the death of Brutus, killed at Phillipi. She kneels in front of Atia's door chanting repeatedly for justice. Although Atia ignores her initially, the incessant chanting attracts a crowd of pleb onlookers and annoys Atia.</p>
+      </shorttext>
+    <time><start hour="14" min="20"/><end hour="15" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="lilo-and-stitch" text="Lilo &amp; Stitch">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lilo-and-stitch.png">
+      <shorttext>
+        <span class="headline">Lilo &amp; Stitch</span>
+        <p class="subheadline">Animated TV Series, USA 2006</p>
+        <p class="subsubheadline">Season 2, Ep. 24: Woops</p>
+        <p class="description">A clumsy experiment causes Dr. Hamsterviel to nearly get caught by his prison guards, so he returns all of the captured experiments to Gantu for safekeeping. But when he lets the troublemaking experiment go, it threatens to ruin Pleakley's chance at a domino championship.</p>
+      </shorttext>
+    <time><start hour="15" min="50"/><end hour="16" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="tom-and-jerry" text="Tom &amp; Jerry">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tom-and-jerry.png">
+      <shorttext>
+        <span class="headline">Tom &amp; Jerry</span>
+        <p class="subheadline">Animated TV Series, USA 1950</p>
+        <p class="subsubheadline">Season 1, Ep. 48: Saturday Evening Puss</p>
+        <p class="description">Mammy Two Shoes goes out to her bridge club for the night. Seeing her leaving, Tom invites his feline pals Butch, Topsy and Lighting, who emerge from garbage cans outside of the house and rush in when Tom gives them the all-clear by showing them a sign written O.K. for the party.</p>
+      </shorttext>
+    <time><start hour="16" min="20"/><end hour="16" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="noon" title="Noon">
+	<item id="big-lebowski" text="Big Lebowski">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-lebowski.png">
+      <shorttext>
+        <span class="headline">Big Lebowski</span>
+        <p class="subheadline">Comedy, USA 1998</p>
+        <p class="description">Jeffrey 'The Dude' Lebowski is the ultimate LA slacker, until one day his house is broken into and his rug is peed on by two angry gangsters who have mistaken him for Jeffrey Lebowski, the Los Angeles millionaire, whose wife owes some bad people some big money.</p>
+      </shorttext>
+    <time><start hour="07" min="20"/><end hour="09" min="20"/></time></info>
+  </item>
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="09" min="20"/><end hour="10" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="ugly-betty" text="Ugly Betty">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/ugly-betty.png">
+      <shorttext>
+        <span class="headline">Ugly Betty</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 18: Jump</p>
+        <p class="description">A teenager arrives who may be Meade-related. Also Henry comes back to propose to Betty, as well as Gio asking her to go to Rome with him for a holiday. Wilhelmina takes over Daniel as editor-in-chief. Lindsay Lohan is set to play an old schoolmate of Betty's.</p>
+      </shorttext>
+    <time><start hour="10" min="20"/><end hour="11" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="morning" title="Morning">
+	<item id="casino-royale" text="Casino Royale">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/casino-royale.png">
+      <shorttext>
+        <span class="headline">Casino Royale</span>
+        <p class="subheadline">Action, UK 2006</p>
+        <p class="description">Recently promoted to 00 status, James Bond takes over his first mission, in which he faces a mysterious private banker to world terrorism and poker player, Le Chiffre. Along with a beautiful Treasury agent and the MI6 man in Montenegro, Bond takes part in a high stakes poker game set up by Le Chiffre.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="02" min="20"/></time></info>
+  </item>
+	<item id="smurfs" text="The Smurfs">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/smurfs.png">
+      <shorttext>
+        <span class="headline">The Smurfs</span>
+        <p class="subheadline">Animated TV Series, USA 1989</p>
+        <p class="subsubheadline">Season 9, Ep. 14: Sky High Surprise</p>
+        <p class="description">A band of baby bandits in the desert steal the time crystals. Meanwhile, the Smurfs end up trapped in Gargamel's lair, after trying to hide a magic egg that grants every Smurf their fondest wish.</p>
+      </shorttext>
+    <time><start hour="02" min="20"/><end hour="03" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="charmed" text="Charmed">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/charmed.png">
+      <shorttext>
+        <span class="headline">Charmed</span>
+        <p class="subheadline">Drama, USA 2006</p>
+        <p class="subsubheadline">Season 8, Ep. 14: Angry Zen</p>
+        <p class="description">In searching for information about Leo, Piper discovers a message from Lo-Pan, a monk and keeper of a sacred Buddhist staff containing the power of influence. Billie finds her sister Christy after being kidnapped fifteen years ago.</p>
+      </shorttext>
+    <time><start hour="03" min="20"/><end hour="04" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="sex-and-the-city" text="Sex and the City">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/sex-and-the-city.png">
+      <shorttext>
+        <span class="headline">Sex and the City</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 6, Ep. 14: The Ick Factor</p>
+        <p class="description">Carrie finds Aleksandr's romantic attention a little overwhelming. Miranda prepares for her wedding to Steve. Charlotte and Harry's romance leads to digestive problems. Samantha considers a breast enlargement.</p>
+      </shorttext>
+    <time><start hour="04" min="20"/><end hour="05" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="21-grams" text="21 Grams">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/21-grams.png">
+      <shorttext>
+        <span class="headline">21 Grams</span>
+        <p class="subheadline">Drama, USA 2003</p>
+        <p class="description">This is the story of three gentle persons: Paul Rivers an ailing mathematician lovelessly married to an English emigree, Christina Peck, an upper-middle-class suburban housewife, happily married and mother of two little girls, and Jack Jordan, an ex-convict who has found in his Christian faith the strength to raise a family.</p>
+      </shorttext>
+    <time><start hour="05" min="20"/><end hour="07" min="20"/></time></info>
+  </item>
+	<item id="big-lebowski" text="Big Lebowski">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-lebowski.png">
+      <shorttext>
+        <span class="headline">Big Lebowski</span>
+        <p class="subheadline">Comedy, USA 1998</p>
+        <p class="description">Jeffrey 'The Dude' Lebowski is the ultimate LA slacker, until one day his house is broken into and his rug is peed on by two angry gangsters who have mistaken him for Jeffrey Lebowski, the Los Angeles millionaire, whose wife owes some bad people some big money.</p>
+      </shorttext>
+    <time><start hour="07" min="20"/><end hour="09" min="20"/></time></info>
+  </item>
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="09" min="20"/><end hour="10" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="now" title="Now">
+	<item id="casino-royale" text="Casino Royale">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/casino-royale.png">
+      <shorttext>
+        <span class="headline">Casino Royale</span>
+        <p class="subheadline">Action, UK 2006</p>
+        <p class="description">Recently promoted to 00 status, James Bond takes over his first mission, in which he faces a mysterious private banker to world terrorism and poker player, Le Chiffre. Along with a beautiful Treasury agent and the MI6 man in Montenegro, Bond takes part in a high stakes poker game set up by Le Chiffre.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="02" min="20"/></time></info>
+  </item>
+	<item id="smurfs" text="The Smurfs">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/smurfs.png">
+      <shorttext>
+        <span class="headline">The Smurfs</span>
+        <p class="subheadline">Animated TV Series, USA 1989</p>
+        <p class="subsubheadline">Season 9, Ep. 14: Sky High Surprise</p>
+        <p class="description">A band of baby bandits in the desert steal the time crystals. Meanwhile, the Smurfs end up trapped in Gargamel's lair, after trying to hide a magic egg that grants every Smurf their fondest wish.</p>
+      </shorttext>
+    <time><start hour="02" min="20"/><end hour="03" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="charmed" text="Charmed">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/charmed.png">
+      <shorttext>
+        <span class="headline">Charmed</span>
+        <p class="subheadline">Drama, USA 2006</p>
+        <p class="subsubheadline">Season 8, Ep. 14: Angry Zen</p>
+        <p class="description">In searching for information about Leo, Piper discovers a message from Lo-Pan, a monk and keeper of a sacred Buddhist staff containing the power of influence. Billie finds her sister Christy after being kidnapped fifteen years ago.</p>
+      </shorttext>
+    <time><start hour="03" min="20"/><end hour="04" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="sex-and-the-city" text="Sex and the City">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/sex-and-the-city.png">
+      <shorttext>
+        <span class="headline">Sex and the City</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 6, Ep. 14: The Ick Factor</p>
+        <p class="description">Carrie finds Aleksandr's romantic attention a little overwhelming. Miranda prepares for her wedding to Steve. Charlotte and Harry's romance leads to digestive problems. Samantha considers a breast enlargement.</p>
+      </shorttext>
+    <time><start hour="04" min="20"/><end hour="05" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="21-grams" text="21 Grams">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/21-grams.png">
+      <shorttext>
+        <span class="headline">21 Grams</span>
+        <p class="subheadline">Drama, USA 2003</p>
+        <p class="description">This is the story of three gentle persons: Paul Rivers an ailing mathematician lovelessly married to an English emigree, Christina Peck, an upper-middle-class suburban housewife, happily married and mother of two little girls, and Jack Jordan, an ex-convict who has found in his Christian faith the strength to raise a family.</p>
+      </shorttext>
+    <time><start hour="05" min="20"/><end hour="07" min="20"/></time></info>
+  </item>
+	<item id="big-lebowski" text="Big Lebowski">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-lebowski.png">
+      <shorttext>
+        <span class="headline">Big Lebowski</span>
+        <p class="subheadline">Comedy, USA 1998</p>
+        <p class="description">Jeffrey 'The Dude' Lebowski is the ultimate LA slacker, until one day his house is broken into and his rug is peed on by two angry gangsters who have mistaken him for Jeffrey Lebowski, the Los Angeles millionaire, whose wife owes some bad people some big money.</p>
+      </shorttext>
+    <time><start hour="07" min="20"/><end hour="09" min="20"/></time></info>
+  </item>
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="09" min="20"/><end hour="10" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="ugly-betty" text="Ugly Betty">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/ugly-betty.png">
+      <shorttext>
+        <span class="headline">Ugly Betty</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 18: Jump</p>
+        <p class="description">A teenager arrives who may be Meade-related. Also Henry comes back to propose to Betty, as well as Gio asking her to go to Rome with him for a holiday. Wilhelmina takes over Daniel as editor-in-chief. Lindsay Lohan is set to play an old schoolmate of Betty's.</p>
+      </shorttext>
+    <time><start hour="10" min="20"/><end hour="11" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="godfather" text="The Godfather">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/godfather.png">
+      <shorttext>
+        <span class="headline">The Godfather</span>
+        <p class="subheadline">Drama, USA 1972</p>
+        <p class="description">Vito Corleone is the aging don of the Corleone Mafia Family. His youngest son Michael has returned from World War II just in time to see the wedding of Connie Corleone, his sister, to Carlo Rizzi. All of Michael's family is involved with the Mafia, but Michael just wants to live a normal life.</p>
+      </shorttext>
+    <time><start hour="11" min="20"/><end hour="14" min="20"/></time></info>
+  </item>
+	<item id="rome" text="Rome">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/rome.png">
+      <shorttext>
+        <span class="headline">Rome</span>
+        <p class="subheadline">Drama, UK/USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 7: Death Mask</p>
+        <p class="description">Servilia mourns the death of Brutus, killed at Phillipi. She kneels in front of Atia's door chanting repeatedly for justice. Although Atia ignores her initially, the incessant chanting attracts a crowd of pleb onlookers and annoys Atia.</p>
+      </shorttext>
+    <time><start hour="14" min="20"/><end hour="15" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="lilo-and-stitch" text="Lilo &amp; Stitch">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lilo-and-stitch.png">
+      <shorttext>
+        <span class="headline">Lilo &amp; Stitch</span>
+        <p class="subheadline">Animated TV Series, USA 2006</p>
+        <p class="subsubheadline">Season 2, Ep. 24: Woops</p>
+        <p class="description">A clumsy experiment causes Dr. Hamsterviel to nearly get caught by his prison guards, so he returns all of the captured experiments to Gantu for safekeeping. But when he lets the troublemaking experiment go, it threatens to ruin Pleakley's chance at a domino championship.</p>
+      </shorttext>
+    <time><start hour="15" min="50"/><end hour="16" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="tom-and-jerry" text="Tom &amp; Jerry">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tom-and-jerry.png">
+      <shorttext>
+        <span class="headline">Tom &amp; Jerry</span>
+        <p class="subheadline">Animated TV Series, USA 1950</p>
+        <p class="subsubheadline">Season 1, Ep. 48: Saturday Evening Puss</p>
+        <p class="description">Mammy Two Shoes goes out to her bridge club for the night. Seeing her leaving, Tom invites his feline pals Butch, Topsy and Lighting, who emerge from garbage cans outside of the house and rush in when Tom gives them the all-clear by showing them a sign written O.K. for the party.</p>
+      </shorttext>
+    <time><start hour="16" min="20"/><end hour="16" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="om-shanti-om" text="Om Shanti Om">
+    <meta>
+      <duration>190</duration>
+    </meta>
+    <info url="media/tv/om-shanti-om.png">
+      <shorttext>
+        <span class="headline">Om Shanti Om</span>
+        <p class="subheadline">Musical, IN 2007</p>
+        <p class="description">Om is a junior artist in the 1970s. Shanti is the reigning superstar. He is her biggest fan. He is in love with her. Om dreams of being a superstar, but an incident changes his life forever. Om dies in a mishap, but is reborn into the present day, where he attempts to discover the mystery of his demise.</p>
+      </shorttext>
+    <time><start hour="16" min="50"/><end hour="20" min="00"/></time></info>
+  </item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="20" min="00"/><end hour="21" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="monk" text="Monk">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/monk.png">
+      <shorttext>
+        <span class="headline">Monk</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 7, Ep. 7: Take A Punch</p>
+        <p class="description">Mr. Monk feels he is too over the hill and will never pass the SFPD physical. He finally gives up on his dream of reinstatement and finds it liberating, but a case in which he meets a boxer making a comeback in the ring re-inspires Monk.</p>
+      </shorttext>
+    <time><start hour="21" min="00"/><end hour="22" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+</menu>

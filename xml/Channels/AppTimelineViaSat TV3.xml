@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="ViaSat TV3">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+	<item id="inconvenient-truth" text="An Inconvenient Truth">
+    <meta>
+      <duration>100</duration>
+    </meta>
+    <info url="media/tv/inconvenient-truth.png">
+      <shorttext>
+        <span class="headline">An Inconvenient Truth</span>
+        <p class="subheadline">Documentary, USA 2006</p>
+        <p class="description">A longtime advocate for the environment, Gore presents a wide array of facts and information in a thoughtful and compelling way. An Inconvenient Truth is not a story of despair but rather a rallying cry to protect the one earth we all share. It is now clear that we face a deepening global climate crisis that requires us to act boldly, quickly, and wisely.</p>
+      </shorttext>
+    <time><start hour="18" min="50"/><end hour="20" min="30"/></time></info>
+  </item>
+	<item id="fringe" text="Fringe">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/fringe.png">
+      <shorttext>
+        <span class="headline">Fringe</span>
+        <p class="subheadline">Mystery, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+        <p class="description">At a cutting-edge research facility, a female FBI agent is forced to work with an institutionalized scientist, Dr. Walter Bishop, in order to rationalize a brewing storm of unexplained phenomena.</p>
+      </shorttext>
+    <time><start hour="20" min="30"/><end hour="21" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="psych" text="Psych">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/psych.png">
+      <shorttext>
+        <span class="headline">Psych</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 3, Ep. 4: Basic Cable</p>
+        <p class="description">When Shawn's adventurous and notoriously unreliable Uncle Jack comes to town claiming he has a map to ancient hidden Spanish treasure, Shawn, Gus and Henry find themselves in a life or death chase to the gold with a shady group of raiders who will stop at nothing to get to the prize first.</p>
+      </shorttext>
+    <time><start hour="21" min="40"/><end hour="22" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="mad-men" text="Mad Men">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/mad-men.png">
+      <shorttext>
+        <span class="headline">Mad Men</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 13: The Wheel</p>
+        <p class="description">Betty discovers a secret, leading her to re-evaluate her marital situation. Peggy gets promoted but receives news that may interfere with her career. Don's professional and private lives affects each other in curious ways as he's left to fend for himself.</p>
+      </shorttext>
+    <time><start hour="22" min="50"/><end hour="23" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="evening" title="Evening">
+	<item id="burn-notice" text="Burn Notice">
+    <meta>
+      <duration>50</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/burn-notice.png">
+      <shorttext>
+        <span class="headline">Burn Notice</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 3: Fight or Flight</p>
+        <p class="description">A woman who witnessed a brutal beating receives threats from the drug dealer who carried out the crime. Michael tries to get her out of Miami to safety, but the woman's teenage daughter refuses to leave the city, forcing him to try a risky plan to alienate the dealer from his cartel.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="18" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="inconvenient-truth" text="An Inconvenient Truth">
+    <meta>
+      <duration>100</duration>
+    </meta>
+    <info url="media/tv/inconvenient-truth.png">
+      <shorttext>
+        <span class="headline">An Inconvenient Truth</span>
+        <p class="subheadline">Documentary, USA 2006</p>
+        <p class="description">A longtime advocate for the environment, Gore presents a wide array of facts and information in a thoughtful and compelling way. An Inconvenient Truth is not a story of despair but rather a rallying cry to protect the one earth we all share. It is now clear that we face a deepening global climate crisis that requires us to act boldly, quickly, and wisely.</p>
+      </shorttext>
+    <time><start hour="18" min="50"/><end hour="20" min="30"/></time></info>
+  </item>
+	<item id="fringe" text="Fringe">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/fringe.png">
+      <shorttext>
+        <span class="headline">Fringe</span>
+        <p class="subheadline">Mystery, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+        <p class="description">At a cutting-edge research facility, a female FBI agent is forced to work with an institutionalized scientist, Dr. Walter Bishop, in order to rationalize a brewing storm of unexplained phenomena.</p>
+      </shorttext>
+    <time><start hour="20" min="30"/><end hour="21" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="afternoon" title="Afternoon">
+	<item id="twin-peaks" text="Twin Peaks">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/twin-peaks.png">
+      <shorttext>
+        <span class="headline">Twin Peaks</span>
+        <p class="subheadline">Mystery Drama, USA 1991</p>
+        <p class="subsubheadline">Season 2, Ep. 13: Checkmate</p>
+        <p class="description">Cooper is held hostage by Renault, Andy and Tremayne pry into Nicky's past, Ben slips into a fantasy life as a Civil War general, James succumbs to Evelyn and Cooper's ex-partner Windom Earle leaves a gruesome scene at the Twin Peaks Sheriff's Station.</p>
+      </shorttext>
+    <time><start hour="10" min="30"/><end hour="12" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="oceans-eleven" text="Ocean's Eleven">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/oceans-eleven.png">
+      <shorttext>
+        <span class="headline">Ocean's Eleven</span>
+        <p class="subheadline">Crime Dramedy, USA 2001</p>
+        <p class="description">Danny Ocean wants to score the biggest heist in history. He combines an eleven team member, including Frank Catton, Rusty Ryan and Linus Caldwell. Their target? The Bellagio, the Mirage and the MGM Grand, all casinos owned by Terry Benedict. It's not going to be easy, as they plan to get in secretly and out with $150 million.</p>
+      </shorttext>
+    <time><start hour="12" min="00"/><end hour="14" min="00"/></time></info>
+  </item>
+	<item id="closer" text="Closer">
+    <meta>
+      <duration>110</duration>
+    </meta>
+    <info url="media/tv/closer.png">
+      <shorttext>
+        <span class="headline">Closer</span>
+        <p class="subheadline">Drama, USA 2004</p>
+        <p class="description">In London, the new arrival Alice Ayres meets the mediocre obituary journalist Daniel and they move together. Dan writes a book, inspired in the life of Alice, and while photographing for the release of the book, he meets the photographer Anna. Dan introduces the dermatologist Larry to Anna, and they get married.</p>
+      </shorttext>
+    <time><start hour="14" min="00"/><end hour="15" min="50"/></time></info>
+  </item>
+	<item id="sex-and-the-city" text="Sex and the City">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/sex-and-the-city.png">
+      <shorttext>
+        <span class="headline">Sex and the City</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 6, Ep. 14: The Ick Factor</p>
+        <p class="description">Carrie finds Aleksandr's romantic attention a little overwhelming. Miranda prepares for her wedding to Steve. Charlotte and Harry's romance leads to digestive problems. Samantha considers a breast enlargement.</p>
+      </shorttext>
+    <time><start hour="15" min="50"/><end hour="16" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="csi" text="CSI">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/csi.png">
+      <shorttext>
+        <span class="headline">CSI</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 8, Ep. 14: Drops Out</p>
+        <p class="description">After finding two dead bodies at Drops' apartment and suspecting his girlfriend of murder, the police allow him to leave prison so he can help them out. Brass and Nick follow him as he looks for their suspect.</p>
+      </shorttext>
+    <time><start hour="16" min="50"/><end hour="18" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="burn-notice" text="Burn Notice">
+    <meta>
+      <duration>50</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/burn-notice.png">
+      <shorttext>
+        <span class="headline">Burn Notice</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 3: Fight or Flight</p>
+        <p class="description">A woman who witnessed a brutal beating receives threats from the drug dealer who carried out the crime. Michael tries to get her out of Miami to safety, but the woman's teenage daughter refuses to leave the city, forcing him to try a risky plan to alienate the dealer from his cartel.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="18" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="noon" title="Noon">
+	<item id="beautiful-mind" text="A Beautiful Mind">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/beautiful-mind.png">
+      <shorttext>
+        <span class="headline">A Beautiful Mind</span>
+        <p class="subheadline">Drama, USA 2001</p>
+        <p class="description">From the heights of notoriety to the depths of depravity, John Forbes Nash, Jr. experienced it all. A mathematical genius, he made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a painful and harrowing journey of self-discovery.</p>
+      </shorttext>
+    <time><start hour="08" min="10"/><end hour="10" min="30"/></time></info>
+  </item>
+	<item id="twin-peaks" text="Twin Peaks">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/twin-peaks.png">
+      <shorttext>
+        <span class="headline">Twin Peaks</span>
+        <p class="subheadline">Mystery Drama, USA 1991</p>
+        <p class="subsubheadline">Season 2, Ep. 13: Checkmate</p>
+        <p class="description">Cooper is held hostage by Renault, Andy and Tremayne pry into Nicky's past, Ben slips into a fantasy life as a Civil War general, James succumbs to Evelyn and Cooper's ex-partner Windom Earle leaves a gruesome scene at the Twin Peaks Sheriff's Station.</p>
+      </shorttext>
+    <time><start hour="10" min="30"/><end hour="12" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="morning" title="Morning">
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="heroes" text="Heroes">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/heroes.png">
+      <shorttext>
+        <span class="headline">Heroes</span>
+        <p class="subheadline">Sci-Fi Drama, USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 34: Powerless</p>
+        <p class="description">Peter finds out that Adam wants to unleash a virus and stops him from doing so. Meanwhile, Hiro buries Adam alive. Monica is kidnapped by a street gang and Niki saves her, but gets trapped in a burning, exploding building. And Elle saves Suresh, Maya and Molly from Sylar's clutches.</p>
+      </shorttext>
+    <time><start hour="01" min="00"/><end hour="02" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dawsons-creek" text="Dawson's Creek">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dawsons-creek.png">
+      <shorttext>
+        <span class="headline">Dawson's Creek</span>
+        <p class="subheadline">Soap Opera, USA 2003</p>
+        <p class="subsubheadline">Season 6, Ep. 19: Lovelines</p>
+        <p class="description">Joey and Eddie's emotional and sexual relationship is played out on stage during a counseling center benefit. At the same event, Jack and David deal with the insecurities in their relationship, Jen opens up to C.J. about Grams' cancer, and a sober Audrey returns to Boston and surprises everyone at the benefit.</p>
+      </shorttext>
+    <time><start hour="02" min="00"/><end hour="03" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dr-who" text="Dr. Who">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dr-who.png">
+      <shorttext>
+        <span class="headline">Dr. Who</span>
+        <p class="subheadline">Sci-Fi, UK 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 10: Midnight</p>
+        <p class="description">The Doctor and Donna take a holiday on the crystalline planet Midnight, which orbits close enough to its sun that the Xtonic radiation exposure would vaporise any living thing walking unprotected on its surface.</p>
+      </shorttext>
+    <time><start hour="03" min="00"/><end hour="04" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="star-wars" text="Star Wars">
+    <meta>
+      <duration>130</duration>
+    </meta>
+    <info url="media/tv/star-wars.png">
+      <shorttext>
+        <span class="headline">Star Wars</span>
+        <p class="subheadline">Sci-Fi, USA 1977</p>
+        <p class="description">Princess Leia is held hostage by the evil Imperial forces in their effort to take over the Galactic Empire. Venturesome Luke Skywalker and dashing Captain Han Solo team together with the lovable robotic duo, R2-D2 and C-3PO, to rescue the beautiful princess and restore justice in the Empire.</p>
+      </shorttext>
+    <time><start hour="04" min="00"/><end hour="06" min="10"/></time></info>
+  </item>
+	<item id="las-vegas" text="Las Vegas">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/las-vegas.png">
+      <shorttext>
+        <span class="headline">Las Vegas</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 11: I Could Eat a Horse</p>
+        <p class="description">Mike and Danny travel to Wyoming to buy a horse for Cooper. Piper's past love arrives at the Montecito. Sam deals with a cheating husband and Delinda needs to find a new chef. This episode was filmed to air before A Cannon Carol as evidenced by DeLinda's pregnancy progress.</p>
+      </shorttext>
+    <time><start hour="06" min="10"/><end hour="07" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="brotherhood" text="Brotherhood">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/brotherhood.png">
+      <shorttext>
+        <span class="headline">Brotherhood</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 9: Call Letter Blues</p>
+        <p class="description">Thanksgiving in the Caffee household bursts when Rose walks out on her family Thanksgiving morning, leaving the younger generations to pull the holiday together on their own. Freddie and Marty Trio are allowed a holiday furlough in exchange for information.</p>
+      </shorttext>
+    <time><start hour="07" min="10"/><end hour="08" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="beautiful-mind" text="A Beautiful Mind">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/beautiful-mind.png">
+      <shorttext>
+        <span class="headline">A Beautiful Mind</span>
+        <p class="subheadline">Drama, USA 2001</p>
+        <p class="description">From the heights of notoriety to the depths of depravity, John Forbes Nash, Jr. experienced it all. A mathematical genius, he made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a painful and harrowing journey of self-discovery.</p>
+      </shorttext>
+    <time><start hour="08" min="10"/><end hour="10" min="30"/></time></info>
+  </item>
+</item>
+<item id="now" title="Now">
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="heroes" text="Heroes">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/heroes.png">
+      <shorttext>
+        <span class="headline">Heroes</span>
+        <p class="subheadline">Sci-Fi Drama, USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 34: Powerless</p>
+        <p class="description">Peter finds out that Adam wants to unleash a virus and stops him from doing so. Meanwhile, Hiro buries Adam alive. Monica is kidnapped by a street gang and Niki saves her, but gets trapped in a burning, exploding building. And Elle saves Suresh, Maya and Molly from Sylar's clutches.</p>
+      </shorttext>
+    <time><start hour="01" min="00"/><end hour="02" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dawsons-creek" text="Dawson's Creek">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dawsons-creek.png">
+      <shorttext>
+        <span class="headline">Dawson's Creek</span>
+        <p class="subheadline">Soap Opera, USA 2003</p>
+        <p class="subsubheadline">Season 6, Ep. 19: Lovelines</p>
+        <p class="description">Joey and Eddie's emotional and sexual relationship is played out on stage during a counseling center benefit. At the same event, Jack and David deal with the insecurities in their relationship, Jen opens up to C.J. about Grams' cancer, and a sober Audrey returns to Boston and surprises everyone at the benefit.</p>
+      </shorttext>
+    <time><start hour="02" min="00"/><end hour="03" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dr-who" text="Dr. Who">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dr-who.png">
+      <shorttext>
+        <span class="headline">Dr. Who</span>
+        <p class="subheadline">Sci-Fi, UK 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 10: Midnight</p>
+        <p class="description">The Doctor and Donna take a holiday on the crystalline planet Midnight, which orbits close enough to its sun that the Xtonic radiation exposure would vaporise any living thing walking unprotected on its surface.</p>
+      </shorttext>
+    <time><start hour="03" min="00"/><end hour="04" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="star-wars" text="Star Wars">
+    <meta>
+      <duration>130</duration>
+    </meta>
+    <info url="media/tv/star-wars.png">
+      <shorttext>
+        <span class="headline">Star Wars</span>
+        <p class="subheadline">Sci-Fi, USA 1977</p>
+        <p class="description">Princess Leia is held hostage by the evil Imperial forces in their effort to take over the Galactic Empire. Venturesome Luke Skywalker and dashing Captain Han Solo team together with the lovable robotic duo, R2-D2 and C-3PO, to rescue the beautiful princess and restore justice in the Empire.</p>
+      </shorttext>
+    <time><start hour="04" min="00"/><end hour="06" min="10"/></time></info>
+  </item>
+	<item id="las-vegas" text="Las Vegas">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/las-vegas.png">
+      <shorttext>
+        <span class="headline">Las Vegas</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 11: I Could Eat a Horse</p>
+        <p class="description">Mike and Danny travel to Wyoming to buy a horse for Cooper. Piper's past love arrives at the Montecito. Sam deals with a cheating husband and Delinda needs to find a new chef. This episode was filmed to air before A Cannon Carol as evidenced by DeLinda's pregnancy progress.</p>
+      </shorttext>
+    <time><start hour="06" min="10"/><end hour="07" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="brotherhood" text="Brotherhood">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/brotherhood.png">
+      <shorttext>
+        <span class="headline">Brotherhood</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 9: Call Letter Blues</p>
+        <p class="description">Thanksgiving in the Caffee household bursts when Rose walks out on her family Thanksgiving morning, leaving the younger generations to pull the holiday together on their own. Freddie and Marty Trio are allowed a holiday furlough in exchange for information.</p>
+      </shorttext>
+    <time><start hour="07" min="10"/><end hour="08" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="beautiful-mind" text="A Beautiful Mind">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/beautiful-mind.png">
+      <shorttext>
+        <span class="headline">A Beautiful Mind</span>
+        <p class="subheadline">Drama, USA 2001</p>
+        <p class="description">From the heights of notoriety to the depths of depravity, John Forbes Nash, Jr. experienced it all. A mathematical genius, he made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a painful and harrowing journey of self-discovery.</p>
+      </shorttext>
+    <time><start hour="08" min="10"/><end hour="10" min="30"/></time></info>
+  </item>
+	<item id="twin-peaks" text="Twin Peaks">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/twin-peaks.png">
+      <shorttext>
+        <span class="headline">Twin Peaks</span>
+        <p class="subheadline">Mystery Drama, USA 1991</p>
+        <p class="subsubheadline">Season 2, Ep. 13: Checkmate</p>
+        <p class="description">Cooper is held hostage by Renault, Andy and Tremayne pry into Nicky's past, Ben slips into a fantasy life as a Civil War general, James succumbs to Evelyn and Cooper's ex-partner Windom Earle leaves a gruesome scene at the Twin Peaks Sheriff's Station.</p>
+      </shorttext>
+    <time><start hour="10" min="30"/><end hour="12" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="oceans-eleven" text="Ocean's Eleven">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/oceans-eleven.png">
+      <shorttext>
+        <span class="headline">Ocean's Eleven</span>
+        <p class="subheadline">Crime Dramedy, USA 2001</p>
+        <p class="description">Danny Ocean wants to score the biggest heist in history. He combines an eleven team member, including Frank Catton, Rusty Ryan and Linus Caldwell. Their target? The Bellagio, the Mirage and the MGM Grand, all casinos owned by Terry Benedict. It's not going to be easy, as they plan to get in secretly and out with $150 million.</p>
+      </shorttext>
+    <time><start hour="12" min="00"/><end hour="14" min="00"/></time></info>
+  </item>
+	<item id="closer" text="Closer">
+    <meta>
+      <duration>110</duration>
+    </meta>
+    <info url="media/tv/closer.png">
+      <shorttext>
+        <span class="headline">Closer</span>
+        <p class="subheadline">Drama, USA 2004</p>
+        <p class="description">In London, the new arrival Alice Ayres meets the mediocre obituary journalist Daniel and they move together. Dan writes a book, inspired in the life of Alice, and while photographing for the release of the book, he meets the photographer Anna. Dan introduces the dermatologist Larry to Anna, and they get married.</p>
+      </shorttext>
+    <time><start hour="14" min="00"/><end hour="15" min="50"/></time></info>
+  </item>
+	<item id="sex-and-the-city" text="Sex and the City">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/sex-and-the-city.png">
+      <shorttext>
+        <span class="headline">Sex and the City</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 6, Ep. 14: The Ick Factor</p>
+        <p class="description">Carrie finds Aleksandr's romantic attention a little overwhelming. Miranda prepares for her wedding to Steve. Charlotte and Harry's romance leads to digestive problems. Samantha considers a breast enlargement.</p>
+      </shorttext>
+    <time><start hour="15" min="50"/><end hour="16" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="csi" text="CSI">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/csi.png">
+      <shorttext>
+        <span class="headline">CSI</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 8, Ep. 14: Drops Out</p>
+        <p class="description">After finding two dead bodies at Drops' apartment and suspecting his girlfriend of murder, the police allow him to leave prison so he can help them out. Brass and Nick follow him as he looks for their suspect.</p>
+      </shorttext>
+    <time><start hour="16" min="50"/><end hour="18" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="burn-notice" text="Burn Notice">
+    <meta>
+      <duration>50</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/burn-notice.png">
+      <shorttext>
+        <span class="headline">Burn Notice</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 3: Fight or Flight</p>
+        <p class="description">A woman who witnessed a brutal beating receives threats from the drug dealer who carried out the crime. Michael tries to get her out of Miami to safety, but the woman's teenage daughter refuses to leave the city, forcing him to try a risky plan to alienate the dealer from his cartel.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="18" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="inconvenient-truth" text="An Inconvenient Truth">
+    <meta>
+      <duration>100</duration>
+    </meta>
+    <info url="media/tv/inconvenient-truth.png">
+      <shorttext>
+        <span class="headline">An Inconvenient Truth</span>
+        <p class="subheadline">Documentary, USA 2006</p>
+        <p class="description">A longtime advocate for the environment, Gore presents a wide array of facts and information in a thoughtful and compelling way. An Inconvenient Truth is not a story of despair but rather a rallying cry to protect the one earth we all share. It is now clear that we face a deepening global climate crisis that requires us to act boldly, quickly, and wisely.</p>
+      </shorttext>
+    <time><start hour="18" min="50"/><end hour="20" min="30"/></time></info>
+  </item>
+	<item id="fringe" text="Fringe">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/fringe.png">
+      <shorttext>
+        <span class="headline">Fringe</span>
+        <p class="subheadline">Mystery, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+        <p class="description">At a cutting-edge research facility, a female FBI agent is forced to work with an institutionalized scientist, Dr. Walter Bishop, in order to rationalize a brewing storm of unexplained phenomena.</p>
+      </shorttext>
+    <time><start hour="20" min="30"/><end hour="21" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="psych" text="Psych">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/psych.png">
+      <shorttext>
+        <span class="headline">Psych</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 3, Ep. 4: Basic Cable</p>
+        <p class="description">When Shawn's adventurous and notoriously unreliable Uncle Jack comes to town claiming he has a map to ancient hidden Spanish treasure, Shawn, Gus and Henry find themselves in a life or death chase to the gold with a shady group of raiders who will stop at nothing to get to the prize first.</p>
+      </shorttext>
+    <time><start hour="21" min="40"/><end hour="22" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="mad-men" text="Mad Men">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/mad-men.png">
+      <shorttext>
+        <span class="headline">Mad Men</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 13: The Wheel</p>
+        <p class="description">Betty discovers a secret, leading her to re-evaluate her marital situation. Peggy gets promoted but receives news that may interfere with her career. Don's professional and private lives affects each other in curious ways as he's left to fend for himself.</p>
+      </shorttext>
+    <time><start hour="22" min="50"/><end hour="23" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+</menu>

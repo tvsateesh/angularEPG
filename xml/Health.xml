@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="root_library">
+  <meta>
+    <select id="bp"/>
+    <action module="ActionLibrary" menu="xml/ActionHealth.xml"/>
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="410" />
+      <element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+      <element id="imgHolder" type="MovieClip" x="0" y="0" />
+    </screen>
+  </meta>
+
+  <!--
+  <item title="Feedback" labelbgcolor="#940303">
+    <item id="bp1">
+      <info url="media/photos/large/banksy-01.jpg"/>
+    </item>
+  </item>
+  <item title="Wellness" labelbgcolor="#940303">
+    <item id="bp1">
+      <info url="media/photos/large/banksy-01.jpg"/>
+    </item>
+  </item>
+  -->
+  <item title="Hypnogram" labelbgcolor="#940303">
+    <meta>
+      <select id="hp04"/>
+    </meta>
+    <item text="4.09.2010" id="hp01">
+      <info url="media/health/hypnogram 01.png"/>
+    </item>
+    <item text="5.09.2010" id="hp02">
+      <info url="media/health/hypnogram 02.png"/>
+    </item>
+    <item text="6.09.2010" id="hp03">
+      <info url="media/health/hypnogram 03.png"/>
+    </item>
+    <item text="7.09.2010" id="hp04">
+      <info url="media/health/hypnogram 04.png"/>
+    </item>
+    <item text="8.09.2010" id="hp05">
+      <info url="media/health/hypnogram 05.png"/>
+    </item>
+  </item>
+  <item title="Blood Pressure" id="bp" labelbgcolor="#940303">
+    <meta>
+      <select id="bp1"/>
+    </meta>
+    <item text="today" id="bp1">
+      <info url="media/health/blood pressure today.png"/>
+    </item>
+    <item text="last 7 days avg." id="bp3">
+      <info url="media/health/blood pressure week avg.png"/>
+    </item>
+    <item text="last 7 days AM" id="bp2">
+      <info url="media/health/blood pressure week am.png"/>
+    </item>
+    <item text="last 7 days PM" id="bp4">
+      <info url="media/health/blood pressure week pm.png"/>
+    </item>
+  </item>
+  <item title="Consultation" labelbgcolor="#940303">
+    <item title="Call" id="call_dr" client="AThompson">
+      <action module="ActionCommunication"  menu="xml/ActionCommunicationVideo.xml" />
+      <info url="media/teleconf/health_doc_thompson.png"/>
+    </item>
+  </item>
+</menu>
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

@@ -1,0 +1,4532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="root_library">
+  <meta>
+    <select id="Drama"/> 
+    <action module="ActionLibraryVoD"  menu="xml/Library/VoDAction.xml"/>
+	    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="448"/>
+      <element id="txtHolder" type="TextField" x="20" y="20" width="370" height="448"/>
+      <element id="imgHolder" type="MovieClip" x="410" y="0" scale="1"/>
+      <element id="advHolder" type="MovieClip" x="0" y="0" scale="1"/>
+    </screen>
+  </meta>
+
+
+  <item id="Action" title="Action">
+	<item id="life-of-pi">
+		<media url="media/movies/trailers/life-of-pi-trailer.mp4"/>
+		<image url="media/movies/artwork/life-of-pi.png"/>
+
+		<title>Life of Pi</title>
+		<description>A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.</description>
+
+		<directors>
+			<director>Ang Lee</director>
+		</directors>
+
+		<actors>
+			<actor>Suraj Sharma</actor>
+			<actor>Irrfan Khan</actor>
+			<actor>Adil Hussain</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>PG</ageRating>
+		<duration>127</duration>
+	
+		<icon url="media/movies/artwork/life-of-pi.png"/>
+		<media url="media/movies/trailers/life-of-pi-trailer.mp4"/>
+		<info url="media/movies/artwork/life-of-pi.png">
+			<director>Ang Lee</director>
+			<actors>
+			<actor>Suraj Sharma</actor>
+			<actor>Irrfan Khan</actor>
+			<actor>Adil Hussain</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Life of Pi</span>
+				<p class="subheadline">Action &#183; PG &#183;127 min &#183; </p>
+				<p class="description">A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="dawn-of-the-planet-of-the-apes">
+		<media url="media/movies/trailers/dawn-of-the-planet-of-the-apes-trailer.mp4"/>
+		<image url="media/movies/artwork/dawn-of-the-planet-of-the-apes.png"/>
+
+		<title>Dawn of the Planet of the Apes</title>
+		<description>10 years after a disease that spread around the globe, the apes have to go face-to-face with a band of human survivors and a traitor who is obsessed with destroying both humans and apes.</description>
+
+		<directors>
+			<director>Matt Reeves</director>
+		</directors>
+
+		<actors>
+			<actor>Gary Oldman</actor>
+			<actor>Keri Russell</actor>
+			<actor>Andy Serkis</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>130</duration>
+	
+		<icon url="media/movies/artwork/dawn-of-the-planet-of-the-apes.png"/>
+		<media url="media/movies/trailers/dawn-of-the-planet-of-the-apes-trailer.mp4"/>
+		<info url="media/movies/artwork/dawn-of-the-planet-of-the-apes.png">
+			<director>Matt Reeves</director>
+			<actors>
+			<actor>Gary Oldman</actor>
+			<actor>Keri Russell</actor>
+			<actor>Andy Serkis</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Dawn of the Planet of the Apes</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 130 min &#183; </p>
+				<p class="description">10 years after a disease that spread around the globe, the apes have to go face-to-face with a band of human survivors and a traitor who is obsessed with destroying both humans and apes.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="lone-survivor">
+		<media url="media/movies/trailers/lone-survivor-trailer.mp4"/>
+		<image url="media/movies/artwork/lone-survivor.png"/>
+
+		<title>Lone Survivor</title>
+		<description>Marcus Luttrell and his team set out on a mission to capture or eliminate notorious terrorist Ahmad Shah. Marcus and his team are left to fight for their lives in one of the most valiant efforts of modern warfare.</description>
+
+		<directors>
+			<director>Peter Berg</director>
+		</directors>
+
+		<actors>
+			<actor>Mark Wahlberg</actor>
+			<actor>Taylor Kitsch</actor>
+			<actor>Emile Hirsch</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>121</duration>
+	
+		<icon url="media/movies/artwork/lone-survivor.png"/>
+		<media url="media/movies/trailers/lone-survivor-trailer.mp4"/>
+		<info url="media/movies/artwork/lone-survivor.png">
+			<director>Peter Berg</director>
+			<actors>
+			<actor>Mark Wahlberg</actor>
+			<actor>Taylor Kitsch</actor>
+			<actor>Emile Hirsch</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Lone Survivor</span>
+				<p class="subheadline">Action &#183; R &#183; 121 min &#183; </p>
+				<p class="description">Marcus Luttrell and his team set out on a mission to capture or eliminate notorious terrorist Ahmad Shah. Marcus and his team are left to fight for their lives in one of the most valiant efforts of modern warfare.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="all-is-lost">
+		<media url="media/movies/trailers/all-is-lost-trailer.mp4"/>
+		<image url="media/movies/artwork/all-is-lost.png"/>
+
+		<title>All Is Lost</title>
+		<description>After an unexpected collision with a shipping container at rough sea, a resourceful sailor finds himself, despite all efforts to the contrary, staring his mortality in the face.</description>
+
+		<directors>
+			<director>J.C. Chandor</director>
+		</directors>
+
+		<actors>
+			<actor>Robert Redford</actor>
+			<actor>Mark Norby</actor>
+			<actor>Jake Lombard</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2013</release>
+		<stars>3.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>106</duration>
+	
+		<icon url="media/movies/artwork/all-is-lost.png"/>
+		<media url="media/movies/trailers/all-is-lost-trailer.mp4"/>
+		<info url="media/movies/artwork/all-is-lost.png">
+			<director>J.C. Chandor</director>
+			<actors>
+			<actor>Robert Redford</actor>
+			<actor>Mark Norby</actor>
+			<actor>Jake Lombard</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">All Is Lost</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 106 min &#183; </p>
+				<p class="description">After an unexpected collision with a shipping container at rough sea, a resourceful sailor finds himself, despite all efforts to the contrary, staring his mortality in the face.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="lucy">
+		<media url="media/movies/trailers/lucy-trailer.mp4"/>
+		<image url="media/movies/artwork/lucy.png"/>
+
+		<title>Lucy</title>
+		<description>A seemingly ordinary woman, accidentally caught in a dark deal, quickly turns the tables on her captors and transforms into a merciless warrior evolved way beyond human logic.</description>
+
+		<directors>
+			<director>Luc Besson</director>
+		</directors>
+
+		<actors>
+			<actor>Scarlett Johansson</actor>
+			<actor>Morgan Freeman</actor>
+			<actor>Min-sik Choi</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>R</ageRating>
+		<duration>89</duration>
+	
+		<icon url="media/movies/artwork/lucy.png"/>
+		<media url="media/movies/trailers/lucy-trailer.mp4"/>
+		<info url="media/movies/artwork/lucy.png">
+			<director>Luc Besson</director>
+			<actors>
+			<actor>Scarlett Johansson</actor>
+			<actor>Morgan Freeman</actor>
+			<actor>Min-sik Choi</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Lucy</span>
+				<p class="subheadline">Action &#183; R &#183; 89 min &#183; </p>
+				<p class="description">A seemingly ordinary woman, accidentally caught in a dark deal, quickly turns the tables on her captors and transforms into a merciless warrior evolved way beyond human logic.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="godzilla">
+		<media url="media/movies/trailers/godzilla-trailer.mp4"/>
+		<image url="media/movies/artwork/godzilla.png"/>
+
+		<title>Godzilla</title>
+		<description>Fifteen years after an incident at a Japanese nuclear power plant, the world's most famous monster is pitted against malevolent creatures who threaten our very existence.</description>
+
+		<directors>
+			<director>Gareth Edwards</director>
+		</directors>
+
+		<actors>
+			<actor>Aaron Taylor-Johnson</actor>
+			<actor>Elizabeth Olsen</actor>
+			<actor>Bryan Cranston</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>123</duration>
+	
+		<icon url="media/movies/artwork/godzilla.png"/>
+		<media url="media/movies/trailers/godzilla-trailer.mp4"/>
+		<info url="media/movies/artwork/godzilla.png">
+			<director>Gareth Edwards</director>
+			<actors>
+			<actor>Aaron Taylor-Johnson</actor>
+			<actor>Elizabeth Olsen</actor>
+			<actor>Bryan Cranston</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Godzilla</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 123 min &#183; </p>
+				<p class="description">Fifteen years after an incident at a Japanese nuclear power plant, the world's most famous monster is pitted against malevolent creatures who threaten our very existence.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="the-grandmaster">
+		<media url="media/movies/trailers/the-grandmaster-trailer.mp4"/>
+		<image url="media/movies/artwork/the-grandmaster.png"/>
+
+		<title>The Grandmaster</title>
+		<description>The story of martial-arts master Ip Man, who trained Bruce Lee and coined the phrase "In martial-arts there is no right or wrong, only the last man standing".</description>
+
+		<directors>
+			<director>Kar Wai Wong</director>
+		</directors>
+
+		<actors>
+			<actor>Tony Leung</actor>
+			<actor>Ziyi Zhang</actor>
+			<actor>Jin Zhang</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2013</release>
+		<stars>3.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>130</duration>
+	
+		<icon url="media/movies/artwork/the-grandmaster.png"/>
+		<media url="media/movies/trailers/the-grandmaster-trailer.mp4"/>
+		<info url="media/movies/artwork/the-grandmaster.png">
+			<director>Kar Wai Wong</director>
+			<actors>
+			<actor>Tony Leung</actor>
+			<actor>Ziyi Zhang</actor>
+			<actor>Jin Zhang</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Grandmaster</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 130 min &#183; </p>
+				<p class="description">The story of martial-arts master Ip Man, who trained Bruce Lee and coined the phrase "In martial-arts there is no right or wrong, only the last man standing".</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="inception" title="Inception">
+		<media url="media/movies/trailers/inception-trailer.mp4"/>
+		<image url="media/movies/artwork/inception.png"/>
+
+		<title>Inception</title>
+		<description>A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.</description>
+
+		<directors>
+			<director>Christopher Nolan</director>
+		</directors>
+
+		<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Joseph Gordon-Levitt</actor>
+			<actor>Ellen Page</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2010</release>
+		<stars>5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>148</duration>
+	
+		<icon url="media/movies/artwork/inception.png"/>
+		<media url="media/movies/trailers/inception-trailer.mp4"/>
+		<info url="media/movies/artwork/inception.png">
+			<director>Christopher Nolan</director>
+			<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Joseph Gordon-Levitt</actor>
+			<actor>Ellen Page</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Inception</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 148 min &#183; </p>
+				<p class="description">A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="the-dark-knight" title="The Dark Knight">
+		<media url="media/movies/trailers/the-dark-knight-trailer.mp4"/>
+		<image url="media/movies/artwork/the-dark-knight.png"/>
+
+		<title>The Dark Knight</title>
+		<description>When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.</description>
+
+		<directors>
+			<director>Christopher Nolan</director>
+		</directors>
+
+		<actors>
+			<actor>Christian Bale</actor>
+			<actor>Heath Ledger</actor>
+			<actor>Morgan Freeman</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2006</release>
+		<stars>5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>152</duration>
+	
+		<icon url="media/movies/artwork/the-dark-knight.png"/>
+		<media url="media/movies/trailers/the-dark-knight-trailer.mp4"/>
+		<info url="media/movies/artwork/the-dark-knight.png">
+			<director>Christopher Nolan</director>
+			<actors>
+			<actor>Christian Bale</actor>
+			<actor>Heath Ledger</actor>
+			<actor>Morgan Freeman</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Dark Knight</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 152 min &#183; </p>
+				<p class="description">When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="oblivion" title="Oblivion">
+		<media url="media/movies/trailers/oblivion-trailer.mp4"/>
+		<image url="media/movies/artwork/oblivion.png"/>
+
+		<title>Oblivion</title>
+		<description>A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.</description>
+
+		<directors>
+			<director>Joseph Kosinski</director>
+		</directors>
+
+		<actors>
+			<actor>Tom Cruise</actor>
+			<actor>Morgan Freeman</actor>
+			<actor>Andrea Riseborough</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2013</release>
+		<stars>3</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>124</duration>
+	
+		<icon url="media/movies/artwork/oblivion.png"/>
+		<media url="media/movies/trailers/oblivion-trailer.mp4"/>
+		<info url="media/movies/artwork/oblivion.png">
+			<director>Joseph Kosinski</director>
+			<actors>
+			<actor>Tom Cruise</actor>
+			<actor>Morgan Freeman</actor>
+			<actor>Andrea Riseborough</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Oblivion</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 124 min &#183; </p>
+				<p class="description">A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="man-of-steel" title="Man of Steel">
+		<media url="media/movies/trailers/man-of-steel-trailer.mp4"/>
+		<image url="media/movies/artwork/man-of-steel.png"/>
+
+		<title>Man of Steel</title>
+		<description>A young itinerant worker is forced to confront his secret extrastellar origin when Earth is invaded by members of his own race.</description>
+
+		<directors>
+			<director>Zack Snyder</director>
+		</directors>
+
+		<actors>
+			<actor>Henry Cavill</actor>
+			<actor>Amy Adams</actor>
+			<actor>Michael Shannon</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2009</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>134</duration>
+	
+		<icon url="media/movies/artwork/man-of-steel.png"/>
+		<media url="media/movies/trailers/man-of-steel-trailer.mp4"/>
+		<info url="media/movies/artwork/man-of-steel.png">
+			<director>Zack Snyder</director>
+			<actors>
+			<actor>Henry Cavill</actor>
+			<actor>Amy Adams</actor>
+			<actor>Michael Shannon</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Man of Steel</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 134 min &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="description">A young itinerant worker is forced to confront his secret extrastellar origin when Earth is invaded by members of his own race.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="noah" title="Noah">
+		<media url="media/movies/trailers/noah-trailer.mp4"/>
+		<image url="media/movies/artwork/noah.png"/>
+
+		<title>Noah</title>
+		<description>A man is chosen by his world's creator to undertake a momentous mission before an apocalyptic flood cleanses the world.</description>
+
+		<directors>
+			<director>Darren Aronofsky</director>
+		</directors>
+
+		<actors>
+			<actor>Russell Crowe</actor>
+			<actor>Jennifer Connelly</actor>
+			<actor>Emma Watson</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2014</release>
+		<stars>3</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>138</duration>
+	
+		<icon url="media/movies/artwork/noah.png"/>
+		<media url="media/movies/trailers/noah-trailer.mp4"/>
+		<info url="media/movies/artwork/noah.png">
+			<director>Darren Aronofsky</director>
+			<actors>
+			<actor>Russell Crowe</actor>
+			<actor>Jennifer Connelly</actor>
+			<actor>Emma Watson</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Noah</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 138 min &#183; </p>
+				<p class="description">A man is chosen by his world's creator to undertake a momentous mission before an apocalyptic flood cleanses the world.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="harry-potter-and-the-deathly-hallows-part-1" title="Harry Potter and the Deathly Hallows: Part 1">
+		<media url="media/movies/trailers/harry-potter-and-the-deathly-hallows-part-1-trailer.mp4"/>
+		<image url="media/movies/artwork/harry-potter-and-the-deathly-hallows-part-1.png"/>
+
+		<title>Harry Potter and the Deathly Hallows: Part 1</title>
+		<description>As Harry races against time and evil to destroy the Horcruxes, he uncovers the existence of three most powerful objects in the wizarding world: the Deathly Hallows.</description>
+
+		<directors>
+			<director>David Yates</director>
+		</directors>
+
+		<actors>
+			<actor>Daniel Radcliffe</actor>
+			<actor>Emma Watson</actor>
+			<actor>Rupert Grint</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2010</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>146</duration>
+	
+		<icon url="media/movies/artwork/harry-potter-and-the-deathly-hallows-part-1.png"/>
+		<media url="media/movies/trailers/harry-potter-and-the-deathly-hallows-part-1-trailer.mp4"/>
+		<info url="media/movies/artwork/harry-potter-and-the-deathly-hallows-part-1.png">
+			<director>David Yates</director>
+			<actors>
+			<actor>Daniel Radcliffe</actor>
+			<actor>Emma Watson</actor>
+			<actor>Rupert Grint</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Harry Potter and the Deathly Hallows: Part 1</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 146 min &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="description">As Harry races against time and evil to destroy the Horcruxes, he uncovers the existence of three most powerful objects in the wizarding world: the Deathly Hallows.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="harry-potter-and-the-deathly-hallows-part-2" title="Harry Potter and the Deathly Hallows: Part 2">
+		<media url="media/movies/trailers/harry-potter-and-the-deathly-hallows-part-2-trailer.mp4"/>
+		<image url="media/movies/artwork/harry-potter-and-the-deathly-hallows-part-2.png"/>
+
+		<title>Harry Potter and the Deathly Hallows: Part 2</title>
+		<description>Harry, Ron and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.</description>
+
+		<directors>
+			<director>David Yates</director>
+		</directors>
+
+		<actors>
+			<actor>Daniel Radcliffe</actor>
+			<actor>Emma Watson</actor>
+			<actor>Rupert Grint</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2011</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>130</duration>
+	
+		<icon url="media/movies/artwork/harry-potter-and-the-deathly-hallows-part-2.png"/>
+		<media url="media/movies/trailers/harry-potter-and-the-deathly-hallows-part-2-trailer.mp4"/>
+		<info url="media/movies/artwork/harry-potter-and-the-deathly-hallows-part-2.png">
+			<director>David Yates</director>
+			<actors>
+			<actor>Daniel Radcliffe</actor>
+			<actor>Emma Watson</actor>
+			<actor>Rupert Grint</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Harry Potter and the Deathly Hallows: Part 2</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 130 min &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="description">Harry, Ron and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="the-hobbit-the-battle-of-the-five-armies" title="The Hobbit: The Battle of the Five Armies">
+		<media url="media/movies/trailers/the-hobbit-the-battle-of-the-five-armies-trailer.mp4"/>
+		<image url="media/movies/artwork/the-hobbit-the-battle-of-the-five-armies.png"/>
+
+		<title>The Hobbit: The Battle of the Five Armies</title>
+		<description>The Company of Thorin has reached Smaug's lair; but can Bilbo and the Dwarves reclaim Erebor and the treasure? And, if so, can they hold on to it?</description>
+
+		<directors>
+			<director>Peter Jackson</director>
+		</directors>
+
+		<actors>
+			<actor>Lee Pace</actor>
+			<actor>Benedict Cumberbatch</actor>
+			<actor>Richard Armitage</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>157</duration>
+	
+		<icon url="media/movies/artwork/the-hobbit-the-battle-of-the-five-armies.png"/>
+		<media url="media/movies/trailers/the-hobbit-the-battle-of-the-five-armies-trailer.mp4"/>
+		<info url="media/movies/artwork/the-hobbit-the-battle-of-the-five-armies.png">
+			<director>Peter Jackson</director>
+			<actors>
+			<actor>Lee Pace</actor>
+			<actor>Benedict Cumberbatch</actor>
+			<actor>Richard Armitage</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Hobbit: The Battle of the Five Armies</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 157 min &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="description">The Company of Thorin has reached Smaug's lair; but can Bilbo and the Dwarves reclaim Erebor and the treasure? And, if so, can they hold on to it?</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="the-lord-of-the-rings-the-two-towers" title="The Lord of the Rings: The Two Towers">
+		<media url="media/movies/trailers/the-lord-of-the-rings-the-two-towers-trailer.mp4"/>
+		<image url="media/movies/artwork/the-lord-of-the-rings-the-two-towers.png"/>
+
+		<title>The Lord of the Rings: The Two Towers</title>
+		<description>While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.</description>
+
+		<directors>
+			<director>Peter Jackson</director>
+		</directors>
+
+		<actors>
+			<actor>Elijah Wood</actor>
+			<actor>Ian McKellen</actor>
+			<actor>Viggo Mortensen</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2002</release>
+		<stars>4.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>179</duration>
+	
+		<icon url="media/movies/artwork/the-lord-of-the-rings-the-two-towers.png"/>
+		<media url="media/movies/trailers/the-lord-of-the-rings-the-two-towers-trailer.mp4"/>
+		<info url="media/movies/artwork/the-lord-of-the-rings-the-two-towers.png">
+			<director>Peter Jackson</director>
+			<actors>
+			<actor>Elijah Wood</actor>
+			<actor>Ian McKellen</actor>
+			<actor>Viggo Mortensen</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Lord of the Rings: The Two Towers</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 179 min &#183; </p>
+				<p class="description">While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="the-lord-of-the-rings-the-return-of-the-king" title="The Lord of the Rings: The Return of the King">
+		<media url="media/movies/trailers/the-lord-of-the-rings-the-return-of-the-king-trailer.mp4"/>
+		<image url="media/movies/artwork/the-lord-of-the-rings-the-return-of-the-king.png"/>
+
+		<title>The Lord of the Rings: The Return of the King</title>
+		<description>Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.</description>
+
+		<directors>
+			<director>Peter Jackson</director>
+		</directors>
+
+		<actors>
+			<actor>Elijah Wood</actor>
+			<actor>Ian McKellen</actor>
+			<actor>Viggo Mortensen</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2003</release>
+		<stars>4.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>201</duration>
+	
+		<icon url="media/movies/artwork/the-lord-of-the-rings-the-return-of-the-king.png"/>
+		<media url="media/movies/trailers/the-lord-of-the-rings-the-return-of-the-king-trailer.mp4"/>
+		<info url="media/movies/artwork/the-lord-of-the-rings-the-return-of-the-king.png">
+			<director>Peter Jackson</director>
+			<actors>
+			<actor>Elijah Wood</actor>
+			<actor>Ian McKellen</actor>
+			<actor>Viggo Mortensen</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Lord of the Rings: The Return of the King</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 201 min &#183; </p>
+				<p class="description">Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="king-kong" title="King Kong">
+		<media url="media/movies/trailers/king-kong-trailer.mp4"/>
+		<image url="media/movies/artwork/king-kong.png"/>
+
+		<title>King Kong</title>
+		<description>In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape.</description>
+
+		<directors>
+			<director>Peter Jackson</director>
+		</directors>
+
+		<actors>
+			<actor>Naomi Watts</actor>
+			<actor>Jack Black</actor>
+			<actor>Adrien Brody</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2005</release>
+		<stars>3.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>187</duration>
+	
+		<icon url="media/movies/artwork/king-kong.png"/>
+		<media url="media/movies/trailers/king-kong-trailer.mp4"/>
+		<info url="media/movies/artwork/king-kong.png">
+			<director>Peter Jackson</director>
+			<actors>
+			<actor>Naomi Watts</actor>
+			<actor>Jack Black</actor>
+			<actor>Adrien Brody</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">King Kong</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 187 min &#183; </p>
+				<p class="description">In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="indiana-jones-and-the-last-crusade" title="Indiana Jones and the Last Crusade">
+		<media url="media/movies/trailers/indiana-jones-and-the-last-crusade-trailer.mp4"/>
+		<image url="media/movies/artwork/indiana-jones-and-the-last-crusade.png"/>
+
+		<title>Indiana Jones and the Last Crusade</title>
+		<description>When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.</description>
+
+		<directors>
+			<director>Steven Spielberg</director>
+		</directors>
+
+		<actors>
+			<actor>Harrison Ford</actor>
+			<actor>Sean Connery</actor>
+			<actor>Alison Doody</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>1989</release>
+		<stars>5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>127</duration>
+	
+		<icon url="media/movies/artwork/indiana-jones-and-the-last-crusade.png"/>
+		<media url="media/movies/trailers/indiana-jones-and-the-last-crusade-trailer.mp4"/>
+		<info url="media/movies/artwork/indiana-jones-and-the-last-crusade.png">
+			<director>Steven Spielberg</director>
+			<actors>
+			<actor>Harrison Ford</actor>
+			<actor>Sean Connery</actor>
+			<actor>Alison Doody</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Indiana Jones and the Last Crusade</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 127 min &#183; </p>
+				<p class="description">When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="e-t" title="E.T.">
+		<media url="media/movies/trailers/e-t-trailer.mp4"/>
+		<image url="media/movies/artwork/e-t.png"/>
+
+		<title>E.T.</title>
+		<description>A troubled child summons the courage to help a friendly alien escape Earth and return to his home-world.</description>
+
+		<directors>
+			<director>Steven Spielberg</director>
+		</directors>
+
+		<actors>
+			<actor>Henry Thomas</actor>
+			<actor>Drew Barrymore</actor>
+			<actor>Peter Coyote</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>1982</release>
+		<stars>5</stars>
+		<ageRating>PG</ageRating>
+		<duration>115</duration>
+	
+		<icon url="media/movies/artwork/e-t.png"/>
+		<media url="media/movies/trailers/e-t-trailer.mp4"/>
+		<info url="media/movies/artwork/e-t.png">
+			<director>Steven Spielberg</director>
+			<actors>
+			<actor>Henry Thomas</actor>
+			<actor>Drew Barrymore</actor>
+			<actor>Peter Coyote</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">E.T.</span>
+				<p class="subheadline">Action &#183; PG &#183; 115 min &#183; </p>
+				<p class="description">A troubled child summons the courage to help a friendly alien escape Earth and return to his home-world.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- ACTION -->
+	<item id="the-adventures-of-tintin" title="The Adventures of Tintin">
+		<media url="media/movies/trailers/the-adventures-of-tintin-trailer.mp4"/>
+		<image url="media/movies/artwork/the-adventures-of-tintin.png"/>
+
+		<title>The Adventures of Tintin</title>
+		<description>Intrepid reporter Tintin and Captain Haddock set off on a treasure hunt for a sunken ship commanded by Haddock's ancestor.</description>
+
+		<directors>
+			<director>Steven Spielberg</director>
+		</directors>
+
+		<actors>
+			<actor>Jamie Bell</actor>
+			<actor>Andy Serkis</actor>
+			<actor>Daniel Craig</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2011</release>
+		<stars>4</stars>
+		<ageRating>PG</ageRating>
+		<duration>107</duration>
+	
+		<icon url="media/movies/artwork/the-adventures-of-tintin.png"/>
+		<media url="media/movies/trailers/the-adventures-of-tintin-trailer.mp4"/>
+		<info url="media/movies/artwork/the-adventures-of-tintin.png">
+			<director>Steven Spielberg</director>
+			<actors>
+			<actor>Jamie Bell</actor>
+			<actor>Andy Serkis</actor>
+			<actor>Daniel Craig</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Adventures of Tintin</span>
+				<p class="subheadline">Action &#183; PG &#183; 107 min &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="description">Intrepid reporter Tintin and Captain Haddock set off on a treasure hunt for a sunken ship commanded by Haddock's ancestor.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+</item>
+
+
+<item id="Comedy" title="Comedy">
+<!-- COMEDY -->
+	<item id="the-grand-budapest-hotel">
+		<media url="media/movies/trailers/the-grand-budapest-hotel-trailer.mp4"/>
+		<image url="media/movies/artwork/the-grand-budapest-hotel.png"/>
+
+		<title>The Grand Budapest Hotel</title>
+		<description>The adventures of Gustave H., a legendary concierge at a very famous European hotel between the wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.</description>
+
+		<directors>
+			<director>Wes Anderson</director>
+		</directors>
+
+		<actors>
+			<actor>Ralph Fiennes</actor>
+			<actor>F. Murray Abraham</actor>
+			<actor>Mathieu Amalric</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>100</duration>
+	
+		<icon url="media/movies/artwork/the-grand-budapest-hotel.png"/>
+		<media url="media/movies/trailers/the-grand-budapest-hotel-trailer.mp4"/>
+		<info url="media/movies/artwork/the-grand-budapest-hotel.png">
+			<director>Wes Anderson</director>
+			<actors>
+			<actor>Ralph Fiennes</actor>
+			<actor>F. Murray Abraham</actor>
+			<actor>Mathieu Amalric</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Grand Budapest Hotel</span>
+				<p class="subheadline">Comedy &#183; R &#183; 100 min &#183; </p>
+				<p class="description">The adventures of Gustave H., a legendary concierge at a very famous European hotel between the wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="the-wolf-of-wall-street">
+		<media url="media/movies/trailers/the-wolf-of-wall-street-trailer.mp4"/>
+		<image url="media/movies/artwork/the-wolf-of-wall-street.png"/>
+
+		<title>The Wolf of Wall Street</title>
+		<description>Based on the true story of Jordan Belfort, from his rise to a wealthy New York stockbroker living the high life to his fall involving crime, corruption and the federal government.</description>
+
+		<directors>
+			<director>Martin Scorsese</director>
+		</directors>
+
+		<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Jonah Hill</actor>
+			<actor>Margot Robbie</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Comedy</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>R</ageRating>
+		<duration>180</duration>
+	
+		<icon url="media/movies/artwork/the-wolf-of-wall-street.png"/>
+		<media url="media/movies/trailers/the-wolf-of-wall-street-trailer.mp4"/>
+		<info url="media/movies/artwork/the-wolf-of-wall-street.png">
+			<director>Martin Scorsese</director>
+			<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Jonah Hill</actor>
+			<actor>Margot Robbie</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Wolf of Wall Street</span>
+				<p class="subheadline">Comedy &#183; R &#183; 180 min &#183; </p>
+				<p class="description">Based on the true story of Jordan Belfort, from his rise to a wealthy New York stockbroker living the high life to his fall involving crime, corruption and the federal government.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="the-lego-movie">
+		<media url="media/movies/trailers/the-lego-movie-trailer.mp4"/>
+		<image url="media/movies/artwork/the-lego-movie.png"/>
+
+		<title>The Lego Movie</title>
+		<description>An ordinary Lego construction worker, thought to be the prophesied Special, is recruited to join a quest to stop an evil tyrant from gluing the Lego universe into eternal stasis.</description>
+
+		<directors>
+			<director>Phil Lord</director>
+			<director>Christopher Miller</director>
+		</directors>
+
+		<actors>
+			<actor>Will Arnett</actor>
+			<actor>Elizabeth Banks</actor>
+			<actor>Alison Brie</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>PG</ageRating>
+		<duration>100</duration>
+	
+		<icon url="media/movies/artwork/the-lego-movie.png"/>
+		<media url="media/movies/trailers/the-lego-movie-trailer.mp4"/>
+		<info url="media/movies/artwork/the-lego-movie.png">
+			<director>Phil Lord</director>
+			<actors>
+			<actor>Will Arnett</actor>
+			<actor>Elizabeth Banks</actor>
+			<actor>Alison Brie</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Lego Movie</span>
+				<p class="subheadline">Comedy &#183; PG &#183; 100 min &#183; </p>
+				<p class="description">An ordinary Lego construction worker, thought to be the prophesied Special, is recruited to join a quest to stop an evil tyrant from gluing the Lego universe into eternal stasis.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="dom-hemingway">
+		<media url="media/movies/trailers/dom-hemingway-trailer.mp4"/>
+		<image url="media/movies/artwork/dom-hemingway.png"/>
+
+		<title>Dom Hemingway</title>
+		<description>After spending twelve years in prison for keeping his mouth shut, notorious safe-cracker Dom Hemingway is back on the streets of London looking to collect what he is owed.</description>
+
+		<directors>
+			<director>Richard Shepard</director>
+		</directors>
+
+		<actors>
+			<actor>Jude Law</actor>
+			<actor>Richard E. Grant</actor>
+			<actor>Demian Bichir</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Comedy</genre>
+		<release>2013</release>
+		<stars>3.5</stars>
+		<ageRating>R</ageRating>
+		<duration>93</duration>
+	
+		<icon url="media/movies/artwork/dom-hemingway.png"/>
+		<media url="media/movies/trailers/dom-hemingway-trailer.mp4"/>
+		<info url="media/movies/artwork/dom-hemingway.png">
+			<director>Richard Shepard</director>
+			<actors>
+			<actor>Jude Law</actor>
+			<actor>Richard E. Grant</actor>
+			<actor>Demian Bichir</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Dom Hemingway</span>
+				<p class="subheadline">Comedy &#183; R &#183; 93 min &#183; </p>
+				<p class="description">After spending twelve years in prison for keeping his mouth shut, notorious safe-cracker Dom Hemingway is back on the streets of London looking to collect what he is owed.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="neighbors">
+		<media url="media/movies/trailers/neighbors-trailer.mp4"/>
+		<image url="media/movies/artwork/neighbors.png"/>
+
+		<title>Neighbors</title>
+		<description>An immature couple with a newborn infant go to war with a fraternity next door that turns their once-peaceful neighborhood into party central in this outrageous comedy of one-upsmanship.</description>
+
+		<directors>
+			<director>Nicholas Stoller</director>
+		</directors>
+
+		<actors>
+			<actor>Seth Rogen</actor>
+			<actor>Rose Byrne</actor>
+			<actor>Zac Efron</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>97</duration>
+	
+		<icon url="media/movies/artwork/neighbors.png"/>
+		<media url="media/movies/trailers/neighbors-trailer.mp4"/>
+		<info url="media/movies/artwork/neighbors.png">
+			<director>Nicholas Stoller</director>
+			<actors>
+			<actor>Seth Rogen</actor>
+			<actor>Rose Byrne</actor>
+			<actor>Zac Efron</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Neighbors</span>
+				<p class="subheadline">Comedy &#183; R &#183; 97 min &#183; </p>
+				<p class="description">An immature couple with a newborn infant go to war with a fraternity next door that turns their once-peaceful neighborhood into party central in this outrageous comedy of one-upsmanship.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="rio-2">
+		<media url="media/movies/trailers/rio-2-trailer.mp4"/>
+		<image url="media/movies/artwork/rio-2.png"/>
+
+		<title>Rio 2</title>
+		<description>It's a jungle out there for Blu, Jewel and their three kids hurtled to the wilds of the Amazon. As Blu tries to fit in, he goes beak-to-beak with the vengeful Nigel and meets his father-in-law.</description>
+
+		<directors>
+			<director>Carlos Saldanha</director>
+		</directors>
+
+		<actors>
+			<actor>Jesse Eisenberg</actor>
+			<actor>Anne Hathaway</actor>
+			<actor>Jemaine Clement</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>PG</ageRating>
+		<duration>101</duration>
+	
+		<icon url="media/movies/artwork/rio-2.png"/>
+		<media url="media/movies/trailers/rio-2-trailer.mp4"/>
+		<info url="media/movies/artwork/rio-2.png">
+			<director>Carlos Saldanha</director>
+			<actors>
+			<actor>Jesse Eisenberg</actor>
+			<actor>Anne Hathaway</actor>
+			<actor>Jemaine Clement</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Rio 2</span>
+				<p class="subheadline">Comedy &#183; PG &#183; 101 min &#183; </p>
+				<p class="description">It's a jungle out there for Blu, Jewel and their three kids hurtled to the wilds of the Amazon. As Blu tries to fit in, he goes beak-to-beak with the vengeful Nigel and meets his father-in-law.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="guardians-of-the-galaxy">
+		<media url="media/movies/trailers/guardians-of-the-galaxy-trailer.mp4"/>
+		<image url="media/movies/artwork/guardians-of-the-galaxy.png"/>
+
+		<title>Guardians of the Galaxy</title>
+		<description>Many light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.</description>
+
+		<directors>
+			<director>James Gunn</director>
+		</directors>
+
+		<actors>
+			<actor>Chris Pratt</actor>
+			<actor>Vin Diesel</actor>
+			<actor>Bradley Cooper</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>121</duration>
+	
+		<icon url="media/movies/artwork/guardians-of-the-galaxy.png"/>
+		<media url="media/movies/trailers/guardians-of-the-galaxy-trailer.mp4"/>
+		<info url="media/movies/artwork/guardians-of-the-galaxy.png">
+			<director>James Gunn</director>
+			<actors>
+			<actor>Chris Pratt</actor>
+			<actor>Vin Diesel</actor>
+			<actor>Bradley Cooper</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Guardians of the Galaxy</span>
+				<p class="subheadline">Comedy &#183; PG-13 &#183; 121 min &#183; </p>
+				<p class="description">Many light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- COMEDY -->
+	<item id="the-magic-of-belle-isle" title="The Magic of Belle Isle">
+		<media url="media/movies/trailers/the-magic-of-belle-isle-trailer.mp4"/>
+		<image url="media/movies/artwork/the-magic-of-belle-isle.png"/>
+
+		<title>The Magic of Belle Isle</title>
+		<description>Monty Wildhorn, an alcoholic novelist of Westerns, has lost his drive. His nephew pushes him to summer in quiet Belle Isle. He begrudgingly befriends a newly single mom and her 3 girls.</description>
+
+		<directors>
+			<director>Rob Reiner</director>
+		</directors>
+
+		<actors>
+			<actor>Morgan Freeman</actor>
+			<actor>Virginia Madsen</actor>
+			<actor>Madeline Carroll</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Comedy</genre>
+		<release>2012</release>
+		<stars>3.5</stars>
+		<ageRating>PG</ageRating>
+		<duration>109</duration>
+	
+		<icon url="media/movies/artwork/the-magic-of-belle-isle.png"/>
+		<media url="media/movies/trailers/the-magic-of-belle-isle-trailer.mp4"/>
+		<info url="media/movies/artwork/the-magic-of-belle-isle.png">
+			<director>Rob Reiner</director>
+			<actors>
+			<actor>Morgan Freeman</actor>
+			<actor>Virginia Madsen</actor>
+			<actor>Madeline Carroll</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Magic of Belle Isle</span>
+				<p class="subheadline">Comedy &#183; PG &#183; 109 min &#183; </p>
+				<p class="description">Monty Wildhorn, an alcoholic novelist of Westerns, has lost his drive. His nephew pushes him to summer in quiet Belle Isle. He begrudgingly befriends a newly single mom and her 3 girls.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+</item>
+
+
+<item id="Drama" title="Drama">
+<!-- DRAMA -->
+	<item id="her">
+		<media url="media/movies/trailers/her-trailer.mp4"/>
+		<image url="media/movies/artwork/her.png"/>
+
+		<title>Her</title>
+		<description>In a not so distant future, Theodore purchases a newly designed operating system. To the lonely writer’s surprise, a romantic relationship develops between him and his operating system.</description>
+
+		<directors>
+			<director>Spike Jonze</director>
+		</directors>
+
+		<actors>
+			<actor>Joaquin Phoenix</actor>
+			<actor>Amy Adams</actor>
+			<actor>Scarlett Johansson</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>126</duration>
+	
+		<icon url="media/movies/artwork/her.png"/>
+		<media url="media/movies/trailers/her-trailer.mp4"/>
+		<info url="media/movies/artwork/her.png">
+			<director>Spike Jonze</director>
+			<actors>
+			<actor>Joaquin Phoenix</actor>
+			<actor>Amy Adams</actor>
+			<actor>Scarlett Johansson</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Her</span>
+				<p class="subheadline">Drama &#183; R &#183; 126 min &#183; </p>
+				<p class="description">In a not so distant future, Theodore purchases a newly designed operating system. To the lonely writer’s surprise, a romantic relationship develops between him and his operating system.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="the-fault-in-our-stars">
+		<media url="media/movies/trailers/the-fault-in-our-stars-trailer.mp4"/>
+		<image url="media/movies/artwork/the-fault-in-our-stars.png"/>
+
+		<title>The Fault in Our Stars</title>
+		<description>Hazel and Gus share an acerbic wit, a disdain for the conventional, and a love that sweeps them on a journey. Their relationship is all the more miraculous given that Hazel's other constant companion is an oxygen tank.</description>
+
+		<directors>
+			<director>Josh Boone</director>
+		</directors>
+
+		<actors>
+			<actor>Shailene Woodley</actor>
+			<actor>Ansel Elgort</actor>
+			<actor>Nat Wolff</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>127</duration>
+	
+		<icon url="media/movies/artwork/the-fault-in-our-stars.png"/>
+		<media url="media/movies/trailers/the-fault-in-our-stars-trailer.mp4"/>
+		<info url="media/movies/artwork/the-fault-in-our-stars.png">
+			<director>Josh Boone</director>
+			<actors>
+			<actor>Shailene Woodley</actor>
+			<actor>Ansel Elgort</actor>
+			<actor>Nat Wolff</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Fault in Our Stars</span>
+				<p class="subheadline">Drama &#183; PG-13 &#183; 127 min &#183; </p>
+				<p class="description">Hazel and Gus share an acerbic wit, a disdain for the conventional, and a love that sweeps them on a journey. Their relationship is all the more miraculous given that Hazel's other constant companion is an oxygen tank.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="american-hustle">
+		<media url="media/movies/trailers/american-hustle-trailer.mp4"/>
+		<image url="media/movies/artwork/american-hustle.png"/>
+
+		<title>American Hustle</title>
+		<description>A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild FBI agent, Richie DiMaso, who pushes them into a world of Jersey power brokers and mafia.</description>
+
+		<directors>
+			<director>David O. Russell</director>
+		</directors>
+
+		<actors>
+			<actor>Christian Bale</actor>
+			<actor>Jennifer Lawrence</actor>
+			<actor>Amy Adams</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>3.5</stars>
+		<ageRating>R</ageRating>
+		<duration>138</duration>
+	
+		<icon url="media/movies/artwork/american-hustle.png"/>
+		<media url="media/movies/trailers/american-hustle-trailer.mp4"/>
+		<info url="media/movies/artwork/american-hustle.png">
+			<director>David O. Russell</director>
+			<actors>
+			<actor>Christian Bale</actor>
+			<actor>Jennifer Lawrence</actor>
+			<actor>Amy Adams</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">American Hustle</span>
+				<p class="subheadline">Drama &#183; R &#183; 138 min &#183; </p>
+				<p class="description">A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild FBI agent, Richie DiMaso, who pushes them into a world of Jersey power brokers and mafia.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="dallas-buyers-club">
+		<media url="media/movies/trailers/dallas-buyers-club-trailer.mp4"/>
+		<image url="media/movies/artwork/dallas-buyers-club.png"/>
+
+		<title>Dallas Buyers Club</title>
+		<description>In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is himself diagnosed with the disease.</description>
+
+		<directors>
+			<director>Jean-Marc Vallée</director>
+		</directors>
+
+		<actors>
+			<actor>Matthew McConaughey</actor>
+			<actor>Jennifer Garner</actor>
+			<actor>Jared Leto</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>117</duration>
+	
+		<icon url="media/movies/artwork/dallas-buyers-club.png"/>
+		<media url="media/movies/trailers/dallas-buyers-club-trailer.mp4"/>
+		<info url="media/movies/artwork/dallas-buyers-club.png">
+			<director>Jean-Marc Vallée</director>
+			<actors>
+			<actor>Matthew McConaughey</actor>
+			<actor>Jennifer Garner</actor>
+			<actor>Jared Leto</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Dallas Buyers Club</span>
+				<p class="subheadline">Drama &#183; R &#183; 117 min &#183; </p>
+				<p class="description">In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is himself diagnosed with the disease.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="boyhood">
+		<media url="media/movies/trailers/boyhood-trailer.mp4"/>
+		<image url="media/movies/artwork/boyhood.png"/>
+
+		<title>Boyhood</title>
+		<description>A divorced couple tries to raise their young son for twelve years, from first grade at age 6 through 12th grade at age 18, and examines his relationship with his parents as he grows.</description>
+
+		<directors>
+			<director>Richard Linklater</director>
+		</directors>
+
+		<actors>
+			<actor>Ellar Coltrane</actor>
+			<actor>Patricia Arquette</actor>
+			<actor>Ethan Hawke</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>5</stars>
+		<ageRating>R</ageRating>
+		<duration>165</duration>
+	
+		<icon url="media/movies/artwork/boyhood.png"/>
+		<media url="media/movies/trailers/boyhood-trailer.mp4"/>
+		<info url="media/movies/artwork/boyhood.png">
+			<director>Richard Linklater</director>
+			<actors>
+			<actor>Ellar Coltrane</actor>
+			<actor>Patricia Arquette</actor>
+			<actor>Ethan Hawke</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Boyhood</span>
+				<p class="subheadline">Drama &#183; R &#183; 165 min &#183; </p>
+				<p class="description">A divorced couple tries to raise their young son for twelve years, from first grade at age 6 through 12th grade at age 18, and examines his relationship with his parents as he grows.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="the-great-gatsby">
+		<media url="media/movies/trailers/the-great-gatsby-trailer.mp4"/>
+		<image url="media/movies/artwork/the-great-gatsby.png"/>
+
+		<title>The Great Gatsby</title>
+		<description>Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, the cracks of Gatsby's nouveau riche existence reveal a world of obsession, madness, and tragedy.</description>
+
+		<directors>
+			<director>Baz Luhrmann</director>
+		</directors>
+
+		<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Carey Mulligan</actor>
+			<actor>Joel Edgerton</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>3.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>143</duration>
+	
+		<icon url="media/movies/artwork/the-great-gatsby.png"/>
+		<media url="media/movies/trailers/the-great-gatsby-trailer.mp4"/>
+		<info url="media/movies/artwork/the-great-gatsby.png">
+			<director>Baz Luhrmann</director>
+			<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Carey Mulligan</actor>
+			<actor>Joel Edgerton</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Great Gatsby</span>
+				<p class="subheadline">Drama &#183; PG-13 &#183; 143 min &#183; </p>
+				<p class="description">Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, the cracks of Gatsby's nouveau riche existence reveal a world of obsession, madness, and tragedy.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="la-grande-bellezza">
+		<media url="media/movies/trailers/la-grande-bellezza-trailer.mp4"/>
+		<image url="media/movies/artwork/la-grande-bellezza.png"/>
+
+		<title>La grande bellezza</title>
+		<description>Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday Jep looks past nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.</description>
+
+		<directors>
+			<director>Paolo Sorrentino</director>
+		</directors>
+
+		<actors>
+			<actor>Toni Servillo</actor>
+			<actor>Carlo Verdone</actor>
+			<actor>Sabrina Ferilli</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>R</ageRating>
+		<duration>142</duration>
+	
+		<icon url="media/movies/artwork/la-grande-bellezza.png"/>
+		<media url="media/movies/trailers/la-grande-bellezza-trailer.mp4"/>
+		<info url="media/movies/artwork/la-grande-bellezza.png">
+			<director>Paolo Sorrentino</director>
+			<actors>
+			<actor>Toni Servillo</actor>
+			<actor>Carlo Verdone</actor>
+			<actor>Sabrina Ferilli</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">La grande bellezza</span>
+				<p class="subheadline">Drama &#183; R &#183; 142 min &#183; </p>
+				<p class="description">Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday Jep looks past nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- DRAMA -->
+	<item id="titanic" title="Titanic">
+		<media url="media/movies/trailers/titanic-trailer.mp4"/>
+		<image url="media/movies/artwork/titanic.png"/>
+
+		<title>Titanic</title>
+		<description>A seventeen-year-old aristocrat, expecting to be married to a rich claimant by her mother, falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.</description>
+
+		<directors>
+			<director>James Cameron</director>
+		</directors>
+
+		<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Kate Winslet</actor>
+			<actor>Billy Zane</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>1997</release>
+		<stars>3.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>194</duration>
+	
+		<icon url="media/movies/artwork/titanic.png"/>
+		<media url="media/movies/trailers/titanic-trailer.mp4"/>
+		<info url="media/movies/artwork/titanic.png">
+			<director>James Cameron</director>
+			<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Kate Winslet</actor>
+			<actor>Billy Zane</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Titanic</span>
+				<p class="subheadline">Drama &#183; PG-13 &#183; 194 min &#183; </p>
+				<p class="description">A seventeen-year-old aristocrat, expecting to be married to a rich claimant by her mother, falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- DRAMA -->
+	<item id="american-hustle" title="American Hustle">
+		<media url="media/movies/trailers/american-hustle-trailer.mp4"/>
+		<image url="media/movies/artwork/american-hustle.png"/>
+
+		<title>American Hustle</title>
+		<description>A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild FBI agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and mafia.</description>
+
+		<directors>
+			<director>David O. Russell</director>
+		</directors>
+
+		<actors>
+			<actor>Christian Bale</actor>
+			<actor>Amy Adams</actor>
+			<actor>Bradley Cooper</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>138</duration>
+	
+		<icon url="media/movies/artwork/american-hustle.png"/>
+		<media url="media/movies/trailers/american-hustle-trailer.mp4"/>
+		<info url="media/movies/artwork/american-hustle.png">
+			<director>David O. Russell</director>
+			<actors>
+			<actor>Christian Bale</actor>
+			<actor>Amy Adams</actor>
+			<actor>Bradley Cooper</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">American Hustle</span>
+				<p class="subheadline">Drama &#183; R &#183; 138 min &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="description">A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild FBI agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and mafia.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- DRAMA -->
+	<item id="trouble-with-the-curve" title="Trouble with the Curve">
+		<media url="media/movies/trailers/trouble-with-the-curve-trailer.mp4"/>
+		<image url="media/movies/artwork/trouble-with-the-curve.png"/>
+
+		<title>Trouble with the Curve</title>
+		<description>An ailing baseball scout in his twilight years takes his daughter along for one last recruiting trip.</description>
+
+		<directors>
+			<director>Robert Lorenz</director>
+		</directors>
+
+		<actors>
+			<actor>Clint Eastwood</actor>
+			<actor>Amy Adams</actor>
+			<actor>John Goodman</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2012</release>
+		<stars>3.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>111</duration>
+	
+		<icon url="media/movies/artwork/trouble-with-the-curve.png"/>
+		<media url="media/movies/trailers/trouble-with-the-curve-trailer.mp4"/>
+		<info url="media/movies/artwork/trouble-with-the-curve.png">
+			<director>Robert Lorenz</director>
+			<actors>
+			<actor>Clint Eastwood</actor>
+			<actor>Amy Adams</actor>
+			<actor>John Goodman</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Trouble with the Curve</span>
+				<p class="subheadline">Drama &#183; PG-13 &#183; 111 min &#183; </p>
+				<p class="description">An ailing baseball scout in his twilight years takes his daughter along for one last recruiting trip.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- DRAMA -->
+	<item id="ballet-shoes" title="Ballet Shoes">
+		<media url="media/movies/trailers/ballet-shoes-trailer.mp4"/>
+		<image url="media/movies/artwork/ballet-shoes.png"/>
+
+		<title>Ballet Shoes</title>
+		<description>The story of three orphan girls (Pauline, Petrova, and Posy), adopted by an eccentric explorer, Great Uncle Matthew, and his niece Sylvia, in 1930s London.</description>
+
+		<directors>
+			<director>Sandra Goldbacher</director>
+		</directors>
+
+		<actors>
+			<actor>Emma Watson</actor>
+			<actor>Yasmin Paige</actor>
+			<actor>Lucy Boynton</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2007</release>
+		<stars>3.5</stars>
+		<ageRating>PG</ageRating>
+		<duration>85</duration>
+	
+		<icon url="media/movies/artwork/ballet-shoes.png"/>
+		<media url="media/movies/trailers/ballet-shoes-trailer.mp4"/>
+		<info url="media/movies/artwork/ballet-shoes.png">
+			<director>Sandra Goldbacher</director>
+			<actors>
+			<actor>Emma Watson</actor>
+			<actor>Yasmin Paige</actor>
+			<actor>Lucy Boynton</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Ballet Shoes</span>
+				<p class="subheadline">Drama &#183; PG &#183; 85 min &#183; </p>
+				<p class="description">The story of three orphan girls (Pauline, Petrova, and Posy), adopted by an eccentric explorer, Great Uncle Matthew, and his niece Sylvia, in 1930s London.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- DRAMA -->
+	<item id="the-perks-of-being-a-wallflower" title="The Perks of Being a Wallflower">
+		<media url="media/movies/trailers/the-perks-of-being-a-wallflower-trailer.mp4"/>
+		<image url="media/movies/artwork/the-perks-of-being-a-wallflower.png"/>
+
+		<title>The Perks of Being a Wallflower</title>
+		<description>An introvert freshman is taken under the wings of two seniors who welcome him to the real world.</description>
+
+		<directors>
+			<director>Stephen Chbosky</director>
+		</directors>
+
+		<actors>
+			<actor>Logan Lerman</actor>
+			<actor>Emma Watson</actor>
+			<actor>Ezra Miller</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2012</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>102</duration>
+	
+		<icon url="media/movies/artwork/the-perks-of-being-a-wallflower.png"/>
+		<media url="media/movies/trailers/the-perks-of-being-a-wallflower-trailer.mp4"/>
+		<info url="media/movies/artwork/the-perks-of-being-a-wallflower.png">
+			<director>Stephen Chbosky</director>
+			<actors>
+			<actor>Logan Lerman</actor>
+			<actor>Emma Watson</actor>
+			<actor>Ezra Miller</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Perks of Being a Wallflower</span>
+				<p class="subheadline">Drama &#183; PG-13 &#183; 102 min &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="description">An introvert freshman is taken under the wings of two seniors who welcome him to the real world.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- DRAMA -->
+	<item id="the-lovely-bones" title="The Lovely Bones">
+		<media url="media/movies/trailers/the-lovely-bones-trailer.mp4"/>
+		<image url="media/movies/artwork/the-lovely-bones.png"/>
+
+		<title>The Lovely Bones</title>
+		<description>Centers on a young girl who has been murdered and watches over her family - and her killer - from purgatory. She must weigh her desire for vengeance against her desire for her family to heal.</description>
+
+		<directors>
+			<director>Peter Jackson</director>
+		</directors>
+
+		<actors>
+			<actor>Rachel Weisz</actor>
+			<actor>Mark Wahlberg</actor>
+			<actor>Saoirse Ronan</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2010</release>
+		<stars>3</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>135</duration>
+	
+		<icon url="media/movies/artwork/the-lovely-bones.png"/>
+		<media url="media/movies/trailers/the-lovely-bones-trailer.mp4"/>
+		<info url="media/movies/artwork/the-lovely-bones.png">
+			<director>Peter Jackson</director>
+			<actors>
+			<actor>Rachel Weisz</actor>
+			<actor>Mark Wahlberg</actor>
+			<actor>Saoirse Ronan</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Lovely Bones</span>
+				<p class="subheadline">Drama &#183; PG-13 &#183; 135 min &#183; </p>
+				<p class="description">Centers on a young girl who has been murdered and watches over her family - and her killer - from purgatory. She must weigh her desire for vengeance against her desire for her family to heal.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- DRAMA -->
+	<item id="munich" title="Munich">
+		<media url="media/movies/trailers/munich-trailer.mp4"/>
+		<image url="media/movies/artwork/munich.png"/>
+
+		<title>Munich</title>
+		<description>Based on the true story of the Black September aftermath, about the five men chosen to eliminate the ones responsible for that fateful day.</description>
+
+		<directors>
+			<director>Steven Spielberg</director>
+		</directors>
+
+		<actors>
+			<actor>Eric Bana</actor>
+			<actor>Daniel Craig</actor>
+			<actor>Marie-Josée Croze</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2005</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>164</duration>
+	
+		<icon url="media/movies/artwork/munich.png"/>
+		<media url="media/movies/trailers/munich-trailer.mp4"/>
+		<info url="media/movies/artwork/munich.png">
+			<director>Steven Spielberg</director>
+			<actors>
+			<actor>Eric Bana</actor>
+			<actor>Daniel Craig</actor>
+			<actor>Marie-Josée Croze</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Munich</span>
+				<p class="subheadline">Drama &#183; R &#183; 164 min &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="description">Based on the true story of the Black September aftermath, about the five men chosen to eliminate the ones responsible for that fateful day.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+</item>
+
+
+<item id="Music" title="Music">
+<!-- MUSIC -->
+	<item id="step-up-all-in">
+		<media url="media/movies/trailers/step-up-all-in-trailer.mp4"/>
+		<image url="media/movies/artwork/step-up-all-in.png"/>
+
+		<title>Step Up All In</title>
+		<description>All-stars from the three previous Step Up installments come together in glittering Las Vegas, battling for a victory that is going to define their dreams and their careers.</description>
+
+		<directors>
+			<director>Trish Sie</director>
+		</directors>
+
+		<actors>
+			<actor>Ryan Guzman</actor>
+			<actor>Briana Evigan</actor>
+			<actor>Adam G. Sevani</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Music</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>112</duration>
+	
+		<icon url="media/movies/artwork/step-up-all-in.png"/>
+		<media url="media/movies/trailers/step-up-all-in-trailer.mp4"/>
+		<info url="media/movies/artwork/step-up-all-in.png">
+			<director>Trish Sie</director>
+			<actors>
+			<actor>Ryan Guzman</actor>
+			<actor>Briana Evigan</actor>
+			<actor>Adam G. Sevani</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Step Up All In</span>
+				<p class="subheadline">Music &#183; PG-13 &#183; 112 min &#183; </p>
+				<p class="description">All-stars from the three previous Step Up installments come together in glittering Las Vegas, battling for a victory that is going to define their dreams and their careers.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="frozen">
+		<media url="media/movies/trailers/frozen-trailer.mp4"/>
+		<image url="media/movies/artwork/frozen.png"/>
+
+		<title>Frozen</title>
+		<description>Fearless optimist Anna teams up with Kristoff and a hilarious snowman named Olaf in a race to find Anna's sister Elsa, whose icy powers have trapped the kingdom in eternal winter.</description>
+
+		<directors>
+			<director>Chris Buck</director>
+			<director>Jennifer Lee</director>
+		</directors>
+
+		<actors>
+			<actor>Kristen Bell</actor>
+			<actor>Idina Menzel</actor>
+			<actor>Jonathan Groff</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Music</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>PG</ageRating>
+		<duration>102</duration>
+	
+		<icon url="media/movies/artwork/frozen.png"/>
+		<media url="media/movies/trailers/frozen-trailer.mp4"/>
+		<info url="media/movies/artwork/frozen.png">
+			<director>Chris Buck</director>
+			<actors>
+			<actor>Kristen Bell</actor>
+			<actor>Idina Menzel</actor>
+			<actor>Jonathan Groff</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Frozen</span>
+				<p class="subheadline">Music &#183; PG &#183; 102 min &#183; </p>
+				<p class="description">Fearless optimist Anna teams up with Kristoff and a hilarious snowman named Olaf in a race to find Anna's sister Elsa, whose icy powers have trapped the kingdom in eternal winter.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="les-miserables">
+		<media url="media/movies/trailers/les-miserables-trailer.mp4"/>
+		<image url="media/movies/artwork/les-miserables.png"/>
+
+		<title>Les Misérables</title>
+		<description>In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert, agrees to care for a factory worker's daughter. The decision changes their lives for ever.</description>
+
+		<directors>
+			<director>Tom Hooper</director>
+		</directors>
+
+		<actors>
+			<actor>Hugh Jackman</actor>
+			<actor>Amanda Seyfried</actor>
+			<actor>Russell Crowe</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Music</genre>
+		<release>2012</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>158</duration>
+	
+		<icon url="media/movies/artwork/les-miserables.png"/>
+		<media url="media/movies/trailers/les-miserables-trailer.mp4"/>
+		<info url="media/movies/artwork/les-miserables.png">
+			<director>Tom Hooper</director>
+			<actors>
+			<actor>Hugh Jackman</actor>
+			<actor>Amanda Seyfried</actor>
+			<actor>Russell Crowe</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Les Misérables</span>
+				<p class="subheadline">Music &#183; PG-13 &#183; 158 min &#183; </p>
+				<p class="description">In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert, agrees to care for a factory worker's daughter. The decision changes their lives for ever.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="jersey-boys">
+		<media url="media/movies/trailers/jersey-boys-trailer.mp4"/>
+		<image url="media/movies/artwork/jersey-boys.png"/>
+
+		<title>Jersey Boys</title>
+		<description>The incredible story of four young men hailing from the wrong side of the tracks in New Jersey who came together to form the iconic 1960s rock group The Four Seasons.</description>
+
+		<directors>
+			<director>Clint Eastwood</director>
+		</directors>
+
+		<actors>
+			<actor>John Lloyd Young</actor>
+			<actor>Erich Bergen</actor>
+			<actor>Michael Lomenda</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Music</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>134</duration>
+	
+		<icon url="media/movies/artwork/jersey-boys.png"/>
+		<media url="media/movies/trailers/jersey-boys-trailer.mp4"/>
+		<info url="media/movies/artwork/jersey-boys.png">
+			<director>Clint Eastwood</director>
+			<actors>
+			<actor>John Lloyd Young</actor>
+			<actor>Erich Bergen</actor>
+			<actor>Michael Lomenda</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Jersey Boys</span>
+				<p class="subheadline">Music &#183; R &#183; 134 min &#183; </p>
+				<p class="description">The incredible story of four young men hailing from the wrong side of the tracks in New Jersey who came together to form the iconic 1960s rock group The Four Seasons.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="inside-llewyn-davis">
+		<media url="media/movies/trailers/inside-llewyn-davis-trailer.mp4"/>
+		<image url="media/movies/artwork/inside-llewyn-davis.png"/>
+
+		<title>Inside Llewyn Davis</title>
+		<description>In Greenwich Village of the early 1960s, gifted, but volatile musician Llewyn Davis contemplates leaving the music scene altogether to return to sea as a merchant marine after the suicide of his singing partner.</description>
+
+		<directors>
+			<director>Ethan Coen</director>
+			<director>Joel Coen</director>
+		</directors>
+
+		<actors>
+			<actor>Oscar Isaac</actor>
+			<actor>Carey Mulligan</actor>
+			<actor>John Goodman</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Music</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>R</ageRating>
+		<duration>104</duration>
+	
+		<icon url="media/movies/artwork/inside-llewyn-davis.png"/>
+		<media url="media/movies/trailers/inside-llewyn-davis-trailer.mp4"/>
+		<info url="media/movies/artwork/inside-llewyn-davis.png">
+			<director>Ethan Coen</director>
+			<actors>
+			<actor>Oscar Isaac</actor>
+			<actor>Carey Mulligan</actor>
+			<actor>John Goodman</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Inside Llewyn Davis</span>
+				<p class="subheadline">Music &#183; R &#183; 104 min &#183; </p>
+				<p class="description">In Greenwich Village of the early 1960s, gifted, but volatile musician Llewyn Davis contemplates leaving the music scene altogether to return to sea as a merchant marine after the suicide of his singing partner.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="the-song">
+		<media url="media/movies/trailers/the-song-trailer.mp4"/>
+		<image url="media/movies/artwork/the-song.png"/>
+
+		<title>The Song</title>
+		<description>When newcomer and singer-songwriter Jed King is thrust into a life of stardom and a world of temptation in the form of fellow performer Shelby Bale, his life and marriage begin to slowly fall apart.</description>
+
+		<directors>
+			<director>Richard Ramsey</director>
+		</directors>
+
+		<actors>
+			<actor>Alan Powell</actor>
+			<actor>Ali Faulkner</actor>
+			<actor>Caitlin Nicol-Thomas</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Music</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>116</duration>
+	
+		<icon url="media/movies/artwork/the-song.png"/>
+		<media url="media/movies/trailers/the-song-trailer.mp4"/>
+		<info url="media/movies/artwork/the-song.png">
+			<director>Richard Ramsey</director>
+			<actors>
+			<actor>Alan Powell</actor>
+			<actor>Ali Faulkner</actor>
+			<actor>Caitlin Nicol-Thomas</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Song</span>
+				<p class="subheadline">Music &#183; PG-13 &#183; 116 min &#183; </p>
+				<p class="description">When newcomer and singer-songwriter Jed King is thrust into a life of stardom and a world of temptation in the form of fellow performer Shelby Bale, his life and marriage begin to slowly fall apart.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="god-help-the-girl">
+		<media url="media/movies/trailers/god-help-the-girl-trailer.mp4"/>
+		<image url="media/movies/artwork/god-help-the-girl.png"/>
+
+		<title>God Help the Girl</title>
+		<description>As Eve begins writing songs as a way to sort through some emotional problems, she meets James and Cassie, two musicians each at crossroads of their own.</description>
+
+		<directors>
+			<director>Stuart Murdoch</director>
+		</directors>
+
+		<actors>
+			<actor>Emily Browning</actor>
+			<actor>Olly Alexander</actor>
+			<actor>Hannah Murray</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Music</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>111</duration>
+	
+		<icon url="media/movies/artwork/god-help-the-girl.png"/>
+		<media url="media/movies/trailers/god-help-the-girl-trailer.mp4"/>
+		<info url="media/movies/artwork/god-help-the-girl.png">
+			<director>Stuart Murdoch</director>
+			<actors>
+			<actor>Emily Browning</actor>
+			<actor>Olly Alexander</actor>
+			<actor>Hannah Murray</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">God Help the Girl</span>
+				<p class="subheadline">Music &#183; PG-13 &#183; 111 min &#183; </p>
+				<p class="description">As Eve begins writing songs as a way to sort through some emotional problems, she meets James and Cassie, two musicians each at crossroads of their own.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- MUSIC -->
+	<item id="enchanted" title="Enchanted">
+		<media url="media/movies/trailers/enchanted-trailer.mp4"/>
+		<image url="media/movies/artwork/enchanted.png"/>
+
+		<title>Enchanted</title>
+		<description>A classic Disney fairytale collides with modern-day New York City in a story about a fairytale princess who is sent to our world by an evil queen. Soon Giselle changes her views on life and love.</description>
+
+		<directors>
+			<director>Kevin Lima</director>
+		</directors>
+
+		<actors>
+			<actor>Amy Adams</actor>
+			<actor>Susan Sarandon</actor>
+			<actor>James Marsden</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Music</genre>
+		<release>2007</release>
+		<stars>4</stars>
+		<ageRating>PG</ageRating>
+		<duration>107</duration>
+	
+		<icon url="media/movies/artwork/enchanted.png"/>
+		<media url="media/movies/trailers/enchanted-trailer.mp4"/>
+		<info url="media/movies/artwork/enchanted.png">
+			<director>Kevin Lima</director>
+			<actors>
+			<actor>Amy Adams</actor>
+			<actor>Susan Sarandon</actor>
+			<actor>James Marsden</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Enchanted</span>
+				<p class="subheadline">Music &#183; PG &#183; 107 min &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="description">A classic Disney fairytale collides with modern-day New York City in a story about a fairytale princess who is sent to our world by an evil queen. Soon Giselle changes her views on life and love.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+</item>
+
+
+<item id="Sport" title="Sport">
+<!-- SPORT -->
+	<item id="draft-day">
+		<media url="media/movies/trailers/draft-day-trailer.mp4"/>
+		<image url="media/movies/artwork/draft-day.png"/>
+
+		<title>Draft Day</title>
+		<description>Manager Sonny Weaver has the opportunity to rebuild his team when he trades for the number one pick. He must decide what he is willing to sacrifice on a life-changing day for a few hundred young men.</description>
+
+		<directors>
+			<director>Ivan Reitman</director>
+		</directors>
+
+		<actors>
+			<actor>Kevin Costner</actor>
+			<actor>Chadwick Boseman</actor>
+			<actor>Jennifer Garner</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Sport</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>110</duration>
+	
+		<icon url="media/movies/artwork/draft-day.png"/>
+		<media url="media/movies/trailers/draft-day-trailer.mp4"/>
+		<info url="media/movies/artwork/draft-day.png">
+			<director>Ivan Reitman</director>
+			<actors>
+			<actor>Kevin Costner</actor>
+			<actor>Chadwick Boseman</actor>
+			<actor>Jennifer Garner</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Draft Day</span>
+				<p class="subheadline">Sport &#183; R &#183; 110 min &#183; </p>
+				<p class="description">Manager Sonny Weaver has the opportunity to rebuild his team when he trades for the number one pick. He must decide what he is willing to sacrifice on a life-changing day for a few hundred young men.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="rush">
+		<media url="media/movies/trailers/rush-trailer.mp4"/>
+		<image url="media/movies/artwork/rush.png"/>
+
+		<title>Rush</title>
+		<description>A biography of Formula 1 champion driver Niki Lauda and the 1976 crash that almost claimed his life. Mere weeks after the accident, he got behind the wheel again to challenge his rival, James Hunt.</description>
+
+		<directors>
+			<director>Ron Howard</director>
+		</directors>
+
+		<actors>
+			<actor>Daniel Brühl</actor>
+			<actor>Chris Hemsworth</actor>
+			<actor>Olivia Wilde</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Sport</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>R</ageRating>
+		<duration>123</duration>
+	
+		<icon url="media/movies/artwork/rush.png"/>
+		<media url="media/movies/trailers/rush-trailer.mp4"/>
+		<info url="media/movies/artwork/rush.png">
+			<director>Ron Howard</director>
+			<actors>
+			<actor>Daniel Brühl</actor>
+			<actor>Chris Hemsworth</actor>
+			<actor>Olivia Wilde</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Rush</span>
+				<p class="subheadline">Sport &#183; R &#183; 123 min &#183; </p>
+				<p class="description">A biography of Formula 1 champion driver Niki Lauda and the 1976 crash that almost claimed his life. Mere weeks after the accident, he got behind the wheel again to challenge his rival, James Hunt.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="why-we-ride">
+		<media url="media/movies/trailers/why-we-ride-trailer.mp4"/>
+		<image url="media/movies/artwork/why-we-ride.png"/>
+
+		<title>Why We Ride</title>
+		<description>An inspiring adventure into the world of motorcycling, told by famous racers, passionate riders and everyday families who live each day to the fullest on their two-wheeled machines.</description>
+
+		<directors>
+			<director>Bryan H. Carroll</director>
+		</directors>
+
+		<actors>
+			<actor>Jim Adams</actor>
+			<actor>Ernie Alexander</actor>
+			<actor>Jay Allen</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Sport</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>PG</ageRating>
+		<duration>89</duration>
+	
+		<icon url="media/movies/artwork/why-we-ride.png"/>
+		<media url="media/movies/trailers/why-we-ride-trailer.mp4"/>
+		<info url="media/movies/artwork/why-we-ride.png">
+			<director>Bryan H. Carroll</director>
+			<actors>
+			<actor>Jim Adams</actor>
+			<actor>Ernie Alexander</actor>
+			<actor>Jay Allen</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Why We Ride</span>
+				<p class="subheadline">Sport &#183; PG &#183; 89 min &#183; </p>
+				<p class="description">An inspiring adventure into the world of motorcycling, told by famous racers, passionate riders and everyday families who live each day to the fullest on their two-wheeled machines.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="drift">
+		<media url="media/movies/trailers/drift-trailer.mp4"/>
+		<image url="media/movies/artwork/drift.png"/>
+
+		<title>Drift</title>
+		<description>Two Australian brothers from a secluded coastal town, Andy and Jimmy launch a surf business that changes their lives forever in this sports drama inspired by actual events.</description>
+
+		<directors>
+			<director>Ben Nott</director>
+			<director>Morgan O'Neill</director>
+		</directors>
+
+		<actors>
+			<actor>Myles Pollard</actor>
+			<actor>Xavier Samuel</actor>
+			<actor>Sam Worthington</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Sport</genre>
+		<release>2013</release>
+		<stars>3.5</stars>
+		<ageRating>R</ageRating>
+		<duration>113</duration>
+	
+		<icon url="media/movies/artwork/drift.png"/>
+		<media url="media/movies/trailers/drift-trailer.mp4"/>
+		<info url="media/movies/artwork/drift.png">
+			<director>Ben Nott</director>
+			<actors>
+			<actor>Myles Pollard</actor>
+			<actor>Xavier Samuel</actor>
+			<actor>Sam Worthington</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Drift</span>
+				<p class="subheadline">Sport &#183; R &#183; 113 min &#183; </p>
+				<p class="description">Two Australian brothers from a secluded coastal town, Andy and Jimmy launch a surf business that changes their lives forever in this sports drama inspired by actual events.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="42">
+		<media url="media/movies/trailers/42-trailer.mp4"/>
+		<image url="media/movies/artwork/42.png"/>
+
+		<title>42</title>
+		<description>The story of Jackie Robinson from his signing with the Brooklyn Dodgers organization in 1945 to his historic 1947 rookie season when he broke the color barrier in Major League Baseball.</description>
+
+		<directors>
+			<director>Brian Helgeland</director>
+		</directors>
+
+		<actors>
+			<actor>Chadwick Boseman</actor>
+			<actor>T.R. Knight</actor>
+			<actor>Harrison Ford</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Sport</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>128</duration>
+	
+		<icon url="media/movies/artwork/42.png"/>
+		<media url="media/movies/trailers/42-trailer.mp4"/>
+		<info url="media/movies/artwork/42.png">
+			<director>Brian Helgeland</director>
+			<actors>
+			<actor>Chadwick Boseman</actor>
+			<actor>T.R. Knight</actor>
+			<actor>Harrison Ford</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">42</span>
+				<p class="subheadline">Sport &#183; PG-13 &#183; 128 min &#183; </p>
+				<p class="description">The story of Jackie Robinson from his signing with the Brooklyn Dodgers organization in 1945 to his historic 1947 rookie season when he broke the color barrier in Major League Baseball.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="hands-of-stone">
+		<media url="media/movies/trailers/hands-of-stone-trailer.mp4"/>
+		<image url="media/movies/artwork/hands-of-stone.png"/>
+
+		<title>Hands of Stone</title>
+		<description>Roberto Duran defeats Sugar Ray Leonard to capture the WBC welterweight title, but shocks the boxing world by returning to his corner in the November rematch announcing his resignation.</description>
+
+		<directors>
+			<director>Jonathan Jakubowicz</director>
+		</directors>
+
+		<actors>
+			<actor>Robert De Niro</actor>
+			<actor>Jurnee Smollett-Bell</actor>
+			<actor>Ellen Barkin</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Sport</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>R</ageRating>
+		<duration>142</duration>
+	
+		<icon url="media/movies/artwork/hands-of-stone.png"/>
+		<media url="media/movies/trailers/hands-of-stone-trailer.mp4"/>
+		<info url="media/movies/artwork/hands-of-stone.png">
+			<director>Jonathan Jakubowicz</director>
+			<actors>
+			<actor>Robert De Niro</actor>
+			<actor>Jurnee Smollett-Bell</actor>
+			<actor>Ellen Barkin</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Hands of Stone</span>
+				<p class="subheadline">Sport &#183; R &#183; 142 min &#183; </p>
+				<p class="description">Roberto Duran defeats Sugar Ray Leonard to capture the WBC welterweight title, but shocks the boxing world by returning to his corner in the November rematch announcing his resignation.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="when-the-game-stands-tall">
+		<media url="media/movies/trailers/when-the-game-stands-tall-trailer.mp4"/>
+		<image url="media/movies/artwork/when-the-game-stands-tall.png"/>
+
+		<title>When the Game Stands Tall</title>
+		<description>The journey of legendary football coach Bob Ladouceur, who took the De La Salle High School Spartans from obscurity to a 151-game winning streak that shattered all records for any American sport.</description>
+
+		<directors>
+			<director>Thomas Carter</director>
+		</directors>
+
+		<actors>
+			<actor>Jim Caviezel</actor>
+			<actor>Alexander Ludwig</actor>
+			<actor>Michael Chiklis</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Sport</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>PG</ageRating>
+		<duration>115</duration>
+	
+		<icon url="media/movies/artwork/when-the-game-stands-tall.png"/>
+		<media url="media/movies/trailers/when-the-game-stands-tall-trailer.mp4"/>
+		<info url="media/movies/artwork/when-the-game-stands-tall.png">
+			<director>Thomas Carter</director>
+			<actors>
+			<actor>Jim Caviezel</actor>
+			<actor>Alexander Ludwig</actor>
+			<actor>Michael Chiklis</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">When the Game Stands Tall</span>
+				<p class="subheadline">Sport &#183; PG &#183; 115 min &#183; </p>
+				<p class="description">The journey of legendary football coach Bob Ladouceur, who took the De La Salle High School Spartans from obscurity to a 151-game winning streak that shattered all records for any American sport.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- SPORT -->
+	<item id="invictus" title="Invictus">
+		<media url="media/movies/trailers/invictus-trailer.mp4"/>
+		<image url="media/movies/artwork/invictus.png"/>
+
+		<title>Invictus</title>
+		<description>Nelson Mandela, in his first term as the South African President, initiates a unique venture to unite the apartheid-torn land: enlist the national team on a mission to win the Rugby World Cup.</description>
+
+		<directors>
+			<director>Clint Eastwood</director>
+		</directors>
+
+		<actors>
+			<actor>Morgan Freeman</actor>
+			<actor>Matt Damon</actor>
+			<actor>Tony Kgoroge</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Sport</genre>
+		<release>2009</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>134</duration>
+	
+		<icon url="media/movies/artwork/invictus.png"/>
+		<media url="media/movies/trailers/invictus-trailer.mp4"/>
+		<info url="media/movies/artwork/invictus.png">
+			<director>Clint Eastwood</director>
+			<actors>
+			<actor>Morgan Freeman</actor>
+			<actor>Matt Damon</actor>
+			<actor>Tony Kgoroge</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Invictus</span>
+				<p class="subheadline">Sport &#183; PG-13 &#183; 134 min &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="description">Nelson Mandela, in his first term as the South African President, initiates a unique venture to unite the apartheid-torn land: enlist the national team on a mission to win the Rugby World Cup.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+</item>
+
+
+<item id="Thriller" title="Thriller">
+<!-- THRILLER -->
+	<item id="gravity">
+		<media url="media/movies/trailers/gravity-trailer.mp4"/>
+		<image url="media/movies/artwork/gravity.png"/>
+
+		<title>Gravity</title>
+		<description>A brilliant medical engineer, Dr. Ryan Stone is on her first Shuttle mission with veteran astronaut Matt Kowalsky who is in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes.</description>
+
+		<directors>
+			<director>Alfonso Cuarón</director>
+		</directors>
+
+		<actors>
+			<actor>Sandra Bullock</actor>
+			<actor>George Clooney</actor>
+			<actor>Ed Harris</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Thriller</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>91</duration>
+	
+		<icon url="media/movies/artwork/gravity.png"/>
+		<media url="media/movies/trailers/gravity-trailer.mp4"/>
+		<info url="media/movies/artwork/gravity.png">
+			<director>Alfonso Cuarón</director>
+			<actors>
+			<actor>Sandra Bullock</actor>
+			<actor>George Clooney</actor>
+			<actor>Ed Harris</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Gravity</span>
+				<p class="subheadline">Thriller &#183; PG-13 &#183; 91 min &#183; </p>
+				<p class="description">A brilliant medical engineer, Dr. Ryan Stone is on her first Shuttle mission with veteran astronaut Matt Kowalsky who is in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="foxcatcher">
+		<media url="media/movies/trailers/foxcatcher-trailer.mp4"/>
+		<image url="media/movies/artwork/foxcatcher.png"/>
+
+		<title>Foxcatcher</title>
+		<description>Based on the true story of Mark Schultz, an Olympic wrestler whose relationship with sponsor John du Pont and brother Dave Schultz would lead to unlikely circumstances.</description>
+
+		<directors>
+			<director>Bennett Miller</director>
+		</directors>
+
+		<actors>
+			<actor>Steve Carell</actor>
+			<actor>Channing Tatum</actor>
+			<actor>Anthony Michael Hall</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Thriller</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>T</ageRating>
+		<duration>130</duration>
+	
+		<icon url="media/movies/artwork/foxcatcher.png"/>
+		<media url="media/movies/trailers/foxcatcher-trailer.mp4"/>
+		<info url="media/movies/artwork/foxcatcher.png">
+			<director>Bennett Miller</director>
+			<actors>
+			<actor>Steve Carell</actor>
+			<actor>Channing Tatum</actor>
+			<actor>Anthony Michael Hall</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Foxcatcher</span>
+				<p class="subheadline">Thriller &#183; T &#183; 130 min &#183; </p>
+				<p class="description">Based on the true story of Mark Schultz, an Olympic wrestler whose relationship with sponsor John du Pont and brother Dave Schultz would lead to unlikely circumstances.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="prisoners">
+		<media url="media/movies/trailers/prisoners-trailer.mp4"/>
+		<image url="media/movies/artwork/prisoners.png"/>
+
+		<title>Prisoners</title>
+		<description>When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts. But just how far will he go to protect his family?</description>
+
+		<directors>
+			<director>Denis Villeneuve</director>
+		</directors>
+
+		<actors>
+			<actor>Hugh Jackman</actor>
+			<actor>Jake Gyllenhaal</actor>
+			<actor>Viola Davis</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Thriller</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>R</ageRating>
+		<duration>153</duration>
+	
+		<icon url="media/movies/artwork/prisoners.png"/>
+		<media url="media/movies/trailers/prisoners-trailer.mp4"/>
+		<info url="media/movies/artwork/prisoners.png">
+			<director>Denis Villeneuve</director>
+			<actors>
+			<actor>Hugh Jackman</actor>
+			<actor>Jake Gyllenhaal</actor>
+			<actor>Viola Davis</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Prisoners</span>
+				<p class="subheadline">Thriller &#183; R &#183; 153 min &#183; </p>
+				<p class="description">When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts. But just how far will he go to protect his family?</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="divergent">
+		<media url="media/movies/trailers/divergent-trailer.mp4"/>
+		<image url="media/movies/artwork/divergent.png"/>
+
+		<title>Divergent</title>
+		<description>In a world divided by factions based on virtues, Tris learns she is Divergent. When she discovers a plot to destroy them, she must find out what makes Divergents dangerous before it's too late.</description>
+
+		<directors>
+			<director>Neil Burger</director>
+		</directors>
+
+		<actors>
+			<actor>Shailene Woodley</actor>
+			<actor>Theo James</actor>
+			<actor>Kate Winslet</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Thriller</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>139</duration>
+	
+		<icon url="media/movies/artwork/divergent.png"/>
+		<media url="media/movies/trailers/divergent-trailer.mp4"/>
+		<info url="media/movies/artwork/divergent.png">
+			<director>Neil Burger</director>
+			<actors>
+			<actor>Shailene Woodley</actor>
+			<actor>Theo James</actor>
+			<actor>Kate Winslet</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Divergent</span>
+				<p class="subheadline">Thriller &#183; PG-13 &#183; 139 min &#183; </p>
+				<p class="description">In a world divided by factions based on virtues, Tris learns she is Divergent. When she discovers a plot to destroy them, she must find out what makes Divergents dangerous before it's too late.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="into-the-storm">
+		<media url="media/movies/trailers/into-the-storm-trailer.mp4"/>
+		<image url="media/movies/artwork/into-the-storm.png"/>
+
+		<title>Into the Storm</title>
+		<description>Storm trackers, thrill-seekers, and everyday townspeople document an unprecedented onslaught of devastating tornadoes touching down in the town of Silverton.</description>
+
+		<directors>
+			<director>Steven Quale</director>
+		</directors>
+
+		<actors>
+			<actor>Richard Armitage</actor>
+			<actor>Sarah Wayne Callies</actor>
+			<actor>Matt Walsh</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Thriller</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>89</duration>
+	
+		<icon url="media/movies/artwork/into-the-storm.png"/>
+		<media url="media/movies/trailers/into-the-storm-trailer.mp4"/>
+		<info url="media/movies/artwork/into-the-storm.png">
+			<director>Steven Quale</director>
+			<actors>
+			<actor>Richard Armitage</actor>
+			<actor>Sarah Wayne Callies</actor>
+			<actor>Matt Walsh</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Into the Storm</span>
+				<p class="subheadline">Thriller &#183; PG-13 &#183; 89 min &#183; </p>
+				<p class="description">Storm trackers, thrill-seekers, and everyday townspeople document an unprecedented onslaught of devastating tornadoes touching down in the town of Silverton.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="snowpiercer">
+		<media url="media/movies/trailers/snowpiercer-trailer.mp4"/>
+		<image url="media/movies/artwork/snowpiercer.png"/>
+
+		<title>Snowpiercer</title>
+		<description>Set in a future where a failed climate-change experiment kills all life on the planet except for a lucky few who boarded the Snowpiercer, a train that travels around the globe, where a class system emerges.</description>
+
+		<directors>
+			<director>Joon-ho Bong</director>
+		</directors>
+
+		<actors>
+			<actor>Chris Evans</actor>
+			<actor>Jamie Bell</actor>
+			<actor>Tilda Swinton</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Thriller</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>126</duration>
+	
+		<icon url="media/movies/artwork/snowpiercer.png"/>
+		<media url="media/movies/trailers/snowpiercer-trailer.mp4"/>
+		<info url="media/movies/artwork/snowpiercer.png">
+			<director>Joon-ho Bong</director>
+			<actors>
+			<actor>Chris Evans</actor>
+			<actor>Jamie Bell</actor>
+			<actor>Tilda Swinton</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Snowpiercer</span>
+				<p class="subheadline">Thriller &#183; R &#183; 126 min &#183; </p>
+				<p class="description">Set in a future where a failed climate-change experiment kills all life on the planet except for a lucky few who boarded the Snowpiercer, a train that travels around the globe, where a class system emerges.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="the-maze-runner">
+		<media url="media/movies/trailers/the-maze-runner-trailer.mp4"/>
+		<image url="media/movies/artwork/the-maze-runner.png"/>
+
+		<title>The Maze Runner</title>
+		<description>Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow runners for a shot at escape.</description>
+
+		<directors>
+			<director>Wes Ball</director>
+		</directors>
+
+		<actors>
+			<actor>Dylan O'Brien</actor>
+			<actor>Kaya Scodelario</actor>
+			<actor>Thomas Brodie-Sangster</actor>
+		</actors>
+
+		<priceBuy>€ 9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Thriller</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>113</duration>
+	
+		<icon url="media/movies/artwork/the-maze-runner.png"/>
+		<media url="media/movies/trailers/the-maze-runner-trailer.mp4"/>
+		<info url="media/movies/artwork/the-maze-runner.png">
+			<director>Wes Ball</director>
+			<actors>
+			<actor>Dylan O'Brien</actor>
+			<actor>Kaya Scodelario</actor>
+			<actor>Thomas Brodie-Sangster</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Maze Runner</span>
+				<p class="subheadline">Thriller &#183; PG-13 &#183; 113 min &#183; </p>
+				<p class="description">Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow runners for a shot at escape.</p>
+				</shorttext>
+			<price>&#8364; € 9.90</price>
+		</info>
+</item>
+
+<!-- THRILLER -->
+	<item id="the-departed" title="The Departed">
+		<media url="media/movies/trailers/the-departed-trailer.mp4"/>
+		<image url="media/movies/artwork/the-departed.png"/>
+
+		<title>The Departed</title>
+		<description>An undercover state cop who has infiltrated an Irish gang and a mole in the police force working for the same mob race to track down and identify each other before being exposed to the enemy.</description>
+
+		<directors>
+			<director>Martin Scorsese</director>
+		</directors>
+
+		<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Matt Damon</actor>
+			<actor>Jack Nicholson</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Thriller</genre>
+		<release>2006</release>
+		<stars>4.5</stars>
+		<ageRating>R</ageRating>
+		<duration>151</duration>
+	
+		<icon url="media/movies/artwork/the-departed.png"/>
+		<media url="media/movies/trailers/the-departed-trailer.mp4"/>
+		<info url="media/movies/artwork/the-departed.png">
+			<director>Martin Scorsese</director>
+			<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Matt Damon</actor>
+			<actor>Jack Nicholson</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Departed</span>
+				<p class="subheadline">Thriller &#183; R &#183; 151 min &#183; </p>
+				<p class="description">An undercover state cop who has infiltrated an Irish gang and a mole in the police force working for the same mob race to track down and identify each other before being exposed to the enemy.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+<!-- THRILLER -->
+	<item id="jurassic-park" title="Jurassic Park">
+		<media url="media/movies/trailers/jurassic-park-trailer.mp4"/>
+		<image url="media/movies/artwork/jurassic-park.png"/>
+
+		<title>Jurassic Park</title>
+		<description>During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.</description>
+
+		<directors>
+			<director>Steven Spielberg</director>
+		</directors>
+
+		<actors>
+			<actor>Sam Neill</actor>
+			<actor>Laura Dern</actor>
+			<actor>Jeff Goldblum</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Thriller</genre>
+		<release>1993</release>
+		<stars>4.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>127</duration>
+	
+		<icon url="media/movies/artwork/jurassic-park.png"/>
+		<media url="media/movies/trailers/jurassic-park-trailer.mp4"/>
+		<info url="media/movies/artwork/jurassic-park.png">
+			<director>Steven Spielberg</director>
+			<actors>
+			<actor>Sam Neill</actor>
+			<actor>Laura Dern</actor>
+			<actor>Jeff Goldblum</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Jurassic Park</span>
+				<p class="subheadline">Thriller &#183; PG-13 &#183; 127 min &#183; </p>
+				<p class="description">During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+</item>
+
+
+<item id="Erotic" title="Erotic">
+<!-- EROTIC -->
+	<item id="sin-city-a-dame-to-kill-for">
+		<media url="media/movies/trailers/sin-city-a-dame-to-kill-for-trailer.mp4"/>
+		<image url="media/movies/artwork/sin-city-a-dame-to-kill-for.png"/>
+
+		<title>Sin City: A Dame to Kill For</title>
+		<description>As Dwight is wrapped up in the thralls of femme fatale Ava, Johnny, a mysterious gambler is set on taking down his sworn enemy in a high-stakes game of life and death.</description>
+
+		<directors>
+			<director>Frank Miller</director>
+			<director>Robert Rodriguez</director>
+		</directors>
+
+		<actors>
+			<actor>Mickey Rourke</actor>
+			<actor>Jessica Alba</actor>
+			<actor>Josh Brolin</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Erotic</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>102</duration>
+	
+		<icon url="media/movies/artwork/sin-city-a-dame-to-kill-for.png"/>
+		<media url="media/movies/trailers/sin-city-a-dame-to-kill-for-trailer.mp4"/>
+		<info url="media/movies/artwork/sin-city-a-dame-to-kill-for.png">
+			<director>Frank Miller</director>
+			<actors>
+			<actor>Mickey Rourke</actor>
+			<actor>Jessica Alba</actor>
+			<actor>Josh Brolin</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Sin City: A Dame to Kill For</span>
+				<p class="subheadline">Erotic &#183; R &#183; 102 min &#183; </p>
+				<p class="description">As Dwight is wrapped up in the thralls of femme fatale Ava, Johnny, a mysterious gambler is set on taking down his sworn enemy in a high-stakes game of life and death.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="walk-of-shame">
+		<media url="media/movies/trailers/walk-of-shame-trailer.mp4"/>
+		<image url="media/movies/artwork/walk-of-shame.png"/>
+
+		<title>Walk of Shame</title>
+		<description>A reporter's dream of becoming a news anchor is compromised after a one-night stand leaves her stranded in downtown L.A. with only eight hours to make it to the most important job interview of her life.</description>
+
+		<directors>
+			<director>Steven Brill</director>
+		</directors>
+
+		<actors>
+			<actor>Elizabeth Banks</actor>
+			<actor>James Marsden</actor>
+			<actor>Gillian Jacobs</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Erotic</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>R</ageRating>
+		<duration>95</duration>
+	
+		<icon url="media/movies/artwork/walk-of-shame.png"/>
+		<media url="media/movies/trailers/walk-of-shame-trailer.mp4"/>
+		<info url="media/movies/artwork/walk-of-shame.png">
+			<director>Steven Brill</director>
+			<actors>
+			<actor>Elizabeth Banks</actor>
+			<actor>James Marsden</actor>
+			<actor>Gillian Jacobs</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Walk of Shame</span>
+				<p class="subheadline">Erotic &#183; R &#183; 95 min &#183; </p>
+				<p class="description">A reporter's dream of becoming a news anchor is compromised after a one-night stand leaves her stranded in downtown L.A. with only eight hours to make it to the most important job interview of her life.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="sex-tape">
+		<media url="media/movies/trailers/sex-tape-trailer.mp4"/>
+		<image url="media/movies/artwork/sex-tape.png"/>
+
+		<title>Sex Tape</title>
+		<description>A married couple wake up to discover that the sex tape they made the evening before has gone missing, leading to a frantic search for its whereabouts.</description>
+
+		<directors>
+			<director>Jake Kasdan</director>
+		</directors>
+
+		<actors>
+			<actor>Jason Segel</actor>
+			<actor>Cameron Diaz</actor>
+			<actor>Rob Corddry</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Erotic</genre>
+		<release>2014</release>
+		<stars>3</stars>
+		<ageRating>R</ageRating>
+		<duration>94</duration>
+	
+		<icon url="media/movies/artwork/sex-tape.png"/>
+		<media url="media/movies/trailers/sex-tape-trailer.mp4"/>
+		<info url="media/movies/artwork/sex-tape.png">
+			<director>Jake Kasdan</director>
+			<actors>
+			<actor>Jason Segel</actor>
+			<actor>Cameron Diaz</actor>
+			<actor>Rob Corddry</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Sex Tape</span>
+				<p class="subheadline">Erotic &#183; R &#183; 94 min &#183; </p>
+				<p class="description">A married couple wake up to discover that the sex tape they made the evening before has gone missing, leading to a frantic search for its whereabouts.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="open-windows">
+		<media url="media/movies/trailers/open-windows-trailer.mp4"/>
+		<image url="media/movies/artwork/open-windows.png"/>
+
+		<title>Open Windows</title>
+		<description>Famous actress Jill refuses to have dinner with her fan Nick, who won a date with her in an Internet contest. He starts a game which turns out to be a cover up of much larger plans to hunt down the star.</description>
+
+		<directors>
+			<director>Nacho Vigalondo</director>
+		</directors>
+
+		<actors>
+			<actor>Sasha Grey</actor>
+			<actor>Elijah Wood</actor>
+			<actor>Neil Maskell</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Erotic</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>R</ageRating>
+		<duration>100</duration>
+	
+		<icon url="media/movies/artwork/open-windows.png"/>
+		<media url="media/movies/trailers/open-windows-trailer.mp4"/>
+		<info url="media/movies/artwork/open-windows.png">
+			<director>Nacho Vigalondo</director>
+			<actors>
+			<actor>Sasha Grey</actor>
+			<actor>Elijah Wood</actor>
+			<actor>Neil Maskell</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Open Windows</span>
+				<p class="subheadline">Erotic &#183; R &#183; 100 min &#183; </p>
+				<p class="description">Famous actress Jill refuses to have dinner with her fan Nick, who won a date with her in an Internet contest. He starts a game which turns out to be a cover up of much larger plans to hunt down the star.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="fading-gigolo">
+		<media url="media/movies/trailers/fading-gigolo-trailer.mp4"/>
+		<image url="media/movies/artwork/fading-gigolo.png"/>
+
+		<title>Fading Gigolo</title>
+		<description>Fioravante decides to become a professional Don Juan as a way of making money to help his cash-strapped friend. The duo quickly finds themselves caught up in the crosscurrents of love and money.</description>
+
+		<directors>
+			<director>John Turturro</director>
+		</directors>
+
+		<actors>
+			<actor>John Turturro</actor>
+			<actor>Woody Allen</actor>
+			<actor>Sharon Stone</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Erotic</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>90</duration>
+	
+		<icon url="media/movies/artwork/fading-gigolo.png"/>
+		<media url="media/movies/trailers/fading-gigolo-trailer.mp4"/>
+		<info url="media/movies/artwork/fading-gigolo.png">
+			<director>John Turturro</director>
+			<actors>
+			<actor>John Turturro</actor>
+			<actor>Woody Allen</actor>
+			<actor>Sharon Stone</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Fading Gigolo</span>
+				<p class="subheadline">Erotic &#183; R &#183; 90 min &#183; </p>
+				<p class="description">Fioravante decides to become a professional Don Juan as a way of making money to help his cash-strapped friend. The duo quickly finds themselves caught up in the crosscurrents of love and money.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="adult-world">
+		<media url="media/movies/trailers/adult-world-trailer.mp4"/>
+		<image url="media/movies/artwork/adult-world.png"/>
+
+		<title>Adult World</title>
+		<description>Amy, a naive college graduate who believes she is destined to be a great poet, begrudgingly accepts a job at a sex shop while she pursues a mentorship with reclusive writer Rat Billings.</description>
+
+		<directors>
+			<director>Scott Coffey</director>
+		</directors>
+
+		<actors>
+			<actor>Emma Roberts</actor>
+			<actor>John Cusack</actor>
+			<actor>Evan Peters</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Erotic</genre>
+		<release>2013</release>
+		<stars>3</stars>
+		<ageRating>R</ageRating>
+		<duration>97</duration>
+	
+		<icon url="media/movies/artwork/adult-world.png"/>
+		<media url="media/movies/trailers/adult-world-trailer.mp4"/>
+		<info url="media/movies/artwork/adult-world.png">
+			<director>Scott Coffey</director>
+			<actors>
+			<actor>Emma Roberts</actor>
+			<actor>John Cusack</actor>
+			<actor>Evan Peters</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Adult World</span>
+				<p class="subheadline">Erotic &#183; R &#183; 97 min &#183; </p>
+				<p class="description">Amy, a naive college graduate who believes she is destined to be a great poet, begrudgingly accepts a job at a sex shop while she pursues a mentorship with reclusive writer Rat Billings.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+	<item id="nymphomaniac-vol-1">
+		<media url="media/movies/trailers/nymphomaniac-vol-1-trailer.mp4"/>
+		<image url="media/movies/artwork/nymphomaniac-vol-1.png"/>
+
+		<title>Nymphomaniac: Vol. I</title>
+		<description>A self-professed nymphomaniac, Joe's vividly erotic stories gradually reveal her to be an intensely sexual creature whose carnal appetite knows no limits.</description>
+
+		<directors>
+			<director>Lars von Trier</director>
+		</directors>
+
+		<actors>
+			<actor>Charlotte Gainsbourg</actor>
+			<actor>Stellan Skarsgard</actor>
+			<actor>Stacy Martin</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Erotic</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>R</ageRating>
+		<duration>118</duration>
+	
+		<icon url="media/movies/artwork/nymphomaniac-vol-1.png"/>
+		<media url="media/movies/trailers/nymphomaniac-vol-1-trailer.mp4"/>
+		<info url="media/movies/artwork/nymphomaniac-vol-1.png">
+			<director>Lars von Trier</director>
+			<actors>
+			<actor>Charlotte Gainsbourg</actor>
+			<actor>Stellan Skarsgard</actor>
+			<actor>Stacy Martin</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Nymphomaniac: Vol. I</span>
+				<p class="subheadline">Erotic &#183; R &#183; 118 min &#183; </p>
+				<p class="description">A self-professed nymphomaniac, Joe's vividly erotic stories gradually reveal her to be an intensely sexual creature whose carnal appetite knows no limits.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+</item>
+</menu>
+
+<!--
+  <item id="action_adventure" title="Adventure" labelbgcolor="#217799">
+    <icon url="media/icons/submenu/submenu icon buy movie adventure.png"/>
+    <item id="Indiana Jones and the Kingdom of the Crystal Skull" text="Indiana Jones and the Kingdom of the Crystal Skull">
+      <icon url="media/movies/thumbs/adventure-indiana-jones-4.png"/>
+      <media url="media/movies/trailers/adventure-indiana-jones-4.flv"/>
+      <info url="media/movies/artwork/adventure-indiana-jones-4.png">
+      	<director>Steven Spielberg</director>
+        <actors>
+        	<actor>Harrison Ford</actor>
+        	<actor>Kate Blanchett</actor>
+        	<actor>Cate Blanchett</actor>
+        	<actor>Karen Allen</actor>
+        	<actor>Ray Winstone</actor>
+        	<actor>Shia LaBeouf</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Indiana Jones and the Kingdom of the Crystal Skull</span>
+          <p class="subheadline">
+            Adventure, USA 2008
+          </p>
+          <p class="description">
+            Set in 1957, this fourth film in the Indiana Jones film series pits an older and wiser Indiana Jones (Harrison Ford) against agents of the Soviet Union – led by Spalko (Cate Blanchett) – for a crystal skull. Indy is aided by his former lover Marion Ravenwood (Karen Allen) and the greaser Mutt Williams (Shia LaBeouf).
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Indiana Jones and the Kingdom of the Crystal Skull</span> 
+          <p class="subheadline">
+            Adventure, USA 2008
+          </p>
+          <p class="description">
+            Set in 1957, this fourth film in the Indiana Jones film series pits an older and wiser Indiana Jones (Harrison Ford) against agents of the Soviet Union – led by Spalko (Cate Blanchett) – for a crystal skull. Indy is aided by his former lover Marion Ravenwood (Karen Allen) and the greaser Mutt Williams (Shia LaBeouf).
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="The Dark Knight" text="Dark Knight, The">
+      <icon url="media/movies/thumbs/adventure-the-dark-night.png"/>
+      <media url="media/movies/trailer/adventure-the-dark-night.flv"/>
+      <info url="media/movies/artwork/adventure-the-dark-night.png">
+      	<director>Christopher Nolan</director>
+        <actors>
+        	<actor>Christian Bale</actor>
+        	<actor>Heath Ledger</actor>
+        	<actor>Aaron Eckhart</actor>
+        	<actor>Michael Caine</actor>
+        	<actor>Maggie Gyllenhaal</actor>
+        	<actor>Gary Oldman</actor>
+        	<actor>Morgan Freeman</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">The Dark Knight</span> 
+          <p class="subheadline">
+            Action Adventure, USA 2008
+          </p>
+          <p class="description">
+            Director Christopher Nolan sends Batman (Christian Bale) across the world in his quest to fight a growing criminal threat. With the help of Lieutenant Jim Gordon (Gary Oldman) and District Attorney Harvey Dent (Aaron Eckhart), Batman has been making headway against local crime…until a rising criminal mastermind known as The Joker (Heath Ledger) unleashes a fresh reign of chaos across Gotham City.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">The Dark Knight</span> 
+          <p class="subheadline">
+            Action Adventure, USA 2008
+          </p>
+          <p class="description">
+            Director Christopher Nolan sends Batman (Christian Bale) across the world in his quest to fight a growing criminal threat. With the help of Lieutenant Jim Gordon (Gary Oldman) and District Attorney Harvey Dent (Aaron Eckhart), Batman has been making headway against local crime…until a rising criminal mastermind known as The Joker (Heath Ledger) unleashes a fresh reign of chaos across Gotham City.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="The Golden Compass" text="Golden Compass, The">
+      <icon url="media/movies/thumbs/adventure-the-golden-compass.png"/>
+      <media url="media/movies/trailer/adventure-the-golden-compass.flv"/>
+      <info url="media/movies/artwork/adventure-the-golden-compass.png">
+      	<director>Chris Weitz</director>
+        <actors>
+        	<actor>Nicole Kidman</actor>
+        	<actor>Daniel Craig</actor>
+        	<actor>Dakota Blue Richards</actor>
+        	<actor>Eva Green</actor>
+        	<actor>Ian McShane</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">The Golden Compass</span> 
+          <p class="subheadline">
+            Adventure, USA 2007
+          </p>
+          <p class="description">
+            A young girl (Dakota Blue Richards) ventures into a perilous parallel universe to rescue her best friend and fight the forces of darkness in director Chris Weitz's adaptation of the first installment of author Philip Pullman's best-selling fantasy trilogy. Daniel Craig appears as Lyra's ruthless adventurer uncle, Lord Asriel, and Nicole Kidman assumes the glamorous guise of the villainous Mrs. Coulter.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">The Golden Compass</span> 
+          <p class="subheadline">
+            Adventure, USA 2007
+          </p>
+          <p class="description">
+            A young girl (Dakota Blue Richards) ventures into a perilous parallel universe to rescue her best friend and fight the forces of darkness in director Chris Weitz's adaptation of the first installment of author Philip Pullman's best-selling fantasy trilogy. Daniel Craig appears as Lyra's ruthless adventurer uncle, Lord Asriel, and Nicole Kidman assumes the glamorous guise of the villainous Mrs. Coulter.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Pirates Of The Caribbean: Curse of the Black Pearl" text="Pirates Of The Caribbean: Curse of the Black Pearl">
+      <icon url="media/movies/thumbs/adventure-pirates-of-the-carribean-1.png"/>
+      <media url="media/movies/trailer/adventure-pirates-of-the-carribean-2.flv"/>
+      <info url="media/movies/artwork/adventure-pirates-of-the-carribean-1.png">
+        <director>Gore Verbinski</director>
+        <actors>
+        	<actor>Johnny Depp</actor>
+        	<actor>Geoffrey Rush</actor>
+        	<actor>Orlando Bloom</actor>
+        	<actor>Keira Knightley</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Pirates of the Caribbean: Curse of the Black Pearl</span> 
+          <p class="subheadline">
+            Adventure, USA 2003
+          </p>
+          <p class="description">
+            Jack Sparrow (Johnny Depp), a freewheeling 17th-century pirate who roams the Caribbean Sea butts heads with a rival pirate bent on pillaging the village of Port Royal. When the governor's daughter (Keira Knightley) is kidnapped, Sparrow decides to help the girl's love (Orlando Bloom) save her. But their seafaring mission is hardly simple.
+           
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Pirates of the Caribbean: Curse of the Black Pearl</span> 
+          <p class="subheadline">
+            Adventure, USA 2003
+          </p>
+          <p class="description">
+            Jack Sparrow (Johnny Depp), a freewheeling 17th-century pirate who roams the Caribbean Sea butts heads with a rival pirate bent on pillaging the village of Port Royal. When the governor's daughter (Keira Knightley) is kidnapped, Sparrow decides to help the girl's love (Orlando Bloom) save her. But their seafaring mission is hardly simple.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Pirates of the Caribbean 2: Dead Man's Chest" text="Pirates of the Caribbean 2: Dead Man's Chest">
+      <icon url="media/movies/thumbs/adventure-pirates-of-the-carribean-2.png"/>
+      <media url="media/movies/trailer/adventure-pirates-of-the-carribean-2.flv"/>
+      <info url="media/movies/artwork/adventure-pirates-of-the-carribean-2.png">
+        <director>Gore Verbinski</director>
+        <actors>
+        	<actor>Johnny Depp</actor>
+        	<actor>Orlando Bloom</actor>
+        	<actor>Keira Knightley</actor>
+        	<actor>Jack Davenport</actor>
+        	<actor>Bill Nighy</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Pirates of the Caribbean 2: Dead Man's Chest</span> 
+          <p class="subheadline">
+            Adventure, USA 2006
+          </p>
+          <p class="description">
+            The high-seas adventures of happy-go-lucky troublemaker Captain Jack Sparrow (Johnny Depp), young Will Turner (Orlando Bloom) and headstrong beauty Elizabeth Swann (Keira Knightley) continues as Sparrow works his way out of a blood debt with the ghostly Davey Jones (Bill Nighy), he also attempts to avoid eternal damnation.
+            Captain Jack Sparrow (Johnny Depp) returns to the screen for another round of supernatural adventures in the sequel to the 2003 Disney hit, which re-teams original director Gore Verbinski with original screenwriters Ted Elliott and Terry Rossio. As Will (Orlando Bloom) and Elizabeth (Keira Knightley) prepare to exchange vows at the altar, their wedding plans hit rough waters with the arrival of sea-bound scallywag Jack Sparrow.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Pirates of the Caribbean 2: Dead Man's Chest</span> 
+          <p class="subheadline">
+            Adventure, USA 2006
+          </p>
+          <p class="description">
+            The high-seas adventures of happy-go-lucky troublemaker Captain Jack Sparrow (Johnny Depp), young Will Turner (Orlando Bloom) and headstrong beauty Elizabeth Swann (Keira Knightley) continues as Sparrow works his way out of a blood debt with the ghostly Davey Jones (Bill Nighy), he also attempts to avoid eternal damnation.
+            Captain Jack Sparrow (Johnny Depp) returns to the screen for another round of supernatural adventures in the sequel to the 2003 Disney hit, which re-teams original director Gore Verbinski with original screenwriters Ted Elliott and Terry Rossio. As Will (Orlando Bloom) and Elizabeth (Keira Knightley) prepare to exchange vows at the altar, their wedding plans hit rough waters with the arrival of sea-bound scallywag Jack Sparrow.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Pirates of the Caribbean 3: At World's End" text="Pirates of the Caribbean 3: At World's End">
+      <icon url="media/movies/thumbs/adventure-pirates-of-the-carribean-3.png"/>
+      <media url="media/movies/trailer/adventure-pirates-of-the-carribean-3.flv"/>
+      <info url="media/movies/artwork/adventure-pirates-of-the-carribean-3.png">
+        <director>Gore Verbinski</director>
+        <actors>
+        	<actor>Johnny Depp</actor>
+        	<actor>Orlando Bloom</actor>
+        	<actor>Keira Knightley</actor>
+        	<actor>Jack Davenport</actor>
+        	<actor>Geoffrey Rush</actor>
+        	<actor>Chow Yun-Fat</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Pirates of the Caribbean 3: At World's End</span> 
+          <p class="subheadline">
+            Adventure, USA 2007
+          </p>
+          <p class="description">
+            Captain Barbossa (Geoffrey Rush), long believed to be dead, has come back to life and is headed to the edge of the Earth with brave Will Turner (Orlando Bloom) and feisty Elizabeth Swann (Keira Knightley). And what of Jack Sparrow (Johnny Depp)? Nothing is as it seems.
+             Captain Jack Sparrow (Johnny Depp) is hopelessly trapped in Davy Jones' locker after a harrowing encounter with the dreaded Kracken, and now Will Turner (Orlando Bloom) and Elizabeth Swann (Keira Knightley) must align themselves with the nefarious Captain Barbossa (Geoffrey Rush) if they hold out any hope of saving their old friend from a fate worse than death.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Pirates of the Caribbean 3: At World's End</span> 
+          <p class="subheadline">
+            Adventure, USA 2007
+          </p>
+          <p class="description">
+          Captain Barbossa (Geoffrey Rush), long believed to be dead, has come back to life and is headed to the edge of the Earth with brave Will Turner (Orlando Bloom) and feisty Elizabeth Swann (Keira Knightley). And what of Jack Sparrow (Johnny Depp)? Nothing is as it seems.
+             Captain Jack Sparrow (Johnny Depp) is hopelessly trapped in Davy Jones' locker after a harrowing encounter with the dreaded Kracken, and now Will Turner (Orlando Bloom) and Elizabeth Swann (Keira Knightley) must align themselves with the nefarious Captain Barbossa (Geoffrey Rush) if they hold out any hope of saving their old friend from a fate worse than death.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+  </item>
+  <item id="comedy" title="Comedy" labelbgcolor="#217799">
+    <icon url="media/icons/submenu/submenu icon buy movie comedy.png"/>
+    <item id="Ratatouille" text="Ratatouille">
+      <icon url="media/movies/thumbs/comedy-ratatouille.png"/>
+      <media url="media/movies/trailer/comedy-ratatouille.flv"/>
+      <info url="media/movies/artwork/comedy-ratatouille.png">
+        <director>Brad Bird</director>
+        <actors>
+        	<actor>Patton Oswalt</actor>
+        	<actor>Ian Holm</actor>
+        	<actor>Lou Romano</actor>
+        	<actor>Janeane Garofalo</actor>
+        	<actor>Brad Garret</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Ratatouille</span> 
+          <p class="subheadline">
+            Comedy, USA 2007
+          </p>
+          <p class="description">
+            A scrawny rat named Rémy (voice of Patton Oswalt) finds his dreams of culinary superstardom stirring up sizable controversy in the kitchen of a fine French restaurant in director Brad Bird's madcap computer-animated comedy. It's hard being a rat with culinary aspirations, but Remy is convinced he has what it takes to break the stereotypes and follow in the footsteps of star chef Auguste Gusteau (voice of Brad Garrett).
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Ratatouille</span> 
+          <p class="subheadline">
+            Comedy, USA 2007
+          </p>
+          <p class="description">
+            A scrawny rat named Remy (voice of Patton Oswalt) finds his dreams of culinary superstardom stirring up sizable controversy in the kitchen of a fine French restaurant in director Brad Bird's madcap computer-animated comedy. It's hard being a rat with culinary aspirations, but Remy is convinced he has what it takes to break the stereotypes and follow in the footsteps of star chef Auguste Gusteau (voice of Brad Garrett).
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Be Kind Rewind" text="Be Kind Rewind">
+      <icon url="media/movies/thumbs/comedy-be-kind-rewind.png"/>
+      <media url="media/movies/trailer/comedy-be-kind-rewind.flv"/>
+      <info url="media/movies/artwork/comedy-be-kind-rewind.png">
+      	<director>Michel Gondry</director>
+      	<actors>
+      		<actor>Jack Black</actor>
+      		<actor>Mos Def</actor>
+      		<actor>Danny Glover</actor>
+      		<actor>Mia Farrow</actor>
+      	</actors>
+        <shorttext>
+          <span class="headline">Be Kind Rewind</span> 
+          <p class="subheadline">
+            Comedy, USA 2007
+          </p>
+          <p class="description">
+            A one-of-a-kind comedy from the mind of writer/director Michel Gondry. Jack Black stars as a loveable loser stuck in a life that’s too small for his big dreams. But when he unintentionally erases all the tapes in a video store where his best friend works, he devises a plan to satisfy the store’s few loyal customers by re-creating and re-filming every movie they decide to rent. Be Kind Rewind features a cast that includes Mos Def, Danny Glover, and Mia Farrow.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Be Kind Rewind</span> 
+          <p class="subheadline">
+            Comedy, USA 2007
+          </p>
+          <p class="description">
+            A one-of-a-kind comedy from the mind of writer/director Michel Gondry. Jack Black stars as a loveable loser stuck in a life that’s too small for his big dreams. But when he unintentionally erases all the tapes in a video store where his best friend works, he devises a plan to satisfy the store’s few loyal customers by re-creating and re-filming every movie they decide to rent. Be Kind Rewind features a cast that includes Mos Def, Danny Glover, and Mia Farrow.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="WALL-E" text="WALL-E">
+      <icon url="media/movies/thumbs/comedy-wall-e.png"/>
+      <media url="media/movies/trailer/comedy-wall-e.flv"/>
+      <info url="media/movies/artwork/comedy-wall-e.png">
+        <director>Andrew Stanton</director>
+        <actors>
+        	<actor>Ben Burtt</actor>
+        	<actor>Elissa Knight</actor>
+        	<actor>Jeff Garlin</actor>
+        	<actor>MacInTalk</actor>
+        	<actor>Sigourney Weaver</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">WALL-E</span> 
+          <p class="subheadline">
+            Comedy, USA 2008
+          </p>
+          <p class="description">
+            The year is 2700, and planet Earth has long been inhabitable. For hundreds of years, WALL-E (Waste Allocation Load Lifter Earth-Class) has been taking out the trash, and collecting precious knick-knacks in order to stave off the boredom of his dreary routine. Little does WALL-E realize that he has recently stumbled onto a secret that could save planet Earth, and once again make the ravaged planet safe for all humankind.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">WALL-E</span> 
+          <p class="subheadline">
+            Comedy, USA 2008
+          </p>
+          <p class="description">
+            The year is 2700, and planet Earth has long been inhabitable. For hundreds of years, WALL-E (Waste Allocation Load Lifter Earth-Class) has been taking out the trash, and collecting precious knick-knacks in order to stave off the boredom of his dreary routine. Little does WALL-E realize that he has recently stumbled onto a secret that could save planet Earth, and once again make the ravaged planet safe for all humankind.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="The Darjeeling Limited" text="Darjeeling Limited, The">
+      <icon url="media/movies/thumbs/comedy-the-darjeeling-limited.png"/>
+      <media url="media/movies/trailer/comedy-the-darjeeling-limited.flv"/>
+      <info url="media/movies/artwork/comedy-the-darjeeling-limited.png">
+      	<director>Wes Anderson</director>
+        <actors>
+        	<actor>Owen Wilson</actor>
+        	<actor>Adrien Brody</actor>
+        	<actor>Jason Schwartzman</actor>
+        	<actor>Amara Karan</actor>
+        	<actor>Bill Murray</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">The Darjeeling Limited</span> 
+          <p class="subheadline">
+            Comedy, USA 2007
+          </p>
+          <p class="description">
+            Wes Anderson's The Darjeeling Limited stars Owen Wilson, Jason Schwartzman, and Adrien Brody as three brothers who, at the insistence of the oldest, take a train ride through India together in order to strengthen their bond. Even though the vacation goes wrong in ways they do not anticipate, the strangeness of their setting and some revealing honesty produces some surprising changes between them all.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">The Darjeeling Limited</span> 
+          <p class="subheadline">
+            Comedy, USA 2007
+          </p>
+          <p class="description">
+            Wes Anderson's The Darjeeling Limited stars Owen Wilson, Jason Schwartzman, and Adrien Brody as three brothers who, at the insistence of the oldest, take a train ride through India together in order to strengthen their bond. Even though the vacation goes wrong in ways they do not anticipate, the strangeness of their setting and some revealing honesty produces some surprising changes between them all.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Juno" text="Juno">
+      <icon url="media/movies/thumbs/comedy-juno.png"/>
+      <media url="media/movies/trailer/comedy-juno.flv"/>
+      <info url="media/movies/artwork/comedy-juno.png">
+      	<director>Jason Reitman</director>
+        <actors>
+        	<actor>Ellen Page</actor>
+        	<actor>Michael Cera</actor>
+        	<actor>Jennifer Garner</actor>
+        	<actor>Jason Bateman</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Juno</span> 
+          <p class="subheadline">
+            Comedy, USA/Canada 2007
+          </p>
+          <p class="description">
+            Sixteen-year-old Minnesota high-schooler Juno MacGuff (Ellen Page) discovers she is pregnant with a child fathered by her best friend and longtime admirer, Paulie Bleeker (Michael Cera). Although she initially opts for an abortion, a last-minute change of heart leads her to decide to have the baby and make a plan for the child's adoption.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Juno</span> 
+          <p class="subheadline">
+            Comedy, USA/Canada 2007
+          </p>
+          <p class="description">
+            Sixteen-year-old Minnesota high-schooler Juno MacGuff (Ellen Page) discovers she is pregnant with a child fathered by her best friend and longtime admirer, Paulie Bleeker (Michael Cera). Although she initially opts for an abortion, a last-minute change of heart leads her to decide to have the baby and make a plan for the child's adoption.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+  </item>
+  <item id="drama" title="Drama" labelbgcolor="#217799">
+    <icon url="media/icons/submenu/submenu icon buy movie drama.png"/>
+    <item id="Atonement" text="Atonement">
+      <icon url="media/movies/thumbs/drama-atonement.png"/>
+      <media url="media/movies/trailer/drama-atonement.flv"/>
+      <info url="media/movies/artwork/drama-atonement.png">
+      	<director>Joe Wright</director>
+      	<actors>
+      		<actor>James McAvoy</actor>
+      		<actor>Keira Knightley</actor>
+      		<actor>Saoirse Ronan</actor>
+      		<actor>Romola Garai</actor>
+      	</actors>
+        <shorttext>
+          <span class="headline">Atonement</span> 
+          <p class="subheadline">
+            Drama, UK/France 2007
+          </p>
+          <p class="description">
+            A mischievous girl accuses her older sister's Cecilia (Keira Knightley) lover Robbie (James McAvoy) of a crime he did not commit, only to find that her words have irrevocably and permanently changed the lives of all involved in a film that re-teams the filmmakers behind Pride &amp; Prejudice to adapt the best-selling 2002 novel by author Ian McEwan.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Atonement</span> 
+          <p class="subheadline">
+            Drama, UK/France 2007
+          </p>
+          <p class="description">
+            A mischievous girl accuses her older sister's Cecilia (Keira Knightley) lover Robbie (James McAvoy) of a crime he did not commit, only to find that her words have irrevocably and permanently changed the lives of all involved in a film that re-teams the filmmakers behind Pride &amp; Prejudice to adapt the best-selling 2002 novel by author Ian McEwan.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Gone Baby Gone" text="Gone Baby Gone">
+      <icon url="media/movies/thumbs/drama-gone-baby-gone.png"/>
+      <media url="media/movies/trailer/drama-gone-baby-gone.flv"/>
+      <info url="media/movies/artwork/drama-gone-baby-gone.png">
+      	<director>Ben Affleck</director>
+        <actors>
+        	<actor>Casey Affleck</actor>
+        	<actor>Michelle Monaghan</actor>
+        	<actor>Morgan Freeman</actor>
+        	<actor>Ed Harris</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Gone Baby Gone</span> 
+          <p class="subheadline">
+            Drama, USA 2007
+          </p>
+          <p class="description">
+            Ben Affleck's adaptation of Dennis Lehane's novel stars Casey Affleck as Patrick Kenzie, a private investigator who takes on a case involving a kidnapped girl. The girl's aunt begs Patrick to take the case because he has connections to criminal Boston that the police do not. He agrees and along with his partner, Angie Gennaro (Michelle Monaghan), they uncover a web of corruption that threatens the relationship between the two.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Gone Baby Gone</span> 
+          <p class="subheadline">
+            Drama, USA 2007
+          </p>
+          <p class="description">
+            Ben Affleck's adaptation of Dennis Lehane's novel stars Casey Affleck as Patrick Kenzie, a private investigator who takes on a case involving a kidnapped girl. The girl's aunt begs Patrick to take the case because he has connections to criminal Boston that the police do not. He agrees and along with his partner, Angie Gennaro (Michelle Monaghan), they uncover a web of corruption that threatens the relationship between the two.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="I am Not There" text="I'm Not There">
+      <icon url="media/movies/thumbs/drama-i-am-not-there.png"/>
+      <media url="media/movies/trailer/drama-i-am-not-there.flv"/>
+      <info url="media/movies/artwork/drama-i-am-not-there.png">
+        <director>Todd Haynes</director>
+        <actors>
+        	<actor>Kate Blanchett</actor>
+        	<actor>Cate Blanchett</actor>
+        	<actor>Heath Ledger</actor>
+        	<actor>Julianne Moore</actor>
+        	<actor>Charlotte Gainsbourg</actor>
+        	<actor>Christian Bale</actor>
+        	<actor>Richard Gere</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">I'm Not There</span> 
+          <p class="subheadline">
+            Drama, USA 2007
+          </p>
+          <p class="description">
+            Director Todd Haynes's unconventional biopic of the legendary singer/songwriter Bob Dylan features different actors playing the part of the Minnesota native at various stages of his remarkable career. Six actors portray Dylan as a series of shifting personae — from the public to the private to the fantastical — weaving together a rich and colorful portrait of this ever-elusive American icon.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">I'm Not There</span> 
+          <p class="subheadline">
+            Drama, USA 2007
+          </p>
+          <p class="description">
+            Director Todd Haynes's unconventional biopic of the legendary singer/songwriter Bob Dylan features different actors playing the part of the Minnesota native at various stages of his remarkable career. Six actors portray Dylan as a series of shifting personae — from the public to the private to the fantastical — weaving together a rich and colorful portrait of this ever-elusive American icon.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="La Vie En Rose" text="La Vie En Rose">
+      <icon url="media/movies/thumbs/drama-la-vie-en-rose.png"/>
+      <media url="media/movies/trailer/drama-la-vie-en-rose.flv"/>
+      <info url="media/movies/artwork/drama-la-vie-en-rose.png">
+        <director>Olivier Dahan</director>
+        <actors>
+        	<actor>Marion Cotillard</actor>
+        	<actor>Sylvie Testud</actor>
+        	<actor>Clotilde Courau</actor>
+        	<actor>Jean-Paul Rouve</actor>
+        	<actor>Gérard Depardieu</actor>
+        	<actor>Pascal Gerggory</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">La Vie En Rose</span> 
+          <p class="subheadline">
+            Drama, France/UK 2007
+          </p>
+          <p class="description">
+            Writer/director Olivier Dahan (Crimson Rivers II) helmed La Vie en Rose, the screen biopic of tragic French songstress Edith Piaf. Marion Cotillard portrays Piaf, the superstar once raised as a young girl by her grandmother in a Normandy bordello, then discovered as a complete unknown on a French street corner by cabaret proprietor Louis Leplée (Gérard Depardieu).
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">La Vie En Rose</span> 
+          <p class="subheadline">
+            Drama, France/UK 2007
+          </p>
+          <p class="description">
+            Writer/director Olivier Dahan (Crimson Rivers II) helmed La Vie en Rose, the screen biopic of tragic French songstress Edith Piaf. Marion Cotillard portrays Piaf, the superstar once raised as a young girl by her grandmother in a Normandy bordello, then discovered as a complete unknown on a French street corner by cabaret proprietor Louis Leplée (Gérard Depardieu).
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="There Will Be Blood" text="There Will Be Blood">
+      <icon url="media/movies/thumbs/drama-there-will-be-blood.png"/>
+      <media url="media/movies/trailer/drama-there-will-be-blood.flv"/>
+      <info url="media/movies/artwork/drama-there-will-be-blood.png">
+        <director>Paul Thomas Anderson</director>
+        <actors>
+        	<actor>Daniel Day Lewis</actor>
+        	<actor>Paul Dano</actor>
+        	<actor>Dillon Freasier</actor>
+        	<actor>Ciarán Hinds</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">There Will Be Blood</span> 
+          <p class="subheadline">
+            Drama, USA 2007
+          </p>
+          <p class="description">
+            In the dying years of the nineteenth century Daniel Plainview (Daniel Day-Lewis), a struggling silver miner, realises that true wealth lies in oil extraction. Driven by a passionate hatred for others and an intense psychological need to see competitors fail, he heads for the oil-rich land of California in a bid to manipulate and exploit the landowners of dust-worn Little Boston.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">There Will Be Blood</span> 
+          <p class="subheadline">
+            Drama, USA 2007
+          </p>
+          <p class="description">
+            In the dying years of the nineteenth century Daniel Plainview (Daniel Day-Lewis), a struggling silver miner, realises that true wealth lies in oil extraction. Driven by a passionate hatred for others and an intense psychological need to see competitors fail, he heads for the oil-rich land of California in a bid to manipulate and exploit the landowners of dust-worn Little Boston.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+  </item>
+  <item id="musical" title="Musical" labelbgcolor="#217799">
+    <icon url="media/icons/submenu/submenu icon buy movie musical.png"/>
+    <item id="Step Up 2" text="Step Up 2">
+      <icon url="media/movies/thumbs/musical-step-up-2.png"/>
+      <media url="media/movies/trailer/musical-step-up-2.flv"/>
+      <info url="media/movies/artwork/musical-step-up-2.png">
+        <director>Jon Chu</director>
+        <actors>
+        	<actor>Brianna Evigan</actor>
+        	<actor>Robert Hoffman</actor>
+        	<actor>Will Kemp</actor>
+        	<actor>Cassie Ventura</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Step Up 2</span> 
+          <p class="subheadline">
+            Musical, USA 2008
+          </p>
+          <p class="description">
+            Andie is part of Baltimore's most intimidating dance crew, the 410, and is given a chance to attend the prestigious Maryland School of the Arts. Determined to prove her skills, she assembles an eclectic crew of classmates that includes Chase (Robert Hoffman), the schools best dancer, to compete against the 410 in the premier underground dance battle in Baltimore, The Streets.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Step Up 2</span> 
+          <p class="subheadline">
+            Musical, USA 2008
+          </p>
+          <p class="description">
+            Andie is part of Baltimore's most intimidating dance crew, the 410, and is given a chance to attend the prestigious Maryland School of the Arts. Determined to prove her skills, she assembles an eclectic crew of classmates that includes Chase (Robert Hoffman), the schools best dancer, to compete against the 410 in the premier underground dance battle in Baltimore, The Streets.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Across the Universe" text="Across the Universe">
+      <icon url="media/movies/thumbs/musical-across-the-universe.png"/>
+      <media url="media/movies/trailer/musical-across-the-universe.flv"/>
+      <info url="media/movies/artwork/musical-across-the-universe.png">
+      	<director>Julie Taymor</director>
+      	<actors>
+      		<actor>Evan Rachel Wood</actor>
+      		<actor>Jim Sturgess</actor>
+      		<actor>Joe Anderson</actor>
+      		<actor>Dana Fuchs</actor>
+      	</actors>
+        <shorttext>
+          <span class="headline">Across the Universe</span> 
+          <p class="subheadline">
+            Musical, USA 2007
+          </p>
+          <p class="description">
+            Set against the anti-war protests, rock &amp; roll revolution, and mind-expanding psychedelia of the 1960s, Julie Taymor's hallucinogenic musical follows the arduous journey of star-crossed lovers Jude (Jim Sturgess) and Lucy (Evan Rachel Wood) as they and a small group of musicians are swept up in the raging waters of the volatile counterculture movement.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Across the Universe</span> 
+          <p class="subheadline">
+            Musical, USA 2007
+          </p>
+          <p class="description">
+            Set against the anti-war protests, rock &amp; roll revolution, and mind-expanding psychedelia of the 1960s, Julie Taymor's hallucinogenic musical follows the arduous journey of star-crossed lovers Jude (Jim Sturgess) and Lucy (Evan Rachel Wood) as they and a small group of musicians are swept up in the raging waters of the volatile counterculture movement.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Dreamgirls" text="Dreamgirls">
+      <icon url="media/movies/thumbs/musical-dreamgirls.png"/>
+      <media url="media/movies/trailer/musical-dreamgirls.flv"/>
+      <info url="media/movies/artwork/musical-dreamgirls.png">
+      	<director>Bill Condon</director>
+        <actors>
+        	<actor>Jennifer Hudson</actor>
+        	<actor>Anika Noni Rose</actor>
+        	<actor>Jamie Foxx</actor>
+        	<actor>Beyoncé Knowles</actor>
+        	<actor>Eddie Murphy</actor>
+        	<actor>Danny Glover</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Dreamgirls</span> 
+          <p class="subheadline">
+            Musical, USA 2006
+          </p>
+          <p class="description">
+            Set in the turbulent 60s to mid-70s, singers Effie (Jennifer Hudson), Lorrell (Anika Noni Rose), and Deena (Beyoncé Knowles) are about to find out what it's like to have their wildest dreams come true. Discovered at a local talent show by ambitious manager Curtis Taylor Jr. (Jamie Foxx), the trio known as the Dreamettes is soon offered the once-in-a-lifetime opportunity of opening for popular singer James Early (Eddie Murphy).
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Dreamgirls</span> 
+          <p class="subheadline">
+            Musical, USA 2006
+          </p>
+          <p class="description">
+            Set in the turbulent 60s to mid-70s, singers Effie (Jennifer Hudson), Lorrell (Anika Noni Rose), and Deena (Beyoncé Knowles) are about to find out what it's like to have their wildest dreams come true. Discovered at a local talent show by ambitious manager Curtis Taylor Jr. (Jamie Foxx), the trio known as the Dreamettes is soon offered the once-in-a-lifetime opportunity of opening for popular singer James Early (Eddie Murphy).
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Enchanted" text="Enchanted">
+      <icon url="media/movies/thumbs/musical-enchanted.png"/>
+      <media url="media/movies/trailer/musical-enchanted.flv"/>
+      <info url="media/movies/artwork/musical-enchanted.png">
+      	<director>Kevin Lima</director>
+        <actors>
+        	<actor>Amy Adams</actor>
+        	<actor>Patrick Dempsey</actor>
+        	<actor>James Marsden</actor>
+        	<actor>Timothy Spall</actor>
+        	<actor>Susan Sarandon</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Enchanted</span> 
+          <p class="subheadline">
+            Musical, USA 2007
+          </p>
+          <p class="description">
+            Princess Giselle (Amy Adams) lives in the blissful cartoon world of Andalasia, where magical beings frolic freely and musical interludes punctuate every interaction. Though Princess Giselle is currently engaged to be married to the handsome Prince Edward (James Marsden), her fate takes a turn for the worse when the villainous Queen Narissa (Susan Sarandon) banishes her to the unforgiving metropolis of New York City.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Enchanted</span> 
+          <p class="subheadline">
+            Musical, USA 2007
+          </p>
+          <p class="description">
+            Princess Giselle (Amy Adams) lives in the blissful cartoon world of Andalasia, where magical beings frolic freely and musical interludes punctuate every interaction. Though Princess Giselle is currently engaged to be married to the handsome Prince Edward (James Marsden), her fate takes a turn for the worse when the villainous Queen Narissa (Susan Sarandon) banishes her to the unforgiving metropolis of New York City.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Happy Feet" text="Happy Feet">
+      <icon url="media/movies/thumbs/musical-happy-feet.png"/>
+      <media url="media/movies/trailer/musical-happy-feet.flv"/>
+      <info url="media/movies/artwork/musical-happy-feet.png">
+        <director>George Miller</director>
+        <actors>
+        	<actor>Lombardo Boyar</actor>
+        	<actor>Johnny A Sanchez</actor>
+        	<actor>Carlos Alazraqui</actor>
+        	<actor>Elijah Wood</actor>
+        	<actor>Brittany Murphy</actor>
+        	<actor>Robin Williams</actor>
+        	<actor>Hugh Jackman</actor>
+        	<actor>Nicole Kidman</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Happy Feet</span> 
+          <p class="subheadline">
+            Musical, USA 2006
+          </p>
+          <p class="description">
+            In the world of the emperor penguin, a simple song can mean the difference between a lifetime of happiness and an eternity of loneliness. When a penguin named Mumble is born without the ability to sing the romantic song that will attract his soul mate, he'll have to resort to some fancy footwork by tap dancing his way into the heart of the one he loves.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Happy Feet</span> 
+          <p class="subheadline">
+            Musical, USA 2006
+          </p>
+          <p class="description">
+            In the world of the emperor penguin, a simple song can mean the difference between a lifetime of happiness and an eternity of loneliness. When a penguin named Mumble is born without the ability to sing the romantic song that will attract his soul mate, he'll have to resort to some fancy footwork by tap dancing his way into the heart of the one he loves.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+  </item>
+  <item id="sport" title="Sport" labelbgcolor="#217799">
+    <icon url="media/icons/submenu/submenu icon buy movie sport.png"/>
+    <item id="Gracie" text="Gracie">
+      <icon url="media/movies/thumbs/sport-gracie.png"/>
+      <media url="media/movies/trailer/sport-gracie.flv"/>
+      <info url="media/movies/artwork/sport-gracie.png">
+        <director>Davis Guggenheim</director>
+        <actors>
+        	<actor>Jesse Lee Soffer</actor>
+        	<actor>Christopher Shand</actor>
+        	<actor>Carly Schroeder</actor>
+        	<actor>Karl Girolamo</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Gracie</span> 
+          <p class="subheadline">
+            Sports Drama, UK 2007
+          </p>
+          <p class="description">
+            15-year-old Gracie Bowen (newcomer Carly Schroeder) is still reeling from the passing of her brother Johnny (Jesse Lee Soffer), a star player on the high-school soccer team. When Gracie defies nearly everyone's wishes by vowing to replace Johnny under the aegis of cantankerous Coach Colasanti (John Doman), it irritates her parents (Elisabeth Shue, Dermot Mulroney) and her best friend, Jena (Julia Garro). 
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Gracie</span> 
+          <p class="subheadline">
+            Sports Drama, UK 2007
+          </p>
+          <p class="description">
+            15-year-old Gracie Bowen (newcomer Carly Schroeder) is still reeling from the passing of her brother Johnny (Jesse Lee Soffer), a star player on the high-school soccer team. When Gracie defies nearly everyone's wishes by vowing to replace Johnny under the aegis of cantankerous Coach Colasanti (John Doman), it irritates her parents (Elisabeth Shue, Dermot Mulroney) and her best friend, Jena (Julia Garro). 
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Leatherheads" text="Leatherheads">
+      <icon url="media/movies/thumbs/sport-leatherheads.png"/>
+      <media url="media/movies/trailer/sport-leatherheads.flv"/>
+      <info url="media/movies/artwork/sport-leatherheads.png">
+        <director>George Clooney</director>
+        <actors>
+        	<actor>John Krasinski</actor>
+        	<actor>Wayne Duvall</actor>
+        	<actor>George Clooney</actor>
+        	<actor>Renée Zellweger</actor>
+        	<actor>Malcolm Goodwin</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Leatherheads</span> 
+          <p class="subheadline">
+            Sports Comedy, USA 2008
+          </p>
+          <p class="description">
+            Set against the formation of professional football in the 1920s, Dodge Connelly (Clooney) is a brash and handsome gridiron giant who is equally comfortable leading his team in a barroom brawl or charging for a touchdown in a packed stadium. But when Connelly's team loses their sponsor and the entire league appears set to collapse, the quick-thinking jock attempts a creative late-game comeback.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Leatherheads</span> 
+          <p class="subheadline">
+            Sports Comedy, USA 2008
+          </p>
+          <p class="description">
+            Set against the formation of professional football in the 1920s, Dodge Connelly (Clooney) is a brash and handsome gridiron giant who is equally comfortable leading his team in a barroom brawl or charging for a touchdown in a packed stadium. But when Connelly's team loses their sponsor and the entire league appears set to collapse, the quick-thinking jock attempts a creative late-game comeback.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Resurrecting the Champ" text="Resurrecting the Champ">
+      <icon url="media/movies/thumbs/sport-resurrecting-the-champ.png"/>
+      <media url="media/movies/trailer/sport-resurrecting-the-champ.flv"/>
+      <info url="media/movies/artwork/sport-resurrecting-the-champ.png">
+        <director>Rod Lurie</director>
+        <actors>
+        	<actor>Samuel L Jackson</actor>
+        	<actor>Josh Hartnett</actor>
+        	<actor>Alan Alda</actor>
+        	<actor>Kathryn Morris</actor>
+        	<actor>Teri Hatcher</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Resurrecting the Champ</span> 
+          <p class="subheadline">
+            Sports Drama, USA 2007
+          </p>
+          <p class="description">
+            Struggling sports reporter Erik Kernan (Josh Hartnett) encounters a homeless man who calls himself “Champ” (Samuel L. Jackson) only to determine that he is the one-time boxing champion Battling Bob Satterfield. What begins as a story about resurrecting a once-great man becomes Erik’s title shot. In his journey to uncover the truth, Erik has to reexamine his own life and his relationship with his young son.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Resurrecting the Champ</span> 
+          <p class="subheadline">
+            Sports Drama, USA 2007
+          </p>
+          <p class="description">
+            Struggling sports reporter Erik Kernan (Josh Hartnett) encounters a homeless man who calls himself “Champ” (Samuel L. Jackson) only to determine that he is the one-time boxing champion Battling Bob Satterfield. What begins as a story about resurrecting a once-great man becomes Erik’s title shot. In his journey to uncover the truth, Erik has to reexamine his own life and his relationship with his young son.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Speed Racer" text="Speed Racer">
+      <icon url="media/movies/thumbs/sport-speed-racer.png"/>
+      <media url="media/movies/trailer/sport-speed-racer.flv"/>
+      <info url="media/movies/artwork/sport-speed-racer.png">
+        <director>Lana Wachowski</director>
+        <actors>
+        	<actor>Emile Hirsch</actor>
+        	<actor>Christina Ricci</actor>
+        	<actor>Susan Sarandon</actor>
+        	<actor>Matthew Fox</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Speed Racer</span> 
+          <p class="subheadline">
+            Sports Action, USA 2008
+          </p>
+          <p class="description">
+            Hurtling down the track, careening around, over and through the competition, Speed Racer (Emile Hirsch) is a natural behind the wheel. Born to race cars, Speed is aggressive, instinctive and, most of all, fearless. His only real competition is the memory of the brother he idolized-the legendary Rex Racer, whose death in a race has left behind a legacy that Speed is driven to fulfill.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Speed Racer</span> 
+          <p class="subheadline">
+            Sports Action, USA 2008
+          </p>
+          <p class="description">
+            Hurtling down the track, careening around, over and through the competition, Speed Racer (Emile Hirsch) is a natural behind the wheel. Born to race cars, Speed is aggressive, instinctive and, most of all, fearless. His only real competition is the memory of the brother he idolized-the legendary Rex Racer, whose death in a race has left behind a legacy that Speed is driven to fulfill.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="The Final Season" text="Final Season, The">
+      <icon url="media/movies/thumbs/sport-the-final-season.png"/>
+      <media url="media/movies/trailer/sport-the-final-season.flv"/>
+      <info url="media/movies/artwork/sport-the-final-season.png">
+      	<director>David M Evans</director>
+        <actors>
+        	<actor>Sean Astin</actor>
+        	<actor>Jesse Henecke</actor>
+        	<actor>Powers Boothe</actor>
+        	<actor>Owen Patchen Evans</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">The Final Season</span> 
+          <p class="subheadline">
+            Sports Drama, USA 2007
+          </p>
+          <p class="description">
+            In the small town of Norway, Iowa, everyone comes together for high school baseball. But life throws curve balls; and the passionate young players, rookie coach Kent Stock, and the hometown fans find that life’s greatest challenges strike off the diamond. The Final Season is the true story of a coach who inspired his team and brought hope to a town when they needed it most.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">The Final Season</span> 
+          <p class="subheadline">
+            Sports Drama, USA 2007
+          </p>
+          <p class="description">
+            In the small town of Norway, Iowa, everyone comes together for high school baseball. But life throws curve balls; and the passionate young players, rookie coach Kent Stock, and the hometown fans find that life’s greatest challenges strike off the diamond. The Final Season is the true story of a coach who inspired his team and brought hope to a town when they needed it most.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+  </item>
+  <item id="suspense_thriller" title="Thriller" labelbgcolor="#217799">
+    <icon url="media/icons/submenu/submenu icon buy movie thriller.png"/>
+    <item id="Cloverfield" text="Cloverfield">
+      <icon url="media/movies/thumbs/thriller-cloverfield.png"/>
+      <media url="media/movies/trailer/thriller-cloverfield.flv"/>
+      <info url="media/movies/artwork/thriller-cloverfield.png">
+      	<director>Matt Reeves</director>
+      	<actors>
+      		<actor>Lizzy Caplan</actor>
+      		<actor>Jessica Lucas</actor>
+      		<actor>Odette Annable</actor>
+      		<actor>Michael Stahl-David</actor>
+      	</actors>
+        <shorttext>
+          <span class="headline">Cloverfield</span> 
+          <p class="subheadline">
+            Action Thriller, USA 2008
+          </p>
+          <p class="description">
+            Cloverfield follows five young New Yorkers who throw their friend a going-away party on the same night that a gigantic monster attacks the city. The movie is exactly the length of a DV Tape and a sub-plot is established by showing bits and pieces of video previously recorded on the tape that is being recorded over.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Cloverfield</span> 
+          <p class="subheadline">
+            Action Thriller, USA 2008
+          </p>
+          <p class="description">
+            Cloverfield follows five young New Yorkers who throw their friend a going-away party on the same night that a gigantic monster attacks the city. The movie is exactly the length of a DV Tape and a sub-plot is established by showing bits and pieces of video previously recorded on the tape that is being recorded over.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Michael Clayton" text="Michael Clayton">
+      <icon url="media/movies/thumbs/thriller-michael-clayton.png"/>
+      <media url="media/movies/trailer/thriller-michael-clayton.flv"/>
+      <info url="media/movies/artwork/thriller-michael-clayton.png">
+        <director>Tony Gilroy</director>
+        <actors>
+        	<actor>George Clooney</actor>
+        	<actor>Tom Wilkinson</actor>
+        	<actor>Tilda Swinton</actor>
+        	<actor>Sydney Pollack</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Michael Clayton</span> 
+          <p class="subheadline">
+            Thriller, USA/UK 2007
+          </p>
+          <p class="description">
+            Michael Clayton (George Clooney) handles all of the dirty work for a major New York law firm, arranging top-flight legal services and skirting through loopholes for ethically questionable clients. But when a fellow fixer decides to turn on the very firm they were hired to clean up for, Clayton finds himself at the center of a conspiratorial maelstrom.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Michael Clayton</span> 
+          <p class="subheadline">
+            Thriller, USA/UK 2007
+          </p>
+          <p class="description">
+            Michael Clayton (George Clooney) handles all of the dirty work for a major New York law firm, arranging top-flight legal services and skirting through loopholes for ethically questionable clients. But when a fellow fixer decides to turn on the very firm they were hired to clean up for, Clayton finds himself at the center of a conspiratorial maelstrom.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="Transformers" text="Transformers">
+      <icon url="media/movies/thumbs/thriller-transformers.png"/>
+      <media url="media/movies/trailer/thriller-transformers.flv"/>
+      <info url="media/movies/artwork/thriller-transformers.png">
+        <director>Michael Bay</director>
+        <actors>
+        	<actor>Megan Fox</actor>
+        	<actor>Shia LaBeouf</actor>
+        	<actor>Josh Duhamel</actor>
+        	<actor>Rachael Taylor</actor>
+        	<actor>Tyrese Gibson</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">Transformers</span> 
+          <p class="subheadline">
+            Action Thriller, USA 2007
+          </p>
+          <p class="description">
+            The interstellar battle between the Autobots and Decepticons rains destruction down on planet Earth as director Michael Bay adapts Hasbro and Takara's popular Transformers franchise into a big-budget, live-action summer tentpole extravaganza in this ambitious sci-fi action feature starring Shia LaBeouf, Tyrese Gibson, Bernie Mac, John Turturro, Jon Voight, and, of course, Optimus Prime and Megatron.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Transformers</span> 
+          <p class="subheadline">
+            Action Thriller, USA 2007
+          </p>
+          <p class="description">
+            The interstellar battle between the Autobots and Decepticons rains destruction down on planet Earth as director Michael Bay adapts Hasbro and Takara's popular Transformers franchise into a big-budget, live-action summer tentpole extravaganza in this ambitious sci-fi action feature starring Shia LaBeouf, Tyrese Gibson, Bernie Mac, John Turturro, Jon Voight, and, of course, Optimus Prime and Megatron.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="No Country for Old Men" text="No Country for Old Men">
+      <icon url="media/movies/thumbs/thriller-no-country-for-old-men.png"/>
+      <media url="media/movies/trailer/thriller-no-country-for-old-men.flv"/>
+      <info url="media/movies/artwork/thriller-no-country-for-old-men.png">
+        <director>Joel Coen</director>
+        <actors>
+        	<actor>Tommy Lee Jones</actor>
+        	<actor>Javier Bardem</actor>
+        	<actor>Josh Brolin</actor>
+        	<actor>Woody Harrelson</actor>
+        </actors>
+        <shorttext>
+          <span class="headline">No Country for Old Men</span> 
+          <p class="subheadline">
+            Thriller, USA 2007
+          </p>
+          <p class="description">
+            The Academy Award winning adaptation of Cormac McCarthy's violent, poetic and darkly funny crime novel No Country For Old Men sees The Coen Brothers produce their finest thriller to date. Set amongst the wild, empty, and imposing landscape of 1980s Texas, No Country For Old Men is a masterly tale of the good, the deranged, and the outright doomed.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">No Country for Old Men</span> 
+          <p class="subheadline">
+            Thriller, USA 2007
+          </p>
+          <p class="description">
+            The Academy Award winning adaptation of Cormac McCarthy's violent, poetic and darkly funny crime novel No Country For Old Men sees The Coen Brothers produce their finest thriller to date. Set amongst the wild, empty, and imposing landscape of 1980s Texas, No Country For Old Men is a masterly tale of the good, the deranged, and the outright doomed.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+    <item id="cassandra &apos;s dream" text="Cassandra’s Dream">
+      <icon url="media/movies/thumbs/thriller-cassandras-dream.png"/>
+      <media url="media/movies/trailer/thriller-cassandras-dream.flv"/>
+      <info url="media/movies/artwork/thriller-cassandras-dream.png">
+      	<director>Woody Allen</director>
+      	<actors>
+      		<actor>Ewan McGregor</actor>
+      		<actor>Collin Farrell</actor>
+      		<actor>Hayley Atwell</actor>
+      		<actor>Tom Wilkinson</actor>
+      	</actors>
+        <shorttext>
+          <span class="headline">Cassandra’s Dream</span> 
+          <p class="subheadline">
+            Thriller, USA 2007
+          </p>
+          <p class="description">
+            Ian (McGregor) and Terry Blaine (Farrell) are two Cockney siblings whose lives seem to have simply fallen apart. Thanks to the steady income that the restaurant provides and the occasional help of their wealthy uncle Howard (Tom Wilkinson) the family has always managed to scrape by, but when Ian learns of a potentially lucrative California real estate deal, he can't help but dream about moving on to bigger and better things.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Cassandra’s Dream</span> 
+          <p class="subheadline">
+            Thriller, USA 2007
+          </p>
+          <p class="description">
+            Ian (McGregor) and Terry Blaine (Farrell) are two Cockney siblings whose lives seem to have simply fallen apart. Thanks to the steady income that the restaurant provides and the occasional help of their wealthy uncle Howard (Tom Wilkinson) the family has always managed to scrape by, but when Ian learns of a potentially lucrative California real estate deal, he can't help but dream about moving on to bigger and better things.
+          </p>
+          <p class="price">
+            € 2,99 
+          </p>
+        </longtext>
+        <price>€ 2,99</price>
+      </info>
+    </item>
+  </item>
+</menu>-->

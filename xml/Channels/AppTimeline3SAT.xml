@@ -1,0 +1,1877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="3SAT">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+
+<item id="24-s6-ep23" text="24">
+		<image url="media/tv/24-s6-ep23.png"/>
+
+		<title>24</title>
+		<series>Season 6, Ep. 23: Day 6, 4-5 AM</series>
+		<description>Evidence links Jack Bauer to a dastardly assassination. In order to prevent a war with Russia, the White House orders a trade of Jack's nephew for the circuit board, and puts Jack in custody so he cannot stop the exchange.</description>
+
+		<genre>Thriller</genre>
+		<release>2011</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/24-s6-ep23.png">
+			<shorttext>
+				<span class="headline">24</span>
+				<p class="subheadline">Thriller &#183; 2011 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 6, Ep. 23: Day 6, 4-5 AM</p>
+				<p class="description">Evidence links Jack Bauer to a dastardly assassination. In order to prevent a war with Russia, the White House orders a trade of Jack's nephew for the circuit board, and puts Jack in custody so he cannot stop the exchange.</p>
+			</shorttext>
+			<time><start hour="22" min="15"/><end hour="22" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="vikings-s2-ep3" text="Vikings">
+		<image url="media/tv/vikings-s2-ep3.png"/>
+
+		<title>Vikings</title>
+		<series>Season 2, Ep. 3: Treachery</series>
+		<description>The Wessex Viking raid is in full swing and King Ecbert finds himself facing an entirely new kind of foe. While Ragnar races to dominate in the West, Jarl Borg has his own plans in store for the future of Kattegat.</description>
+
+		<genre>Action</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/vikings-s2-ep3.png">
+			<shorttext>
+				<span class="headline">Vikings</span>
+				<p class="subheadline">Action &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 3: Treachery</p>
+				<p class="description">The Wessex Viking raid is in full swing and King Ecbert finds himself facing an entirely new kind of foe. While Ragnar races to dominate in the West, Jarl Borg has his own plans in store for the future of Kattegat.</p>
+			</shorttext>
+			<time><start hour="22" min="45"/><end hour="23" min="30"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="manhattan-s1-ep1" text="Manhattan">
+		<image url="media/tv/manhattan-s1-ep1.png"/>
+
+		<title>Manhattan</title>
+		<series>Season 1, Ep. 1: The One You Love</series>
+		<description>Charlie Isaacs and his family arrive in Los Alamos and attempt to navigate a community built on secrets. Frank Winter, the head of the Manhattan Project, struggles with the sacrifices he is making to help the U.S. win World War II.</description>
+
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>60</duration><series/>
+		</meta>
+		<info url="media/tv/manhattan-s1-ep1.png">
+			<shorttext>
+				<span class="headline">Manhattan</span>
+				<p class="subheadline">Drama &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 1: The One You Love</p>
+				<p class="description">Charlie Isaacs and his family arrive in Los Alamos and attempt to navigate a community built on secrets. Frank Winter, the head of the Manhattan Project, struggles with the sacrifices he is making to help the U.S. win World War II.</p>
+			</shorttext>
+			<time><start hour="23" min="30"/><end hour="00" min="30"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item>
+  
+</item>
+
+<item id="evening" title="Evening">
+
+<item id="breaking-bad-s2-ep12" text="Breaking Bad">
+		<image url="media/tv/breaking-bad-s2-ep12.png"/>
+
+		<title>Breaking Bad</title>
+		<series>Season 2, Ep. 12: Peekaboo</series>
+		<description>After Skinny Pete gets ripped off, Walt makes Jesse go get the money. Meanwhile, Walt's cover story on how Elliott and Gretchen are paying for his medical treatment is on the verge of collapsing.</description>
+
+		<genre>Crime</genre>
+		<release>2011</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/breaking-bad-s2-ep12.png">
+			<shorttext>
+				<span class="headline">Breaking Bad</span>
+				<p class="subheadline">Crime &#183; 2011 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 12: Peekaboo</p>
+				<p class="description">After Skinny Pete gets ripped off, Walt makes Jesse go get the money. Meanwhile, Walt's cover story on how Elliott and Gretchen are paying for his medical treatment is on the verge of collapsing.</p>
+			</shorttext>
+			<time><start hour="18" min="10"/><end hour="18" min="50"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="breaking-bad-s1-ep7" text="Breaking Bad">
+		<image url="media/tv/breaking-bad-s1-ep7.png"/>
+
+		<title>Breaking Bad</title>
+		<series>Season 1, Ep. 7: Gray Matter</series>
+		<description>Walt and Jesse try to up their game by making more of the crystal every week for Tuco. Unfortunately, some of the ingredients they need is not easy to find. Meanwhile, Skyler realizes that her sister is a shoplifter.</description>
+
+		<genre>Crime</genre>
+		<release>2010</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>60</duration><series/>
+		</meta>
+		<info url="media/tv/breaking-bad-s1-ep7.png">
+			<shorttext>
+				<span class="headline">Breaking Bad</span>
+				<p class="subheadline">Crime &#183; 2010 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 1, Ep. 7: Gray Matter</p>
+				<p class="description">Walt and Jesse try to up their game by making more of the crystal every week for Tuco. Unfortunately, some of the ingredients they need is not easy to find. Meanwhile, Skyler realizes that her sister is a shoplifter.</p>
+			</shorttext>
+			<time><start hour="18" min="50"/><end hour="19" min="50"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="how-i-met-your-mother-s8-ep24" text="How I Met Your Mother">
+		<image url="media/tv/how-i-met-your-mother-s8-ep24.png"/>
+
+		<title>How I Met Your Mother</title>
+		<series>Season 8, Ep. 24: Something New</series>
+		<description>As the wedding approaches, Barney and Robin deliberately ruin an obnoxious couple's evening, Marshall and Lily's plans for Italy hit a snag, Ted tells Lily that he's moving to Chicago, and the mother buys her ticket to Farhampton.</description>
+
+		<genre>Romance</genre>
+		<release>2012</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/how-i-met-your-mother-s8-ep24.png">
+			<shorttext>
+				<span class="headline">How I Met Your Mother</span>
+				<p class="subheadline">Romance &#183; 2012 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 8, Ep. 24: Something New</p>
+				<p class="description">As the wedding approaches, Barney and Robin deliberately ruin an obnoxious couple's evening, Marshall and Lily's plans for Italy hit a snag, Ted tells Lily that he's moving to Chicago, and the mother buys her ticket to Farhampton.</p>
+			</shorttext>
+			<time><start hour="19" min="50"/><end hour="20" min="20"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="orange-is-the-new-black-s1-ep12" text="Orange Is the New Black">
+		<image url="media/tv/orange-is-the-new-black-s1-ep12.png"/>
+
+		<title>Orange Is the New Black</title>
+		<series>Season 1, Ep. 12: Fool Me Once</series>
+		<description>After discovering a series of sad truths, friendships change. Tiffany Pennsatucky Doggett is offended by Piper Chapman, and that lead to the dangerous roads. Larry first meets Alex to cope with everything that is happening.</description>
+
+		<genre>Crime</genre>
+		<release>2013</release>
+		<stars>5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/orange-is-the-new-black-s1-ep12.png">
+			<shorttext>
+				<span class="headline">Orange Is the New Black</span>
+				<p class="subheadline">Crime &#183; 2013 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 12: Fool Me Once</p>
+				<p class="description">After discovering a series of sad truths, friendships change. Tiffany Pennsatucky Doggett is offended by Piper Chapman, and that lead to the dangerous roads. Larry first meets Alex to cope with everything that is happening.</p>
+			</shorttext>
+			<time><start hour="20" min="20"/><end hour="20" min="50"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="new-girl-s3-ep12" text="New Girl">
+		<image url="media/tv/new-girl-s3-ep12.png"/>
+
+		<title>New Girl</title>
+		<series>Season 3, Ep. 12: Basketsball</series>
+		<description>Jess pretends to be a fan of the Pistons in an attempt to befriend Coach, to Nick's dismay, who is a Bulls fan. Meanwhile, Schmidt is assigned to mentor an elderly colleague at work and Winston discovers a new career path.</description>
+
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/new-girl-s3-ep12.png">
+			<shorttext>
+				<span class="headline">New Girl</span>
+				<p class="subheadline">Comedy &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 12: Basketsball</p>
+				<p class="description">Jess pretends to be a fan of the Pistons in an attempt to befriend Coach, to Nick's dismay, who is a Bulls fan. Meanwhile, Schmidt is assigned to mentor an elderly colleague at work and Winston discovers a new career path.</p>
+			</shorttext>
+			<time><start hour="20" min="50"/><end hour="21" min="20"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="the-walking-dead-s4-ep4" text="The Walking Dead">
+		<image url="media/tv/the-walking-dead-s4-ep4.png"/>
+
+		<title>The Walking Dead</title>
+		<series>Season 4, Ep. 4: Isolation</series>
+		<description>As the sick are quarantined, Daryl, Tyreese, Michonne and Bob leave the prison in search of medical supplies. Rick makes a shocking discovery. Rick and Carol go to a nearby town where they find two uninfected stragglers.</description>
+
+		<genre>Horror</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/the-walking-dead-s4-ep4.png">
+			<shorttext>
+				<span class="headline">The Walking Dead</span>
+				<p class="subheadline">Horror &#183; 2014 &#183; TV-MA &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 4, Ep. 4: Isolation</p>
+				<p class="description">As the sick are quarantined, Daryl, Tyreese, Michonne and Bob leave the prison in search of medical supplies. Rick makes a shocking discovery. Rick and Carol go to a nearby town where they find two uninfected stragglers.</p>
+			</shorttext>
+			<time><start hour="21" min="20"/><end hour="22" min="15"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+
+  </item>
+
+<item id="afternoon" title="Afternoon">
+
+<item id="breaking-bad-s5-ep12" text="Breaking Bad">
+		<image url="media/tv/breaking-bad-s5-ep12.png"/>
+
+		<title>Breaking Bad</title>
+		<series>Season 5, Ep. 12: Rabid Dog</series>
+		<description>Walt discovers Jesse broke into his house and attempted to burn it down. Walt wants to protect his family so he moves them into a hotel for a few nights. Jesse decides to work with Hank in order to take down Walt.</description>
+
+		<genre>Crime</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/breaking-bad-s5-ep12.png">
+			<shorttext>
+				<span class="headline">Breaking Bad</span>
+				<p class="subheadline">Crime &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 5, Ep. 12: Rabid Dog</p>
+				<p class="description">Walt discovers Jesse broke into his house and attempted to burn it down. Walt wants to protect his family so he moves them into a hotel for a few nights. Jesse decides to work with Hank in order to take down Walt.</p>
+			</shorttext>
+			<time><start hour="14" min="25"/><end hour="14" min="55"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="true-blood-s7-ep8" text="True Blood">
+		<image url="media/tv/true-blood-s7-ep8.png"/>
+
+		<title>True Blood</title>
+		<series>Season 7, Ep. 8: Almost Home</series>
+		<description>Sarah is captured and kept prisoner at Fangtasia. Jason and Jessica feel Violet's wrath. Lettie Mae bids farewell to Tara, witnessing what Tara wanted her to. Through Sookie, Bill is made aware of the cure, but will he accept it?</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/true-blood-s7-ep8.png">
+			<shorttext>
+				<span class="headline">True Blood</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 7, Ep. 8: Almost Home</p>
+				<p class="description">Sarah is captured and kept prisoner at Fangtasia. Jason and Jessica feel Violet's wrath. Lettie Mae bids farewell to Tara, witnessing what Tara wanted her to. Through Sookie, Bill is made aware of the cure, but will he accept it?</p>
+			</shorttext>
+			<time><start hour="14" min="55"/><end hour="15" min="25"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="hawaii-five-0-s4-ep16" text="Hawaii Five-0">
+		<image url="media/tv/hawaii-five-0-s4-ep16.png"/>
+
+		<title>Hawaii Five-0</title>
+		<series>Season 4, Ep. 16: Hoku Welowelo</series>
+		<description>McGarrett is convinced that a psychiatrist murdered one of her patients, but will she get the last laugh? Meanwhile, Catherine discovers that an assassin is on the island and is looking for Doris McGarrett.</description>
+
+		<genre>Crime</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/hawaii-five-0-s4-ep16.png">
+			<shorttext>
+				<span class="headline">Hawaii Five-0</span>
+				<p class="subheadline">Crime &#183; 2014 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 4, Ep. 16: Hoku Welowelo</p>
+				<p class="description">McGarrett is convinced that a psychiatrist murdered one of her patients, but will she get the last laugh? Meanwhile, Catherine discovers that an assassin is on the island and is looking for Doris McGarrett.</p>
+			</shorttext>
+			<time><start hour="15" min="25"/><end hour="15" min="55"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="the-good-wife-s5-ep4" text="The Good Wife">
+		<image url="media/tv/the-good-wife-s5-ep4.png"/>
+
+		<title>The Good Wife</title>
+		<series>Season 5, Ep. 4: Outside the Bubble</series>
+		<description>As Diane prepares for big changes as she leaves the firm, the firm faces a politically-motivated sexual harassment suit. Meanwhile, Jackie makes trouble for the inauguration, and Alicia and Cary's departure from the firm is imminent.</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>50</duration><series/>
+		</meta>
+		<info url="media/tv/the-good-wife-s5-ep4.png">
+			<shorttext>
+				<span class="headline">The Good Wife</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 5, Ep. 4: Outside the Bubble</p>
+				<p class="description">As Diane prepares for big changes as she leaves the firm, the firm faces a politically-motivated sexual harassment suit. Meanwhile, Jackie makes trouble for the inauguration, and Alicia and Cary's departure from the firm is imminent.</p>
+			</shorttext>
+			<time><start hour="15" min="55"/><end hour="16" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="falling-skies-s3-ep9" text="Falling Skies">
+		<image url="media/tv/falling-skies-s3-ep9.png"/>
+
+		<title>Falling Skies</title>
+		<series>Season 3, Ep. 9: Journey to Xibalba</series>
+		<description>Tom uncovers confidential intelligence about the heart of the alien operation. Meanwhile, Charleston prepares to mount an offensive against the Espheni, but a massive explosion brings the operation to a halt.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2013</release>
+		<stars>3</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>50</duration><series/>
+		</meta>
+		<info url="media/tv/falling-skies-s3-ep9.png">
+			<shorttext>
+				<span class="headline">Falling Skies</span>
+				<p class="subheadline">Sci-Fi &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 9: Journey to Xibalba</p>
+				<p class="description">Tom uncovers confidential intelligence about the heart of the alien operation. Meanwhile, Charleston prepares to mount an offensive against the Espheni, but a massive explosion brings the operation to a halt.</p>
+			</shorttext>
+			<time><start hour="16" min="45"/><end hour="17" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="arrow-s2-ep15" text="Arrow">
+		<image url="media/tv/arrow-s2-ep15.png"/>
+
+		<title>Arrow</title>
+		<series>Season 2, Ep. 15: Sacrifice</series>
+		<description>Oliver awakens to find himself Malcolm Merlyn's prisoner. He manages to escape and away with help from Digg. Malcolm accelerates his timetable as a result. Lance about her hacking activities but is interrupted by Oliver.</description>
+
+		<genre>Action</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/arrow-s2-ep15.png">
+			<shorttext>
+				<span class="headline">Arrow</span>
+				<p class="subheadline">Action &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 15: Sacrifice</p>
+				<p class="description">Oliver awakens to find himself Malcolm Merlyn's prisoner. He manages to escape and away with help from Digg. Malcolm accelerates his timetable as a result. Lance about her hacking activities but is interrupted by Oliver.</p>
+			</shorttext>
+			<time><start hour="17" min="35"/><end hour="18" min="10"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+
+</item>
+
+<item id="noon" title="Noon">
+
+<item id="downton-abbey-s4-ep2" text="Downton Abbey">
+		<image url="media/tv/downton-abbey-s4-ep2.png"/>
+
+		<title>Downton Abbey</title>
+		<series>Season 4, Ep. 2: Corporated</series>
+		<description>Mary receives a letter from Matthew's effects, naming her as his sole heir and therefore the owner of half the estate. Encouraged by Violet, she agrees to shadow Tom and learn more about the running of Downton.</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/downton-abbey-s4-ep2.png">
+			<shorttext>
+				<span class="headline">Downton Abbey</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 4, Ep. 2: Corporated</p>
+				<p class="description">Mary receives a letter from Matthew's effects, naming her as his sole heir and therefore the owner of half the estate. Encouraged by Violet, she agrees to shadow Tom and learn more about the running of Downton.</p>
+			</shorttext>
+			<time><start hour="09" min="55"/><end hour="10" min="30"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="game-of-thrones-s1-ep5" text="Game of Thrones">
+		<image url="media/tv/game-of-thrones-s1-ep5.png"/>
+
+		<title>Game of Thrones</title>
+		<series>Season 1, Ep. 5: The Wolf and the Lion</series>
+		<description>Catelyn has captured Tyrion and plans to bring him to her sister, Lysa Arryn, at The Vale, to be tried for his, supposed, crimes against Bran. Robert plans to have Daenerys killed, but Eddard refuses to be a part of it and quits.</description>
+
+		<genre>Fantasy</genre>
+		<release>2011</release>
+		<stars>4.5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/game-of-thrones-s1-ep5.png">
+			<shorttext>
+				<span class="headline">Game of Thrones</span>
+				<p class="subheadline">Fantasy &#183; 2011 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 5: The Wolf and the Lion</p>
+				<p class="description">Catelyn has captured Tyrion and plans to bring him to her sister, Lysa Arryn, at The Vale, to be tried for his, supposed, crimes against Bran. Robert plans to have Daenerys killed, but Eddard refuses to be a part of it and quits.</p>
+			</shorttext>
+			<time><start hour="10" min="30"/><end hour="11" min="00"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="game-of-thrones-s3-ep8" text="Game of Thrones">
+		<image url="media/tv/game-of-thrones-s3-ep8.png"/>
+
+		<title>Game of Thrones</title>
+		<series>Season 3, Ep. 8: Second Sons</series>
+		<description>Robb and Catelyn arrive at Riverrun for Lord Hoster Tully's funeral. Tywin names Tyrion the new Master of Coin. Arya says goodbye to Hot Pie. The Night's Watch returns to Craster's. Brianne and Jamie are taken prisoner.</description>
+
+		<genre>Fantasy</genre>
+		<release>2013</release>
+		<stars>5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/game-of-thrones-s3-ep8.png">
+			<shorttext>
+				<span class="headline">Game of Thrones</span>
+				<p class="subheadline">Fantasy &#183; 2013 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 8: Second Sons</p>
+				<p class="description">Robb and Catelyn arrive at Riverrun for Lord Hoster Tully's funeral. Tywin names Tyrion the new Master of Coin. Arya says goodbye to Hot Pie. The Night's Watch returns to Craster's. Brianne and Jamie are taken prisoner.</p>
+			</shorttext>
+			<time><start hour="11" min="00"/><end hour="11" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="house-of-cards-s1-ep1" text="House of Cards">
+		<image url="media/tv/house-of-cards-s1-ep1.png"/>
+
+		<title>House of Cards</title>
+		<series>Season 1, Ep. 1: Chapter 1</series>
+		<description>Congressman Francis Underwood has been declined the chair for Secretary of State. He's now gathering his own team to plot his revenge. Zoe Barnes, a reporter for the Washington Herald, will do anything to get her big break.</description>
+
+		<genre>Crime</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/house-of-cards-s1-ep1.png">
+			<shorttext>
+				<span class="headline">House of Cards</span>
+				<p class="subheadline">Crime &#183; 2014 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 1: Chapter 1</p>
+				<p class="description">Congressman Francis Underwood has been declined the chair for Secretary of State. He's now gathering his own team to plot his revenge. Zoe Barnes, a reporter for the Washington Herald, will do anything to get her big break.</p>
+			</shorttext>
+			<time><start hour="11" min="35"/><end hour="12" min="15"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="falling-skies-s4-ep3" text="Falling Skies">
+		<image url="media/tv/falling-skies-s4-ep3.png"/>
+
+		<title>Falling Skies</title>
+		<series>Season 4, Ep. 3: Exodus</series>
+		<description>Tom and the 2nd Mass hatch an elaborate plan to escape the confines of the Espheni Ghetto. Meanwhile back in Chinatown, after learning from Ben that Lexi has been keeping a deadly secret, Maggie confronts Lexi publicly.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/falling-skies-s4-ep3.png">
+			<shorttext>
+				<span class="headline">Falling Skies</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 4, Ep. 3: Exodus</p>
+				<p class="description">Tom and the 2nd Mass hatch an elaborate plan to escape the confines of the Espheni Ghetto. Meanwhile back in Chinatown, after learning from Ben that Lexi has been keeping a deadly secret, Maggie confronts Lexi publicly.</p>
+			</shorttext>
+			<time><start hour="12" min="15"/><end hour="12" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="the-100-s1-ep2" text="The 100">
+		<image url="media/tv/the-100-s1-ep2.png"/>
+
+		<title>The 100</title>
+		<series>Season 1, Ep. 2: Earth Skills</series>
+		<description>Discovering that Jasper may still be alive, Clarke, Bellamy, Finn, Wells and Murphy make a pact and head out to find him. On the Ark, Abby is determined to prove Earth is habitable, and enlists a mechanic to craft an escape pod.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>50</duration><series/>
+		</meta>
+		<info url="media/tv/the-100-s1-ep2.png">
+			<shorttext>
+				<span class="headline">The 100</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 2: Earth Skills</p>
+				<p class="description">Discovering that Jasper may still be alive, Clarke, Bellamy, Finn, Wells and Murphy make a pact and head out to find him. On the Ark, Abby is determined to prove Earth is habitable, and enlists a mechanic to craft an escape pod.</p>
+			</shorttext>
+			<time><start hour="12" min="45"/><end hour="13" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="shameless-s4-ep4" text="Shameless">
+		<image url="media/tv/shameless-s4-ep4.png"/>
+
+		<title>Shameless</title>
+		<series>Season 4, Ep. 4: Strangers on a Train</series>
+		<description>Fiona continues her secret affair with Robbie. The situation nearly boils over, when Mike shows up at Robbie's apartment while Fiona's inside. Fiona is able to hide just in time before her infidelity can be exposed.</description>
+
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>50</duration><series/>
+		</meta>
+		<info url="media/tv/shameless-s4-ep4.png">
+			<shorttext>
+				<span class="headline">Shameless</span>
+				<p class="subheadline">Comedy &#183; 2014 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 4, Ep. 4: Strangers on a Train</p>
+				<p class="description">Fiona continues her secret affair with Robbie. The situation nearly boils over, when Mike shows up at Robbie's apartment while Fiona's inside. Fiona is able to hide just in time before her infidelity can be exposed.</p>
+			</shorttext>
+			<time><start hour="13" min="35"/><end hour="14" min="25"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+</item>
+
+<item id="morning" title="Morning">
+
+<item id="the-following-s1-ep13" text="The Following">
+		<image url="media/tv/the-following-s1-ep13.png"/>
+
+		<title>The Following</title>
+		<series>Season 1, Ep. 13: Havenport</series>
+		<description>Mike Weston recognizes Roderick as one of the men who beat him up. He gets away but the FBI lock down the local sheriff's office until they figure out just who they can trust. Agent Nick Donovan orders an information blackout.</description>
+
+		<genre>Crime</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/the-following-s1-ep13.png">
+			<shorttext>
+				<span class="headline">The Following</span>
+				<p class="subheadline">Crime &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 13: Havenport</p>
+				<p class="description">Mike Weston recognizes Roderick as one of the men who beat him up. He gets away but the FBI lock down the local sheriff's office until they figure out just who they can trust. Agent Nick Donovan orders an information blackout.</p>
+			</shorttext>
+			<time><start hour="00" min="00"/><end hour="00" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="manhattan-s2-ep4" text="Manhattan">
+		<image url="media/tv/manhattan-s2-ep4.png"/>
+
+		<title>Manhattan</title>
+		<series>Season 2, Ep. 4: Last Reasoning of Kings</series>
+		<description>When Babbit's past comes back to haunt him, Frank clashes with Charlie to protect his mentor and seeks medical answers. The community reels after losing a member, while new security measures affect the scientists' work.</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/manhattan-s2-ep4.png">
+			<shorttext>
+				<span class="headline">Manhattan</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 4: Last Reasoning of Kings</p>
+				<p class="description">When Babbit's past comes back to haunt him, Frank clashes with Charlie to protect his mentor and seeks medical answers. The community reels after losing a member, while new security measures affect the scientists' work.</p>
+			</shorttext>
+			<time><start hour="00" min="35"/><end hour="01" min="20"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="24-s5-ep2" text="24">
+		<image url="media/tv/24-s5-ep2.png"/>
+
+		<title>24</title>
+		<series>Season 5, Ep. 2: Day 5, 7-8 AM</series>
+		<description>The Russian and US Presidents are set to sign an anti-terror treaty when assassinations rock Los Angeles, a call from a distressed Chloe forces Jack into action and President Logan's wife believes there may be a conspiracy.</description>
+
+		<genre>Thriller</genre>
+		<release>2010</release>
+		<stars>3</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/24-s5-ep2.png">
+			<shorttext>
+				<span class="headline">24</span>
+				<p class="subheadline">Thriller &#183; 2010 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 5, Ep. 2: Day 5, 7-8 AM</p>
+				<p class="description">The Russian and US Presidents are set to sign an anti-terror treaty when assassinations rock Los Angeles, a call from a distressed Chloe forces Jack into action and President Logan's wife believes there may be a conspiracy.</p>
+			</shorttext>
+			<time><start hour="01" min="20"/><end hour="02" min="05"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="strike-back-s1-ep1" text="Strike Back">
+		<image url="media/tv/strike-back-s1-ep1.png"/>
+
+		<title>Strike Back</title>
+		<series>Season 1, Ep. 1: Beirut</series>
+		<description>Section 20 tracks facilitator James Leatherby in Beirut. They continue to use Kamali in operations on Leatherby. Dalton is making bad decision due to her emotions over Baxter's death. Section 20 acts on tips about al-Zuhari.</description>
+
+		<genre>Action</genre>
+		<release>2013</release>
+		<stars>5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/strike-back-s1-ep1.png">
+			<shorttext>
+				<span class="headline">Strike Back</span>
+				<p class="subheadline">Action &#183; 2013 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 1: Beirut</p>
+				<p class="description">Section 20 tracks facilitator James Leatherby in Beirut. They continue to use Kamali in operations on Leatherby. Dalton is making bad decision due to her emotions over Baxter's death. Section 20 acts on tips about al-Zuhari.</p>
+			</shorttext>
+			<time><start hour="02" min="05"/><end hour="03" min="00"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="90210-s5-ep21" text="90210">
+		<image url="media/tv/90210-s5-ep21.png"/>
+
+		<title>90210</title>
+		<series>Season 5, Ep. 21: Scandal Royale</series>
+		<description>Naomi helps Jordan's sister, Elizabeth, out of a messy political situation, and in turn makes a deal with his mother. Teddy returns to Beverly Hills after Dixon tells him that Michela has gone missing and asks him to find her.</description>
+
+		<genre>Romance</genre>
+		<release>2013</release>
+		<stars>3</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/90210-s5-ep21.png">
+			<shorttext>
+				<span class="headline">90210</span>
+				<p class="subheadline">Romance &#183; 2013 &#183; TV-PG &#183; </p>
+				<p class="subsubheadline">Season 5, Ep. 21: Scandal Royale</p>
+				<p class="description">Naomi helps Jordan's sister, Elizabeth, out of a messy political situation, and in turn makes a deal with his mother. Teddy returns to Beverly Hills after Dixon tells him that Michela has gone missing and asks him to find her.</p>
+			</shorttext>
+			<time><start hour="03" min="00"/><end hour="03" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="defiance-s2-ep3" text="Defiance">
+		<image url="media/tv/defiance-s2-ep3.png"/>
+
+		<title>Defiance</title>
+		<series>Season 2, Ep. 3: The Cord and the Ax</series>
+		<description>Irisa's terrifying black-outs escalate, driving a wedge of secrecy between her and a worried Nolan. Meanwhile, the Tarr family business thrives under Stahma's self-appointed direction while an increasingly suspicious Datak remains in jail.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>60</duration><series/>
+		</meta>
+		<info url="media/tv/defiance-s2-ep3.png">
+			<shorttext>
+				<span class="headline">Defiance</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 3: The Cord and the Ax</p>
+				<p class="description">Irisa's terrifying black-outs escalate, driving a wedge of secrecy between her and a worried Nolan. Meanwhile, the Tarr family business thrives under Stahma's self-appointed direction while an increasingly suspicious Datak remains in jail.</p>
+			</shorttext>
+			<time><start hour="03" min="45"/><end hour="04" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="true-blood-s5-ep6" text="True Blood">
+		<image url="media/tv/true-blood-s5-ep6.png"/>
+
+		<title>True Blood</title>
+		<series>Season 5, Ep. 6: Hopeless</series>
+		<description>The former King of Mississippi is taken prisoner and put in a cell at the Authority. Not quite knowing what might be in store for them on their return, Bill and Eric are happy to see that Roman welcomes them back with open arms.</description>
+
+		<genre>Drama</genre>
+		<release>2012</release>
+		<stars>4</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>50</duration><series/>
+		</meta>
+		<info url="media/tv/true-blood-s5-ep6.png">
+			<shorttext>
+				<span class="headline">True Blood</span>
+				<p class="subheadline">Drama &#183; 2012 &#183; TV-MA &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 5, Ep. 6: Hopeless</p>
+				<p class="description">The former King of Mississippi is taken prisoner and put in a cell at the Authority. Not quite knowing what might be in store for them on their return, Bill and Eric are happy to see that Roman welcomes them back with open arms.</p>
+			</shorttext>
+			<time><start hour="04" min="45"/><end hour="05" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="how-i-met-your-mother-s7-ep7" text="How I Met Your Mother">
+		<image url="media/tv/how-i-met-your-mother-s7-ep7.png"/>
+
+		<title>How I Met Your Mother</title>
+		<series>Season 7, Ep. 7: Noretta</series>
+		<description>Kevin's declaration that everybody marries their parents ruins Marshall and Lily's evening, but will anything keep Barney from getting lucky with Nora? And will Kevin finally get fed up with Ted and Robin's close relationship?</description>
+
+		<genre>Romance</genre>
+		<release>2011</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>60</duration><series/>
+		</meta>
+		<info url="media/tv/how-i-met-your-mother-s7-ep7.png">
+			<shorttext>
+				<span class="headline">How I Met Your Mother</span>
+				<p class="subheadline">Romance &#183; 2011 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 7, Ep. 7: Noretta</p>
+				<p class="description">Kevin's declaration that everybody marries their parents ruins Marshall and Lily's evening, but will anything keep Barney from getting lucky with Nora? And will Kevin finally get fed up with Ted and Robin's close relationship?</p>
+			</shorttext>
+			<time><start hour="05" min="35"/><end hour="06" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="hot-in-cleveland-s5-ep3" text="The 100">
+		<image url="media/tv/hot-in-cleveland-s5-ep3.png"/>
+
+		<title>The 100</title>
+		<series>Season 5, Ep. 3: Dr. Who?</series>
+		<description>Joy's baby daddy, Simon (Craig Ferguson), meets his son and grandson for the very first time as they pretend to be a happy family to get Wilbur into a prestigious pre-school. Melanie and Elka try to find the perfect doctor.</description>
+
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/hot-in-cleveland-s5-ep3.png">
+			<shorttext>
+				<span class="headline">The 100</span>
+				<p class="subheadline">Comedy &#183; 2014 &#183; TV-PG &#183; </p>
+				<p class="subsubheadline">Season 5, Ep. 3: Dr. Who?</p>
+				<p class="description">Joy's baby daddy, Simon (Craig Ferguson), meets his son and grandson for the very first time as they pretend to be a happy family to get Wilbur into a prestigious pre-school. Melanie and Elka try to find the perfect doctor.</p>
+			</shorttext>
+			<time><start hour="06" min="35"/><end hour="07" min="05"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="da-vincis-demons-s2-ep7" text="Da Vinci's Demons">
+		<image url="media/tv/da-vincis-demons-s2-ep7.png"/>
+
+		<title>Da Vinci's Demons</title>
+		<series>Season 2, Ep. 7: The Vault of Heaven</series>
+		<description>Clarice's life is in danger. The fellowship enters the Vault of Heaven, which holds many mysteries and deceptions. Lucrezia reaches her destination, meeting someone along the way. Zoroaster and Nico plan their escape.</description>
+
+		<genre>Fantasy</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/da-vincis-demons-s2-ep7.png">
+			<shorttext>
+				<span class="headline">Da Vinci's Demons</span>
+				<p class="subheadline">Fantasy &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 7: The Vault of Heaven</p>
+				<p class="description">Clarice's life is in danger. The fellowship enters the Vault of Heaven, which holds many mysteries and deceptions. Lucrezia reaches her destination, meeting someone along the way. Zoroaster and Nico plan their escape.</p>
+			</shorttext>
+			<time><start hour="07" min="05"/><end hour="07" min="50"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="once-upon-a-time-s2-ep2" text="Once Upon a Time">
+		<image url="media/tv/once-upon-a-time-s2-ep2.png"/>
+
+		<title>Once Upon a Time</title>
+		<series>Season 2, Ep. 2: We Are Both</series>
+		<description>Prince Charming desperately searches for a way to get Snow White and Emma back from the Enchanted Forest. Meanwhile, the Seven Dwarves discover that if anyone leaves Storybrooke, they will lose the memory of their true identity.</description>
+
+		<genre>Romance</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/once-upon-a-time-s2-ep2.png">
+			<shorttext>
+				<span class="headline">Once Upon a Time</span>
+				<p class="subheadline">Romance &#183; 2013 &#183; TV-PG &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 2: We Are Both</p>
+				<p class="description">Prince Charming desperately searches for a way to get Snow White and Emma back from the Enchanted Forest. Meanwhile, the Seven Dwarves discover that if anyone leaves Storybrooke, they will lose the memory of their true identity.</p>
+			</shorttext>
+			<time><start hour="07" min="50"/><end hour="08" min="55"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="true-blood-s6-ep9" text="True Blood">
+		<image url="media/tv/true-blood-s6-ep9.png"/>
+
+		<title>True Blood</title>
+		<series>Season 6, Ep. 9: Life Matters</series>
+		<description>A desperate Bill tries to ferry Warlow away from the faerie plain, but Sookie is having none of it. Meanwhile, Eric arrives at vamp camp, looking to inflict serious human damage. Bill feels the pull of Lilith's sirens.</description>
+
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>60</duration><series/>
+		</meta>
+		<info url="media/tv/true-blood-s6-ep9.png">
+			<shorttext>
+				<span class="headline">True Blood</span>
+				<p class="subheadline">Drama &#183; 2013 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 6, Ep. 9: Life Matters</p>
+				<p class="description">A desperate Bill tries to ferry Warlow away from the faerie plain, but Sookie is having none of it. Meanwhile, Eric arrives at vamp camp, looking to inflict serious human damage. Bill feels the pull of Lilith's sirens.</p>
+			</shorttext>
+			<time><start hour="08" min="55"/><end hour="09" min="55"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+
+</item>
+
+<item id="now" title="Now">
+
+<item id="the-following-s1-ep13" text="The Following">
+		<image url="media/tv/the-following-s1-ep13.png"/>
+
+		<title>The Following</title>
+		<series>Season 1, Ep. 13: Havenport</series>
+		<description>Mike Weston recognizes Roderick as one of the men who beat him up. He gets away but the FBI lock down the local sheriff's office until they figure out just who they can trust. Agent Nick Donovan orders an information blackout.</description>
+
+		<genre>Crime</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/the-following-s1-ep13.png">
+			<shorttext>
+				<span class="headline">The Following</span>
+				<p class="subheadline">Crime &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 13: Havenport</p>
+				<p class="description">Mike Weston recognizes Roderick as one of the men who beat him up. He gets away but the FBI lock down the local sheriff's office until they figure out just who they can trust. Agent Nick Donovan orders an information blackout.</p>
+			</shorttext>
+			<time><start hour="00" min="00"/><end hour="00" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="manhattan-s2-ep4" text="Manhattan">
+		<image url="media/tv/manhattan-s2-ep4.png"/>
+
+		<title>Manhattan</title>
+		<series>Season 2, Ep. 4: Last Reasoning of Kings</series>
+		<description>When Babbit's past comes back to haunt him, Frank clashes with Charlie to protect his mentor and seeks medical answers. The community reels after losing a member, while new security measures affect the scientists' work.</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/manhattan-s2-ep4.png">
+			<shorttext>
+				<span class="headline">Manhattan</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 4: Last Reasoning of Kings</p>
+				<p class="description">When Babbit's past comes back to haunt him, Frank clashes with Charlie to protect his mentor and seeks medical answers. The community reels after losing a member, while new security measures affect the scientists' work.</p>
+			</shorttext>
+			<time><start hour="00" min="35"/><end hour="01" min="20"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="24-s5-ep2" text="24">
+		<image url="media/tv/24-s5-ep2.png"/>
+
+		<title>24</title>
+		<series>Season 5, Ep. 2: Day 5, 7-8 AM</series>
+		<description>The Russian and US Presidents are set to sign an anti-terror treaty when assassinations rock Los Angeles, a call from a distressed Chloe forces Jack into action and President Logan's wife believes there may be a conspiracy.</description>
+
+		<genre>Thriller</genre>
+		<release>2010</release>
+		<stars>3</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/24-s5-ep2.png">
+			<shorttext>
+				<span class="headline">24</span>
+				<p class="subheadline">Thriller &#183; 2010 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 5, Ep. 2: Day 5, 7-8 AM</p>
+				<p class="description">The Russian and US Presidents are set to sign an anti-terror treaty when assassinations rock Los Angeles, a call from a distressed Chloe forces Jack into action and President Logan's wife believes there may be a conspiracy.</p>
+			</shorttext>
+			<time><start hour="01" min="20"/><end hour="02" min="05"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="strike-back-s1-ep1" text="Strike Back">
+		<image url="media/tv/strike-back-s1-ep1.png"/>
+
+		<title>Strike Back</title>
+		<series>Season 1, Ep. 1: Beirut</series>
+		<description>Section 20 tracks facilitator James Leatherby in Beirut. They continue to use Kamali in operations on Leatherby. Dalton is making bad decision due to her emotions over Baxter's death. Section 20 acts on tips about al-Zuhari.</description>
+
+		<genre>Action</genre>
+		<release>2013</release>
+		<stars>5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/strike-back-s1-ep1.png">
+			<shorttext>
+				<span class="headline">Strike Back</span>
+				<p class="subheadline">Action &#183; 2013 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 1: Beirut</p>
+				<p class="description">Section 20 tracks facilitator James Leatherby in Beirut. They continue to use Kamali in operations on Leatherby. Dalton is making bad decision due to her emotions over Baxter's death. Section 20 acts on tips about al-Zuhari.</p>
+			</shorttext>
+			<time><start hour="02" min="05"/><end hour="03" min="00"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="90210-s5-ep21" text="90210">
+		<image url="media/tv/90210-s5-ep21.png"/>
+
+		<title>90210</title>
+		<series>Season 5, Ep. 21: Scandal Royale</series>
+		<description>Naomi helps Jordan's sister, Elizabeth, out of a messy political situation, and in turn makes a deal with his mother. Teddy returns to Beverly Hills after Dixon tells him that Michela has gone missing and asks him to find her.</description>
+
+		<genre>Romance</genre>
+		<release>2013</release>
+		<stars>3</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/90210-s5-ep21.png">
+			<shorttext>
+				<span class="headline">90210</span>
+				<p class="subheadline">Romance &#183; 2013 &#183; TV-PG &#183; </p>
+				<p class="subsubheadline">Season 5, Ep. 21: Scandal Royale</p>
+				<p class="description">Naomi helps Jordan's sister, Elizabeth, out of a messy political situation, and in turn makes a deal with his mother. Teddy returns to Beverly Hills after Dixon tells him that Michela has gone missing and asks him to find her.</p>
+			</shorttext>
+			<time><start hour="03" min="00"/><end hour="03" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="defiance-s2-ep3" text="Defiance">
+		<image url="media/tv/defiance-s2-ep3.png"/>
+
+		<title>Defiance</title>
+		<series>Season 2, Ep. 3: The Cord and the Ax</series>
+		<description>Irisa's terrifying black-outs escalate, driving a wedge of secrecy between her and a worried Nolan. Meanwhile, the Tarr family business thrives under Stahma's self-appointed direction while an increasingly suspicious Datak remains in jail.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>60</duration><series/>
+		</meta>
+		<info url="media/tv/defiance-s2-ep3.png">
+			<shorttext>
+				<span class="headline">Defiance</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 3: The Cord and the Ax</p>
+				<p class="description">Irisa's terrifying black-outs escalate, driving a wedge of secrecy between her and a worried Nolan. Meanwhile, the Tarr family business thrives under Stahma's self-appointed direction while an increasingly suspicious Datak remains in jail.</p>
+			</shorttext>
+			<time><start hour="03" min="45"/><end hour="04" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="true-blood-s5-ep6" text="True Blood">
+		<image url="media/tv/true-blood-s5-ep6.png"/>
+
+		<title>True Blood</title>
+		<series>Season 5, Ep. 6: Hopeless</series>
+		<description>The former King of Mississippi is taken prisoner and put in a cell at the Authority. Not quite knowing what might be in store for them on their return, Bill and Eric are happy to see that Roman welcomes them back with open arms.</description>
+
+		<genre>Drama</genre>
+		<release>2012</release>
+		<stars>4</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>50</duration><series/>
+		</meta>
+		<info url="media/tv/true-blood-s5-ep6.png">
+			<shorttext>
+				<span class="headline">True Blood</span>
+				<p class="subheadline">Drama &#183; 2012 &#183; TV-MA &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 5, Ep. 6: Hopeless</p>
+				<p class="description">The former King of Mississippi is taken prisoner and put in a cell at the Authority. Not quite knowing what might be in store for them on their return, Bill and Eric are happy to see that Roman welcomes them back with open arms.</p>
+			</shorttext>
+			<time><start hour="04" min="45"/><end hour="05" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="how-i-met-your-mother-s7-ep7" text="How I Met Your Mother">
+		<image url="media/tv/how-i-met-your-mother-s7-ep7.png"/>
+
+		<title>How I Met Your Mother</title>
+		<series>Season 7, Ep. 7: Noretta</series>
+		<description>Kevin's declaration that everybody marries their parents ruins Marshall and Lily's evening, but will anything keep Barney from getting lucky with Nora? And will Kevin finally get fed up with Ted and Robin's close relationship?</description>
+
+		<genre>Romance</genre>
+		<release>2011</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>60</duration><series/>
+		</meta>
+		<info url="media/tv/how-i-met-your-mother-s7-ep7.png">
+			<shorttext>
+				<span class="headline">How I Met Your Mother</span>
+				<p class="subheadline">Romance &#183; 2011 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 7, Ep. 7: Noretta</p>
+				<p class="description">Kevin's declaration that everybody marries their parents ruins Marshall and Lily's evening, but will anything keep Barney from getting lucky with Nora? And will Kevin finally get fed up with Ted and Robin's close relationship?</p>
+			</shorttext>
+			<time><start hour="05" min="35"/><end hour="06" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="hot-in-cleveland-s5-ep3" text="The 100">
+		<image url="media/tv/hot-in-cleveland-s5-ep3.png"/>
+
+		<title>The 100</title>
+		<series>Season 5, Ep. 3: Dr. Who?</series>
+		<description>Joy's baby daddy, Simon (Craig Ferguson), meets his son and grandson for the very first time as they pretend to be a happy family to get Wilbur into a prestigious pre-school. Melanie and Elka try to find the perfect doctor.</description>
+
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/hot-in-cleveland-s5-ep3.png">
+			<shorttext>
+				<span class="headline">The 100</span>
+				<p class="subheadline">Comedy &#183; 2014 &#183; TV-PG &#183; </p>
+				<p class="subsubheadline">Season 5, Ep. 3: Dr. Who?</p>
+				<p class="description">Joy's baby daddy, Simon (Craig Ferguson), meets his son and grandson for the very first time as they pretend to be a happy family to get Wilbur into a prestigious pre-school. Melanie and Elka try to find the perfect doctor.</p>
+			</shorttext>
+			<time><start hour="06" min="35"/><end hour="07" min="05"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="da-vincis-demons-s2-ep7" text="Da Vinci's Demons">
+		<image url="media/tv/da-vincis-demons-s2-ep7.png"/>
+
+		<title>Da Vinci's Demons</title>
+		<series>Season 2, Ep. 7: The Vault of Heaven</series>
+		<description>Clarice's life is in danger. The fellowship enters the Vault of Heaven, which holds many mysteries and deceptions. Lucrezia reaches her destination, meeting someone along the way. Zoroaster and Nico plan their escape.</description>
+
+		<genre>Fantasy</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/da-vincis-demons-s2-ep7.png">
+			<shorttext>
+				<span class="headline">Da Vinci's Demons</span>
+				<p class="subheadline">Fantasy &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 7: The Vault of Heaven</p>
+				<p class="description">Clarice's life is in danger. The fellowship enters the Vault of Heaven, which holds many mysteries and deceptions. Lucrezia reaches her destination, meeting someone along the way. Zoroaster and Nico plan their escape.</p>
+			</shorttext>
+			<time><start hour="07" min="05"/><end hour="07" min="50"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="once-upon-a-time-s2-ep2" text="Once Upon a Time">
+		<image url="media/tv/once-upon-a-time-s2-ep2.png"/>
+
+		<title>Once Upon a Time</title>
+		<series>Season 2, Ep. 2: We Are Both</series>
+		<description>Prince Charming desperately searches for a way to get Snow White and Emma back from the Enchanted Forest. Meanwhile, the Seven Dwarves discover that if anyone leaves Storybrooke, they will lose the memory of their true identity.</description>
+
+		<genre>Romance</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/once-upon-a-time-s2-ep2.png">
+			<shorttext>
+				<span class="headline">Once Upon a Time</span>
+				<p class="subheadline">Romance &#183; 2013 &#183; TV-PG &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 2: We Are Both</p>
+				<p class="description">Prince Charming desperately searches for a way to get Snow White and Emma back from the Enchanted Forest. Meanwhile, the Seven Dwarves discover that if anyone leaves Storybrooke, they will lose the memory of their true identity.</p>
+			</shorttext>
+			<time><start hour="07" min="50"/><end hour="08" min="55"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="true-blood-s6-ep9" text="True Blood">
+		<image url="media/tv/true-blood-s6-ep9.png"/>
+
+		<title>True Blood</title>
+		<series>Season 6, Ep. 9: Life Matters</series>
+		<description>A desperate Bill tries to ferry Warlow away from the faerie plain, but Sookie is having none of it. Meanwhile, Eric arrives at vamp camp, looking to inflict serious human damage. Bill feels the pull of Lilith's sirens.</description>
+
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>60</duration><series/>
+		</meta>
+		<info url="media/tv/true-blood-s6-ep9.png">
+			<shorttext>
+				<span class="headline">True Blood</span>
+				<p class="subheadline">Drama &#183; 2013 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 6, Ep. 9: Life Matters</p>
+				<p class="description">A desperate Bill tries to ferry Warlow away from the faerie plain, but Sookie is having none of it. Meanwhile, Eric arrives at vamp camp, looking to inflict serious human damage. Bill feels the pull of Lilith's sirens.</p>
+			</shorttext>
+			<time><start hour="08" min="55"/><end hour="09" min="55"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="downton-abbey-s4-ep2" text="Downton Abbey">
+		<image url="media/tv/downton-abbey-s4-ep2.png"/>
+
+		<title>Downton Abbey</title>
+		<series>Season 4, Ep. 2: Corporated</series>
+		<description>Mary receives a letter from Matthew's effects, naming her as his sole heir and therefore the owner of half the estate. Encouraged by Violet, she agrees to shadow Tom and learn more about the running of Downton.</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/downton-abbey-s4-ep2.png">
+			<shorttext>
+				<span class="headline">Downton Abbey</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 4, Ep. 2: Corporated</p>
+				<p class="description">Mary receives a letter from Matthew's effects, naming her as his sole heir and therefore the owner of half the estate. Encouraged by Violet, she agrees to shadow Tom and learn more about the running of Downton.</p>
+			</shorttext>
+			<time><start hour="09" min="55"/><end hour="10" min="30"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="game-of-thrones-s1-ep5" text="Game of Thrones">
+		<image url="media/tv/game-of-thrones-s1-ep5.png"/>
+
+		<title>Game of Thrones</title>
+		<series>Season 1, Ep. 5: The Wolf and the Lion</series>
+		<description>Catelyn has captured Tyrion and plans to bring him to her sister, Lysa Arryn, at The Vale, to be tried for his, supposed, crimes against Bran. Robert plans to have Daenerys killed, but Eddard refuses to be a part of it and quits.</description>
+
+		<genre>Fantasy</genre>
+		<release>2011</release>
+		<stars>4.5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/game-of-thrones-s1-ep5.png">
+			<shorttext>
+				<span class="headline">Game of Thrones</span>
+				<p class="subheadline">Fantasy &#183; 2011 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 5: The Wolf and the Lion</p>
+				<p class="description">Catelyn has captured Tyrion and plans to bring him to her sister, Lysa Arryn, at The Vale, to be tried for his, supposed, crimes against Bran. Robert plans to have Daenerys killed, but Eddard refuses to be a part of it and quits.</p>
+			</shorttext>
+			<time><start hour="10" min="30"/><end hour="11" min="00"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="game-of-thrones-s3-ep8" text="Game of Thrones">
+		<image url="media/tv/game-of-thrones-s3-ep8.png"/>
+
+		<title>Game of Thrones</title>
+		<series>Season 3, Ep. 8: Second Sons</series>
+		<description>Robb and Catelyn arrive at Riverrun for Lord Hoster Tully's funeral. Tywin names Tyrion the new Master of Coin. Arya says goodbye to Hot Pie. The Night's Watch returns to Craster's. Brianne and Jamie are taken prisoner.</description>
+
+		<genre>Fantasy</genre>
+		<release>2013</release>
+		<stars>5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/game-of-thrones-s3-ep8.png">
+			<shorttext>
+				<span class="headline">Game of Thrones</span>
+				<p class="subheadline">Fantasy &#183; 2013 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 8: Second Sons</p>
+				<p class="description">Robb and Catelyn arrive at Riverrun for Lord Hoster Tully's funeral. Tywin names Tyrion the new Master of Coin. Arya says goodbye to Hot Pie. The Night's Watch returns to Craster's. Brianne and Jamie are taken prisoner.</p>
+			</shorttext>
+			<time><start hour="11" min="00"/><end hour="11" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="house-of-cards-s1-ep1" text="House of Cards">
+		<image url="media/tv/house-of-cards-s1-ep1.png"/>
+
+		<title>House of Cards</title>
+		<series>Season 1, Ep. 1: Chapter 1</series>
+		<description>Congressman Francis Underwood has been declined the chair for Secretary of State. He's now gathering his own team to plot his revenge. Zoe Barnes, a reporter for the Washington Herald, will do anything to get her big break.</description>
+
+		<genre>Crime</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/house-of-cards-s1-ep1.png">
+			<shorttext>
+				<span class="headline">House of Cards</span>
+				<p class="subheadline">Crime &#183; 2014 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 1: Chapter 1</p>
+				<p class="description">Congressman Francis Underwood has been declined the chair for Secretary of State. He's now gathering his own team to plot his revenge. Zoe Barnes, a reporter for the Washington Herald, will do anything to get her big break.</p>
+			</shorttext>
+			<time><start hour="11" min="35"/><end hour="12" min="15"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="falling-skies-s4-ep3" text="Falling Skies">
+		<image url="media/tv/falling-skies-s4-ep3.png"/>
+
+		<title>Falling Skies</title>
+		<series>Season 4, Ep. 3: Exodus</series>
+		<description>Tom and the 2nd Mass hatch an elaborate plan to escape the confines of the Espheni Ghetto. Meanwhile back in Chinatown, after learning from Ben that Lexi has been keeping a deadly secret, Maggie confronts Lexi publicly.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/falling-skies-s4-ep3.png">
+			<shorttext>
+				<span class="headline">Falling Skies</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 4, Ep. 3: Exodus</p>
+				<p class="description">Tom and the 2nd Mass hatch an elaborate plan to escape the confines of the Espheni Ghetto. Meanwhile back in Chinatown, after learning from Ben that Lexi has been keeping a deadly secret, Maggie confronts Lexi publicly.</p>
+			</shorttext>
+			<time><start hour="12" min="15"/><end hour="12" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="the-100-s1-ep2" text="The 100">
+		<image url="media/tv/the-100-s1-ep2.png"/>
+
+		<title>The 100</title>
+		<series>Season 1, Ep. 2: Earth Skills</series>
+		<description>Discovering that Jasper may still be alive, Clarke, Bellamy, Finn, Wells and Murphy make a pact and head out to find him. On the Ark, Abby is determined to prove Earth is habitable, and enlists a mechanic to craft an escape pod.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>50</duration><series/>
+		</meta>
+		<info url="media/tv/the-100-s1-ep2.png">
+			<shorttext>
+				<span class="headline">The 100</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 2: Earth Skills</p>
+				<p class="description">Discovering that Jasper may still be alive, Clarke, Bellamy, Finn, Wells and Murphy make a pact and head out to find him. On the Ark, Abby is determined to prove Earth is habitable, and enlists a mechanic to craft an escape pod.</p>
+			</shorttext>
+			<time><start hour="12" min="45"/><end hour="13" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="shameless-s4-ep4" text="Shameless">
+		<image url="media/tv/shameless-s4-ep4.png"/>
+
+		<title>Shameless</title>
+		<series>Season 4, Ep. 4: Strangers on a Train</series>
+		<description>Fiona continues her secret affair with Robbie. The situation nearly boils over, when Mike shows up at Robbie's apartment while Fiona's inside. Fiona is able to hide just in time before her infidelity can be exposed.</description>
+
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>50</duration><series/>
+		</meta>
+		<info url="media/tv/shameless-s4-ep4.png">
+			<shorttext>
+				<span class="headline">Shameless</span>
+				<p class="subheadline">Comedy &#183; 2014 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 4, Ep. 4: Strangers on a Train</p>
+				<p class="description">Fiona continues her secret affair with Robbie. The situation nearly boils over, when Mike shows up at Robbie's apartment while Fiona's inside. Fiona is able to hide just in time before her infidelity can be exposed.</p>
+			</shorttext>
+			<time><start hour="13" min="35"/><end hour="14" min="25"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="breaking-bad-s5-ep12" text="Breaking Bad">
+		<image url="media/tv/breaking-bad-s5-ep12.png"/>
+
+		<title>Breaking Bad</title>
+		<series>Season 5, Ep. 12: Rabid Dog</series>
+		<description>Walt discovers Jesse broke into his house and attempted to burn it down. Walt wants to protect his family so he moves them into a hotel for a few nights. Jesse decides to work with Hank in order to take down Walt.</description>
+
+		<genre>Crime</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/breaking-bad-s5-ep12.png">
+			<shorttext>
+				<span class="headline">Breaking Bad</span>
+				<p class="subheadline">Crime &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 5, Ep. 12: Rabid Dog</p>
+				<p class="description">Walt discovers Jesse broke into his house and attempted to burn it down. Walt wants to protect his family so he moves them into a hotel for a few nights. Jesse decides to work with Hank in order to take down Walt.</p>
+			</shorttext>
+			<time><start hour="14" min="25"/><end hour="14" min="55"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="true-blood-s7-ep8" text="True Blood">
+		<image url="media/tv/true-blood-s7-ep8.png"/>
+
+		<title>True Blood</title>
+		<series>Season 7, Ep. 8: Almost Home</series>
+		<description>Sarah is captured and kept prisoner at Fangtasia. Jason and Jessica feel Violet's wrath. Lettie Mae bids farewell to Tara, witnessing what Tara wanted her to. Through Sookie, Bill is made aware of the cure, but will he accept it?</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/true-blood-s7-ep8.png">
+			<shorttext>
+				<span class="headline">True Blood</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 7, Ep. 8: Almost Home</p>
+				<p class="description">Sarah is captured and kept prisoner at Fangtasia. Jason and Jessica feel Violet's wrath. Lettie Mae bids farewell to Tara, witnessing what Tara wanted her to. Through Sookie, Bill is made aware of the cure, but will he accept it?</p>
+			</shorttext>
+			<time><start hour="14" min="55"/><end hour="15" min="25"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="hawaii-five-0-s4-ep16" text="Hawaii Five-0">
+		<image url="media/tv/hawaii-five-0-s4-ep16.png"/>
+
+		<title>Hawaii Five-0</title>
+		<series>Season 4, Ep. 16: Hoku Welowelo</series>
+		<description>McGarrett is convinced that a psychiatrist murdered one of her patients, but will she get the last laugh? Meanwhile, Catherine discovers that an assassin is on the island and is looking for Doris McGarrett.</description>
+
+		<genre>Crime</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/hawaii-five-0-s4-ep16.png">
+			<shorttext>
+				<span class="headline">Hawaii Five-0</span>
+				<p class="subheadline">Crime &#183; 2014 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 4, Ep. 16: Hoku Welowelo</p>
+				<p class="description">McGarrett is convinced that a psychiatrist murdered one of her patients, but will she get the last laugh? Meanwhile, Catherine discovers that an assassin is on the island and is looking for Doris McGarrett.</p>
+			</shorttext>
+			<time><start hour="15" min="25"/><end hour="15" min="55"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="the-good-wife-s5-ep4" text="The Good Wife">
+		<image url="media/tv/the-good-wife-s5-ep4.png"/>
+
+		<title>The Good Wife</title>
+		<series>Season 5, Ep. 4: Outside the Bubble</series>
+		<description>As Diane prepares for big changes as she leaves the firm, the firm faces a politically-motivated sexual harassment suit. Meanwhile, Jackie makes trouble for the inauguration, and Alicia and Cary's departure from the firm is imminent.</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>50</duration><series/>
+		</meta>
+		<info url="media/tv/the-good-wife-s5-ep4.png">
+			<shorttext>
+				<span class="headline">The Good Wife</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 5, Ep. 4: Outside the Bubble</p>
+				<p class="description">As Diane prepares for big changes as she leaves the firm, the firm faces a politically-motivated sexual harassment suit. Meanwhile, Jackie makes trouble for the inauguration, and Alicia and Cary's departure from the firm is imminent.</p>
+			</shorttext>
+			<time><start hour="15" min="55"/><end hour="16" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="falling-skies-s3-ep9" text="Falling Skies">
+		<image url="media/tv/falling-skies-s3-ep9.png"/>
+
+		<title>Falling Skies</title>
+		<series>Season 3, Ep. 9: Journey to Xibalba</series>
+		<description>Tom uncovers confidential intelligence about the heart of the alien operation. Meanwhile, Charleston prepares to mount an offensive against the Espheni, but a massive explosion brings the operation to a halt.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2013</release>
+		<stars>3</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>50</duration><series/>
+		</meta>
+		<info url="media/tv/falling-skies-s3-ep9.png">
+			<shorttext>
+				<span class="headline">Falling Skies</span>
+				<p class="subheadline">Sci-Fi &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 9: Journey to Xibalba</p>
+				<p class="description">Tom uncovers confidential intelligence about the heart of the alien operation. Meanwhile, Charleston prepares to mount an offensive against the Espheni, but a massive explosion brings the operation to a halt.</p>
+			</shorttext>
+			<time><start hour="16" min="45"/><end hour="17" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="arrow-s2-ep15" text="Arrow">
+		<image url="media/tv/arrow-s2-ep15.png"/>
+
+		<title>Arrow</title>
+		<series>Season 2, Ep. 15: Sacrifice</series>
+		<description>Oliver awakens to find himself Malcolm Merlyn's prisoner. He manages to escape and away with help from Digg. Malcolm accelerates his timetable as a result. Lance about her hacking activities but is interrupted by Oliver.</description>
+
+		<genre>Action</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/arrow-s2-ep15.png">
+			<shorttext>
+				<span class="headline">Arrow</span>
+				<p class="subheadline">Action &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 15: Sacrifice</p>
+				<p class="description">Oliver awakens to find himself Malcolm Merlyn's prisoner. He manages to escape and away with help from Digg. Malcolm accelerates his timetable as a result. Lance about her hacking activities but is interrupted by Oliver.</p>
+			</shorttext>
+			<time><start hour="17" min="35"/><end hour="18" min="10"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="breaking-bad-s2-ep12" text="Breaking Bad">
+		<image url="media/tv/breaking-bad-s2-ep12.png"/>
+
+		<title>Breaking Bad</title>
+		<series>Season 2, Ep. 12: Peekaboo</series>
+		<description>After Skinny Pete gets ripped off, Walt makes Jesse go get the money. Meanwhile, Walt's cover story on how Elliott and Gretchen are paying for his medical treatment is on the verge of collapsing.</description>
+
+		<genre>Crime</genre>
+		<release>2011</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/breaking-bad-s2-ep12.png">
+			<shorttext>
+				<span class="headline">Breaking Bad</span>
+				<p class="subheadline">Crime &#183; 2011 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 12: Peekaboo</p>
+				<p class="description">After Skinny Pete gets ripped off, Walt makes Jesse go get the money. Meanwhile, Walt's cover story on how Elliott and Gretchen are paying for his medical treatment is on the verge of collapsing.</p>
+			</shorttext>
+			<time><start hour="18" min="10"/><end hour="18" min="50"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="breaking-bad-s1-ep7" text="Breaking Bad">
+		<image url="media/tv/breaking-bad-s1-ep7.png"/>
+
+		<title>Breaking Bad</title>
+		<series>Season 1, Ep. 7: Gray Matter</series>
+		<description>Walt and Jesse try to up their game by making more of the crystal every week for Tuco. Unfortunately, some of the ingredients they need is not easy to find. Meanwhile, Skyler realizes that her sister is a shoplifter.</description>
+
+		<genre>Crime</genre>
+		<release>2010</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>60</duration><series/>
+		</meta>
+		<info url="media/tv/breaking-bad-s1-ep7.png">
+			<shorttext>
+				<span class="headline">Breaking Bad</span>
+				<p class="subheadline">Crime &#183; 2010 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 1, Ep. 7: Gray Matter</p>
+				<p class="description">Walt and Jesse try to up their game by making more of the crystal every week for Tuco. Unfortunately, some of the ingredients they need is not easy to find. Meanwhile, Skyler realizes that her sister is a shoplifter.</p>
+			</shorttext>
+			<time><start hour="18" min="50"/><end hour="19" min="50"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="how-i-met-your-mother-s8-ep24" text="How I Met Your Mother">
+		<image url="media/tv/how-i-met-your-mother-s8-ep24.png"/>
+
+		<title>How I Met Your Mother</title>
+		<series>Season 8, Ep. 24: Something New</series>
+		<description>As the wedding approaches, Barney and Robin deliberately ruin an obnoxious couple's evening, Marshall and Lily's plans for Italy hit a snag, Ted tells Lily that he's moving to Chicago, and the mother buys her ticket to Farhampton.</description>
+
+		<genre>Romance</genre>
+		<release>2012</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/how-i-met-your-mother-s8-ep24.png">
+			<shorttext>
+				<span class="headline">How I Met Your Mother</span>
+				<p class="subheadline">Romance &#183; 2012 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 8, Ep. 24: Something New</p>
+				<p class="description">As the wedding approaches, Barney and Robin deliberately ruin an obnoxious couple's evening, Marshall and Lily's plans for Italy hit a snag, Ted tells Lily that he's moving to Chicago, and the mother buys her ticket to Farhampton.</p>
+			</shorttext>
+			<time><start hour="19" min="50"/><end hour="20" min="20"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="orange-is-the-new-black-s1-ep12" text="Orange Is the New Black">
+		<image url="media/tv/orange-is-the-new-black-s1-ep12.png"/>
+
+		<title>Orange Is the New Black</title>
+		<series>Season 1, Ep. 12: Fool Me Once</series>
+		<description>After discovering a series of sad truths, friendships change. Tiffany Pennsatucky Doggett is offended by Piper Chapman, and that lead to the dangerous roads. Larry first meets Alex to cope with everything that is happening.</description>
+
+		<genre>Crime</genre>
+		<release>2013</release>
+		<stars>5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/orange-is-the-new-black-s1-ep12.png">
+			<shorttext>
+				<span class="headline">Orange Is the New Black</span>
+				<p class="subheadline">Crime &#183; 2013 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 12: Fool Me Once</p>
+				<p class="description">After discovering a series of sad truths, friendships change. Tiffany Pennsatucky Doggett is offended by Piper Chapman, and that lead to the dangerous roads. Larry first meets Alex to cope with everything that is happening.</p>
+			</shorttext>
+			<time><start hour="20" min="20"/><end hour="20" min="50"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="new-girl-s3-ep12" text="New Girl">
+		<image url="media/tv/new-girl-s3-ep12.png"/>
+
+		<title>New Girl</title>
+		<series>Season 3, Ep. 12: Basketsball</series>
+		<description>Jess pretends to be a fan of the Pistons in an attempt to befriend Coach, to Nick's dismay, who is a Bulls fan. Meanwhile, Schmidt is assigned to mentor an elderly colleague at work and Winston discovers a new career path.</description>
+
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/new-girl-s3-ep12.png">
+			<shorttext>
+				<span class="headline">New Girl</span>
+				<p class="subheadline">Comedy &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 12: Basketsball</p>
+				<p class="description">Jess pretends to be a fan of the Pistons in an attempt to befriend Coach, to Nick's dismay, who is a Bulls fan. Meanwhile, Schmidt is assigned to mentor an elderly colleague at work and Winston discovers a new career path.</p>
+			</shorttext>
+			<time><start hour="20" min="50"/><end hour="21" min="20"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="the-walking-dead-s4-ep4" text="The Walking Dead">
+		<image url="media/tv/the-walking-dead-s4-ep4.png"/>
+
+		<title>The Walking Dead</title>
+		<series>Season 4, Ep. 4: Isolation</series>
+		<description>As the sick are quarantined, Daryl, Tyreese, Michonne and Bob leave the prison in search of medical supplies. Rick makes a shocking discovery. Rick and Carol go to a nearby town where they find two uninfected stragglers.</description>
+
+		<genre>Horror</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/the-walking-dead-s4-ep4.png">
+			<shorttext>
+				<span class="headline">The Walking Dead</span>
+				<p class="subheadline">Horror &#183; 2014 &#183; TV-MA &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 4, Ep. 4: Isolation</p>
+				<p class="description">As the sick are quarantined, Daryl, Tyreese, Michonne and Bob leave the prison in search of medical supplies. Rick makes a shocking discovery. Rick and Carol go to a nearby town where they find two uninfected stragglers.</p>
+			</shorttext>
+			<time><start hour="21" min="20"/><end hour="22" min="15"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="24-s6-ep23" text="24">
+		<image url="media/tv/24-s6-ep23.png"/>
+
+		<title>24</title>
+		<series>Season 6, Ep. 23: Day 6, 4-5 AM</series>
+		<description>Evidence links Jack Bauer to a dastardly assassination. In order to prevent a war with Russia, the White House orders a trade of Jack's nephew for the circuit board, and puts Jack in custody so he cannot stop the exchange.</description>
+
+		<genre>Thriller</genre>
+		<release>2011</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/24-s6-ep23.png">
+			<shorttext>
+				<span class="headline">24</span>
+				<p class="subheadline">Thriller &#183; 2011 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 6, Ep. 23: Day 6, 4-5 AM</p>
+				<p class="description">Evidence links Jack Bauer to a dastardly assassination. In order to prevent a war with Russia, the White House orders a trade of Jack's nephew for the circuit board, and puts Jack in custody so he cannot stop the exchange.</p>
+			</shorttext>
+			<time><start hour="22" min="15"/><end hour="22" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="vikings-s2-ep3" text="Vikings">
+		<image url="media/tv/vikings-s2-ep3.png"/>
+
+		<title>Vikings</title>
+		<series>Season 2, Ep. 3: Treachery</series>
+		<description>The Wessex Viking raid is in full swing and King Ecbert finds himself facing an entirely new kind of foe. While Ragnar races to dominate in the West, Jarl Borg has his own plans in store for the future of Kattegat.</description>
+
+		<genre>Action</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/vikings-s2-ep3.png">
+			<shorttext>
+				<span class="headline">Vikings</span>
+				<p class="subheadline">Action &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 3: Treachery</p>
+				<p class="description">The Wessex Viking raid is in full swing and King Ecbert finds himself facing an entirely new kind of foe. While Ragnar races to dominate in the West, Jarl Borg has his own plans in store for the future of Kattegat.</p>
+			</shorttext>
+			<time><start hour="22" min="45"/><end hour="23" min="30"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+<item id="manhattan-s1-ep1" text="Manhattan">
+		<image url="media/tv/manhattan-s1-ep1.png"/>
+
+		<title>Manhattan</title>
+		<series>Season 1, Ep. 1: The One You Love</series>
+		<description>Charlie Isaacs and his family arrive in Los Alamos and attempt to navigate a community built on secrets. Frank Winter, the head of the Manhattan Project, struggles with the sacrifices he is making to help the U.S. win World War II.</description>
+
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>60</duration><series/>
+		</meta>
+		<info url="media/tv/manhattan-s1-ep1.png">
+			<shorttext>
+				<span class="headline">Manhattan</span>
+				<p class="subheadline">Drama &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 1: The One You Love</p>
+				<p class="description">Charlie Isaacs and his family arrive in Los Alamos and attempt to navigate a community built on secrets. Frank Winter, the head of the Manhattan Project, struggles with the sacrifices he is making to help the U.S. win World War II.</p>
+			</shorttext>
+			<time><start hour="23" min="30"/><end hour="00" min="30"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item>
+  
+</item>
+</menu>

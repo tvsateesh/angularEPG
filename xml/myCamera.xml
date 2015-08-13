@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="my_camera" cache="false">
+  <item id="photos" title="Photos" labelbgcolor="#5b7723">
+    <item id="empty" title="Empty"/>
+  </item>
+</menu>
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

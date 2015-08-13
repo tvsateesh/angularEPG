@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="Net TV">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+	<item id="big-lebowski" text="Big Lebowski">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-lebowski.png">
+      <shorttext>
+        <span class="headline">Big Lebowski</span>
+        <p class="subheadline">Comedy, USA 1998</p>
+        <p class="description">Jeffrey 'The Dude' Lebowski is the ultimate LA slacker, until one day his house is broken into and his rug is peed on by two angry gangsters who have mistaken him for Jeffrey Lebowski, the Los Angeles millionaire, whose wife owes some bad people some big money.</p>
+      </shorttext>
+    <time><start hour="19" min="30"/><end hour="21" min="30"/></time></info>
+  </item>
+	<item id="weeds" text="Weeds">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/weeds.png">
+      <shorttext>
+        <span class="headline">Weeds</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 8: I Am The Table</p>
+        <p class="description">Esteban and Nancy's spontaneous date ends in near violence. Andy and Doug successfully smuggle their first customer across the border. Silas reveals to Lisa that he grows pot, and she offers to let him do business in the back of her store.</p>
+      </shorttext>
+    <time><start hour="21" min="30"/><end hour="22" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="fringe" text="Fringe">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/fringe.png">
+      <shorttext>
+        <span class="headline">Fringe</span>
+        <p class="subheadline">Mystery, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+        <p class="description">At a cutting-edge research facility, a female FBI agent is forced to work with an institutionalized scientist, Dr. Walter Bishop, in order to rationalize a brewing storm of unexplained phenomena.</p>
+      </shorttext>
+    <time><start hour="22" min="30"/><end hour="23" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="evening" title="Evening">
+	<item id="4400" text="The 4400">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/4400.png">
+      <shorttext>
+        <span class="headline">The 4400</span>
+        <p class="subheadline">Sci-Fi, USA 2007</p>
+        <p class="subsubheadline">Season 4, Ep. 12: Tiny Machines</p>
+        <p class="description">Meghan and Diana discover a way to extract the future entity out of Tom, which could cost him his life. Meanwhile, Shawn recruits a small band of Promicin positives to bust Kevin out of Promise City. And Isabelle delivers Jordan Collier into the hands of The Marked.</p>
+      </shorttext>
+    <time><start hour="18" min="30"/><end hour="19" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="big-lebowski" text="Big Lebowski">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-lebowski.png">
+      <shorttext>
+        <span class="headline">Big Lebowski</span>
+        <p class="subheadline">Comedy, USA 1998</p>
+        <p class="description">Jeffrey 'The Dude' Lebowski is the ultimate LA slacker, until one day his house is broken into and his rug is peed on by two angry gangsters who have mistaken him for Jeffrey Lebowski, the Los Angeles millionaire, whose wife owes some bad people some big money.</p>
+      </shorttext>
+    <time><start hour="19" min="30"/><end hour="21" min="30"/></time></info>
+  </item>
+</item>
+<item id="afternoon" title="Afternoon">
+	<item id="superman-returns" text="Superman Returns">
+    <meta>
+      <duration>160</duration>
+    </meta>
+    <info url="media/tv/superman-returns.png">
+      <shorttext>
+        <span class="headline">Superman Returns</span>
+        <p class="subheadline">Action, USA 2006</p>
+        <p class="description">After a long period in the space, looking for the remains of planet Krypton, Superman returns to Earth. He misses Lois Lane, who lives with Richard White and has a son. Meanwhile, Lex Luthor plots an evil plan, using crystals he stole from the Fortress of Solitude, to create a new land and submerge the United States.</p>
+      </shorttext>
+    <time><start hour="07" min="40"/><end hour="10" min="20"/></time></info>
+  </item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="11" min="40"/><end hour="12" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="sound-of-music" text="Sound of Music">
+    <meta>
+      <duration>170</duration>
+    </meta>
+    <info url="media/tv/sound-of-music.png">
+      <shorttext>
+        <span class="headline">Sound of Music</span>
+        <p class="subheadline">Musical, USA 1965</p>
+        <p class="description">Baron Von Trapp, a widower, runs his home near Salzburg like the ship he once commanded. That changes when Maria arrives from the convent to be the new governess of his seven children. Their romps through the hills inspire all to sing and to find joy in the smallest things.</p>
+      </shorttext>
+    <time><start hour="12" min="40"/><end hour="15" min="30"/></time></info>
+  </item>
+	<item id="wire" text="The Wire">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/wire.png">
+      <shorttext>
+        <span class="headline">The Wire</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Took</p>
+        <p class="description">McNulty begins getting extreme amounts of unwanted attention towards his serial killer case. Because he knows this plot is one big facade, he allocates the extra man power to get other detectives real police work done, acting almost as Santa Claus: giving the detectives what they need.</p>
+      </shorttext>
+    <time><start hour="15" min="30"/><end hour="16" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="16" min="30"/><end hour="17" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="tom-and-jerry" text="Tom &amp; Jerry">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tom-and-jerry.png">
+      <shorttext>
+        <span class="headline">Tom &amp; Jerry</span>
+        <p class="subheadline">Animated TV Series, USA 1950</p>
+        <p class="subsubheadline">Season 1, Ep. 48: Saturday Evening Puss</p>
+        <p class="description">Mammy Two Shoes goes out to her bridge club for the night. Seeing her leaving, Tom invites his feline pals Butch, Topsy and Lighting, who emerge from garbage cans outside of the house and rush in when Tom gives them the all-clear by showing them a sign written O.K. for the party.</p>
+      </shorttext>
+    <time><start hour="17" min="30"/><end hour="18" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="lilo-and-stitch" text="Lilo &amp; Stitch">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lilo-and-stitch.png">
+      <shorttext>
+        <span class="headline">Lilo &amp; Stitch</span>
+        <p class="subheadline">Animated TV Series, USA 2006</p>
+        <p class="subsubheadline">Season 2, Ep. 24: Woops</p>
+        <p class="description">A clumsy experiment causes Dr. Hamsterviel to nearly get caught by his prison guards, so he returns all of the captured experiments to Gantu for safekeeping. But when he lets the troublemaking experiment go, it threatens to ruin Pleakley's chance at a domino championship.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="18" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="4400" text="The 4400">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/4400.png">
+      <shorttext>
+        <span class="headline">The 4400</span>
+        <p class="subheadline">Sci-Fi, USA 2007</p>
+        <p class="subsubheadline">Season 4, Ep. 12: Tiny Machines</p>
+        <p class="description">Meghan and Diana discover a way to extract the future entity out of Tom, which could cost him his life. Meanwhile, Shawn recruits a small band of Promicin positives to bust Kevin out of Promise City. And Isabelle delivers Jordan Collier into the hands of The Marked.</p>
+      </shorttext>
+    <time><start hour="18" min="30"/><end hour="19" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="noon" title="Noon">
+	<item id="superman-returns" text="Superman Returns">
+    <meta>
+      <duration>160</duration>
+    </meta>
+    <info url="media/tv/superman-returns.png">
+      <shorttext>
+        <span class="headline">Superman Returns</span>
+        <p class="subheadline">Action, USA 2006</p>
+        <p class="description">After a long period in the space, looking for the remains of planet Krypton, Superman returns to Earth. He misses Lois Lane, who lives with Richard White and has a son. Meanwhile, Lex Luthor plots an evil plan, using crystals he stole from the Fortress of Solitude, to create a new land and submerge the United States.</p>
+      </shorttext>
+    <time><start hour="07" min="40"/><end hour="10" min="20"/></time></info>
+  </item>
+	<item id="office" text="The Office">
+    <meta>
+      <duration>50</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/office.png">
+      <shorttext>
+        <span class="headline">The Office</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Job Fair</p>
+        <p class="description">In response to Ryan's warning, Jim hits the links with Andy and Kevin to attempt to land his biggest client ever. Michael, Pam, Oscar, and Darryl set up a booth at a job fair at Pam's old high school to find applicants for Dunder Mifflin's summer internship, but Michael's shenanigans produce failure.</p>
+      </shorttext>
+    <time><start hour="10" min="20"/><end hour="11" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="little-amadeus" text="Little Amadeus">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/little-amadeus.png">
+      <shorttext>
+        <span class="headline">Little Amadeus</span>
+        <p class="subheadline">Animated TV Series, Germany 2006</p>
+        <p class="subsubheadline">Season 1, Ep. 20: Shooting Stars</p>
+        <p class="description">The children of Salzburg are playing in the snow. Pumperl joins in the fun and jumps on some ice in the river yet starts to float away. Can the children save the dog? And what has this got to do with the big telescope?</p>
+      </shorttext>
+    <time><start hour="11" min="10"/><end hour="11" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="11" min="40"/><end hour="12" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="morning" title="Morning">
+	<item id="ugly-betty" text="Ugly Betty">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/ugly-betty.png">
+      <shorttext>
+        <span class="headline">Ugly Betty</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 18: Jump</p>
+        <p class="description">A teenager arrives who may be Meade-related. Also Henry comes back to propose to Betty, as well as Gio asking her to go to Rome with him for a holiday. Wilhelmina takes over Daniel as editor-in-chief. Lindsay Lohan is set to play an old schoolmate of Betty's.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dexter" text="Dexter">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dexter.png">
+      <shorttext>
+        <span class="headline">Dexter</span>
+        <p class="subheadline">Dark Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 11: Left Turn Ahead</p>
+        <p class="description">Dexter begins to put his affairs in order as he prepares to make a potentially life-altering decision. Doakes runs afoul of drug smugglers during a daring escape. Angel faces criminal charges. Lundy deals with his FBI superior. Lila comes across one of Dexter's dangerous secrets.</p>
+      </shorttext>
+    <time><start hour="01" min="00"/><end hour="02" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="desperate-housewives" text="Desperate Housewives">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/desperate-housewives.png">
+      <shorttext>
+        <span class="headline">Desperate Housewives</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Free</p>
+        <p class="description">Several residents of Wisteria Lane are faced with deadly threats when Katherine's ex-husband wants to see his daughter again. Susan realizes she will soon lose her daughter when she goes off to college early, and Katherine Mayfair's secrets are finally revealed.</p>
+      </shorttext>
+    <time><start hour="02" min="00"/><end hour="03" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="big-fish" text="Big Fish">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-fish.png">
+      <shorttext>
+        <span class="headline">Big Fish</span>
+        <p class="subheadline">Fantasy, USA 2003</p>
+        <p class="description">The story revolves around a dying father and his son, who is trying to learn more about his dad by piecing together the stories he has gathered over the years. The son winds up re-creating his father's elusive life in a series of legends and myths inspired by the few facts he knows. Through these tales, the son begins to understand his father's great feats and his great failings.</p>
+      </shorttext>
+    <time><start hour="03" min="00"/><end hour="05" min="00"/></time></info>
+  </item>
+	<item id="inconvenient-truth" text="An Inconvenient Truth">
+    <meta>
+      <duration>100</duration>
+    </meta>
+    <info url="media/tv/inconvenient-truth.png">
+      <shorttext>
+        <span class="headline">An Inconvenient Truth</span>
+        <p class="subheadline">Documentary, USA 2006</p>
+        <p class="description">A longtime advocate for the environment, Gore presents a wide array of facts and information in a thoughtful and compelling way. An Inconvenient Truth is not a story of despair but rather a rallying cry to protect the one earth we all share. It is now clear that we face a deepening global climate crisis that requires us to act boldly, quickly, and wisely.</p>
+      </shorttext>
+    <time><start hour="05" min="00"/><end hour="06" min="40"/></time></info>
+  </item>
+	<item id="stargate-atlantis" text="Stargate Atlantis">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/stargate-atlantis.png">
+      <shorttext>
+        <span class="headline">Stargate Atlantis</span>
+        <p class="subheadline">Sci-Fi, USA/CA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Whispers</p>
+        <p class="description">Sheppard and Beckett join Maj. Anne Teldy's team on a planet with one of Michael's research facilities for the early versions of his human-iratus hybrids concealed inside a cave system. Unfortunately for them, Michael's hybrids are nearby conspiring against them.</p>
+      </shorttext>
+    <time><start hour="06" min="40"/><end hour="07" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="superman-returns" text="Superman Returns">
+    <meta>
+      <duration>160</duration>
+    </meta>
+    <info url="media/tv/superman-returns.png">
+      <shorttext>
+        <span class="headline">Superman Returns</span>
+        <p class="subheadline">Action, USA 2006</p>
+        <p class="description">After a long period in the space, looking for the remains of planet Krypton, Superman returns to Earth. He misses Lois Lane, who lives with Richard White and has a son. Meanwhile, Lex Luthor plots an evil plan, using crystals he stole from the Fortress of Solitude, to create a new land and submerge the United States.</p>
+      </shorttext>
+    <time><start hour="07" min="40"/><end hour="10" min="20"/></time></info>
+  </item>
+</item>
+<item id="now" title="Now">
+	<item id="ugly-betty" text="Ugly Betty">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/ugly-betty.png">
+      <shorttext>
+        <span class="headline">Ugly Betty</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 18: Jump</p>
+        <p class="description">A teenager arrives who may be Meade-related. Also Henry comes back to propose to Betty, as well as Gio asking her to go to Rome with him for a holiday. Wilhelmina takes over Daniel as editor-in-chief. Lindsay Lohan is set to play an old schoolmate of Betty's.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dexter" text="Dexter">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dexter.png">
+      <shorttext>
+        <span class="headline">Dexter</span>
+        <p class="subheadline">Dark Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 11: Left Turn Ahead</p>
+        <p class="description">Dexter begins to put his affairs in order as he prepares to make a potentially life-altering decision. Doakes runs afoul of drug smugglers during a daring escape. Angel faces criminal charges. Lundy deals with his FBI superior. Lila comes across one of Dexter's dangerous secrets.</p>
+      </shorttext>
+    <time><start hour="01" min="00"/><end hour="02" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="desperate-housewives" text="Desperate Housewives">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/desperate-housewives.png">
+      <shorttext>
+        <span class="headline">Desperate Housewives</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Free</p>
+        <p class="description">Several residents of Wisteria Lane are faced with deadly threats when Katherine's ex-husband wants to see his daughter again. Susan realizes she will soon lose her daughter when she goes off to college early, and Katherine Mayfair's secrets are finally revealed.</p>
+      </shorttext>
+    <time><start hour="02" min="00"/><end hour="03" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="big-fish" text="Big Fish">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-fish.png">
+      <shorttext>
+        <span class="headline">Big Fish</span>
+        <p class="subheadline">Fantasy, USA 2003</p>
+        <p class="description">The story revolves around a dying father and his son, who is trying to learn more about his dad by piecing together the stories he has gathered over the years. The son winds up re-creating his father's elusive life in a series of legends and myths inspired by the few facts he knows. Through these tales, the son begins to understand his father's great feats and his great failings.</p>
+      </shorttext>
+    <time><start hour="03" min="00"/><end hour="05" min="00"/></time></info>
+  </item>
+	<item id="inconvenient-truth" text="An Inconvenient Truth">
+    <meta>
+      <duration>100</duration>
+    </meta>
+    <info url="media/tv/inconvenient-truth.png">
+      <shorttext>
+        <span class="headline">An Inconvenient Truth</span>
+        <p class="subheadline">Documentary, USA 2006</p>
+        <p class="description">A longtime advocate for the environment, Gore presents a wide array of facts and information in a thoughtful and compelling way. An Inconvenient Truth is not a story of despair but rather a rallying cry to protect the one earth we all share. It is now clear that we face a deepening global climate crisis that requires us to act boldly, quickly, and wisely.</p>
+      </shorttext>
+    <time><start hour="05" min="00"/><end hour="06" min="40"/></time></info>
+  </item>
+	<item id="stargate-atlantis" text="Stargate Atlantis">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/stargate-atlantis.png">
+      <shorttext>
+        <span class="headline">Stargate Atlantis</span>
+        <p class="subheadline">Sci-Fi, USA/CA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Whispers</p>
+        <p class="description">Sheppard and Beckett join Maj. Anne Teldy's team on a planet with one of Michael's research facilities for the early versions of his human-iratus hybrids concealed inside a cave system. Unfortunately for them, Michael's hybrids are nearby conspiring against them.</p>
+      </shorttext>
+    <time><start hour="06" min="40"/><end hour="07" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="superman-returns" text="Superman Returns">
+    <meta>
+      <duration>160</duration>
+    </meta>
+    <info url="media/tv/superman-returns.png">
+      <shorttext>
+        <span class="headline">Superman Returns</span>
+        <p class="subheadline">Action, USA 2006</p>
+        <p class="description">After a long period in the space, looking for the remains of planet Krypton, Superman returns to Earth. He misses Lois Lane, who lives with Richard White and has a son. Meanwhile, Lex Luthor plots an evil plan, using crystals he stole from the Fortress of Solitude, to create a new land and submerge the United States.</p>
+      </shorttext>
+    <time><start hour="07" min="40"/><end hour="10" min="20"/></time></info>
+  </item>
+	<item id="office" text="The Office">
+    <meta>
+      <duration>50</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/office.png">
+      <shorttext>
+        <span class="headline">The Office</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Job Fair</p>
+        <p class="description">In response to Ryan's warning, Jim hits the links with Andy and Kevin to attempt to land his biggest client ever. Michael, Pam, Oscar, and Darryl set up a booth at a job fair at Pam's old high school to find applicants for Dunder Mifflin's summer internship, but Michael's shenanigans produce failure.</p>
+      </shorttext>
+    <time><start hour="10" min="20"/><end hour="11" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="little-amadeus" text="Little Amadeus">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/little-amadeus.png">
+      <shorttext>
+        <span class="headline">Little Amadeus</span>
+        <p class="subheadline">Animated TV Series, Germany 2006</p>
+        <p class="subsubheadline">Season 1, Ep. 20: Shooting Stars</p>
+        <p class="description">The children of Salzburg are playing in the snow. Pumperl joins in the fun and jumps on some ice in the river yet starts to float away. Can the children save the dog? And what has this got to do with the big telescope?</p>
+      </shorttext>
+    <time><start hour="11" min="10"/><end hour="11" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="11" min="40"/><end hour="12" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="sound-of-music" text="Sound of Music">
+    <meta>
+      <duration>170</duration>
+    </meta>
+    <info url="media/tv/sound-of-music.png">
+      <shorttext>
+        <span class="headline">Sound of Music</span>
+        <p class="subheadline">Musical, USA 1965</p>
+        <p class="description">Baron Von Trapp, a widower, runs his home near Salzburg like the ship he once commanded. That changes when Maria arrives from the convent to be the new governess of his seven children. Their romps through the hills inspire all to sing and to find joy in the smallest things.</p>
+      </shorttext>
+    <time><start hour="12" min="40"/><end hour="15" min="30"/></time></info>
+  </item>
+	<item id="wire" text="The Wire">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/wire.png">
+      <shorttext>
+        <span class="headline">The Wire</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Took</p>
+        <p class="description">McNulty begins getting extreme amounts of unwanted attention towards his serial killer case. Because he knows this plot is one big facade, he allocates the extra man power to get other detectives real police work done, acting almost as Santa Claus: giving the detectives what they need.</p>
+      </shorttext>
+    <time><start hour="15" min="30"/><end hour="16" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="16" min="30"/><end hour="17" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="tom-and-jerry" text="Tom &amp; Jerry">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tom-and-jerry.png">
+      <shorttext>
+        <span class="headline">Tom &amp; Jerry</span>
+        <p class="subheadline">Animated TV Series, USA 1950</p>
+        <p class="subsubheadline">Season 1, Ep. 48: Saturday Evening Puss</p>
+        <p class="description">Mammy Two Shoes goes out to her bridge club for the night. Seeing her leaving, Tom invites his feline pals Butch, Topsy and Lighting, who emerge from garbage cans outside of the house and rush in when Tom gives them the all-clear by showing them a sign written O.K. for the party.</p>
+      </shorttext>
+    <time><start hour="17" min="30"/><end hour="18" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="lilo-and-stitch" text="Lilo &amp; Stitch">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lilo-and-stitch.png">
+      <shorttext>
+        <span class="headline">Lilo &amp; Stitch</span>
+        <p class="subheadline">Animated TV Series, USA 2006</p>
+        <p class="subsubheadline">Season 2, Ep. 24: Woops</p>
+        <p class="description">A clumsy experiment causes Dr. Hamsterviel to nearly get caught by his prison guards, so he returns all of the captured experiments to Gantu for safekeeping. But when he lets the troublemaking experiment go, it threatens to ruin Pleakley's chance at a domino championship.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="18" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="4400" text="The 4400">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/4400.png">
+      <shorttext>
+        <span class="headline">The 4400</span>
+        <p class="subheadline">Sci-Fi, USA 2007</p>
+        <p class="subsubheadline">Season 4, Ep. 12: Tiny Machines</p>
+        <p class="description">Meghan and Diana discover a way to extract the future entity out of Tom, which could cost him his life. Meanwhile, Shawn recruits a small band of Promicin positives to bust Kevin out of Promise City. And Isabelle delivers Jordan Collier into the hands of The Marked.</p>
+      </shorttext>
+    <time><start hour="18" min="30"/><end hour="19" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="big-lebowski" text="Big Lebowski">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-lebowski.png">
+      <shorttext>
+        <span class="headline">Big Lebowski</span>
+        <p class="subheadline">Comedy, USA 1998</p>
+        <p class="description">Jeffrey 'The Dude' Lebowski is the ultimate LA slacker, until one day his house is broken into and his rug is peed on by two angry gangsters who have mistaken him for Jeffrey Lebowski, the Los Angeles millionaire, whose wife owes some bad people some big money.</p>
+      </shorttext>
+    <time><start hour="19" min="30"/><end hour="21" min="30"/></time></info>
+  </item>
+	<item id="weeds" text="Weeds">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/weeds.png">
+      <shorttext>
+        <span class="headline">Weeds</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 8: I Am The Table</p>
+        <p class="description">Esteban and Nancy's spontaneous date ends in near violence. Andy and Doug successfully smuggle their first customer across the border. Silas reveals to Lisa that he grows pot, and she offers to let him do business in the back of her store.</p>
+      </shorttext>
+    <time><start hour="21" min="30"/><end hour="22" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="fringe" text="Fringe">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/fringe.png">
+      <shorttext>
+        <span class="headline">Fringe</span>
+        <p class="subheadline">Mystery, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+        <p class="description">At a cutting-edge research facility, a female FBI agent is forced to work with an institutionalized scientist, Dr. Walter Bishop, in order to rationalize a brewing storm of unexplained phenomena.</p>
+      </shorttext>
+    <time><start hour="22" min="30"/><end hour="23" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+</menu>

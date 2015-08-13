@@ -1,0 +1,16 @@
+  <item id="login" title="Login" labelbgcolor="#37321e">
+    <meta>
+      <select id="1"/>
+    </meta>
+    <icon url="media/icons/mainmenu/main menu icon login.png"/>
+    <!--
+    <item id="logout" text="logout">
+      <action module="AppProfile" />
+    </item>
+    -->
+    <item id="1" text="Ferdinand" type="admin"/>
+    <item id="2" text="Christine" type="restricted"/>
+    <item id="3" text="Peter" type="restricted"/>
+    <item id="4" text="Martina" type="restricted"/>
+    <item id="5" text="Eckhard" type="restricted"/>
+  </item>

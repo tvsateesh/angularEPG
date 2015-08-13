@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="News">
+  <meta>
+    <select id="business"/>
+    <logo url="media/icons/submenu/submenu icon internet news.png"/>
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="448"/>
+      <element id="shorttext" type="TextField" x="20" y="80" width="670" height="448"/>
+      <element id="logo" type="Image" x="517" y="0" width="220" height="85"/>
+    </screen>
+    <action module="DetailNews"  menu="xml/internet/ActionNewsDetails.xml"/>
+  </meta>
+  <item id="top" title="Top News" labelbgcolor="#00192d">
+    <icon url="media/icons/submenu/submenu icon internet news top.png"/>
+    <item text="Fifa World Cup">
+      <info>
+        <shorttext>
+          <span class="headline">England 1 Germany 4: match report</span>
+          <span class="time">1 hour ago</span>
+          <p>Read a full match report of the World Cup 2010 second-round game between England and Germany at the Free State Stadium, Bloemfontein on Sunday June 27 2010.</p>
+          <span class="source">Telegraph.co.uk</span>
+          <img src="media/news/img/eng2_1667586c.jpg" width="280" height="200"/>
+        </shorttext>
+        <longtext>
+          <span class="headline">England 1 Germany 4: match report</span>
+          <span class="time">1 hour ago</span>
+          <entry>
+            <p>Don't be be fooled by Fabio Capello’s smokescreen over Frank Lampard’s “goal’’. Even if the midfielder’s exceptional shot had stood, as it should, England cannot escape the brutal reality that Germany were superior in every department.
+Capello’s players had a good quarter of an hour, but anyone can be famous for 15 minutes. Germany enjoyed a masterful 75, scoring four times and ripping England to little red ribbons on four or five other occasions.
+Capello’s defence were a collection of hesitant strangers, his midfield painfully less than the sum of their celebrated parts and the attack anonymous.</p>
+          </entry>
+          <entry>
+            <p>England lacked heart, shape and, particularly, a holding midfielder with the expertise of Owen Hargreaves to stand in the way of German breakaways, to pick up Bastian Schweinsteiger when he charged so menacingly upfield, to get tight to Mesut Özil when the No 8 pulled the strings.
+Gareth Barry’s attempts to tame Özil resembled an ageing nightwatchman trying to keep pace with an elusive urchin.
+England can play 1966 in reverse all they like, lamenting the ball over the line, bemoaning the blind fates and berating the officials. Clearly goal-line technology needs to be brought in now that the second decade of the 21st century is being traversed.</p>
+          </entry>
+          <entry>
+            <p>Yet video evidence of most of this game would simply highlight the fact that the contenders for man of the match included Thomas Müller (the sponsors’ winner), Schweinsteiger, Sami Khedira, Miroslav Klose and Özil before an Englishman, probably Lampard for his attacking work, could legitimately be mentioned.
+It had begun in familiar fashion, in the sturm und drang of a sporting conflict between England and Germany. Duels broke out all over the park: Philipp Lahm versus Steven Gerrard, Müller against Ashley Cole, Barry versus Özil, and the Germans soon began edging them.</p>
+          </entry>
+          <entry>
+            <p>Özil embodied German confidence, demanding an early save from David James. Schweinsteiger underlined their belief with a neat drag-back to whisk the ball around Jermain Defoe. After all the Germans’ oft-expressed fears about Schweinsteiger’s hamstring, here he was in imperious form. They should rename Bloemfontein the City of Ruses. England defiance flowed mainly from the stands, with Rule Britannia drowning out the vuvuzelas.</p>
+          </entry>
+          <entry>
+            <p>Briefly. England had been hoping to silence Franz Beckenbauer for his comments about kick and rush. Those who maintain Der Kaiser’s proud tradition conjured up a goal that was more kick and Ian Rush. Goalkeeper Manuel Neuer hoofed the ball long, Matthew Upson faltered and Klose flicked the ball past the slow-reacting James.
+England had some hope, Defoe heading against the crossbar but wrongly judged to be offside, before Germany’s gem of a second. Özil laid the ball right to Klose, who placed it into the path of Müller. Having raced into the box, Müller lifted the ball across to the unmarked Lukas Podolski, who fired an emphatic shot between James’s legs.</p>
+          </entry>
+          <entry>
+            <p>Two-nil down, staring at humiliation, England dragged up enough character to respond when Upson made amends by heading in Steven Gerrard’s cross. Controversy then ensued, Lampard’s strike hitting the bar, bouncing over the line and spinning out.
+England fans were up on their feet, celebrating. So was a jubilant Capello. Somehow the linesman, Mauricio Espinosa, did not see it. Somehow the referee Jorge Larrionda did not spot it. England were enraged. The Free State Stadium reverberated to chants of “cheat, cheat’’ and “the referee’s a ******’’.
+As Larrionda blew for half-time, England players followed the fans’ lead and voiced their fury. Rooney remonstrated with Espinosa. Defoe confronted Larrionda, who walked off to catcalls, and was ambushed by David Beckham near the tunnel.</p>
+          </entry>
+          <entry>
+            <p>England stirred briefly at the start of the second period. Lampard drilled one free kick against the bar and another into the wall. As this second effort spilt loose, as England cursed their ill-luck, Germany went through the gears.
+Jerome Boateng’s touch was key, the defender quickly transferring the ball to Müller, who whipped it left to Schweinsteiger and took off as if testing a new sports car on the autobahn. Schweinsteiger hurtled down the right, soon sliding the ball back across for Müller to ram the ball in off James’s left fist.
+England continued to erect their own scaffold. Joe Cole’s cross was picked off, Özil raced away from Barry and centred for Müller to apply the coup de grace.</p>
+          </entry>
+          <entry>
+            <p>England went out in undignified fashion. John Terry screamed invective at the German bench. Joe Cole caught Boateng.
+As the final whistle went and the shadows stretched across Bloemfontein, England began another retreat from another World Cup and the years of hurt stretched to 44.</p>
+          </entry>
+        </longtext>
+      </info>
+    </item>
+    <item text="Interim pres">
+      <info>
+        <shorttext>
+          <span class="headline">Interim pres: Kyrgyz violence likely kills 2000</span>
+          <span class="time">3 hours ago</span>
+          <p>Kyrgyzstan's interim president said Friday that the death toll from the ethnic clashes that have rocked the country's south could be near 2,000, as she made her first visit to a riot-hit city since the unrest broke out.</p>
+          <span class="source">Today's Zaman</span>
+        </shorttext>
+        <longtext>
+          <span class="headline">Interim pres: Kyrgyz violence likely kills 2000</span>
+          <span class="time">3 hours ago</span>
+          <entry>
+            <p>Kyrgyz Health Ministry officials figures put the number of killed in ramentrys led mainly by ethnic Kyrgyz against Uzbeks at 191.
+"I would increase by ten times the official data on the number of people killed," Interim President Roza Otunbayeva said, according to her spokesman, Farid Niyazov. She said current figures don't take into account those buried before sundown on the day of death, in keeping with Muslim tradition, according to the spokesman.
+Otumbayeva arrived early Friday by helicopter in the central square of Osh, a city of 250,000 where the violence began late last week. Parts of the city have been reduced to rubble by roving mobs of young Kyrgyz men who burned down Uzbek homes and attacked Uzbek-owned businesses.</p>
+          </entry>
+          <entry>
+            <p>The United Nations estimates that 400,000 people fled the country's south.
+"We have to give hope that we shall restore the city, return all the refugees and create all the conditions for that," she said.
+She insisted good will between ethnic Kyrgyz and Uzbeks would end hostilities.
+Up to 100,000 people have crossed the nearby border into neighboring Uzbekistan where they are getting food and water in specially created camps. Thousands more remain camped out in squalid conditions on the Kyrgyz side of the border, unable to cross due to Uzbek restrictions.</p>
+          </entry>
+          <entry>
+            <p>US Assistant Secretary of State Robert Blake, who was visiting a refugee camp in Uzbekistan about five kilometers (3 miles) from the Kyrgyz border, called for an investigation into the violence and said he was working to ensure the refugees would be able to return home safely.
+At one camp in Uzbekistan, in a former polymer plant near the Kyrgyz border, Blake was swamped by throngs of crying refugees, mainly older woman and children, complaining they were desperate to return home but too fearful of fresh attacks to do so.</p>
+          </entry>
+          <entry>
+            <p>"We ... believe there should be an investigation," he said, an Uzbek interpreter at his side. "We are working with the government of Kyrgyzstan to provide security so you can return home safely,"
+Blake, who was accompanied by two-dozen-strong security detail, appeared to be conducting his own probe, asking the refugees if they thought the violence had been organized, as the United Nations and Kyrgyz authorities have suggested.
+"Yes, of course it was organized, it all happened so unexpectedly," answered one refugee, Nasiba Mamyrdzhanova, from Osh. "We didn't have any weapons, only sticks," said the refugee, wearing a traditional Uzbek long-sleeved dress with a bright headscarf.</p>
+          </entry>
+          <entry>
+            <p>Kyrgyz authorities have said the violence was sparked deliberately by associates of Kurmanbek Bakiyev, the president who was toppled in April in a bloody uprising. The U.N. has said the unrest appeared orchestrated but has stopped short of apportioning blame.
+Ethnic Uzbeks on Thursday accused security forces of standing by or even helping ethnic-majority Kyrgyz mobs as they slaughtered people and burned down neighborhoods. Col. Iskander Ikramov, the chief of the Kyrgyz military in the south, rejected allegations of troop involvement in the riots but said the army didn't interfere in the conflict because it was not supposed to play the role of a police force.</p>
+          </entry>
+          <entry>
+            <p>The military and police set up roadblocks and began patrols this week after the worst violence was over.
+Uzbeks interviewed by Associated Press journalists in Osh said that on one street alone, ethnic Kyrgyz men sexually assaulted and beat more than 10 Uzbek women and girls, including some pregnant women and children as young as 12.
+Members of the Kyrgyz community have denied accusations of brutality and have accused Uzbeks of raping Kyrgyz women. Eyewitnesses and experts say many Kyrgyz were killed in the unrest, but most victims appear to have been Uzbeks, traditional farmers and traders who speak a different Turkic language and have been more prosperous than the Kyrgyz, who come from a nomadic tradition.</p>
+          </entry>
+          <entry>
+            <p>More than 1 million Uzbeks who lived in Kyrgyzstan before the crisis had few representatives in power and pushed for broader political and cultural rights. About 800,000 of them lived in the south, rivaling Kyrgyz in numbers in Osh and Jalal-Abad. Both ethnic groups are predominantly Sunni Muslim.
+Meanwhile, in Bishkek, the capital, human rights advocates were gathering in the center to demand authorities probe the alleged arrest of their colleague in the southern city of Jalal-Abad, who said he had filmed rioting that spread there.</p>
+          </entry>
+        </longtext>
+      </info>
+    </item>
+    <item text="BP Oil Spill">
+      <info>
+        <shorttext>
+          <span class="headline">BP oil spill: Congressmen laser in on safety record during BP chief's grilling</span>
+          <span class="time">5 hours ago</span>
+          <p>Key concerns about safety emerged during a bruising grilling of BP chief executive, Tony Hayward, writes Rowena Mason. Tony Hayward testifies in front of a key Congressional committee.</p>
+          <span class="source">The Associated Press</span>
+          <img src="http://i.telegraph.co.uk/telegraph/multimedia/archive/01660/tony_1660591c.jpg" width="230" height="150"/>
+        </shorttext>
+        <longtext>
+          <span class="headline">BP oil spill: Congressmen laser in on safety record during BP chief's grilling</span>
+          <span class="time">5 hours ago</span>
+          <entry>
+            <p>'YOU need to go to jail," screeched the protestor, holding up her hands smeared with a sticky black liquid before being wrestled to the ground by security guards.
+Diane Wilson, a fourth-generation Gulf Coast fisherwoman, was talking directly to Tony Hayward as he began his address to US politicians over his role in BP's catastrophic oil spill.
+Looking cowed and penitent at the US Congressional hearing, the British oil boss explained his deep sorrow and promised to put things right in prepared remarks on the crisis.</p>
+          </entry>
+          <entry>
+            <p>He had already sat through a 90-minute diatribe from US Congressmen, with BP's safety record described as the "worst of any company operating on US soil". It did not make pretty listening. The main charge, against a backdrop of the company's previous accidents at Texas City and Alaska, was that: "BP has a history of cutting corners for the almighty dollar."
+It was a reminder that American emotions are still running high about BP's responsibility for the spill, despite the company's agreement with US President Obama to pay into a $20bn (£13.5bn) compensation fund for victims of environmental damage.</p>
+          </entry>
+          <entry>
+            <p>Earlier in the day, City analysts had been in a positive mood about the company, feeling that BP had turned a corner in its dealings with America, and its share price had risen by 7pc.
+"BP's package agreed with President Obama to set up a claims fund draws a line in the sand – of sorts," said Richard Griffith, an analyst at Evolution. "It doesn't cap BP's liabilities nor cover fines and penalties but does clarify how BP will settle legitimate claims."
+However, the atmosphere in the committee room was feral, giving British observers an insight into the strength of anti-BP feeling that stretches right across the nation.</p>
+          </entry>
+          <entry>
+            <p>Chairing the committee, Bart Stupak, a Democratic representative, repeatedly referred to Mr Hayward's tactless gaffe about wanting his "life back" after the accident that killed 11 men. "I'm sure you will get your life back, and with a golden parachute back in England," he jibed. "But we in America are left with the terrible consequences of BP's reckless disregard for safety."
+There was no doubt the rhetoric was stacked against BP, with politicians calling its actions "outrageous", "shocking" and "sick-making". Many of Mr Hayward's own words were repeated back to haunt him. The politicians brought up his promise to "focus on safety like a laser" after previous accidents – and questioned whether this had been the case.</p>
+          </entry>
+          <entry>
+            <p>They also quoted an article from several years ago, in which he pledged at a conference to help BP staff take a less cautious approach to decision-making.
+"There was no way Hayward was going to get a fair hearing," said one City analyst. "This is just a bloodbath."
+But among the accusations, there were also a number of pertinent, specific, technical questions that Mr Hayward simply refused to answer.
+The politicians, now well-versed in drilling practices after sitting through hundreds of hours of testimony on the spill, questioned him in depth about BP's decisions on the rig in the run-up to the accident.
+Mr Hayward repeatedly claimed not to know the answers, despite the fact that his technical expert, Mike Zanghi, was sitting behind him ready to answer any questions beyond his knowledge.</p>
+          </entry>
+          <entry>
+            <p>"I think it's too early too reach a conclusion, with respect, Mr Chairman," Mr Hayward said, more than once. "The investigations are ongoing."
+Deflecting their questions on technicalities, Mr Hayward did admit that he had not been informed about problems on board the rig before it exploded. "The only knowledge I've had of [the Macondo well] was when they notified me that we'd made a discovery," he said.
+It appears that Macondo, nicknamed the "nightmare well" by staff on board the rig, had not been flagged as a problem to BP's senior management.</p>
+          </entry>
+          <entry>
+            <p>"We drill hundreds of wells around the world," Mr Hayward protested. In a rare moment of grim levity, Congressman Burgess retorted: "That's what's scaring me right now."
+The furthest Mr Hayward went towards an admission that BP's safety practices had not been adequate was his concession that the hearing had identified areas of "legitimate concern".
+Most of the questions centred around the claim that BP had used a cheaper, less-safe type of well design that saved the company $7m-$10m – a cost-saving Mr Hayward acknowledged.
+There were also questions relating to why BP had not run an expensive pressure test to check its cement integrity. And others asked why heavy mud had been replaced with lighter fluid – contrary to safe practice.</p>
+          </entry>
+          <entry>
+            <p>Mr Hayward insisted that "many wells in the Gulf of Mexico" – more than 30pc – are drilled in the same way as Macondo. The evidence contradicted that of rival energy company bosses from Shell and Chevron yesterday, who claimed their structures would never be designed in the same way.
+Some observers, from London Mayor Boris Johnson to Republican Representative Joe Baron, believe BP has been the victim of political bullying but a number of industry experts believe the Energy and Commerce Committee is right to be asking detailed questions about the history of the well.</p>
+          </entry>
+          <entry>
+            <p>One North Sea drilling consultant, who has worked with BP, said: "It is incredible that US authorities approved the drilling plan. There is no way this well could have been drilled using this casing design in the UK. The design would never have got off the drawing board."
+Worries about BP's drilling are entirely legitimate, according the Greg McCormack, director of the Petroleum Extension Service at the University of Texas. "Tony Hayward should answer why the company did not use a safer liner and why it chose not to do a cement test," he said. "Those are the key questions."</p>
+          </entry>
+        </longtext>
+      </info>
+    </item>
+  </item>
+  <item id="world" title="World" labelbgcolor="#00192d">
+    <icon url="media/icons/submenu/submenu icon internet news world.png"/>
+    <item text="Interim pres">
+      <info>
+        <shorttext>
+          <span class="headline">Interim pres: Kyrgyz violence likely kills 2000</span>
+          <span class="time">3 hours ago</span>
+          <p>Kyrgyzstan's interim president said Friday that the death toll from the ethnic clashes that have rocked the country's south could be near 2,000, as she made her first visit to a riot-hit city since the unrest broke out.</p>
+          <span class="source">Today's Zaman</span>
+        </shorttext>
+        <longtext>
+          <span class="headline">Interim pres: Kyrgyz violence likely kills 2000</span>
+          <span class="time">3 hours ago</span>
+          <entry>
+            <p>Kyrgyz Health Ministry officials figures put the number of killed in ramentrys led mainly by ethnic Kyrgyz against Uzbeks at 191.
+"I would increase by ten times the official data on the number of people killed," Interim President Roza Otunbayeva said, according to her spokesman, Farid Niyazov. She said current figures don't take into account those buried before sundown on the day of death, in keeping with Muslim tradition, according to the spokesman.
+Otumbayeva arrived early Friday by helicopter in the central square of Osh, a city of 250,000 where the violence began late last week. Parts of the city have been reduced to rubble by roving mobs of young Kyrgyz men who burned down Uzbek homes and attacked Uzbek-owned businesses.</p>
+          </entry>
+          <entry>
+            <p>The United Nations estimates that 400,000 people fled the country's south.
+"We have to give hope that we shall restore the city, return all the refugees and create all the conditions for that," she said.
+She insisted good will between ethnic Kyrgyz and Uzbeks would end hostilities.
+Up to 100,000 people have crossed the nearby border into neighboring Uzbekistan where they are getting food and water in specially created camps. Thousands more remain camped out in squalid conditions on the Kyrgyz side of the border, unable to cross due to Uzbek restrictions.</p>
+          </entry>
+          <entry>
+            <p>US Assistant Secretary of State Robert Blake, who was visiting a refugee camp in Uzbekistan about five kilometers (3 miles) from the Kyrgyz border, called for an investigation into the violence and said he was working to ensure the refugees would be able to return home safely.
+At one camp in Uzbekistan, in a former polymer plant near the Kyrgyz border, Blake was swamped by throngs of crying refugees, mainly older woman and children, complaining they were desperate to return home but too fearful of fresh attacks to do so.</p>
+          </entry>
+          <entry>
+            <p>"We ... believe there should be an investigation," he said, an Uzbek interpreter at his side. "We are working with the government of Kyrgyzstan to provide security so you can return home safely,"
+Blake, who was accompanied by two-dozen-strong security detail, appeared to be conducting his own probe, asking the refugees if they thought the violence had been organized, as the United Nations and Kyrgyz authorities have suggested.
+"Yes, of course it was organized, it all happened so unexpectedly," answered one refugee, Nasiba Mamyrdzhanova, from Osh. "We didn't have any weapons, only sticks," said the refugee, wearing a traditional Uzbek long-sleeved dress with a bright headscarf.</p>
+          </entry>
+          <entry>
+            <p>Kyrgyz authorities have said the violence was sparked deliberately by associates of Kurmanbek Bakiyev, the president who was toppled in April in a bloody uprising. The U.N. has said the unrest appeared orchestrated but has stopped short of apportioning blame.
+Ethnic Uzbeks on Thursday accused security forces of standing by or even helping ethnic-majority Kyrgyz mobs as they slaughtered people and burned down neighborhoods. Col. Iskander Ikramov, the chief of the Kyrgyz military in the south, rejected allegations of troop involvement in the riots but said the army didn't interfere in the conflict because it was not supposed to play the role of a police force.</p>
+          </entry>
+          <entry>
+            <p>The military and police set up roadblocks and began patrols this week after the worst violence was over.
+Uzbeks interviewed by Associated Press journalists in Osh said that on one street alone, ethnic Kyrgyz men sexually assaulted and beat more than 10 Uzbek women and girls, including some pregnant women and children as young as 12.
+Members of the Kyrgyz community have denied accusations of brutality and have accused Uzbeks of raping Kyrgyz women. Eyewitnesses and experts say many Kyrgyz were killed in the unrest, but most victims appear to have been Uzbeks, traditional farmers and traders who speak a different Turkic language and have been more prosperous than the Kyrgyz, who come from a nomadic tradition.</p>
+          </entry>
+          <entry>
+            <p>More than 1 million Uzbeks who lived in Kyrgyzstan before the crisis had few representatives in power and pushed for broader political and cultural rights. About 800,000 of them lived in the south, rivaling Kyrgyz in numbers in Osh and Jalal-Abad. Both ethnic groups are predominantly Sunni Muslim.
+Meanwhile, in Bishkek, the capital, human rights advocates were gathering in the center to demand authorities probe the alleged arrest of their colleague in the southern city of Jalal-Abad, who said he had filmed rioting that spread there.</p>
+          </entry>
+        </longtext>
+      </info>
+    </item>
+    <item text="PNA">
+      <info>
+        <shorttext>
+          <span class="headline">Palestinian official: PNA receives no offers to go for directs talks</span>
+          <span class="time">5 hours ago</span>
+          <p>A Palestinian official denied Monday that the Palestinian National Authority (PNA) had received offers to jump to direct talks with Israel in exchange for settlement freeze in the West Bank.
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Palestinian official: PNA receives no offers to go for directs talks</span>
+          <span class="time">5 hours ago</span>
+          <entry><p>A Palestinian official denied Monday that the Palestinian National Authority (PNA) had received offers to jump to direct talks with Israel in exchange for settlement freeze in the West Bank.
+
+"We have no idea about such offers," chief Palestinian negotiator Saeb Erekat told Xinhua.
+
+The London-based Al-Hayat newspaper reported on Monday that the U.S. administration demanded the PNA to go for direct talks with Israel. In return, it would guarantee the extension of an earlier Israeli decision to freeze settlement activities in the West Bank for 10 months.
+
+"We can't shift to direct negotiations without achieving any progress in the indirect talks," Erekat stressed.</p></entry>
+          <entry><p>In May, the U.S. mediated Palestinian-Israeli indirect talks that aimed at bringing the two sides together to resume direct negotiations that stopped in 2008.
+
+The proximity talks, expected to last for four months, focus on the borders of the future Palestinian statehood and issues related to security.</p></entry>
+        </longtext>
+      </info>
+    </item>
+    <item text="BP oil spill">
+      <info>
+        <shorttext>
+          <span class="headline">BP oil spill: Congressmen laser in on safety record during BP chief's grilling</span>
+          <span class="time">5 hours ago</span>
+          <p>Key concerns about safety emerged during a bruising grilling of BP chief executive, Tony Hayward, writes Rowena Mason. Tony Hayward testifies in front of a key Congressional committee.</p>
+          <span class="source">The Associated Press</span>
+          <img src="http://i.telegraph.co.uk/telegraph/multimedia/archive/01660/tony_1660591c.jpg" width="230" height="150"/>
+        </shorttext>
+        <longtext>
+          <span class="headline">BP oil spill: Congressmen laser in on safety record during BP chief's grilling</span>
+          <span class="time">5 hours ago</span>
+          <entry>
+            <p>'YOU need to go to jail," screeched the protestor, holding up her hands smeared with a sticky black liquid before being wrestled to the ground by security guards.
+Diane Wilson, a fourth-generation Gulf Coast fisherwoman, was talking directly to Tony Hayward as he began his address to US politicians over his role in BP's catastrophic oil spill.
+Looking cowed and penitent at the US Congressional hearing, the British oil boss explained his deep sorrow and promised to put things right in prepared remarks on the crisis.</p>
+          </entry>
+          <entry>
+            <p>He had already sat through a 90-minute diatribe from US Congressmen, with BP's safety record described as the "worst of any company operating on US soil". It did not make pretty listening. The main charge, against a backdrop of the company's previous accidents at Texas City and Alaska, was that: "BP has a history of cutting corners for the almighty dollar."
+It was a reminder that American emotions are still running high about BP's responsibility for the spill, despite the company's agreement with US President Obama to pay into a $20bn (£13.5bn) compensation fund for victims of environmental damage.</p>
+          </entry>
+          <entry>
+            <p>Earlier in the day, City analysts had been in a positive mood about the company, feeling that BP had turned a corner in its dealings with America, and its share price had risen by 7pc.
+"BP's package agreed with President Obama to set up a claims fund draws a line in the sand – of sorts," said Richard Griffith, an analyst at Evolution. "It doesn't cap BP's liabilities nor cover fines and penalties but does clarify how BP will settle legitimate claims."
+However, the atmosphere in the committee room was feral, giving British observers an insight into the strength of anti-BP feeling that stretches right across the nation.</p>
+          </entry>
+          <entry>
+            <p>Chairing the committee, Bart Stupak, a Democratic representative, repeatedly referred to Mr Hayward's tactless gaffe about wanting his "life back" after the accident that killed 11 men. "I'm sure you will get your life back, and with a golden parachute back in England," he jibed. "But we in America are left with the terrible consequences of BP's reckless disregard for safety."
+There was no doubt the rhetoric was stacked against BP, with politicians calling its actions "outrageous", "shocking" and "sick-making". Many of Mr Hayward's own words were repeated back to haunt him. The politicians brought up his promise to "focus on safety like a laser" after previous accidents – and questioned whether this had been the case.</p>
+          </entry>
+          <entry>
+            <p>They also quoted an article from several years ago, in which he pledged at a conference to help BP staff take a less cautious approach to decision-making.
+"There was no way Hayward was going to get a fair hearing," said one City analyst. "This is just a bloodbath."
+But among the accusations, there were also a number of pertinent, specific, technical questions that Mr Hayward simply refused to answer.
+The politicians, now well-versed in drilling practices after sitting through hundreds of hours of testimony on the spill, questioned him in depth about BP's decisions on the rig in the run-up to the accident.
+Mr Hayward repeatedly claimed not to know the answers, despite the fact that his technical expert, Mike Zanghi, was sitting behind him ready to answer any questions beyond his knowledge.</p>
+          </entry>
+          <entry>
+            <p>"I think it's too early too reach a conclusion, with respect, Mr Chairman," Mr Hayward said, more than once. "The investigations are ongoing."
+Deflecting their questions on technicalities, Mr Hayward did admit that he had not been informed about problems on board the rig before it exploded. "The only knowledge I've had of [the Macondo well] was when they notified me that we'd made a discovery," he said.
+It appears that Macondo, nicknamed the "nightmare well" by staff on board the rig, had not been flagged as a problem to BP's senior management.</p>
+          </entry>
+          <entry>
+            <p>"We drill hundreds of wells around the world," Mr Hayward protested. In a rare moment of grim levity, Congressman Burgess retorted: "That's what's scaring me right now."
+The furthest Mr Hayward went towards an admission that BP's safety practices had not been adequate was his concession that the hearing had identified areas of "legitimate concern".
+Most of the questions centred around the claim that BP had used a cheaper, less-safe type of well design that saved the company $7m-$10m – a cost-saving Mr Hayward acknowledged.
+There were also questions relating to why BP had not run an expensive pressure test to check its cement integrity. And others asked why heavy mud had been replaced with lighter fluid – contrary to safe practice.</p>
+          </entry>
+          <entry>
+            <p>Mr Hayward insisted that "many wells in the Gulf of Mexico" – more than 30pc – are drilled in the same way as Macondo. The evidence contradicted that of rival energy company bosses from Shell and Chevron yesterday, who claimed their structures would never be designed in the same way.
+Some observers, from London Mayor Boris Johnson to Republican Representative Joe Baron, believe BP has been the victim of political bullying but a number of industry experts believe the Energy and Commerce Committee is right to be asking detailed questions about the history of the well.</p>
+          </entry>
+          <entry>
+            <p>One North Sea drilling consultant, who has worked with BP, said: "It is incredible that US authorities approved the drilling plan. There is no way this well could have been drilled using this casing design in the UK. The design would never have got off the drawing board."
+Worries about BP's drilling are entirely legitimate, according the Greg McCormack, director of the Petroleum Extension Service at the University of Texas. "Tony Hayward should answer why the company did not use a safer liner and why it chose not to do a cement test," he said. "Those are the key questions."</p>
+          </entry>
+        </longtext>
+      </info>
+    </item>
+    <item text="Ronnie Lee Gardner"/>
+    <item text="Bank stress test"/>
+    <item text="UN sanctions against Iran"/>
+    <item text="Trapped Colombian miners"/>
+  </item>
+  <item id="local" title="Netherlands" labelbgcolor="#00192d">
+    <icon url="media/icons/submenu/submenu icon internet news local.png"/>
+    <item text="Cohen prefers Purple Plus">
+      <info>
+        <shorttext>
+          <span class="headline">Cohen prefers Purple Plus</span>
+          <p>The conservatives (VVD) have halted negotiations on a so-called Purple Plus cabinet. The party, which became the largest in the 9 June general elections, does not want to form a coalition with Labour (PvdA), centre-left D66 and the leftwing Greens (GroenLinks).
+VVD leader Mark Rutte sees "too little prospects" for Purple Plus and does not want to negotiate on this, he said yesterday afternoon after hours of orientation talks with the three leftwing parties. Labour (PvdA) leader Job Cohen also said there turned out to be "insufficient points of contact."
+Additionally, Cohen said yesterday he is not prepared to negotiate on a coalition of VVD, PvdA and the Christian democrats (CDA). This centrist cabinet appears to be the last of the three options for a stable majority coalition.
+        </p>
+        </shorttext>
+        <longtext>
+          <entry>
+          <p>The conservatives (VVD) have halted negotiations on a so-called Purple Plus cabinet. The party, which became the largest in the 9 June general elections, does not want to form a coalition with Labour (PvdA), centre-left D66 and the leftwing Greens (GroenLinks).
+VVD leader Mark Rutte sees "too little prospects" for Purple Plus and does not want to negotiate on this, he said yesterday afternoon after hours of orientation talks with the three leftwing parties. Labour (PvdA) leader Job Cohen also said there turned out to be "insufficient points of contact."
+Additionally, Cohen said yesterday he is not prepared to negotiate on a coalition of VVD, PvdA and the Christian democrats (CDA). This centrist cabinet appears to be the last of the three options for a stable majority coalition.
+        </p>
+      </entry>
+      <entry>
+        <p>Uri Rosenthal, normally the VVD leader in the Upper House, was commissioned after the elections to act as informateur (chairman of coalition negotiations) to investigate whether a 'stable majority coalition' could be formed. Due to Rutte's opposition to Purple Plus and Cohen's opposition to VVD-PvdA-CDA, the negotiations on the cabinet formation appear to have landed up in an impasse.
+Rosenthal began with an attempt to form a cabinet of VVD, Party for Freedom (PVV) and CDA. This turned out to be impossible after a number of days because CDA did not want to talk. The VVD did express itself increasingly positively about this option.
+        </p>
+      </entry>
+        </longtext>
+      </info>
+    </item>
+    <item text="Fine at orange cars"/>
+    <item text="Doctor refusing IVF"/>
+    <item text="Paarlberg verdict"/>
+    <item text="Smoking banned in bars"/>
+  </item>
+  <item id="business" title="Business" labelbgcolor="#00192d">
+    <icon url="media/icons/submenu/submenu icon internet news business.png"/>
+    <item text="New mothers at work">
+      <info>
+        <shorttext>
+          <span class="headline">It's off to feminist summer camp</span>
+          <p>Forget canoeing and roasting s'mores -- this retreat is all about learning how to become a women's activist</p>
+          <img src="media/news/img/image001.jpg" width="280" height="200"/>
+        </shorttext>
+        <longtext>
+          <span class="headline">It's off to feminist summer camp</span>
+          <entry>
+            <p>Lots of kids go to summer camp to roast hot dogs and learn how to canoe. Others go to get really good at tennis or to immerse themselves in musical theater. And now, you can go to camp to learn how to be a feminist.
+In some ways, the schedule isn't all that different: There's theater, physical fitness -- and a lot of bonding. For the week-long summer program that just wrapped up last month, each day has a particular focus. On Thursday, it's feminist art, which takes the campers to the Streb gym in Williamsburg, Brooklyn, for a class on movement. The instructor tells the campers to perform the "plop" test, in which they jump up and down ... to make sure the ground is there.  "This technique is about assumption busting," she says to them.</p>
+          </entry>
+        </longtext>
+      </info>
+    </item>
+    <item text="Industry recovery"/>
+  </item>
+  <item id="business" title="Science" labelbgcolor="#00192d">
+    <icon url="media/icons/submenu/submenu icon internet news science.png"/>
+    <item text="Apple Iphone 4">
+      <info>
+        <shorttext>
+          <span class="headline">Apple iPhone 4G will be here around end July from KT</span>
+          <span class="time">2 days ago</span>
+          <p>Korea Telecom (KT) will be the selected carrier to bring in the Apple iPhone 4 after the success of the iPhone 3GS over the past eight months. KT sold out more than 0.8 million iPhone 3GS units, which makes up about 0.1 million in sales per month.
+Someone at KT had an interview with local media and said Apple and KT have already fixed a launch date for the iPhone 4G in Korea, with the first shipment to be out in the fourth week of July. 
+If the custom clearance doesn't take too long, the iPhone 4 could possibly be launched in Korea by the end of July.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Robots at hospital">
+      <info>
+        <shorttext>
+          <span class="headline">Robots to do hospital's dirty work</span>
+          <p>A fleet of robots is to carry out day-to-day tasks at an NHS hospital, it has been revealed.
+The robots will be used to transport clinical waste and dirty linen, deliver food and dispense drugs at the new Forth Valley Royal Hospital in Larbert, Stirlingshire.
+They are currently being tested at the £300 million hospital ahead of its opening in August.
+          </p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Robots to do hospital's dirty work</span>
+          <entry>
+          <p>A fleet of robots is to carry out day-to-day tasks at an NHS hospital, it has been revealed.
+The robots will be used to transport clinical waste and dirty linen, deliver food and dispense drugs at the new Forth Valley Royal Hospital in Larbert, Stirlingshire.
+They are currently being tested at the £300 million hospital ahead of its opening in August.
+          </p>
+        </entry>
+        <entry>
+          <p>It is the first time a UK hospital will use the state-of-the-art technology, which is already in place in hospitals in Japan, the US and France.
+The robots will run along their own dedicated network of corridors underneath the hospital.
+Human staff will call the robot when it is needed using a hand-held personal digital assistant (PDA) system.
+The robot will then make its way to a lift, collect or deliver its item and return to the lift. It is fitted with a laser beam system to detect where it is and sensors to pick up whether there is something in its way.
+The fleet will be divided into "clean" and "dirty" tasks, with each being given their own corridor to avoid the risk of cross-contamination.
+NHS Forth Valley spokesman Elspeth Campbell said the new system would help with infection control.
+            </p>
+          </entry>
+        </longtext>
+      </info>
+    </item>
+    <item text="New Range Rover">
+      <info>
+        <shorttext>
+          <span class="headline">Victoria Beckham to design for Range Rover</span>
+          <p>Victoria Beckham has become the new Creative Design Executive for Range Rover.</p>
+          <p>The former Spice Girl-turned-fashion designer - who already has her own successful clothing range - has been asked to create the interior of the luxury car firm's new Range Rover Evoque and she can't wait to get started on her new job.</p>
+        </shorttext>
+        <longtext>
+          <span class="headline">Victoria Beckham to design for Range Rover</span>
+          <entry>
+          <p>Victoria Beckham has become the new Creative Design Executive for Range Rover.</p>
+          <p>The former Spice Girl-turned-fashion designer - who already has her own successful clothing range - has been asked to create the interior of the luxury car firm's new Range Rover Evoque and she can't wait to get started on her new job.</p>
+        </entry>
+        <entry>
+          <p>Speaking at the 40th anniversary party for the brand, Victoria said: "This is a very exciting collaboration. The classic British heritage of Range Rover and the effortless style, quality and beauty is something I truly admire and also what I hope to achieve with my own brand. I am honoured to take on this role and be part of the creative team."
+The new car will be available in four-wheel and two-wheel drive versions and will make its official public debut at the Paris Motor Show in September.
+            </p>
+          </entry>
+        </longtext>
+      </info>
+    </item>
+    <item text="Electric cars">
+      <info>
+        <shorttext>
+          <span class="headline">THIS is an exclusive first glimpse of BMW's electric city car of the future.</span>
+          <img src="media/news/img/image003.png" width="280" height="200"/>
+        </shorttext>
+        <longtext>
+          <span class="headline">THIS is an exclusive first glimpse of BMW's electric city car of the future.</span>
+          <entry><p>Called the Mega City, it is a futuristic four-seat supermini which will be on sale by 2013 as the first step in BMW's vision of an electric future.
+It has been developed to cater for the growing number of "mega cities" around the world.
+There are already 130 cities with more than three million inhabitants each, and by 2050 a massive 70 per cent of the world's population are expected to live in them.
+        </p></entry>
+          <entry><p>A group of BMW's top "out of the box" thinkers have been put together in a team called Project I to develop the Mega City, which will be the first of a family of electric vehicles.
+        </p></entry>
+        </longtext>
+      </info>
+    </item>
+  </item>
+  <item id="entertainment" title="Entertainement" labelbgcolor="#00192d">
+    <icon url="media/icons/submenu/submenu icon internet news entertainment.png"/>
+    <item text="Sean Connery">
+      <info>
+        <shorttext>
+          <span class="headline">Sir Sean visits site of his childhood Edinburgh home</span>
+          <p>Sir Sean's childhood home was demolished in the 1960s</p>
+          <img src="media/news/img/image004.jpg" width="280" height="200"/>
+        </shorttext>
+        <longtext>
+          <span class="headline">Sir Sean visits site of his childhood Edinburgh home</span>
+          <entry><p>Sir Sean's childhood home was demolished in the 1960s
+Sir Sean Connery has returned to the Edinburgh street where he was born 80 years ago to unveil a plaque in the regenerated area.
+          </p></entry>
+          <entry><p>The James Bond actor visited the site of 176 Fountainbridge, a block which was demolished in the 1960s.
+The plaque has been erected at Springside, a new housing and office development just yards from the star's childhood home.
+Sir Sean said the it was now a "very different area" from when he grew up
+          </p></entry>
+        </longtext>
+      </info>
+    </item>
+    <item text="Shrek Forever After">
+      <info>
+        <shorttext>
+          <span class="headline">Shrek Forever After</span>
+          <p>The fourth instalment of the green ogre fairytale may be in 3D, but please let this be the last one, says Peter Bradshaw</p>
+          <img src="media/news/img/image005.jpg" width="280" height="200"/>
+        </shorttext>
+        <longtext>
+          <span class="headline">Shrek Forever After</span>
+          <entry><p>"It ain't ogre – till it's ogre," reads the poster-tagline for the fourth and apparently final Shrek movie. You'll have seen what they did there: pun playfully on "ogre" and "over" while worryingly keeping in reserve the tiny possibility that it may not be, in fact, over. This fourth Shrek film might conceivably be greeted with boffo box office and the multitudinous shifting of units. So could it be that Shrek will next year show up in his Sean Connery '83 vintage wig, announcing: Never Say Never Again?</p>
+          </entry>
+        </longtext>
+      </info>
+    </item>
+    <item text="Amy Winehouse"/>
+  </item>
+  <item id="business" title="Sport" labelbgcolor="#00192d">
+    <icon url="media/icons/submenu/submenu icon internet news sports.png"/>
+    <item text="Lee Byrne"/>
+    <item text="Friday World Cup"/>
+    <item text="Ascot 3.50"/>
+  </item>
+  <item id="business" title="Health" labelbgcolor="#00192d">
+    <icon url="media/icons/submenu/submenu icon internet news health.png"/>
+    <item text="School pupils and sex"/>
+    <item text="Obsese adults"/>
+    <item text="Online medical records"/>
+    <item text="Breast implants"/>
+    <item text="Hypertension"/>
+  </item>
+</menu>

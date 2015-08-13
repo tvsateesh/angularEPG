@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu cache="false">
+  <meta>
+    <select id="channels"/>
+  </meta>
+
+  <xi:include href="user9/favorites.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="user9/record_list.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="user9/library.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="user9/buy_movie.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <!-- <xi:include href="user9/teletext.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/> -->
+  <xi:include href="user9/program_guide.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="user9/channels.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="time_shifting.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="profiles.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <!-- <xi:include href="login.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/> -->
+  <!-- <xi:include href="user9/devices.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/> -->
+</menu>
+
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

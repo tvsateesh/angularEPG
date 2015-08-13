@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu cache="true">
+  <meta>
+    <select id="channels"/>
+  </meta>
+
+  <!-- <xi:include href="user1/health.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="user1/recommendations.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="user1/internet.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/> -->
+  <xi:include href="user1/favorites.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="user1/record_list.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="user1/library.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="user1/buy_movie.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <!-- <xi:include href="teletext.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/> -->
+  <xi:include href="user1/program_guide.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="user1/channels.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="time_shifting.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <xi:include href="profiles.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/>
+  <!-- <xi:include href="login.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/> -->
+  <!--<xi:include href="user1/devices.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/> -->
+  <!-- <xi:include href="user1/tv_remote.xml" xmlns:xi="http://www.w3.org/2003/XInclude"/> -->
+</menu>
+
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

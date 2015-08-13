@@ -1,0 +1,6 @@
+  <item id="health" title="Health" labelbgcolor="#940303">
+    <icon url="media/icons/mainmenu/main menu icon health.png"/>
+    <item text="show all">
+      <action module="AppLibrary" menu="xml/Health.xml"/>
+    </item>
+  </item>

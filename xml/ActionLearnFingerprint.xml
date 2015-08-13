@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="learn_fingerprint" cache="false">
+  <meta>
+    <select id="Finger" />
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="410" />
+      <element id="shorttext" type="TextField" x="20" y="70" width="300" height="300" />
+      <element id="imgHolder" type="MovieClip" x="230" y="0" />
+    </screen>
+  </meta>
+  <item title="Finger">
+    <icon url="icons/submenu/submenu icon profile fingerprint.png"/>
+    <item id="thumb" text="Start fingerprint learning" checked="false">
+      <info>
+        <shorttext>
+          <span class="headline">Thumb</span>
+          <p class="description">Please slide your finger slowly over the sensor on your remote control. Choose the finger you can access the sensor best with. You have to slide your finger 5 times.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+</menu>

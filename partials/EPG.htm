@@ -1,0 +1,13 @@
+﻿<p class="text-info">
+    <h1>EPG</h1><br />
+</p>
+
+<p>
+    Search: <input ng-model="search">
+</p>
+
+<table class="table table-bordered">
+    <td ng-repeat="program in epgData.epgData| filter:search" class="EPGContent">
+        <a href="default.htm#/EPGDetails?id={{program.name}}">{{program.name}}</a> <!--, {{ program.description}}--></td>
+    </tr>
+</table>

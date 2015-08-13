@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="Nova TV">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+	<item id="oceans-eleven" text="Ocean's Eleven">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/oceans-eleven.png">
+      <shorttext>
+        <span class="headline">Ocean's Eleven</span>
+        <p class="subheadline">Crime Dramedy, USA 2001</p>
+        <p class="description">Danny Ocean wants to score the biggest heist in history. He combines an eleven team member, including Frank Catton, Rusty Ryan and Linus Caldwell. Their target? The Bellagio, the Mirage and the MGM Grand, all casinos owned by Terry Benedict. It's not going to be easy, as they plan to get in secretly and out with $150 million.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="20" min="00"/></time></info>
+  </item>
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="20" min="00"/><end hour="21" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="smurfs" text="The Smurfs">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/smurfs.png">
+      <shorttext>
+        <span class="headline">The Smurfs</span>
+        <p class="subheadline">Animated TV Series, USA 1989</p>
+        <p class="subsubheadline">Season 9, Ep. 14: Sky High Surprise</p>
+        <p class="description">A band of baby bandits in the desert steal the time crystals. Meanwhile, the Smurfs end up trapped in Gargamel's lair, after trying to hide a magic egg that grants every Smurf their fondest wish.</p>
+      </shorttext>
+    <time><start hour="21" min="00"/><end hour="22" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="eureka" text="Eureka">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/eureka.png">
+      <shorttext>
+        <span class="headline">Eureka</span>
+        <p class="subheadline">Sci-Fi, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 8: Sight Unseen</p>
+        <p class="description">As an experiment that will recreate the first moments of the origins of the universe, the Big Bang, goes terribly awry, the town's geniuses turn into morons, leaving the fate of Eureka in the hands of Jack Carter and an antisocial young ubergenius, Zane Donovan.</p>
+      </shorttext>
+    <time><start hour="22" min="00"/><end hour="23" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="23" min="00"/><end hour="24" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="evening" title="Evening">
+	<item id="oceans-eleven" text="Ocean's Eleven">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/oceans-eleven.png">
+      <shorttext>
+        <span class="headline">Ocean's Eleven</span>
+        <p class="subheadline">Crime Dramedy, USA 2001</p>
+        <p class="description">Danny Ocean wants to score the biggest heist in history. He combines an eleven team member, including Frank Catton, Rusty Ryan and Linus Caldwell. Their target? The Bellagio, the Mirage and the MGM Grand, all casinos owned by Terry Benedict. It's not going to be easy, as they plan to get in secretly and out with $150 million.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="20" min="00"/></time></info>
+  </item>
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="20" min="00"/><end hour="21" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="smurfs" text="The Smurfs">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/smurfs.png">
+      <shorttext>
+        <span class="headline">The Smurfs</span>
+        <p class="subheadline">Animated TV Series, USA 1989</p>
+        <p class="subsubheadline">Season 9, Ep. 14: Sky High Surprise</p>
+        <p class="description">A band of baby bandits in the desert steal the time crystals. Meanwhile, the Smurfs end up trapped in Gargamel's lair, after trying to hide a magic egg that grants every Smurf their fondest wish.</p>
+      </shorttext>
+    <time><start hour="21" min="00"/><end hour="22" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="afternoon" title="Afternoon">
+	<item id="big-fish" text="Big Fish">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-fish.png">
+      <shorttext>
+        <span class="headline">Big Fish</span>
+        <p class="subheadline">Fantasy, USA 2003</p>
+        <p class="description">The story revolves around a dying father and his son, who is trying to learn more about his dad by piecing together the stories he has gathered over the years. The son winds up re-creating his father's elusive life in a series of legends and myths inspired by the few facts he knows. Through these tales, the son begins to understand his father's great feats and his great failings.</p>
+      </shorttext>
+    <time><start hour="10" min="30"/><end hour="12" min="30"/></time></info>
+  </item>
+	<item id="monk" text="Monk">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/monk.png">
+      <shorttext>
+        <span class="headline">Monk</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 7, Ep. 7: Take A Punch</p>
+        <p class="description">Mr. Monk feels he is too over the hill and will never pass the SFPD physical. He finally gives up on his dream of reinstatement and finds it liberating, but a case in which he meets a boxer making a comeback in the ring re-inspires Monk.</p>
+      </shorttext>
+    <time><start hour="12" min="30"/><end hour="13" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="twin-peaks" text="Twin Peaks">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/twin-peaks.png">
+      <shorttext>
+        <span class="headline">Twin Peaks</span>
+        <p class="subheadline">Mystery Drama, USA 1991</p>
+        <p class="subsubheadline">Season 2, Ep. 13: Checkmate</p>
+        <p class="description">Cooper is held hostage by Renault, Andy and Tremayne pry into Nicky's past, Ben slips into a fantasy life as a Civil War general, James succumbs to Evelyn and Cooper's ex-partner Windom Earle leaves a gruesome scene at the Twin Peaks Sheriff's Station.</p>
+      </shorttext>
+    <time><start hour="13" min="30"/><end hour="15" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="21-grams" text="21 Grams">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/21-grams.png">
+      <shorttext>
+        <span class="headline">21 Grams</span>
+        <p class="subheadline">Drama, USA 2003</p>
+        <p class="description">This is the story of three gentle persons: Paul Rivers an ailing mathematician lovelessly married to an English emigree, Christina Peck, an upper-middle-class suburban housewife, happily married and mother of two little girls, and Jack Jordan, an ex-convict who has found in his Christian faith the strength to raise a family.</p>
+      </shorttext>
+    <time><start hour="15" min="00"/><end hour="17" min="00"/></time></info>
+  </item>
+	<item id="dexter" text="Dexter">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dexter.png">
+      <shorttext>
+        <span class="headline">Dexter</span>
+        <p class="subheadline">Dark Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 11: Left Turn Ahead</p>
+        <p class="description">Dexter begins to put his affairs in order as he prepares to make a potentially life-altering decision. Doakes runs afoul of drug smugglers during a daring escape. Angel faces criminal charges. Lundy deals with his FBI superior. Lila comes across one of Dexter's dangerous secrets.</p>
+      </shorttext>
+    <time><start hour="17" min="00"/><end hour="18" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="noon" title="Noon">
+	<item id="forrest-gump" text="Forrest Gump">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/forrest-gump.png">
+      <shorttext>
+        <span class="headline">Forrest Gump</span>
+        <p class="subheadline">Dramedy, USA 1994</p>
+        <p class="description">A man with a low IQ has accomplished great things in his life and been present during significant historic events - in each case, far exceeding what anyone imagined he could do. It is the story of a man who rose above his challenges, and who proved that determination, courage, and love are more important than ability.</p>
+      </shorttext>
+    <time><start hour="08" min="10"/><end hour="10" min="30"/></time></info>
+  </item>
+	<item id="big-fish" text="Big Fish">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-fish.png">
+      <shorttext>
+        <span class="headline">Big Fish</span>
+        <p class="subheadline">Fantasy, USA 2003</p>
+        <p class="description">The story revolves around a dying father and his son, who is trying to learn more about his dad by piecing together the stories he has gathered over the years. The son winds up re-creating his father's elusive life in a series of legends and myths inspired by the few facts he knows. Through these tales, the son begins to understand his father's great feats and his great failings.</p>
+      </shorttext>
+    <time><start hour="10" min="30"/><end hour="12" min="30"/></time></info>
+  </item>
+</item>
+<item id="morning" title="Morning">
+	<item id="american-beauty" text="American Beauty">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/american-beauty.png">
+      <shorttext>
+        <span class="headline">American Beauty</span>
+        <p class="subheadline">Drama, USA 1999</p>
+        <p class="description">Lester Burnham, a man in his mid-40s going through an intense midlife crisis, has grown cynical and is convinced that he has no reason to go on. After developing an infatuation for his daughter's attractive friend, he decides to turn his hectic life around.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="02" min="00"/></time></info>
+  </item>
+	<item id="dirt" text="Dirt">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dirt.png">
+      <shorttext>
+        <span class="headline">Dirt</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 1: Welcome to Normal</p>
+        <p class="description">After surviving her violent attack, Lucy Spiller returns to Dirt Now magazine to reclaim her position as Tabloid Queen. Julia, while fleeing the scene, is hit by Leo and eventually gets killed. A chance encounter between Lucy and a young pop star results in a surprising opportunity.</p>
+      </shorttext>
+    <time><start hour="02" min="00"/><end hour="03" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="big-lebowski" text="Big Lebowski">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-lebowski.png">
+      <shorttext>
+        <span class="headline">Big Lebowski</span>
+        <p class="subheadline">Comedy, USA 1998</p>
+        <p class="description">Jeffrey 'The Dude' Lebowski is the ultimate LA slacker, until one day his house is broken into and his rug is peed on by two angry gangsters who have mistaken him for Jeffrey Lebowski, the Los Angeles millionaire, whose wife owes some bad people some big money.</p>
+      </shorttext>
+    <time><start hour="03" min="00"/><end hour="05" min="00"/></time></info>
+  </item>
+	<item id="amelie" text="Amelie">
+    <meta>
+      <duration>130</duration>
+    </meta>
+    <info url="media/tv/amelie.png">
+      <shorttext>
+        <span class="headline">Amelie</span>
+        <p class="subheadline">Comedy, FR 2001</p>
+        <p class="description">Amelie is looking for love, and perhaps for the meaning of life in general. We see her grow up in an original if slightly dysfunctional family. Now a waitress in central Paris, she interacts curiously with her neighbors and customers, as well as a mysterious Photomaton-image collector and one of his even more mysterious photo subjects.</p>
+      </shorttext>
+    <time><start hour="05" min="00"/><end hour="07" min="10"/></time></info>
+  </item>
+	<item id="lost" text="Lost">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lost.png">
+      <shorttext>
+        <span class="headline">Lost</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 6: The Other Woman</p>
+        <p class="description">Juliet and Jack pursue Daniel and Charlotte, after they leave without notice for the Dharma electrical station, where they render a deadly gas inert. Meanwhile, Ben tells Locke about Widmore. Flashbacks show Juliet's relationships with Ben, her lover Goodwin and his wife Harper.</p>
+      </shorttext>
+    <time><start hour="07" min="10"/><end hour="08" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="forrest-gump" text="Forrest Gump">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/forrest-gump.png">
+      <shorttext>
+        <span class="headline">Forrest Gump</span>
+        <p class="subheadline">Dramedy, USA 1994</p>
+        <p class="description">A man with a low IQ has accomplished great things in his life and been present during significant historic events - in each case, far exceeding what anyone imagined he could do. It is the story of a man who rose above his challenges, and who proved that determination, courage, and love are more important than ability.</p>
+      </shorttext>
+    <time><start hour="08" min="10"/><end hour="10" min="30"/></time></info>
+  </item>
+</item>
+<item id="now" title="Now">
+	<item id="american-beauty" text="American Beauty">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/american-beauty.png">
+      <shorttext>
+        <span class="headline">American Beauty</span>
+        <p class="subheadline">Drama, USA 1999</p>
+        <p class="description">Lester Burnham, a man in his mid-40s going through an intense midlife crisis, has grown cynical and is convinced that he has no reason to go on. After developing an infatuation for his daughter's attractive friend, he decides to turn his hectic life around.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="02" min="00"/></time></info>
+  </item>
+	<item id="dirt" text="Dirt">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dirt.png">
+      <shorttext>
+        <span class="headline">Dirt</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 1: Welcome to Normal</p>
+        <p class="description">After surviving her violent attack, Lucy Spiller returns to Dirt Now magazine to reclaim her position as Tabloid Queen. Julia, while fleeing the scene, is hit by Leo and eventually gets killed. A chance encounter between Lucy and a young pop star results in a surprising opportunity.</p>
+      </shorttext>
+    <time><start hour="02" min="00"/><end hour="03" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="big-lebowski" text="Big Lebowski">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-lebowski.png">
+      <shorttext>
+        <span class="headline">Big Lebowski</span>
+        <p class="subheadline">Comedy, USA 1998</p>
+        <p class="description">Jeffrey 'The Dude' Lebowski is the ultimate LA slacker, until one day his house is broken into and his rug is peed on by two angry gangsters who have mistaken him for Jeffrey Lebowski, the Los Angeles millionaire, whose wife owes some bad people some big money.</p>
+      </shorttext>
+    <time><start hour="03" min="00"/><end hour="05" min="00"/></time></info>
+  </item>
+	<item id="amelie" text="Amelie">
+    <meta>
+      <duration>130</duration>
+    </meta>
+    <info url="media/tv/amelie.png">
+      <shorttext>
+        <span class="headline">Amelie</span>
+        <p class="subheadline">Comedy, FR 2001</p>
+        <p class="description">Amelie is looking for love, and perhaps for the meaning of life in general. We see her grow up in an original if slightly dysfunctional family. Now a waitress in central Paris, she interacts curiously with her neighbors and customers, as well as a mysterious Photomaton-image collector and one of his even more mysterious photo subjects.</p>
+      </shorttext>
+    <time><start hour="05" min="00"/><end hour="07" min="10"/></time></info>
+  </item>
+	<item id="lost" text="Lost">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lost.png">
+      <shorttext>
+        <span class="headline">Lost</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 6: The Other Woman</p>
+        <p class="description">Juliet and Jack pursue Daniel and Charlotte, after they leave without notice for the Dharma electrical station, where they render a deadly gas inert. Meanwhile, Ben tells Locke about Widmore. Flashbacks show Juliet's relationships with Ben, her lover Goodwin and his wife Harper.</p>
+      </shorttext>
+    <time><start hour="07" min="10"/><end hour="08" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="forrest-gump" text="Forrest Gump">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/forrest-gump.png">
+      <shorttext>
+        <span class="headline">Forrest Gump</span>
+        <p class="subheadline">Dramedy, USA 1994</p>
+        <p class="description">A man with a low IQ has accomplished great things in his life and been present during significant historic events - in each case, far exceeding what anyone imagined he could do. It is the story of a man who rose above his challenges, and who proved that determination, courage, and love are more important than ability.</p>
+      </shorttext>
+    <time><start hour="08" min="10"/><end hour="10" min="30"/></time></info>
+  </item>
+	<item id="big-fish" text="Big Fish">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-fish.png">
+      <shorttext>
+        <span class="headline">Big Fish</span>
+        <p class="subheadline">Fantasy, USA 2003</p>
+        <p class="description">The story revolves around a dying father and his son, who is trying to learn more about his dad by piecing together the stories he has gathered over the years. The son winds up re-creating his father's elusive life in a series of legends and myths inspired by the few facts he knows. Through these tales, the son begins to understand his father's great feats and his great failings.</p>
+      </shorttext>
+    <time><start hour="10" min="30"/><end hour="12" min="30"/></time></info>
+  </item>
+	<item id="monk" text="Monk">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/monk.png">
+      <shorttext>
+        <span class="headline">Monk</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 7, Ep. 7: Take A Punch</p>
+        <p class="description">Mr. Monk feels he is too over the hill and will never pass the SFPD physical. He finally gives up on his dream of reinstatement and finds it liberating, but a case in which he meets a boxer making a comeback in the ring re-inspires Monk.</p>
+      </shorttext>
+    <time><start hour="12" min="30"/><end hour="13" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="twin-peaks" text="Twin Peaks">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/twin-peaks.png">
+      <shorttext>
+        <span class="headline">Twin Peaks</span>
+        <p class="subheadline">Mystery Drama, USA 1991</p>
+        <p class="subsubheadline">Season 2, Ep. 13: Checkmate</p>
+        <p class="description">Cooper is held hostage by Renault, Andy and Tremayne pry into Nicky's past, Ben slips into a fantasy life as a Civil War general, James succumbs to Evelyn and Cooper's ex-partner Windom Earle leaves a gruesome scene at the Twin Peaks Sheriff's Station.</p>
+      </shorttext>
+    <time><start hour="13" min="30"/><end hour="15" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="21-grams" text="21 Grams">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/21-grams.png">
+      <shorttext>
+        <span class="headline">21 Grams</span>
+        <p class="subheadline">Drama, USA 2003</p>
+        <p class="description">This is the story of three gentle persons: Paul Rivers an ailing mathematician lovelessly married to an English emigree, Christina Peck, an upper-middle-class suburban housewife, happily married and mother of two little girls, and Jack Jordan, an ex-convict who has found in his Christian faith the strength to raise a family.</p>
+      </shorttext>
+    <time><start hour="15" min="00"/><end hour="17" min="00"/></time></info>
+  </item>
+	<item id="dexter" text="Dexter">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dexter.png">
+      <shorttext>
+        <span class="headline">Dexter</span>
+        <p class="subheadline">Dark Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 11: Left Turn Ahead</p>
+        <p class="description">Dexter begins to put his affairs in order as he prepares to make a potentially life-altering decision. Doakes runs afoul of drug smugglers during a daring escape. Angel faces criminal charges. Lundy deals with his FBI superior. Lila comes across one of Dexter's dangerous secrets.</p>
+      </shorttext>
+    <time><start hour="17" min="00"/><end hour="18" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="oceans-eleven" text="Ocean's Eleven">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/oceans-eleven.png">
+      <shorttext>
+        <span class="headline">Ocean's Eleven</span>
+        <p class="subheadline">Crime Dramedy, USA 2001</p>
+        <p class="description">Danny Ocean wants to score the biggest heist in history. He combines an eleven team member, including Frank Catton, Rusty Ryan and Linus Caldwell. Their target? The Bellagio, the Mirage and the MGM Grand, all casinos owned by Terry Benedict. It's not going to be easy, as they plan to get in secretly and out with $150 million.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="20" min="00"/></time></info>
+  </item>
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="20" min="00"/><end hour="21" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="smurfs" text="The Smurfs">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/smurfs.png">
+      <shorttext>
+        <span class="headline">The Smurfs</span>
+        <p class="subheadline">Animated TV Series, USA 1989</p>
+        <p class="subsubheadline">Season 9, Ep. 14: Sky High Surprise</p>
+        <p class="description">A band of baby bandits in the desert steal the time crystals. Meanwhile, the Smurfs end up trapped in Gargamel's lair, after trying to hide a magic egg that grants every Smurf their fondest wish.</p>
+      </shorttext>
+    <time><start hour="21" min="00"/><end hour="22" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="eureka" text="Eureka">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/eureka.png">
+      <shorttext>
+        <span class="headline">Eureka</span>
+        <p class="subheadline">Sci-Fi, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 8: Sight Unseen</p>
+        <p class="description">As an experiment that will recreate the first moments of the origins of the universe, the Big Bang, goes terribly awry, the town's geniuses turn into morons, leaving the fate of Eureka in the hands of Jack Carter and an antisocial young ubergenius, Zane Donovan.</p>
+      </shorttext>
+    <time><start hour="22" min="00"/><end hour="23" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="23" min="00"/><end hour="24" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+</menu>

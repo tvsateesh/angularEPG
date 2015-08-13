@@ -1,0 +1,27 @@
+  <item id="internet" title="Internet" labelbgcolor="#00192D">
+    <icon url="media/icons/submenu/submenu icon internet.png"/>
+    <item id="Twitter">
+      <icon url="media/icons/submenu/submenu icon internet twitter.png"/>
+      <action module="Internet" menu="xml/internet/Twitter.xml"/>
+    </item>
+    <item id="Facebook">
+      <icon url="media/icons/submenu/submenu icon internet facebook.png"/>
+      <action module="Internet" menu="xml/internet/Facebook.xml"/>
+    </item>
+    <item id="YouTube">
+      <icon url="media/icons/submenu/submenu icon internet youtube.png"/>
+      <action module="AppLibrary" menu="xml/internet/Youtube.xml"/>
+    </item>
+    <item id="News">
+      <icon url="media/icons/submenu/submenu icon internet news.png"/>
+      <action module="Internet" menu="xml/internet/News.xml"/>
+    </item>
+    <item id="Weather">
+      <icon url="media/icons/submenu/submenu icon internet weather.png"/>
+      <action module="Weather" menu="xml/internet/Weather.xml"/>
+    </item>
+    <item id="Recipes">
+      <icon url="media/icons/submenu/submenu icon internet recipes alt.png"/>
+      <action module="AppLibrary" menu="xml/internet/Recipes.xml"/>
+    </item>
+  </item>

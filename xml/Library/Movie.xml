@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="root_library">
+  <meta>
+    <select id="Drama"/> 
+    <action module="ActionLibrary"  menu="xml/Library/MovieAction.xml" />
+	    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="448"/>
+      <element id="txtHolder" type="TextField" x="20" y="20" width="370" height="448"/>
+      <element id="imgHolder" type="MovieClip" x="410" y="0" scale="1"/>
+      <element id="advHolder" type="MovieClip" x="0" y="0" scale="1"/>
+    </screen>
+  </meta>
+
+<item id="Drama" title="Movies">
+
+<!-- COMEDY -->
+	<item id="guardians-of-the-galaxy">
+		<media url="media/movies/trailers/guardians-of-the-galaxy-trailer.mp4"/>
+		<image url="media/movies/artwork/guardians-of-the-galaxy.png"/>
+
+		<title>Guardians of the Galaxy</title>
+		<description>Many light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.</description>
+
+		<directors>
+			<director>James Gunn</director>
+		</directors>
+
+		<actors>
+			<actor>Chris Pratt</actor>
+			<actor>Vin Diesel</actor>
+			<actor>Bradley Cooper</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>121</duration>
+	
+		<icon url="media/movies/artwork/guardians-of-the-galaxy.png"/>
+		<media url="media/movies/trailers/guardians-of-the-galaxy-trailer.mp4"/>
+		<info url="media/movies/artwork/guardians-of-the-galaxy.png">
+			<director>James Gunn</director>
+			<actors>
+			<actor>Chris Pratt</actor>
+			<actor>Vin Diesel</actor>
+			<actor>Bradley Cooper</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Guardians of the Galaxy</span>
+				<p class="subheadline">Comedy &#183; PG-13 &#183; 121 min &#183; </p>
+				<p class="description">Many light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+<!-- ACTION -->
+	<item id="godzilla">
+		<media url="media/movies/trailers/godzilla-trailer.mp4"/>
+		<image url="media/movies/artwork/godzilla.png"/>
+
+		<title>Godzilla</title>
+		<description>Fifteen years after an incident at a Japanese nuclear power plant, the world's most famous monster is pitted against malevolent creatures who threaten our very existence.</description>
+
+		<directors>
+			<director>Gareth Edwards</director>
+		</directors>
+
+		<actors>
+			<actor>Aaron Taylor-Johnson</actor>
+			<actor>Elizabeth Olsen</actor>
+			<actor>Bryan Cranston</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>123</duration>
+	
+		<icon url="media/movies/artwork/godzilla.png"/>
+		<media url="media/movies/trailers/godzilla-trailer.mp4"/>
+		<info url="media/movies/artwork/godzilla.png">
+			<director>Gareth Edwards</director>
+			<actors>
+			<actor>Aaron Taylor-Johnson</actor>
+			<actor>Elizabeth Olsen</actor>
+			<actor>Bryan Cranston</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Godzilla</span>
+				<p class="subheadline">Action &#183; PG-13 &#183; 123 min &#183; </p>
+				<p class="description">Fifteen years after an incident at a Japanese nuclear power plant, the world's most famous monster is pitted against malevolent creatures who threaten our very existence.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+<!-- MUSIC -->
+	<item id="frozen">
+		<media url="media/movies/trailers/frozen-trailer.mp4"/>
+		<image url="media/movies/artwork/frozen.png"/>
+
+		<title>Frozen</title>
+		<description>Fearless optimist Anna teams up with Kristoff and a hilarious snowman named Olaf in a race to find Anna's sister Elsa, whose icy powers have trapped the kingdom in eternal winter.</description>
+
+		<directors>
+			<director>Chris Buck</director>
+			<director>Jennifer Lee</director>
+		</directors>
+
+		<actors>
+			<actor>Kristen Bell</actor>
+			<actor>Idina Menzel</actor>
+			<actor>Jonathan Groff</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Music</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>PG</ageRating>
+		<duration>102</duration>
+	
+		<icon url="media/movies/artwork/frozen.png"/>
+		<media url="media/movies/trailers/frozen-trailer.mp4"/>
+		<info url="media/movies/artwork/frozen.png">
+			<director>Chris Buck</director>
+			<actors>
+			<actor>Kristen Bell</actor>
+			<actor>Idina Menzel</actor>
+			<actor>Jonathan Groff</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Frozen</span>
+				<p class="subheadline">Music &#183; PG &#183; 102 min &#183; </p>
+				<p class="description">Fearless optimist Anna teams up with Kristoff and a hilarious snowman named Olaf in a race to find Anna's sister Elsa, whose icy powers have trapped the kingdom in eternal winter.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+<!-- DRAMA -->
+	<item id="the-fault-in-our-stars">
+		<media url="media/movies/trailers/the-fault-in-our-stars-trailer.mp4"/>
+		<image url="media/movies/artwork/the-fault-in-our-stars.png"/>
+
+		<title>The Fault in Our Stars</title>
+		<description>Hazel and Gus share an acerbic wit, a disdain for the conventional, and a love that sweeps them on a journey. Their relationship is all the more miraculous given that Hazel's other constant companion is an oxygen tank.</description>
+
+		<directors>
+			<director>Josh Boone</director>
+		</directors>
+
+		<actors>
+			<actor>Shailene Woodley</actor>
+			<actor>Ansel Elgort</actor>
+			<actor>Nat Wolff</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>PG-13</ageRating>
+		<duration>127</duration>
+	
+		<icon url="media/movies/artwork/the-fault-in-our-stars.png"/>
+		<media url="media/movies/trailers/the-fault-in-our-stars-trailer.mp4"/>
+		<info url="media/movies/artwork/the-fault-in-our-stars.png">
+			<director>Josh Boone</director>
+			<actors>
+			<actor>Shailene Woodley</actor>
+			<actor>Ansel Elgort</actor>
+			<actor>Nat Wolff</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Fault in Our Stars</span>
+				<p class="subheadline">Drama &#183; PG-13 &#183; 127 min &#183; </p>
+				<p class="description">Hazel and Gus share an acerbic wit, a disdain for the conventional, and a love that sweeps them on a journey. Their relationship is all the more miraculous given that Hazel's other constant companion is an oxygen tank.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+<!-- COMEDY -->
+	<item id="the-wolf-of-wall-street">
+		<media url="media/movies/trailers/the-wolf-of-wall-street-trailer.mp4"/>
+		<image url="media/movies/artwork/the-wolf-of-wall-street.png"/>
+
+		<title>The Wolf of Wall Street</title>
+		<description>Based on the true story of Jordan Belfort, from his rise to a wealthy New York stockbroker living the high life to his fall involving crime, corruption and the federal government.</description>
+
+		<directors>
+			<director>Martin Scorsese</director>
+		</directors>
+
+		<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Jonah Hill</actor>
+			<actor>Margot Robbie</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Comedy</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>R</ageRating>
+		<duration>180</duration>
+	
+		<icon url="media/movies/artwork/the-wolf-of-wall-street.png"/>
+		<media url="media/movies/trailers/the-wolf-of-wall-street-trailer.mp4"/>
+		<info url="media/movies/artwork/the-wolf-of-wall-street.png">
+			<director>Martin Scorsese</director>
+			<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Jonah Hill</actor>
+			<actor>Margot Robbie</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">The Wolf of Wall Street</span>
+				<p class="subheadline">Comedy &#183; R &#183; 180 min &#183; </p>
+				<p class="description">Based on the true story of Jordan Belfort, from his rise to a wealthy New York stockbroker living the high life to his fall involving crime, corruption and the federal government.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+<!-- ACTION -->
+	<item id="lucy">
+		<media url="media/movies/trailers/lucy-trailer.mp4"/>
+		<image url="media/movies/artwork/lucy.png"/>
+
+		<title>Lucy</title>
+		<description>A seemingly ordinary woman, accidentally caught in a dark deal, quickly turns the tables on her captors and transforms into a merciless warrior evolved way beyond human logic.</description>
+
+		<directors>
+			<director>Luc Besson</director>
+		</directors>
+
+		<actors>
+			<actor>Scarlett Johansson</actor>
+			<actor>Morgan Freeman</actor>
+			<actor>Min-sik Choi</actor>
+		</actors>
+
+		<priceBuy>9.90</priceBuy>
+		<priceRent>4.90</priceRent>
+		<genre>Action</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>R</ageRating>
+		<duration>89</duration>
+	
+		<icon url="media/movies/artwork/lucy.png"/>
+		<media url="media/movies/trailers/lucy-trailer.mp4"/>
+		<info url="media/movies/artwork/lucy.png">
+			<director>Luc Besson</director>
+			<actors>
+			<actor>Scarlett Johansson</actor>
+			<actor>Morgan Freeman</actor>
+			<actor>Min-sik Choi</actor>
+			</actors>
+			<shorttext>
+			<span class="headline">Lucy</span>
+				<p class="subheadline">Action &#183; R &#183; 89 min &#183; </p>
+				<p class="description">A seemingly ordinary woman, accidentally caught in a dark deal, quickly turns the tables on her captors and transforms into a merciless warrior evolved way beyond human logic.</p>
+				</shorttext>
+			<price>&#8364; 9.90</price>
+		</info>
+</item>
+
+
+</item>
+
+<item id="ruwido" title="ruwido movies">
+
+	<item id="leaf-v1c">
+		<media url="media/movies/trailers/leaf-v1.mp4"/>
+		<image url="media/movies/artwork/leaf-v1c.png"/>
+
+		<title>LEAF</title>
+		<description>'The 'leaf' input device was created as a direct result of ruwido’s design and development approach: ‘thinsizing’. <br />Measuring only 2.7 mm in width, ‘leaf’ has a silhouette thinner than a coin cell and is manufactured using high quality aluminium and carbon.
+		</description>
+
+		<directors>
+			<director></director>
+		</directors>
+
+		<actors>
+			<actor></actor>
+		</actors>
+
+		<priceBuy></priceBuy>
+		<priceRent></priceRent>
+		<genre>ruwido</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>austria</ageRating>
+		<duration>00:42</duration>
+	
+		<icon url="media/movies/artwork/leaf-v1c.png"/>
+		<media url="media/movies/trailers/leaf-v1.mp4"/>
+		<info url="media/movies/artwork/leaf-v1c.png">
+			<director></director>
+			<actors>
+			<actor></actor>
+			</actors>
+			<shorttext>
+			<span class="headline">LEAF</span>
+				<p class="subheadline"></p>
+				<p class="description">The 'leaf' input device was created as a direct result of ruwido’s design and development approach: ‘thinsizing’. <br />Measuring only 2.7 mm in width, ‘leaf’ has a silhouette thinner than a coin cell and is manufactured using high quality aluminium and carbon.
+				</p>
+				</shorttext>
+			<price></price>
+		</info>
+</item>
+
+	<item id="myron-v2c">
+		<media url="media/movies/trailers/myron-v2.mp4"/>
+		<image url="media/movies/artwork/myron-v2c.png"/>
+
+		<title>MYRON</title>
+		<description>'myron' shows how a tangible interaction mechanism can be designed for the next generation of entertainment being a joy to own and a joy to use. <br />The central navigational element provides emotional control with pressure gradient perception. 
+		</description>
+
+		<directors>
+			<director></director>
+		</directors>
+
+		<actors>
+			<actor></actor>
+		</actors>
+
+		<priceBuy></priceBuy>
+		<priceRent></priceRent>
+		<genre>ruwido</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>austria</ageRating>
+		<duration>00:46</duration>
+	
+		<icon url="media/movies/artwork/myron-v2c.png"/>
+		<media url="media/movies/trailers/myron-v2.mp4"/>
+		<info url="media/movies/artwork/myron-v2c.png">
+			<director></director>
+			<actors>
+			<actor></actor>
+			</actors>
+			<shorttext>
+			<span class="headline">MYRON</span>
+				<p class="subheadline"></p>
+				<p class="description">'myron' shows how a tangible interaction mechanism can be designed for the next generation of entertainment being a joy to own and a joy to use. <br />The central navigational element provides emotional control with pressure gradient perception. </p>
+				</shorttext>
+			<price></price>
+		</info>
+</item>
+
+<!-- Myron logo version with white border
+	<item id="myron-v2f">
+		<media url="media/movies/trailers/myron-v2f.mp4"/>
+		<image url="media/movies/artwork/myron-v2f.png"/>
+
+		<title>MYRON</title>
+		<description>'myron' shows how a tangible interaction mechanism can be designed for the next generation of entertainment being a joy to own and a joy to use. <br />The central navigational element provides emotional control with pressure gradient perception. 
+		</description>
+
+		<directors>
+			<director></director>
+		</directors>
+
+		<actors>
+			<actor></actor>
+		</actors>
+
+		<priceBuy></priceBuy>
+		<priceRent></priceRent>
+		<genre>ruwido</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>austria</ageRating>
+		<duration>00:46</duration>
+	
+		<icon url="media/movies/artwork/myron-v2f.png"/>
+		<media url="media/movies/trailers/myron-v2f.mp4"/>
+		<info url="media/movies/artwork/myron-v2f.png">
+			<director></director>
+			<actors>
+			<actor></actor>
+			</actors>
+			<shorttext>
+			<span class="headline">MYRON</span>
+				<p class="subheadline"></p>
+				<p class="description">'myron' shows how a tangible interaction mechanism can be designed for the next generation of entertainment being a joy to own and a joy to use. <br />The central navigational element provides emotional control with pressure gradient perception. </p>
+				</shorttext>
+			<price></price>
+		</info>
+</item>
+-->
+
+<!-- Version 1 of the Video, not used for fair
+	<item id="myron-v1">
+		<media url="media/movies/trailers/myron-v1.mp4"/>
+		<image url="media/movies/artwork/myron-v1.png"/>
+
+		<title>MYRON</title>
+		<description>'myron' shows how a tangible interaction mechanism can be designed for the next generation of entertainment being a joy to own and a joy to use. <br />The central navigational element provides emotional control with pressure gradient perception.
+		</description>
+
+		<directors>
+			<director></director>
+		</directors>
+
+		<actors>
+			<actor></actor>
+		</actors>
+
+		<priceBuy></priceBuy>
+		<priceRent></priceRent>
+		<genre>ruwido</genre>
+		<release>2014</release>
+		<stars>5</stars>
+		<ageRating>austria</ageRating>
+		<duration>00:48</duration>
+	
+		<icon url="media/movies/artwork/myron-v1.png"/>
+		<media url="media/movies/trailers/myron-v1.mp4"/>
+		<info url="media/movies/artwork/myron-v1.png">
+			<director></director>
+			<actors>
+			<actor></actor>
+			</actors>
+			<shorttext>
+			<span class="headline">MYRON</span>
+				<p class="subheadline"></p>
+				<p class="description">'myron' shows how a tangible interaction mechanism can be designed for the next generation of entertainment being a joy to own and a joy to use. <br />The central navigational element provides emotional control with pressure gradient perception. </p>
+				</shorttext>
+			<price></price>
+		</info>
+</item>
+-->
+
+</item>
+
+
+</menu>
+

@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="music_library">
+  <meta>
+    <select id="hubert-von-goisern-entwederundoder"/>
+    <action module="ActionLibrary"  menu="xml/Library/MusicAction.xml"/>
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="448" />
+      <element id="txtHolder" type="TextField" x="20" y="20" width="240" height="408" />
+      <element id="imgHolder" type="Image" x="262" y="0" scale="1"/>
+    </screen>
+  </meta>
+<item id="daft-punk–random–access-memories" title="Daft Punk">
+		<image url="daft-punk-random-access-memories.png"/>
+
+		<artist>Daft Punk</artist>
+		<album>Random Access Memories</album>
+		<description>The long awaited fourth studio release features guest appearances by acclaimed musicians Julian Casablancas, Todd Edwards, Panda Bear, Paul Williams, and Pharrell Williams.</description>
+
+		<genre>Dance</genre>
+		<release>2013</release>
+		<totalTracks>5</totalTracks>
+		<totalDuration>43</totalDuration>
+
+		<item id="daft-punk-random-access-memories-01" title="Get Lucky"><media url="media/music/mp3/daft-punk-random-access-memories-01.mp3"/>
+<info url="media/music/covers/daft-punk-random-access-memories.png"><artist>Daft Punk</artist><album>Random Access Memories</album><genre>Dance</genre>
+			<media url="media/music/mp3/daft-punk-random-access-memories-01.mp3"/>
+			<title>Get Lucky</title>
+			<track>1</track>
+			<duration>6:10</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>43 min</totaltime>
+
+</info></item>
+		<item id="daft-punk-random-access-memories-02" title="Doin' It Right"><media url="media/music/mp3/daft-punk-random-access-memories-02.mp3"/>
+<info url="media/music/covers/daft-punk-random-access-memories.png"><artist>Daft Punk</artist><album>Random Access Memories</album><genre>Dance</genre>
+			<media url="media/music/mp3/daft-punk-random-access-memories-02.mp3"/>
+			<title>Doin' It Right</title>
+			<track>2</track>
+			<duration>4:11</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>43 min</totaltime>
+
+</info></item>
+		<item id="daft-punk-random-access-memories-03" title="Beyond"><media url="media/music/mp3/daft-punk-random-access-memories-03.mp3"/>
+<info url="media/music/covers/daft-punk-random-access-memories.png"><artist>Daft Punk</artist><album>Random Access Memories</album><genre>Dance</genre>
+			<media url="media/music/mp3/daft-punk-random-access-memories-03.mp3"/>
+			<title>Beyond</title>
+			<track>3</track>
+			<duration>4:50</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>43 min</totaltime>
+
+</info></item>
+		<item id="daft-punk-random-access-memories-04" title="Lose Yourself to Dance"><media url="media/music/mp3/daft-punk-random-access-memories-04.mp3"/>
+<info url="media/music/covers/daft-punk-random-access-memories.png"><artist>Daft Punk</artist><album>Random Access Memories</album><genre>Dance</genre>
+			<media url="media/music/mp3/daft-punk-random-access-memories-04.mp3"/>
+			<title>Lose Yourself to Dance</title>
+			<track>4</track>
+			<duration>5:54</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>43 min</totaltime>
+
+</info></item>
+		<item id="daft-punk-random-access-memories-05" title="Touch"><media url="media/music/mp3/daft-punk-random-access-memories-05.mp3"/>
+<info url="media/music/covers/daft-punk-random-access-memories.png"><artist>Daft Punk</artist><album>Random Access Memories</album><genre>Dance</genre>
+			<media url="media/music/mp3/daft-punk-random-access-memories-05.mp3"/>
+			<title>Touch</title>
+			<track>5</track>
+			<duration>6:28</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>43 min</totaltime>
+
+</info></item>
+	</item>
+
+	<item id="jay-z-the-great-gatsby" title="Jay-Z">
+		<image url="jay-z-the-great-gatsby.png"/>
+
+		<artist>Jay-Z</artist>
+		<album>The Great Gatsby</album>
+		<description>Overseen by Jay-Z, the soundtrack to Baz Luhrmann's adaptation of F. Scott Fitzgerald's novel features original songs from Fergie, Florence and the Machine, Sia, will.i.am, and many more.</description>
+
+		<genre>Soundtrack</genre>
+		<release>2013</release>
+		<totalTracks>5</totalTracks>
+		<totalDuration>57</totalDuration>
+
+		<item id="jay-z-the-great-gatsby-01" title="A Little Party Never Killed Nobody"><media url="media/music/mp3/jay-z-the-great-gatsby-01.mp3"/>
+<info url="media/music/covers/jay-z-the-great-gatsby.png"><artist>Jay-Z</artist><album>The Great Gatsby</album><genre>Soundtrack</genre>
+			<media url="media/music/mp3/jay-z-the-great-gatsby-01.mp3"/>
+			<title>A Little Party Never Killed Nobody</title>
+			<track>1</track>
+			<duration>4:01</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>57 min</totaltime>
+
+</info></item>
+		<item id="jay-z-the-great-gatsby-02" title="Bang Bang"><media url="media/music/mp3/jay-z-the-great-gatsby-02.mp3"/>
+<info url="media/music/covers/jay-z-the-great-gatsby.png"><artist>Jay-Z</artist><album>The Great Gatsby</album><genre>Soundtrack</genre>
+			<media url="media/music/mp3/jay-z-the-great-gatsby-02.mp3"/>
+			<title>Bang Bang</title>
+			<track>2</track>
+			<duration>4:39</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>57 min</totaltime>
+
+</info></item>
+		<item id="jay-z-the-great-gatsby-03" title="Crazy In Love"><media url="media/music/mp3/jay-z-the-great-gatsby-03.mp3"/>
+<info url="media/music/covers/jay-z-the-great-gatsby.png"><artist>Jay-Z</artist><album>The Great Gatsby</album><genre>Soundtrack</genre>
+			<media url="media/music/mp3/jay-z-the-great-gatsby-03.mp3"/>
+			<title>Crazy In Love</title>
+			<track>3</track>
+			<duration>3:09</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>57 min</totaltime>
+
+</info></item>
+		<item id="jay-z-the-great-gatsby-04" title="Into the Past"><media url="media/music/mp3/jay-z-the-great-gatsby-04.mp3"/>
+<info url="media/music/covers/jay-z-the-great-gatsby.png"><artist>Jay-Z</artist><album>The Great Gatsby</album><genre>Soundtrack</genre>
+			<media url="media/music/mp3/jay-z-the-great-gatsby-04.mp3"/>
+			<title>Into the Past</title>
+			<track>4</track>
+			<duration>5:17</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>57 min</totaltime>
+
+</info></item>
+		<item id="jay-z-the-great-gatsby-05" title="Kill and Run"><media url="media/music/mp3/jay-z-the-great-gatsby-05.mp3"/>
+<info url="media/music/covers/jay-z-the-great-gatsby.png"><artist>Jay-Z</artist><album>The Great Gatsby</album><genre>Soundtrack</genre>
+			<media url="media/music/mp3/jay-z-the-great-gatsby-05.mp3"/>
+			<title>Kill and Run</title>
+			<track>5</track>
+			<duration>3:36</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>57 min</totaltime>
+
+</info></item>
+	</item>
+
+	<item id="ed-sheeran-x" title="Ed Sheeran">
+		<image url="ed-sheeran-x.png"/>
+
+		<artist>Ed Sheeran</artist>
+		<album>X</album>
+		<description>The second full-length release for the British singer-songwriter features collaborations and production from Benny Blanco, Johnny McDaid, Pharrell Williams, and Rick Rubin.</description>
+
+		<genre>Pop</genre>
+		<release>2014</release>
+		<totalTracks>5</totalTracks>
+		<totalDuration>41</totalDuration>
+
+		<item id="ed-sheeran-x-01" title="Sing"><media url="media/music/mp3/ed-sheeran-x-01.mp3"/>
+<info url="media/music/covers/ed-sheeran-x.png"><artist>Ed Sheeran</artist><album>X</album><genre>Pop</genre>
+			<media url="media/music/mp3/ed-sheeran-x-01.mp3"/>
+			<title>Sing</title>
+			<track>1</track>
+			<duration>3:56</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>41 min</totaltime>
+
+</info></item>
+		<item id="ed-sheeran-x-02" title="Don't"><media url="media/music/mp3/ed-sheeran-x-02.mp3"/>
+<info url="media/music/covers/ed-sheeran-x.png"><artist>Ed Sheeran</artist><album>X</album><genre>Pop</genre>
+			<media url="media/music/mp3/ed-sheeran-x-02.mp3"/>
+			<title>Don't</title>
+			<track>2</track>
+			<duration>3:56</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>41 min</totaltime>
+
+</info></item>
+		<item id="ed-sheeran-x-03" title="Runaway"><media url="media/music/mp3/ed-sheeran-x-03.mp3"/>
+<info url="media/music/covers/ed-sheeran-x.png"><artist>Ed Sheeran</artist><album>X</album><genre>Pop</genre>
+			<media url="media/music/mp3/ed-sheeran-x-03.mp3"/>
+			<title>Runaway</title>
+			<track>3</track>
+			<duration>3:25</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>41 min</totaltime>
+
+</info></item>
+		<item id="ed-sheeran-x-04" title="Bloodstream"><media url="media/music/mp3/ed-sheeran-x-04.mp3"/>
+<info url="media/music/covers/ed-sheeran-x.png"><artist>Ed Sheeran</artist><album>X</album><genre>Pop</genre>
+			<media url="media/music/mp3/ed-sheeran-x-04.mp3"/>
+			<title>Bloodstream</title>
+			<track>4</track>
+			<duration>5:01</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>41 min</totaltime>
+
+</info></item>
+		<item id="ed-sheeran-x-05" title="Take It Back"><media url="media/music/mp3/ed-sheeran-x-05.mp3"/>
+<info url="media/music/covers/ed-sheeran-x.png"><artist>Ed Sheeran</artist><album>X</album><genre>Pop</genre>
+			<media url="media/music/mp3/ed-sheeran-x-05.mp3"/>
+			<title>Take It Back</title>
+			<track>5</track>
+			<duration>3:29</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>41 min</totaltime>
+
+</info></item>
+	</item>
+
+	<item id="pharrell-williams-girl" title="Pharrell Williams">
+		<image url="pharrell-williams-girl.png"/>
+
+		<artist>Pharrell Williams</artist>
+		<album>Girl</album>
+		<description>Miley Cyrus, Daft Punk, JoJo, Alicia Keys, and Justin Timberlake are featured guests on the second full-length solo release for the rapper, singer, producer, and Academy Award Nominee.</description>
+
+		<genre>Pop</genre>
+		<release>2014</release>
+		<totalTracks>5</totalTracks>
+		<totalDuration>37</totalDuration>
+
+		<item id="pharrell-williams-girl-01" title="Happy"><media url="media/music/mp3/pharrell-williams-girl-01.mp3"/>
+<info url="media/music/covers/pharrell-williams-girl.png"><artist>Pharrell Williams</artist><album>Girl</album><genre>Pop</genre>
+			<media url="media/music/mp3/pharrell-williams-girl-01.mp3"/>
+			<title>Happy</title>
+			<track>1</track>
+			<duration>3:53</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>37 min</totaltime>
+
+</info></item>
+		<item id="pharrell-williams-girl-02" title="Marilyn Monroe"><media url="media/music/mp3/pharrell-williams-girl-02.mp3"/>
+<info url="media/music/covers/pharrell-williams-girl.png"><artist>Pharrell Williams</artist><album>Girl</album><genre>Pop</genre>
+			<media url="media/music/mp3/pharrell-williams-girl-02.mp3"/>
+			<title>Marilyn Monroe</title>
+			<track>2</track>
+			<duration>5:52</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>37 min</totaltime>
+
+</info></item>
+		<item id="pharrell-williams-girl-03" title="It Girl"><media url="media/music/mp3/pharrell-williams-girl-03.mp3"/>
+<info url="media/music/covers/pharrell-williams-girl.png"><artist>Pharrell Williams</artist><album>Girl</album><genre>Pop</genre>
+			<media url="media/music/mp3/pharrell-williams-girl-03.mp3"/>
+			<title>It Girl</title>
+			<track>3</track>
+			<duration>4:49</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>37 min</totaltime>
+
+</info></item>
+		<item id="pharrell-williams-girl-04" title="Come Get It Babe"><media url="media/music/mp3/pharrell-williams-girl-04.mp3"/>
+<info url="media/music/covers/pharrell-williams-girl.png"><artist>Pharrell Williams</artist><album>Girl</album><genre>Pop</genre>
+			<media url="media/music/mp3/pharrell-williams-girl-04.mp3"/>
+			<title>Come Get It Babe</title>
+			<track>4</track>
+			<duration>3:22</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>37 min</totaltime>
+
+</info></item>
+		<item id="pharrell-williams-girl-05" title="Guest of Wind"><media url="media/music/mp3/pharrell-williams-girl-05.mp3"/>
+<info url="media/music/covers/pharrell-williams-girl.png"><artist>Pharrell Williams</artist><album>Girl</album><genre>Pop</genre>
+			<media url="media/music/mp3/pharrell-williams-girl-05.mp3"/>
+			<title>Guest of Wind</title>
+			<track>5</track>
+			<duration>4:46</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>37 min</totaltime>
+
+</info></item>
+	</item>
+
+	<item id="parov-stelar-the-princess" title="Parov Stelar">
+		<image url="parov-stelar-the-princess.png"/>
+
+		<artist>Parov Stelar</artist>
+		<album>The Princess</album>
+		<description>Austrian musician Parov Stelar has taken over the global music scene like a phantom in recent years and offers a glimpse into his live performances as well the undeniable energy of his DJ sets.</description>
+
+		<genre>Dance</genre>
+		<release>2012</release>
+		<totalTracks>5</totalTracks>
+		<totalDuration>39</totalDuration>
+
+		<item id="parov-stelar-the-princess-01" title="Booty Swing"><media url="media/music/mp3/parov-stelar-the-princess-01.mp3"/>
+<info url="media/music/covers/parov-stelar-the-princess.png"><artist>Parov Stelar</artist><album>The Princess</album><genre>Dance</genre>
+			<media url="media/music/mp3/parov-stelar-the-princess-01.mp3"/>
+			<title>Booty Swing</title>
+			<track>1</track>
+			<duration>3:13</duration>
+		
+<year>2012</year> 
+<totaltracks>5</totaltracks>
+<totaltime>39 min</totaltime>
+
+</info></item>
+		<item id="parov-stelar-the-princess-02" title="Jimmy's Gang"><media url="media/music/mp3/parov-stelar-the-princess-02.mp3"/>
+<info url="media/music/covers/parov-stelar-the-princess.png"><artist>Parov Stelar</artist><album>The Princess</album><genre>Dance</genre>
+			<media url="media/music/mp3/parov-stelar-the-princess-02.mp3"/>
+			<title>Jimmy's Gang</title>
+			<track>2</track>
+			<duration>5:27</duration>
+		
+<year>2012</year> 
+<totaltracks>5</totaltracks>
+<totaltime>39 min</totaltime>
+
+</info></item>
+		<item id="parov-stelar-the-princess-03" title="Sally's Dance"><media url="media/music/mp3/parov-stelar-the-princess-03.mp3"/>
+<info url="media/music/covers/parov-stelar-the-princess.png"><artist>Parov Stelar</artist><album>The Princess</album><genre>Dance</genre>
+			<media url="media/music/mp3/parov-stelar-the-princess-03.mp3"/>
+			<title>Sally's Dance</title>
+			<track>3</track>
+			<duration>3:47</duration>
+		
+<year>2012</year> 
+<totaltracks>5</totaltracks>
+<totaltime>39 min</totaltime>
+
+</info></item>
+		<item id="parov-stelar-the-princess-04" title="Paris Swing Box"><media url="media/music/mp3/parov-stelar-the-princess-04.mp3"/>
+<info url="media/music/covers/parov-stelar-the-princess.png"><artist>Parov Stelar</artist><album>The Princess</album><genre>Dance</genre>
+			<media url="media/music/mp3/parov-stelar-the-princess-04.mp3"/>
+			<title>Paris Swing Box</title>
+			<track>4</track>
+			<duration>5:23</duration>
+		
+<year>2012</year> 
+<totaltracks>5</totaltracks>
+<totaltime>39 min</totaltime>
+
+</info></item>
+		<item id="parov-stelar-the-princess-05" title="Baska Brother"><media url="media/music/mp3/parov-stelar-the-princess-05.mp3"/>
+<info url="media/music/covers/parov-stelar-the-princess.png"><artist>Parov Stelar</artist><album>The Princess</album><genre>Dance</genre>
+			<media url="media/music/mp3/parov-stelar-the-princess-05.mp3"/>
+			<title>Baska Brother</title>
+			<track>5</track>
+			<duration>5:29</duration>
+		
+<year>2012</year> 
+<totaltracks>5</totaltracks>
+<totaltime>39 min</totaltime>
+
+</info></item>
+	</item>
+
+	<item id="jack-johnson-in-between-dreams" title="Jack Johnson">
+		<image url="jack-johnson-in-between-dreams.png"/>
+
+		<artist>Jack Johnson</artist>
+		<album>In Between Dreams</album>
+		<description>Teaming up with producer Mario Caldato Jr., Johnson’s drifting chords and soft voice are still in place, only now his instinct for melody has sharpened alongside his ability to self-edit.</description>
+
+		<genre>Rock</genre>
+		<release>2005</release>
+		<totalTracks>5</totalTracks>
+		<totalDuration>39</totalDuration>
+
+		<item id="jack-johnson-in-between-dreams-01" title="Sitting, Waiting, Wishing"><media url="media/music/mp3/jack-johnson-in-between-dreams-01.mp3"/>
+<info url="media/music/covers/jack-johnson-in-between-dreams.png"><artist>Jack Johnson</artist><album>In Between Dreams</album><genre>Rock</genre>
+			<media url="media/music/mp3/jack-johnson-in-between-dreams-01.mp3"/>
+			<title>Sitting, Waiting, Wishing</title>
+			<track>1</track>
+			<duration>3:04</duration>
+		
+<year>2005</year> 
+<totaltracks>5</totaltracks>
+<totaltime>39 min</totaltime>
+
+</info></item>
+		<item id="jack-johnson-in-between-dreams-02" title="Never Know"><media url="media/music/mp3/jack-johnson-in-between-dreams-02.mp3"/>
+<info url="media/music/covers/jack-johnson-in-between-dreams.png"><artist>Jack Johnson</artist><album>In Between Dreams</album><genre>Rock</genre>
+			<media url="media/music/mp3/jack-johnson-in-between-dreams-02.mp3"/>
+			<title>Never Know</title>
+			<track>2</track>
+			<duration>3:33</duration>
+		
+<year>2005</year> 
+<totaltracks>5</totaltracks>
+<totaltime>39 min</totaltime>
+
+</info></item>
+		<item id="jack-johnson-in-between-dreams-03" title="Staple It Together"><media url="media/music/mp3/jack-johnson-in-between-dreams-03.mp3"/>
+<info url="media/music/covers/jack-johnson-in-between-dreams.png"><artist>Jack Johnson</artist><album>In Between Dreams</album><genre>Rock</genre>
+			<media url="media/music/mp3/jack-johnson-in-between-dreams-03.mp3"/>
+			<title>Staple It Together</title>
+			<track>3</track>
+			<duration>3:16</duration>
+		
+<year>2005</year> 
+<totaltracks>5</totaltracks>
+<totaltime>39 min</totaltime>
+
+</info></item>
+		<item id="jack-johnson-in-between-dreams-04" title="Banana Pancakes"><media url="media/music/mp3/jack-johnson-in-between-dreams-04.mp3"/>
+<info url="media/music/covers/jack-johnson-in-between-dreams.png"><artist>Jack Johnson</artist><album>In Between Dreams</album><genre>Rock</genre>
+			<media url="media/music/mp3/jack-johnson-in-between-dreams-04.mp3"/>
+			<title>Banana Pancakes</title>
+			<track>4</track>
+			<duration>3:12</duration>
+		
+<year>2005</year> 
+<totaltracks>5</totaltracks>
+<totaltime>39 min</totaltime>
+
+</info></item>
+		<item id="jack-johnson-in-between-dreams-05" title="Breakdown"><media url="media/music/mp3/jack-johnson-in-between-dreams-05.mp3"/>
+<info url="media/music/covers/jack-johnson-in-between-dreams.png"><artist>Jack Johnson</artist><album>In Between Dreams</album><genre>Rock</genre>
+			<media url="media/music/mp3/jack-johnson-in-between-dreams-05.mp3"/>
+			<title>Breakdown</title>
+			<track>5</track>
+			<duration>3:34</duration>
+		
+<year>2005</year> 
+<totaltracks>5</totaltracks>
+<totaltime>39 min</totaltime>
+
+</info></item>
+	</item>
+
+	<item id="katy-perry-prism" title="Katy Perry">
+		<image url="katy-perry-prism.png"/>
+
+		<artist>Katy Perry</artist>
+		<album>Prism</album>
+		<description>The fourth studio release for international pop sensation Katy Perry includes production from hitmakers Dr. Luke, Greg Kurstin, Max Martin, StarGate, and Greg Wells.</description>
+
+		<genre>Pop</genre>
+		<release>2013</release>
+		<totalTracks>5</totalTracks>
+		<totalDuration>47</totalDuration>
+
+		<item id="katy-perry-prism-01" title="Roar"><media url="media/music/mp3/katy-perry-prism-01.mp3"/>
+<info url="media/music/covers/katy-perry-prism.png"><artist>Katy Perry</artist><album>Prism</album><genre>Pop</genre>
+			<media url="media/music/mp3/katy-perry-prism-01.mp3"/>
+			<title>Roar</title>
+			<track>1</track>
+			<duration>3:44</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>47 min</totaltime>
+
+</info></item>
+		<item id="katy-perry-prism-02" title="Dark Horse"><media url="media/music/mp3/katy-perry-prism-02.mp3"/>
+<info url="media/music/covers/katy-perry-prism.png"><artist>Katy Perry</artist><album>Prism</album><genre>Pop</genre>
+			<media url="media/music/mp3/katy-perry-prism-02.mp3"/>
+			<title>Dark Horse</title>
+			<track>2</track>
+			<duration>3:36</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>47 min</totaltime>
+
+</info></item>
+		<item id="katy-perry-prism-03" title="Birthday"><media url="media/music/mp3/katy-perry-prism-03.mp3"/>
+<info url="media/music/covers/katy-perry-prism.png"><artist>Katy Perry</artist><album>Prism</album><genre>Pop</genre>
+			<media url="media/music/mp3/katy-perry-prism-03.mp3"/>
+			<title>Birthday</title>
+			<track>3</track>
+			<duration>4:25</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>47 min</totaltime>
+
+</info></item>
+		<item id="katy-perry-prism-04" title="International Smile"><media url="media/music/mp3/katy-perry-prism-04.mp3"/>
+<info url="media/music/covers/katy-perry-prism.png"><artist>Katy Perry</artist><album>Prism</album><genre>Pop</genre>
+			<media url="media/music/mp3/katy-perry-prism-04.mp3"/>
+			<title>International Smile</title>
+			<track>4</track>
+			<duration>3:48</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>47 min</totaltime>
+
+</info></item>
+		<item id="katy-perry-prism-05" title="Legendary Lovers"><media url="media/music/mp3/katy-perry-prism-05.mp3"/>
+<info url="media/music/covers/katy-perry-prism.png"><artist>Katy Perry</artist><album>Prism</album><genre>Pop</genre>
+			<media url="media/music/mp3/katy-perry-prism-05.mp3"/>
+			<title>Legendary Lovers</title>
+			<track>5</track>
+			<duration>3:47</duration>
+		
+<year>2013</year> 
+<totaltracks>5</totaltracks>
+<totaltime>47 min</totaltime>
+
+</info></item>
+	</item>
+
+	<item id="maroon-5-v" title="Maroon 5">
+		<image url="maroon-5-v.png"/>
+
+		<artist>Maroon 5</artist>
+		<album>V</album>
+		<description>The band's first album since its 2012 smash Overexposed, the fifth full-length release for the Los Angeles rock band features a guest appearance from Gwen Stefani.</description>
+
+		<genre>Rock</genre>
+		<release>2014</release>
+		<totalTracks>5</totalTracks>
+		<totalDuration>40</totalDuration>
+
+		<item id="maroon-5-v-01" title="Maps"><media url="media/music/mp3/maroon-5-v-01.mp3"/>
+<info url="media/music/covers/maroon-5-v.png"><artist>Maroon 5</artist><album>V</album><genre>Rock</genre>
+			<media url="media/music/mp3/maroon-5-v-01.mp3"/>
+			<title>Maps</title>
+			<track>1</track>
+			<duration>3:10</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>40 min</totaltime>
+
+</info></item>
+		<item id="maroon-5-v-02" title="Feelings"><media url="media/music/mp3/maroon-5-v-02.mp3"/>
+<info url="media/music/covers/maroon-5-v.png"><artist>Maroon 5</artist><album>V</album><genre>Rock</genre>
+			<media url="media/music/mp3/maroon-5-v-02.mp3"/>
+			<title>Feelings</title>
+			<track>2</track>
+			<duration>3:15</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>40 min</totaltime>
+
+</info></item>
+		<item id="maroon-5-v-03" title="Animals"><media url="media/music/mp3/maroon-5-v-03.mp3"/>
+<info url="media/music/covers/maroon-5-v.png"><artist>Maroon 5</artist><album>V</album><genre>Rock</genre>
+			<media url="media/music/mp3/maroon-5-v-03.mp3"/>
+			<title>Animals</title>
+			<track>3</track>
+			<duration>3:51</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>40 min</totaltime>
+
+</info></item>
+		<item id="maroon-5-v-04" title="In Your Pocket"><media url="media/music/mp3/maroon-5-v-04.mp3"/>
+<info url="media/music/covers/maroon-5-v.png"><artist>Maroon 5</artist><album>V</album><genre>Rock</genre>
+			<media url="media/music/mp3/maroon-5-v-04.mp3"/>
+			<title>In Your Pocket</title>
+			<track>4</track>
+			<duration>3:40</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>40 min</totaltime>
+
+</info></item>
+		<item id="maroon-5-v-05" title="My Heart Is Open"><media url="media/music/mp3/maroon-5-v-05.mp3"/>
+<info url="media/music/covers/maroon-5-v.png"><artist>Maroon 5</artist><album>V</album><genre>Rock</genre>
+			<media url="media/music/mp3/maroon-5-v-05.mp3"/>
+			<title>My Heart Is Open</title>
+			<track>5</track>
+			<duration>3:57</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>40 min</totaltime>
+
+</info></item>
+	</item>
+
+	<item id="ariana-grande-my-everything" title="Ariana Grande">
+		<image url="ariana-grande-my-everything.png"/>
+
+		<artist>Ariana Grande</artist>
+		<album>My Everything</album>
+		<description>The second full-length release for the Nickelodeon actress feature guest appearnces from A$AP Ferg, Big Sean, Cashmere Cat, Childish Gambino, Iggy Azalea, The Weeknd, and Zedd.</description>
+
+		<genre>Pop</genre>
+		<release>2014</release>
+		<totalTracks>5</totalTracks>
+		<totalDuration>52</totalDuration>
+
+		<item id="ariana-grande-my-everything-01" title="Problem"><media url="media/music/mp3/ariana-grande-my-everything-01.mp3"/>
+<info url="media/music/covers/ariana-grande-my-everything.png"><artist>Ariana Grande</artist><album>My Everything</album><genre>Pop</genre>
+			<media url="media/music/mp3/ariana-grande-my-everything-01.mp3"/>
+			<title>Problem</title>
+			<track>1</track>
+			<duration>3:14</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>52 min</totaltime>
+
+</info></item>
+		<item id="ariana-grande-my-everything-02" title="Break Free"><media url="media/music/mp3/ariana-grande-my-everything-02.mp3"/>
+<info url="media/music/covers/ariana-grande-my-everything.png"><artist>Ariana Grande</artist><album>My Everything</album><genre>Pop</genre>
+			<media url="media/music/mp3/ariana-grande-my-everything-02.mp3"/>
+			<title>Break Free</title>
+			<track>2</track>
+			<duration>3:35</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>52 min</totaltime>
+
+</info></item>
+		<item id="ariana-grande-my-everything-03" title="Bang Bang"><media url="media/music/mp3/ariana-grande-my-everything-03.mp3"/>
+<info url="media/music/covers/ariana-grande-my-everything.png"><artist>Ariana Grande</artist><album>My Everything</album><genre>Pop</genre>
+			<media url="media/music/mp3/ariana-grande-my-everything-03.mp3"/>
+			<title>Bang Bang</title>
+			<track>3</track>
+			<duration>3:19</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>52 min</totaltime>
+
+</info></item>
+		<item id="ariana-grande-my-everything-04" title="One Last Time"><media url="media/music/mp3/ariana-grande-my-everything-04.mp3"/>
+<info url="media/music/covers/ariana-grande-my-everything.png"><artist>Ariana Grande</artist><album>My Everything</album><genre>Pop</genre>
+			<media url="media/music/mp3/ariana-grande-my-everything-04.mp3"/>
+			<title>One Last Time</title>
+			<track>4</track>
+			<duration>3:17</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>52 min</totaltime>
+
+</info></item>
+		<item id="ariana-grande-my-everything-05" title="My Everything"><media url="media/music/mp3/ariana-grande-my-everything-05.mp3"/>
+<info url="media/music/covers/ariana-grande-my-everything.png"><artist>Ariana Grande</artist><album>My Everything</album><genre>Pop</genre>
+			<media url="media/music/mp3/ariana-grande-my-everything-05.mp3"/>
+			<title>My Everything</title>
+			<track>5</track>
+			<duration>2:49</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>52 min</totaltime>
+
+</info></item>
+	</item>
+
+	<item id="clean-bandit-new-eyes" title="Clean Bandit">
+		<image url="clean-bandit-new-eyes.png"/>
+
+		<artist>Clean Bandit</artist>
+		<album>New Eyes</album>
+		<description>The debut album of the British quartet known for its fusion of classical and electronic music features guest appearance from Jess Glynne, Love Ssega, Stylo G, and Elisabeth Troy.</description>
+
+		<genre>Dance</genre>
+		<release>2014</release>
+		<totalTracks>5</totalTracks>
+		<totalDuration>57</totalDuration>
+
+		<item id="clean-bandit-new-eyes-01" title="Rather Be"><media url="media/music/mp3/clean-bandit-new-eyes-01.mp3"/>
+<info url="media/music/covers/clean-bandit-new-eyes.png"><artist>Clean Bandit</artist><album>New Eyes</album><genre>Dance</genre>
+			<media url="media/music/mp3/clean-bandit-new-eyes-01.mp3"/>
+			<title>Rather Be</title>
+			<track>1</track>
+			<duration>3:48</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>57 min</totaltime>
+
+</info></item>
+		<item id="clean-bandit-new-eyes-02" title="A+E"><media url="media/music/mp3/clean-bandit-new-eyes-02.mp3"/>
+<info url="media/music/covers/clean-bandit-new-eyes.png"><artist>Clean Bandit</artist><album>New Eyes</album><genre>Dance</genre>
+			<media url="media/music/mp3/clean-bandit-new-eyes-02.mp3"/>
+			<title>A+E</title>
+			<track>2</track>
+			<duration>3:24</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>57 min</totaltime>
+
+</info></item>
+		<item id="clean-bandit-new-eyes-03" title="Come Over"><media url="media/music/mp3/clean-bandit-new-eyes-03.mp3"/>
+<info url="media/music/covers/clean-bandit-new-eyes.png"><artist>Clean Bandit</artist><album>New Eyes</album><genre>Dance</genre>
+			<media url="media/music/mp3/clean-bandit-new-eyes-03.mp3"/>
+			<title>Come Over</title>
+			<track>3</track>
+			<duration>3:43</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>57 min</totaltime>
+
+</info></item>
+		<item id="clean-bandit-new-eyes-04" title="Movement III"><media url="media/music/mp3/clean-bandit-new-eyes-04.mp3"/>
+<info url="media/music/covers/clean-bandit-new-eyes.png"><artist>Clean Bandit</artist><album>New Eyes</album><genre>Dance</genre>
+			<media url="media/music/mp3/clean-bandit-new-eyes-04.mp3"/>
+			<title>Movement III</title>
+			<track>4</track>
+			<duration>2:01</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>57 min</totaltime>
+
+</info></item>
+		<item id="clean-bandit-new-eyes-05" title="The Magician"><media url="media/music/mp3/clean-bandit-new-eyes-05.mp3"/>
+<info url="media/music/covers/clean-bandit-new-eyes.png"><artist>Clean Bandit</artist><album>New Eyes</album><genre>Dance</genre>
+			<media url="media/music/mp3/clean-bandit-new-eyes-05.mp3"/>
+			<title>The Magician</title>
+			<track>5</track>
+			<duration>4:35</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>57 min</totaltime>
+
+</info></item>
+	</item>
+
+	<item id="muse-absolution" title="Muse">
+		<image url="muse-absolution.png"/>
+
+		<artist>Muse</artist>
+		<album>Absolution</album>
+		<description>A massive commercial and critical success upon its release, Absolution marks the third album for the English rockers and their first time working with producer Rich Costey.</description>
+
+		<genre>Rock</genre>
+		<release>2003</release>
+		<totalTracks>5</totalTracks>
+		<totalDuration>49</totalDuration>
+
+		<item id="muse-absolution-01" title="Hysteria"><media url="media/music/mp3/muse-absolution-01.mp3"/>
+<info url="media/music/covers/muse-absolution.png"><artist>Muse</artist><album>Absolution</album><genre>Rock</genre>
+			<media url="media/music/mp3/muse-absolution-01.mp3"/>
+			<title>Hysteria</title>
+			<track>1</track>
+			<duration>3:47</duration>
+		
+<year>2003</year> 
+<totaltracks>5</totaltracks>
+<totaltime>49 min</totaltime>
+
+</info></item>
+		<item id="muse-absolution-02" title="Time Is Running Out"><media url="media/music/mp3/muse-absolution-02.mp3"/>
+<info url="media/music/covers/muse-absolution.png"><artist>Muse</artist><album>Absolution</album><genre>Rock</genre>
+			<media url="media/music/mp3/muse-absolution-02.mp3"/>
+			<title>Time Is Running Out</title>
+			<track>2</track>
+			<duration>3:56</duration>
+		
+<year>2003</year> 
+<totaltracks>5</totaltracks>
+<totaltime>49 min</totaltime>
+
+</info></item>
+		<item id="muse-absolution-03" title="Sing for Absolution"><media url="media/music/mp3/muse-absolution-03.mp3"/>
+<info url="media/music/covers/muse-absolution.png"><artist>Muse</artist><album>Absolution</album><genre>Rock</genre>
+			<media url="media/music/mp3/muse-absolution-03.mp3"/>
+			<title>Sing for Absolution</title>
+			<track>3</track>
+			<duration>4:57</duration>
+		
+<year>2003</year> 
+<totaltracks>5</totaltracks>
+<totaltime>49 min</totaltime>
+
+</info></item>
+		<item id="muse-absolution-04" title="Butterflies &amp; Hurricanes"><media url="media/music/mp3/muse-absolution-04.mp3"/>
+<info url="media/music/covers/muse-absolution.png"><artist>Muse</artist><album>Absolution</album><genre>Rock</genre>
+			<media url="media/music/mp3/muse-absolution-04.mp3"/>
+			<title>Butterflies &amp; Hurricanes</title>
+			<track>4</track>
+			<duration>5:02</duration>
+		
+<year>2003</year> 
+<totaltracks>5</totaltracks>
+<totaltime>49 min</totaltime>
+
+</info></item>
+		<item id="muse-absolution-05" title="Blackout"><media url="media/music/mp3/muse-absolution-05.mp3"/>
+<info url="media/music/covers/muse-absolution.png"><artist>Muse</artist><album>Absolution</album><genre>Rock</genre>
+			<media url="media/music/mp3/muse-absolution-05.mp3"/>
+			<title>Blackout</title>
+			<track>5</track>
+			<duration>4:22</duration>
+		
+<year>2003</year> 
+<totaltracks>5</totaltracks>
+<totaltime>49 min</totaltime>
+
+</info></item>
+	</item>
+
+	<item id="hubert-von-goisern-entwederundoder" title="Hubert von Goisern">
+		<image url="hubert-von-goisern-entwederundoder.png"/>
+
+		<artist>Hubert von Goisern</artist>
+		<album>Entwederundoder</album>
+		<description>Marking his 12th release and producing yet another no. 1 hit, Austrian all-rounder Hubert von Goisern smoothly switches between folk, rock, blues, jazz, ska, surf, and funk.</description>
+
+		<genre>Folk</genre>
+		<release>2014</release>
+		<totalTracks>5</totalTracks>
+		<totalDuration>45</totalDuration>
+
+		<item id="hubert-von-goisern-entwederundoder-01" title="Brenna tuat's guat"><media url="media/music/mp3/hubert-von-goisern-entwederundoder-01.mp3"/>
+<info url="media/music/covers/hubert-von-goisern-entwederundoder.png"><artist>Hubert von Goisern</artist><album>Entwederundoder</album><genre>Folk</genre>
+			<media url="media/music/mp3/hubert-von-goisern-entwederundoder-01.mp3"/>
+			<title>Brenna tuat's guat</title>
+			<track>1</track>
+			<duration>3:52</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>45 min</totaltime>
+
+</info></item>
+		<item id="hubert-von-goisern-entwederundoder-02" title="Halt nit an"><media url="media/music/mp3/hubert-von-goisern-entwederundoder-02.mp3"/>
+<info url="media/music/covers/hubert-von-goisern-entwederundoder.png"><artist>Hubert von Goisern</artist><album>Entwederundoder</album><genre>Folk</genre>
+			<media url="media/music/mp3/hubert-von-goisern-entwederundoder-02.mp3"/>
+			<title>Halt nit an</title>
+			<track>2</track>
+			<duration>4:21</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>45 min</totaltime>
+
+</info></item>
+		<item id="hubert-von-goisern-entwederundoder-03" title="Suach da an ander'n"><media url="media/music/mp3/hubert-von-goisern-entwederundoder-03.mp3"/>
+<info url="media/music/covers/hubert-von-goisern-entwederundoder.png"><artist>Hubert von Goisern</artist><album>Entwederundoder</album><genre>Folk</genre>
+			<media url="media/music/mp3/hubert-von-goisern-entwederundoder-03.mp3"/>
+			<title>Suach da an ander'n</title>
+			<track>3</track>
+			<duration>3:54</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>45 min</totaltime>
+
+</info></item>
+		<item id="hubert-von-goisern-entwederundoder-04" title="I versteh' Di nit"><media url="media/music/mp3/hubert-von-goisern-entwederundoder-04.mp3"/>
+<info url="media/music/covers/hubert-von-goisern-entwederundoder.png"><artist>Hubert von Goisern</artist><album>Entwederundoder</album><genre>Folk</genre>
+			<media url="media/music/mp3/hubert-von-goisern-entwederundoder-04.mp3"/>
+			<title>I versteh' Di nit</title>
+			<track>4</track>
+			<duration>5:35</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>45 min</totaltime>
+
+</info></item>
+		<item id="hubert-von-goisern-entwederundoder-05" title="UEUOOE"><media url="media/music/mp3/hubert-von-goisern-entwederundoder-05.mp3"/>
+<info url="media/music/covers/hubert-von-goisern-entwederundoder.png"><artist>Hubert von Goisern</artist><album>Entwederundoder</album><genre>Folk</genre>
+			<media url="media/music/mp3/hubert-von-goisern-entwederundoder-05.mp3"/>
+			<title>UEUOOE</title>
+			<track>5</track>
+			<duration>4:50</duration>
+		
+<year>2014</year> 
+<totaltracks>5</totaltracks>
+<totaltime>45 min</totaltime>
+
+</info></item>
+	</item>
+</menu>

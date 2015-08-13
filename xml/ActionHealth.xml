@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="action_library">
+  <meta>
+    <select id="health"/>
+    <screen>
+      <element id="imgHolder" type="Image" x="470" y="50"/>
+    </screen>
+  </meta>
+
+  <item id= "health" title="Health" labelbgcolor="#940303">
+    <item text="share">
+      <action menu="xml/ActionShare.xml"/>
+    </item>
+    <item text="show to Friends"/>
+  </item>
+</menu>

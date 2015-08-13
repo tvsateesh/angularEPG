@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="Euro Sport">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+	<item id="oceans-eleven" text="Ocean's Eleven">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/oceans-eleven.png">
+      <shorttext>
+        <span class="headline">Ocean's Eleven</span>
+        <p class="subheadline">Crime Dramedy, USA 2001</p>
+        <p class="description">Danny Ocean wants to score the biggest heist in history. He combines an eleven team member, including Frank Catton, Rusty Ryan and Linus Caldwell. Their target? The Bellagio, the Mirage and the MGM Grand, all casinos owned by Terry Benedict. It's not going to be easy, as they plan to get in secretly and out with $150 million.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="20" min="00"/></time></info>
+  </item>
+	<item id="amadeus" text="Amadeus">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/amadeus.png">
+      <shorttext>
+        <span class="headline">Amadeus</span>
+        <p class="subheadline">Drama, USA 1984</p>
+        <p class="description">Antonio Salieri believes that Mozart's music is divine. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. But he can't understand why God favored Mozart, such a vulgar creature, to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is set to take revenge.</p>
+      </shorttext>
+    <time><start hour="20" min="00"/><end hour="23" min="00"/></time></info>
+  </item>
+</item>
+<item id="evening" title="Evening">
+	<item id="oceans-eleven" text="Ocean's Eleven">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/oceans-eleven.png">
+      <shorttext>
+        <span class="headline">Ocean's Eleven</span>
+        <p class="subheadline">Crime Dramedy, USA 2001</p>
+        <p class="description">Danny Ocean wants to score the biggest heist in history. He combines an eleven team member, including Frank Catton, Rusty Ryan and Linus Caldwell. Their target? The Bellagio, the Mirage and the MGM Grand, all casinos owned by Terry Benedict. It's not going to be easy, as they plan to get in secretly and out with $150 million.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="20" min="00"/></time></info>
+  </item>
+</item>
+<item id="afternoon" title="Afternoon">
+	<item id="sound-of-music" text="Sound of Music">
+    <meta>
+      <duration>170</duration>
+    </meta>
+    <info url="media/tv/sound-of-music.png">
+      <shorttext>
+        <span class="headline">Sound of Music</span>
+        <p class="subheadline">Musical, USA 1965</p>
+        <p class="description">Baron Von Trapp, a widower, runs his home near Salzburg like the ship he once commanded. That changes when Maria arrives from the convent to be the new governess of his seven children. Their romps through the hills inspire all to sing and to find joy in the smallest things.</p>
+      </shorttext>
+    <time><start hour="09" min="20"/><end hour="12" min="10"/></time></info>
+  </item>
+	<item id="six-feet-under" text="Six Feet Under">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/six-feet-under.png">
+      <shorttext>
+        <span class="headline">Six Feet Under</span>
+        <p class="subheadline">Drama, USA 2005</p>
+        <p class="subsubheadline">Season 5, Ep. 9: Ecotone</p>
+        <p class="description">After suffering a massive seizure, Nate is taken to the hospital. As Nate undergoes surgery, tension ensues between Maggie and Brenda in the waiting room. Elsewhere, Ruth is still camping in the wildnerness with Hiram and is completely oblivious to what is happening with her family in L.A.</p>
+      </shorttext>
+    <time><start hour="12" min="10"/><end hour="13" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="wire" text="The Wire">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/wire.png">
+      <shorttext>
+        <span class="headline">The Wire</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Took</p>
+        <p class="description">McNulty begins getting extreme amounts of unwanted attention towards his serial killer case. Because he knows this plot is one big facade, he allocates the extra man power to get other detectives real police work done, acting almost as Santa Claus: giving the detectives what they need.</p>
+      </shorttext>
+    <time><start hour="13" min="40"/><end hour="14" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="fringe" text="Fringe">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/fringe.png">
+      <shorttext>
+        <span class="headline">Fringe</span>
+        <p class="subheadline">Mystery, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+        <p class="description">At a cutting-edge research facility, a female FBI agent is forced to work with an institutionalized scientist, Dr. Walter Bishop, in order to rationalize a brewing storm of unexplained phenomena.</p>
+      </shorttext>
+    <time><start hour="14" min="40"/><end hour="15" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="tudors" text="The Tudors">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tudors.png">
+      <shorttext>
+        <span class="headline">The Tudors</span>
+        <p class="subheadline">Historical Drama, UK 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 9: Kings Aside</p>
+        <p class="description">Anne has lost a son and with it her last chance at a lasting marriage with Henry. The King's affections are shifting anyway: the Seymour family are awarded rooms at court and seem likely to replace the Boleyns as royal favourites. Several in the court begin to move against Anne who is accused of adultery.</p>
+      </shorttext>
+    <time><start hour="15" min="50"/><end hour="16" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="psych" text="Psych">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/psych.png">
+      <shorttext>
+        <span class="headline">Psych</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 3, Ep. 4: Basic Cable</p>
+        <p class="description">When Shawn's adventurous and notoriously unreliable Uncle Jack comes to town claiming he has a map to ancient hidden Spanish treasure, Shawn, Gus and Henry find themselves in a life or death chase to the gold with a shady group of raiders who will stop at nothing to get to the prize first.</p>
+      </shorttext>
+    <time><start hour="16" min="50"/><end hour="18" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="noon" title="Noon">
+	<item id="sound-of-music" text="Sound of Music">
+    <meta>
+      <duration>170</duration>
+    </meta>
+    <info url="media/tv/sound-of-music.png">
+      <shorttext>
+        <span class="headline">Sound of Music</span>
+        <p class="subheadline">Musical, USA 1965</p>
+        <p class="description">Baron Von Trapp, a widower, runs his home near Salzburg like the ship he once commanded. That changes when Maria arrives from the convent to be the new governess of his seven children. Their romps through the hills inspire all to sing and to find joy in the smallest things.</p>
+      </shorttext>
+    <time><start hour="09" min="20"/><end hour="12" min="10"/></time></info>
+  </item>
+</item>
+<item id="morning" title="Morning">
+	<item id="lost" text="Lost">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lost.png">
+      <shorttext>
+        <span class="headline">Lost</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 6: The Other Woman</p>
+        <p class="description">Juliet and Jack pursue Daniel and Charlotte, after they leave without notice for the Dharma electrical station, where they render a deadly gas inert. Meanwhile, Ben tells Locke about Widmore. Flashbacks show Juliet's relationships with Ben, her lover Goodwin and his wife Harper.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="ugly-betty" text="Ugly Betty">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/ugly-betty.png">
+      <shorttext>
+        <span class="headline">Ugly Betty</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 18: Jump</p>
+        <p class="description">A teenager arrives who may be Meade-related. Also Henry comes back to propose to Betty, as well as Gio asking her to go to Rome with him for a holiday. Wilhelmina takes over Daniel as editor-in-chief. Lindsay Lohan is set to play an old schoolmate of Betty's.</p>
+      </shorttext>
+    <time><start hour="01" min="00"/><end hour="02" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="tom-and-jerry" text="Tom &amp; Jerry">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tom-and-jerry.png">
+      <shorttext>
+        <span class="headline">Tom &amp; Jerry</span>
+        <p class="subheadline">Animated TV Series, USA 1950</p>
+        <p class="subsubheadline">Season 1, Ep. 48: Saturday Evening Puss</p>
+        <p class="description">Mammy Two Shoes goes out to her bridge club for the night. Seeing her leaving, Tom invites his feline pals Butch, Topsy and Lighting, who emerge from garbage cans outside of the house and rush in when Tom gives them the all-clear by showing them a sign written O.K. for the party.</p>
+      </shorttext>
+    <time><start hour="02" min="00"/><end hour="02" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="departed" text="The Departed">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/departed.png">
+      <shorttext>
+        <span class="headline">The Departed</span>
+        <p class="subheadline">Thriller, USA 2006</p>
+        <p class="description">As the police force attempts to reign in the increasingly powerful Irish mafia, authorities are faced with the prospect of sending in an undercover agent or seeing their already frail grip on the criminal underworld slip even further.</p>
+      </shorttext>
+    <time><start hour="02" min="30"/><end hour="05" min="00"/></time></info>
+  </item>
+	<item id="closer" text="Closer">
+    <meta>
+      <duration>110</duration>
+    </meta>
+    <info url="media/tv/closer.png">
+      <shorttext>
+        <span class="headline">Closer</span>
+        <p class="subheadline">Drama, USA 2004</p>
+        <p class="description">In London, the new arrival Alice Ayres meets the mediocre obituary journalist Daniel and they move together. Dan writes a book, inspired in the life of Alice, and while photographing for the release of the book, he meets the photographer Anna. Dan introduces the dermatologist Larry to Anna, and they get married.</p>
+      </shorttext>
+    <time><start hour="05" min="00"/><end hour="06" min="50"/></time></info>
+  </item>
+	<item id="twin-peaks" text="Twin Peaks">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/twin-peaks.png">
+      <shorttext>
+        <span class="headline">Twin Peaks</span>
+        <p class="subheadline">Mystery Drama, USA 1991</p>
+        <p class="subsubheadline">Season 2, Ep. 13: Checkmate</p>
+        <p class="description">Cooper is held hostage by Renault, Andy and Tremayne pry into Nicky's past, Ben slips into a fantasy life as a Civil War general, James succumbs to Evelyn and Cooper's ex-partner Windom Earle leaves a gruesome scene at the Twin Peaks Sheriff's Station.</p>
+      </shorttext>
+    <time><start hour="06" min="50"/><end hour="08" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dirty-sexy-money" text="Dirty Sexy Money">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dirty-sexy-money.png">
+      <shorttext>
+        <span class="headline">Dirty Sexy Money</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 1, Ep. 9: The Watch</p>
+        <p class="description">This flashback episode reveals secrets about Dutch and the relationships he had with Nick, Tripp, and Letitia. Karen's intimate view towards Nick is put on hold as she takes a liking to Simon Elder. Brian's attempt to get his son takes a turn he didn't expect and Jeremy continues to hide secrets from Sofia.</p>
+      </shorttext>
+    <time><start hour="08" min="20"/><end hour="09" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="now" title="Now">
+	<item id="lost" text="Lost">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lost.png">
+      <shorttext>
+        <span class="headline">Lost</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 6: The Other Woman</p>
+        <p class="description">Juliet and Jack pursue Daniel and Charlotte, after they leave without notice for the Dharma electrical station, where they render a deadly gas inert. Meanwhile, Ben tells Locke about Widmore. Flashbacks show Juliet's relationships with Ben, her lover Goodwin and his wife Harper.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="ugly-betty" text="Ugly Betty">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/ugly-betty.png">
+      <shorttext>
+        <span class="headline">Ugly Betty</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 18: Jump</p>
+        <p class="description">A teenager arrives who may be Meade-related. Also Henry comes back to propose to Betty, as well as Gio asking her to go to Rome with him for a holiday. Wilhelmina takes over Daniel as editor-in-chief. Lindsay Lohan is set to play an old schoolmate of Betty's.</p>
+      </shorttext>
+    <time><start hour="01" min="00"/><end hour="02" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="tom-and-jerry" text="Tom &amp; Jerry">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tom-and-jerry.png">
+      <shorttext>
+        <span class="headline">Tom &amp; Jerry</span>
+        <p class="subheadline">Animated TV Series, USA 1950</p>
+        <p class="subsubheadline">Season 1, Ep. 48: Saturday Evening Puss</p>
+        <p class="description">Mammy Two Shoes goes out to her bridge club for the night. Seeing her leaving, Tom invites his feline pals Butch, Topsy and Lighting, who emerge from garbage cans outside of the house and rush in when Tom gives them the all-clear by showing them a sign written O.K. for the party.</p>
+      </shorttext>
+    <time><start hour="02" min="00"/><end hour="02" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="departed" text="The Departed">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/departed.png">
+      <shorttext>
+        <span class="headline">The Departed</span>
+        <p class="subheadline">Thriller, USA 2006</p>
+        <p class="description">As the police force attempts to reign in the increasingly powerful Irish mafia, authorities are faced with the prospect of sending in an undercover agent or seeing their already frail grip on the criminal underworld slip even further.</p>
+      </shorttext>
+    <time><start hour="02" min="30"/><end hour="05" min="00"/></time></info>
+  </item>
+	<item id="closer" text="Closer">
+    <meta>
+      <duration>110</duration>
+    </meta>
+    <info url="media/tv/closer.png">
+      <shorttext>
+        <span class="headline">Closer</span>
+        <p class="subheadline">Drama, USA 2004</p>
+        <p class="description">In London, the new arrival Alice Ayres meets the mediocre obituary journalist Daniel and they move together. Dan writes a book, inspired in the life of Alice, and while photographing for the release of the book, he meets the photographer Anna. Dan introduces the dermatologist Larry to Anna, and they get married.</p>
+      </shorttext>
+    <time><start hour="05" min="00"/><end hour="06" min="50"/></time></info>
+  </item>
+	<item id="twin-peaks" text="Twin Peaks">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/twin-peaks.png">
+      <shorttext>
+        <span class="headline">Twin Peaks</span>
+        <p class="subheadline">Mystery Drama, USA 1991</p>
+        <p class="subsubheadline">Season 2, Ep. 13: Checkmate</p>
+        <p class="description">Cooper is held hostage by Renault, Andy and Tremayne pry into Nicky's past, Ben slips into a fantasy life as a Civil War general, James succumbs to Evelyn and Cooper's ex-partner Windom Earle leaves a gruesome scene at the Twin Peaks Sheriff's Station.</p>
+      </shorttext>
+    <time><start hour="06" min="50"/><end hour="08" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dirty-sexy-money" text="Dirty Sexy Money">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dirty-sexy-money.png">
+      <shorttext>
+        <span class="headline">Dirty Sexy Money</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 1, Ep. 9: The Watch</p>
+        <p class="description">This flashback episode reveals secrets about Dutch and the relationships he had with Nick, Tripp, and Letitia. Karen's intimate view towards Nick is put on hold as she takes a liking to Simon Elder. Brian's attempt to get his son takes a turn he didn't expect and Jeremy continues to hide secrets from Sofia.</p>
+      </shorttext>
+    <time><start hour="08" min="20"/><end hour="09" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="sound-of-music" text="Sound of Music">
+    <meta>
+      <duration>170</duration>
+    </meta>
+    <info url="media/tv/sound-of-music.png">
+      <shorttext>
+        <span class="headline">Sound of Music</span>
+        <p class="subheadline">Musical, USA 1965</p>
+        <p class="description">Baron Von Trapp, a widower, runs his home near Salzburg like the ship he once commanded. That changes when Maria arrives from the convent to be the new governess of his seven children. Their romps through the hills inspire all to sing and to find joy in the smallest things.</p>
+      </shorttext>
+    <time><start hour="09" min="20"/><end hour="12" min="10"/></time></info>
+  </item>
+	<item id="six-feet-under" text="Six Feet Under">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/six-feet-under.png">
+      <shorttext>
+        <span class="headline">Six Feet Under</span>
+        <p class="subheadline">Drama, USA 2005</p>
+        <p class="subsubheadline">Season 5, Ep. 9: Ecotone</p>
+        <p class="description">After suffering a massive seizure, Nate is taken to the hospital. As Nate undergoes surgery, tension ensues between Maggie and Brenda in the waiting room. Elsewhere, Ruth is still camping in the wildnerness with Hiram and is completely oblivious to what is happening with her family in L.A.</p>
+      </shorttext>
+    <time><start hour="12" min="10"/><end hour="13" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="wire" text="The Wire">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/wire.png">
+      <shorttext>
+        <span class="headline">The Wire</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Took</p>
+        <p class="description">McNulty begins getting extreme amounts of unwanted attention towards his serial killer case. Because he knows this plot is one big facade, he allocates the extra man power to get other detectives real police work done, acting almost as Santa Claus: giving the detectives what they need.</p>
+      </shorttext>
+    <time><start hour="13" min="40"/><end hour="14" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="fringe" text="Fringe">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/fringe.png">
+      <shorttext>
+        <span class="headline">Fringe</span>
+        <p class="subheadline">Mystery, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+        <p class="description">At a cutting-edge research facility, a female FBI agent is forced to work with an institutionalized scientist, Dr. Walter Bishop, in order to rationalize a brewing storm of unexplained phenomena.</p>
+      </shorttext>
+    <time><start hour="14" min="40"/><end hour="15" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="tudors" text="The Tudors">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tudors.png">
+      <shorttext>
+        <span class="headline">The Tudors</span>
+        <p class="subheadline">Historical Drama, UK 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 9: Kings Aside</p>
+        <p class="description">Anne has lost a son and with it her last chance at a lasting marriage with Henry. The King's affections are shifting anyway: the Seymour family are awarded rooms at court and seem likely to replace the Boleyns as royal favourites. Several in the court begin to move against Anne who is accused of adultery.</p>
+      </shorttext>
+    <time><start hour="15" min="50"/><end hour="16" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="psych" text="Psych">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/psych.png">
+      <shorttext>
+        <span class="headline">Psych</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 3, Ep. 4: Basic Cable</p>
+        <p class="description">When Shawn's adventurous and notoriously unreliable Uncle Jack comes to town claiming he has a map to ancient hidden Spanish treasure, Shawn, Gus and Henry find themselves in a life or death chase to the gold with a shady group of raiders who will stop at nothing to get to the prize first.</p>
+      </shorttext>
+    <time><start hour="16" min="50"/><end hour="18" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="oceans-eleven" text="Ocean's Eleven">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/oceans-eleven.png">
+      <shorttext>
+        <span class="headline">Ocean's Eleven</span>
+        <p class="subheadline">Crime Dramedy, USA 2001</p>
+        <p class="description">Danny Ocean wants to score the biggest heist in history. He combines an eleven team member, including Frank Catton, Rusty Ryan and Linus Caldwell. Their target? The Bellagio, the Mirage and the MGM Grand, all casinos owned by Terry Benedict. It's not going to be easy, as they plan to get in secretly and out with $150 million.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="20" min="00"/></time></info>
+  </item>
+	<item id="amadeus" text="Amadeus">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/amadeus.png">
+      <shorttext>
+        <span class="headline">Amadeus</span>
+        <p class="subheadline">Drama, USA 1984</p>
+        <p class="description">Antonio Salieri believes that Mozart's music is divine. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. But he can't understand why God favored Mozart, such a vulgar creature, to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is set to take revenge.</p>
+      </shorttext>
+    <time><start hour="20" min="00"/><end hour="23" min="00"/></time></info>
+  </item>
+</item>
+</menu>

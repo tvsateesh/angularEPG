@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <meta>
+    <!--    <select id="now"/> -->
+    <action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="410" />
+      <element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+      <element id="imgHolder" type="MovieClip" x="0" y="0"/>
+      <element id="progHolder" type="MovieClip" x="20" y="310"/>
+    </screen>
+  </meta>
+  <item id="Device" title="modify Device" labelbgcolor="#aa6e07">
+    <!--
+    <item id="1" text="B&amp;O">
+      <action module="ActionLearnRemote"  menu="xml/ActionLearnRemoteSound.xml"/>
+      <info url="media/devices/devices stereo.png">
+        <shorttext>
+          <span class="headline">Modify B&amp;0</span>
+          <p class="subheadline">Sound Control</p>
+          <p class="description">You can modify of your vocomedia remote control to include other functions of your B&amp;O Sound Control.</p>
+        </shorttext>
+      </info>
+    </item>
+    -->
+    <item id="2" text="Lamp">
+      <action module="ActionLearnRemote"  menu="xml/ActionLearnRemoteLight1.xml"/>
+      <info url="media/devices/devices light control.png">
+        <shorttext>
+          <span class="headline">Modify Lamp</span>
+          <p class="subheadline">Light Control</p>
+          <p class="description">You can modify vocomedia to include new functions of your Lamp Light Control. To teach vocomedia these functions, please have your Lamp remote control at hand.</p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="1" text="Loewe"> <!-- Layer3 -->
+      <action module="ActionLearnRemote"  menu="xml/ActionLearnRemoteTV.xml"/>
+      <info url="media/devices/devices tv screen rotate.png">
+        <shorttext>
+          <span class="headline">Modify Loewe</span>
+          <p class="subheadline">TV Control</p>
+          <p class="description">You can modify vocomedia to include new functions of your Loewe TV Control. To teach vocomedia these functions, please have your Loewe remote control at hand.</p>
+        </shorttext>
+      </info>
+    </item>
+<!--
+    <item text="Shutters">
+      <info url="media/tv/departed.png">
+        <shorttext>
+          <span class="headline">Window Shutters</span>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Airconditioning">
+      <info url="media/tv/departed.png">
+        <shorttext>
+          <span class="headline">Aircondition Living Room</span>
+        </shorttext>
+      </info>
+    </item>
+-->
+  </item>
+</menu>
+
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

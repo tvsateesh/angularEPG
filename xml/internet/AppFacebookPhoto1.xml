@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="root_library">
+  <meta>
+    <select id="Nature"/>
+    <action module="ActionLibrary"  menu="xml/internet/ActionLibraryPhoto.xml"/>
+    <screen>
+      <element id="imgHolder" type="Image" x="526" y="50"/>
+    </screen>
+  </meta>
+
+  <item title="Lin's birthday" labelbgcolor="#00192d">
+    <item id="01">
+      <icon url="media/facebook/photos_thumbs/facebook photos lin 01.jpg"/>
+      <preview url="media/facebook/photos_preview/facebook photos lin 01.jpg"/>
+      <info url="media/facebook/photos_large/facebook photos lin 01.jpg"/>
+    </item>
+    <item id="02">
+      <icon url="media/facebook/photos_thumbs/facebook photos lin 02.jpg"/>
+      <preview url="media/facebook/photos_preview/facebook photos lin 02.jpg"/>
+      <info url="media/facebook/photos_large/facebook photos lin 02.jpg"/>
+    </item>
+    <item id="03">
+      <icon url="media/facebook/photos_thumbs/facebook photos lin 03.jpg"/>
+      <preview url="media/facebook/photos_preview/facebook photos lin 03.jpg"/>
+      <info url="media/facebook/photos_large/facebook photos lin 03.jpg"/>
+    </item>
+    <item id="04">
+      <icon url="media/facebook/photos_thumbs/facebook photos lin 04.jpg"/>
+      <preview url="media/facebook/photos_preview/facebook photos lin 04.jpg"/>
+      <info url="media/facebook/photos_large/facebook photos lin 04.jpg"/>
+    </item>
+    <item id="05">
+      <icon url="media/facebook/photos_thumbs/facebook photos lin 05.jpg"/>
+      <preview url="media/facebook/photos_preview/facebook photos lin 05.jpg"/>
+      <info url="media/facebook/photos_large/facebook photos lin 05.jpg"/>
+    </item>
+    <item id="06">
+      <icon url="media/facebook/photos_thumbs/facebook photos lin 06.jpg"/>
+      <preview url="media/facebook/photos_preview/facebook photos lin 06.jpg"/>
+      <info url="media/facebook/photos_large/facebook photos lin 06.jpg"/>
+    </item>
+    <item id="07">
+      <icon url="media/facebook/photos_thumbs/facebook photos lin 07.jpg"/>
+      <preview url="media/facebook/photos_preview/facebook photos lin 07.jpg"/>
+      <info url="media/facebook/photos_large/facebook photos lin 07.jpg"/>
+    </item>
+  </item>
+</menu>

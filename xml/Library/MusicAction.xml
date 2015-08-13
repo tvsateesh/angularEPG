@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="action_library">
+  <meta>
+    <select id="play"/>
+    <screen>
+      <element id="container" type="Container" x="470" y="49" width="710" height="448" />
+      <element id="txtHolder" type="TextField" x="20" y="20" width="240" height="380" />
+      <element id="imgHolder" type="Image" x="262" y="0" scale="1"/>
+    </screen>
+  </meta>
+  <item title="Music" labelbgcolor="#5b7723">
+    <meta>
+      <select id="play"/>
+    </meta>
+
+    <item text="delete"/>
+    <item id="play" text="play">
+      <action module="AppMusic"  menu="xml/Library/MusicApp.xml"/>
+    </item>
+    <item text="share">
+      <action menu="xml/ActionShare.xml"/>
+    </item>
+    <item text="recommend to Friends">
+        <action menu="xml/AppContactsRecommend.xml" />
+    </item>
+  </item>
+</menu>

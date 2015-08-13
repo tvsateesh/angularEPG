@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="username_password">
+  <meta>
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="410"/>
+      <element id="shorttext" type="TextField" x="20" y="20" width="600" height="300"/>
+      <element id="profileName" type="TextField" x="600" y="20" width="500" height="100"/>
+    </screen>
+    <store>
+      <user id="*">
+        <entry id="app">News</entry>
+      </user>
+      <user id="1">//Ferdinand
+        <entry id="username">my_news</entry>
+      </user>
+    </store>
+  </meta>
+
+  <item id="1" title="Action">
+    <item id="action_username" text="Username">
+      <action module="AppTxtInput"  menu="xml/TextInputUser.xml"/>
+      <info>
+        <shorttext>
+          <span class="headline">$app</span>
+          <p>Username: $username</p>
+          <p>Password: ********</p>
+        </shorttext>
+      </info>
+    </item>
+
+    <item id="action_password" text="Password">
+      <action module="AppTxtInput"  menu="xml/TextInputPassword.xml"/>
+      <info>
+        <shorttext>
+          <span class="headline">$app</span>
+          <p>Username: $username</p>
+          <p>Password: ********</p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+</menu>

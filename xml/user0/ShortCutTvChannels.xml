@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="shortcut_tv">
+  <meta>
+    <screen>
+      <element id="container" type="Container" x="0" y="390" width="1280" height="90"/>
+      <element id="txtTitle" type="TextField" x="160" y="10" width="600" height="380"/>
+      <element id="txtDescription" type="TextField" x="615" y="10" width="600" height="380"/>
+    </screen>
+  </meta>
+  <item id="channels" title="Channels" labelbgcolor="#461588">
+    <meta>
+      <select id="ORF1"/>
+    </meta>
+    <icon url="media/icons/mainmenu/main menu icon channels.png"/>
+    <item id="ORF1" shortcut="1">
+      <icon url="media/icons/tv_logos/orf1.png"/>
+      <media url="media/tvbackground/channel01.m4v"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Alice in Wonderland</span>
+          <p class="subheadline">Adventure, USA 2010</p>
+        </titletext>
+        <description>
+          <p class="description">Alice returns to Wonderland and is told that she is the only one who can slay the Jabberwocky, a dragon controlled by the Red Queen who terrorizes Wonderland's inhabitants.</p>
+        </description>
+      </info>
+    </item>
+    <item id="ORF2" shortcut="2">
+      <icon url="media/icons/tv_logos/orf2.png"/>
+      <media url="media/tvbackground/channel02.m4v"/>
+      <info>
+        <percent val=".2"/>
+        <titletext>
+          <span class="headline">Wall-E</span>
+          <p class="subheadline">Animation, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">What if mankind had to leave Earth, and somebody forgot to turn the last robot off? Meet WALL•E who embarks on a journey that will change the destiny of both his kind and humanity.</p>
+        </description>
+      </info>
+    </item>
+    <item id="BBC World" shortcut="3">
+      <icon url="media/icons/tv_logos/bbc world.png"/>
+      <media url="media/tvbackground/channel03.m4v"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".75"/>
+        <titletext>
+          <span class="headline">Parks On Fire</span>
+          <p class="subheadline">Music Video, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">This shortfilm is an exploration of the complex and reflective relationships of structure, form, and motion that both bind and conflict the natural and manmade worlds.</p>
+        </description>
+      </info>
+    </item>
+    <item id="CNN" shortcut="4">
+      <icon url="media/icons/tv_logos/cnn.png"/>
+	  <media url="media/tvbackground/channel04.m4v"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".92"/>
+        <titletext>
+          <span class="headline">The Evolution Continues</span>
+          <p class="subheadline">Sports, IT 2009</p>
+        </titletext>
+        <description>
+          <p class="description">A new milestone for Ducati, the new 1098 Superbike is the most powerful twin-cylinder motorcyle in the world with the highest torque-to-weight ratio of any sport bike.</p>
+        </description>
+      </info>
+    </item>
+    <item id="MTV" shortcut="5">
+      <icon url="media/icons/tv_logos/mtv.png"/>
+      <media url="media/tvbackground/channel05.m4v"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".95"/>
+        <titletext>
+          <span class="headline">Sigur Rós Heima</span>
+          <p class="subheadline">Music, IS/UK 2007</p>
+        </titletext>
+        <description>
+          <p class="description">Playing in deserted fish factories, outsider art follies, far-flung community halls, sylvan fields, and the hoofprint of Odin's horse, Sigur Rós reached an entirely new spectrum of the Icelandic population.</p>
+        </description>
+      </info>
+    </item>
+    <item id="VIVA" shortcut="6">
+      <icon url="media/icons/tv_logos/viva.png"/>
+      <media url="media/tvbackground/channel06.m4v"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".3"/>
+        <titletext>
+          <span class="headline">Full Bloom</span>
+          <p class="subheadline">Documentary, UK 2007</p>
+        </titletext>
+        <description>
+          <p class="description">Flowers awaken, springing to life in a ballet all their own. Sensual, poetic, almost magical, these difficult-to-capture images beautifully convey the poetry of nature.</p>
+        </description>
+      </info>
+    </item>
+    <item id="PRO7 Austria" shortcut="7">
+      <icon url="media/icons/tv_logos/pro7.png"/>
+<!--      <media url="http://127.0.0.1/media/channel04.mov"/> -->
+      <info>
+        <percent val=".18"/>
+        <titletext>
+          <span class="headline">YouTube</span>
+          <p class="subheadline">Subheadline, 2011</p>
+        </titletext>
+        <description>
+          <p class="description">Some longer description, detailing the content of the video to be shown. This video is from online youtube, and streamed live via the internet.</p>
+        </description>
+      </info>
+    </item>
+    <item id="SAT1" shortcut="8">
+      <icon url="media/icons/tv_logos/sat1.png"/>
+      <info>
+        <percent val=".18"/>
+        <titletext>
+          <span class="headline">YouTube</span>
+          <p class="subheadline">Subheadline, 2011</p>
+        </titletext>
+        <description>
+          <p class="description">Some longer description, detailing the content of the video to be shown. This video is from online youtube, and streamed live via the internet.</p>
+        </description>
+      </info>
+    </item>
+    <item id="ATV" shortcut="9">
+      <icon url="media/icons/tv_logos/atv.png"/>
+    </item>
+    <item id="Kabel1" shortcut="10">
+      <icon url="media/icons/tv_logos/Kabel1.png"/>
+    </item>
+    <item id="Premiere Austria" shortcut="11">
+      <icon url="media/icons/tv_logos/premiere.png"/>
+    </item>
+    <item id="VOX" shortcut="12">
+      <icon url="media/icons/tv_logos/vox.png"/>
+    </item>
+    <item id="3Sat" shortcut="13">
+      <icon url="media/icons/tv_logos/3sat.png"/>
+    </item>
+    <item id="9Live" shortcut="14">
+      <icon url="media/icons/tv_logos/9live.png"/>
+    </item>
+    <item id="AB1" shortcut="15">
+      <icon url="media/icons/tv_logos/ab1.png"/>
+    </item>
+    <item id="Animal Planet" shortcut="16">
+      <icon url="media/icons/tv_logos/Animal Planet.png"/>
+    </item>
+    <item id="Arte" shortcut="17">
+      <icon url="media/icons/tv_logos/arte.png"/>
+    </item>
+    <item id="Baby Channel" shortcut="18">
+      <icon url="media/icons/tv_logos/Baby Channel.png"/>
+    </item>
+    <item id="BBC HD" shortcut="19">
+      <icon url="media/icons/tv_logos/BBC HD.png"/>
+    </item>
+    <item id="Canal SUR" shortcut="20">
+      <icon url="media/icons/tv_logos/Canal SUR.png"/>
+    </item>
+    <item id="Cartoon Network" shortcut="21">
+      <icon url="media/icons/tv_logos/Cartoon Network.png"/>
+    </item>
+    <item id="Cine Greek" shortcut="22">
+      <icon url="media/icons/tv_logos/Cine Greek.png"/>
+    </item>
+    <item id="CNN" shortcut="23">
+      <icon url="media/icons/tv_logos/cnn.png"/>
+    </item>
+    <item id="Discovery HD" shortcut="24">
+      <icon url="media/icons/tv_logos/Discovery HD.png"/>
+    </item>
+    <item id="Disney Channel" shortcut="25">
+      <icon url="media/icons/tv_logos/Disney Channel.png"/>
+    </item>
+    <item id="Euronews" shortcut="26">
+      <icon url="media/icons/tv_logos/EuroNews.png"/>
+    </item>
+    <item id="Eurosport" shortcut="27">
+      <icon url="media/icons/tv_logos/Euro Sport.png"/>
+    </item>
+    <item id="Fox Business" shortcut="28">
+      <icon url="media/icons/tv_logos/Fox Business.png"/>
+    </item>
+    <item id="Jetix" shortcut="29">
+      <icon url="media/icons/tv_logos/jetix.png"/>
+    </item>
+    <item id="Kinderkanal" shortcut="30">
+      <icon url="media/icons/tv_logos/Kinder Kanal.png"/>
+    </item>
+    <item id="Mad" shortcut="31">
+      <icon url="media/icons/tv_logos/mad.png"/>
+    </item>
+    <item id="MotorsTV" shortcut="32">
+      <icon url="media/icons/tv_logos/Motors TV.png"/>
+    </item>
+    <item id="Net TV" shortcut="33">
+      <icon url="media/icons/tv_logos/Net TV.png"/>
+    </item>
+    <item id="Nickelodeon" shortcut="34">
+      <icon url="media/icons/tv_logos/nickelodeon.png"/>
+    </item>
+    <item id="Nova TV" shortcut="35">
+      <icon url="media/icons/tv_logos/Nova TV.png"/>
+    </item>
+    <item id="cFox Business" shortcut="36">
+      <icon url="media/icons/tv_logos/Fox Business.png"/>
+    </item>
+    <item id="RTL II" shortcut="37">
+      <icon url="media/icons/tv_logos/rtl2.png"/>
+      <media url="media/tvbackground/Bjork - All Is Full Of Love.mp4"/>
+    </item>
+    <item id="SF 1" shortcut="38">
+      <icon url="media/icons/tv_logos/sf1.png"/>
+      <media url="media/tvbackground/channel03.m4v"/>
+    </item>
+    <item id="Sky One" shortcut="39">
+      <icon url="media/icons/tv_logos/Sky One.png"/>
+    </item>
+    <item id="TV5" shortcut="40">
+      <icon url="media/icons/tv_logos/tv5.png"/>
+    </item>
+    <item id="Viasat TV3" shortcut="41">
+      <icon url="media/icons/tv_logos/viasat tv3.png"/>
+    </item>
+    <item id="VTM" shortcut="42">
+      <icon url="media/icons/tv_logos/vtm.png"/>
+    </item>
+    <item id="aORF1" shortcut="43">
+      <icon url="media/icons/tv_logos/orf1.png"/>
+      <media url="media/tvbackground/ychannel01.m4v"/>
+      <info>
+        <percent val=".5"/>
+        <titletext>
+          <span class="headline">Alice in Wonderland</span>
+          <p class="subheadline">Adventure, USA 2010</p>
+        </titletext>
+        <description>
+          <p class="description">Alice returns to Wonderland and is told that she is the only one who can slay the Jabberwocky, a dragon controlled by the Red Queen who terrorizes Wonderland's inhabitants.</p>
+        </description>
+      </info>
+    </item>
+    <item id="aORF2" shortcut="44">
+      <icon url="media/icons/tv_logos/orf2.png"/>
+      <media url="media/tvbackground/channel02.m4v"/>
+      <info>
+        <percent val=".2"/>
+        <titletext>
+          <span class="headline">Wall-E</span>
+          <p class="subheadline">Animation, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">What if mankind had to leave Earth, and somebody forgot to turn the last robot off? Meet WALL•E who embarks on a journey that will change the destiny of both his kind and humanity.</p>
+        </description>
+      </info>
+    </item>
+    <item id="aBBC World" shortcut="45">
+      <icon url="media/icons/tv_logos/bbc world.png"/>
+      <media url="media/tvbackground/channel03.m4v"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".75"/>
+        <titletext>
+          <span class="headline">Parks On Fire</span>
+          <p class="subheadline">Music Video, USA 2008</p>
+        </titletext>
+        <description>
+          <p class="description">This shortfilm is an exploration of the complex and reflective relationships of structure, form, and motion that both bind and conflict the natural and manmade worlds.</p>
+        </description>
+      </info>
+    </item>
+    <item id="aCNN" shortcut="46">
+      <icon url="media/icons/tv_logos/cnn.png"/>
+	  <media url="media/tvbackground/channel04.m4v"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".92"/>
+        <titletext>
+          <span class="headline">The Evolution Continues</span>
+          <p class="subheadline">Sports, IT 2009</p>
+        </titletext>
+        <description>
+          <p class="description">A new milestone for Ducati, the new 1098 Superbike is the most powerful twin-cylinder motorcyle in the world with the highest torque-to-weight ratio of any sport bike.</p>
+        </description>
+      </info>
+    </item>
+    <item id="aMTV" shortcut="47">
+      <icon url="media/icons/tv_logos/mtv.png"/>
+      <media url="media/tvbackground/channel05.m4v"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".95"/>
+        <titletext>
+          <span class="headline">Sigur Rós Heima</span>
+          <p class="subheadline">Music, IS/UK 2007</p>
+        </titletext>
+        <description>
+          <p class="description">Playing in deserted fish factories, outsider art follies, far-flung community halls, sylvan fields, and the hoofprint of Odin's horse, Sigur Rós reached an entirely new spectrum of the Icelandic population.</p>
+        </description>
+      </info>
+    </item>
+    <item id="aVIVA" shortcut="48">
+      <icon url="media/icons/tv_logos/viva.png"/>
+      <media url="media/tvbackground/channel06.m4v"/>
+      <info url="media/icons/tv/lasv.png">
+        <percent val=".3"/>
+        <titletext>
+          <span class="headline">Full Bloom</span>
+          <p class="subheadline">Documentary, UK 2007</p>
+        </titletext>
+        <description>
+          <p class="description">Flowers awaken, springing to life in a ballet all their own. Sensual, poetic, almost magical, these difficult-to-capture images beautifully convey the poetry of nature.</p>
+        </description>
+      </info>
+    </item>
+    <item id="aPRO7 Austria" shortcut="49">
+      <icon url="media/icons/tv_logos/pro7.png"/>
+<!--      <media url="http://127.0.0.1/media/channel04.mov"/> -->
+      <info>
+        <percent val=".18"/>
+        <titletext>
+          <span class="headline">YouTube</span>
+          <p class="subheadline">Subheadline, 2011</p>
+        </titletext>
+        <description>
+          <p class="description">Some longer description, detailing the content of the video to be shown. This video is from online youtube, and streamed live via the internet.</p>
+        </description>
+      </info>
+    </item>
+    <item id="aSAT1" shortcut="50">
+      <icon url="media/icons/tv_logos/sat1.png"/>
+      <info>
+        <percent val=".18"/>
+        <titletext>
+          <span class="headline">YouTube</span>
+          <p class="subheadline">Subheadline, 2011</p>
+        </titletext>
+        <description>
+          <p class="description">Some longer description, detailing the content of the video to be shown. This video is from online youtube, and streamed live via the internet.</p>
+        </description>
+      </info>
+    </item>
+    <item id="aATV" shortcut="51">
+      <icon url="media/icons/tv_logos/atv.png"/>
+    </item>
+    <item id="aKabel1" shortcut="52">
+      <icon url="media/icons/tv_logos/Kabel1.png"/>
+    </item>
+    <item id="aPremiere Austria" shortcut="53">
+      <icon url="media/icons/tv_logos/premiere.png"/>
+    </item>
+    <item id="aVOX" shortcut="54">
+      <icon url="media/icons/tv_logos/vox.png"/>
+    </item>
+    <item id="a3Sat" shortcut="55">
+      <icon url="media/icons/tv_logos/3sat.png"/>
+    </item>
+    <item id="a9Live" shortcut="56">
+      <icon url="media/icons/tv_logos/9live.png"/>
+    </item>
+    <item id="aAB1" shortcut="57">
+      <icon url="media/icons/tv_logos/ab1.png"/>
+    </item>
+    <item id="aAnimal Planet" shortcut="58">
+      <icon url="media/icons/tv_logos/Animal Planet.png"/>
+    </item>
+    <item id="aArte" shortcut="59">
+      <icon url="media/icons/tv_logos/arte.png"/>
+    </item>
+    <item id="aBaby Channel" shortcut="60">
+      <icon url="media/icons/tv_logos/Baby Channel.png"/>
+    </item>
+    <item id="aBBC HD" shortcut="61">
+      <icon url="media/icons/tv_logos/BBC HD.png"/>
+    </item>
+    <item id="aCanal SUR" shortcut="62">
+      <icon url="media/icons/tv_logos/Canal SUR.png"/>
+    </item>
+    <item id="aCartoon Network" shortcut="63">
+      <icon url="media/icons/tv_logos/Cartoon Network.png"/>
+    </item>
+    <item id="aCine Greek" shortcut="64">
+      <icon url="media/icons/tv_logos/Cine Greek.png"/>
+    </item>
+    <item id="aCNN" shortcut="65">
+      <icon url="media/icons/tv_logos/cnn.png"/>
+    </item>
+    <item id="aDiscovery HD" shortcut="66">
+      <icon url="media/icons/tv_logos/Discovery HD.png"/>
+    </item>
+    <item id="aDisney Channel" shortcut="67">
+      <icon url="media/icons/tv_logos/Disney Channel.png"/>
+    </item>
+    <item id="aEuronews" shortcut="68">
+      <icon url="media/icons/tv_logos/EuroNews.png"/>
+    </item>
+    <item id="aEurosport" shortcut="69">
+      <icon url="media/icons/tv_logos/Euro Sport.png"/>
+    </item>
+    <item id="aFox Business" shortcut="70">
+      <icon url="media/icons/tv_logos/Fox Business.png"/>
+    </item>
+    <item id="aJetix" shortcut="71">
+      <icon url="media/icons/tv_logos/jetix.png"/>
+    </item>
+    <item id="aKinderkanal" shortcut="72">
+      <icon url="media/icons/tv_logos/Kinder Kanal.png"/>
+    </item>
+    <item id="aMad" shortcut="73">
+      <icon url="media/icons/tv_logos/mad.png"/>
+    </item>
+    <item id="aMotorsTV" shortcut="74">
+      <icon url="media/icons/tv_logos/Motors TV.png"/>
+    </item>
+    <item id="aNet TV" shortcut="75">
+      <icon url="media/icons/tv_logos/Net TV.png"/>
+    </item>
+    <item id="aNickelodeon" shortcut="76">
+      <icon url="media/icons/tv_logos/nickelodeon.png"/>
+    </item>
+    <item id="aNova TV" shortcut="77">
+      <icon url="media/icons/tv_logos/Nova TV.png"/>
+    </item>
+    <item id="aRTL II" shortcut="78">
+      <icon url="media/icons/tv_logos/rtl2.png"/>
+      <media url="media/tvbackground/Bjork - All Is Full Of Love.mp4"/>
+    </item>
+    <item id="aSF 1" shortcut="79">
+      <icon url="media/icons/tv_logos/sf1.png"/>
+      <media url="media/tvbackground/channel03.m4v"/>
+    </item>
+    <item id="aSky One" shortcut="80">
+      <icon url="media/icons/tv_logos/Sky One.png"/>
+    </item>
+    <item id="aTV5" shortcut="81">
+      <icon url="media/icons/tv_logos/tv5.png"/>
+    </item>
+    <item id="aViasat TV3" shortcut="82">
+      <icon url="media/icons/tv_logos/viasat tv3.png"/>
+    </item>
+    <item id="aVTM" shortcut="83">
+      <icon url="media/icons/tv_logos/vtm.png"/>
+    </item>
+    <item id="b9Live" shortcut="84">
+      <icon url="media/icons/tv_logos/9live.png"/>
+    </item>
+    <item id="bAB1" shortcut="85">
+      <icon url="media/icons/tv_logos/ab1.png"/>
+    </item>
+    <item id="bAnimal Planet" shortcut="86">
+      <icon url="media/icons/tv_logos/Animal Planet.png"/>
+    </item>
+    <item id="bArte" shortcut="87">
+      <icon url="media/icons/tv_logos/arte.png"/>
+    </item>
+    <item id="bBaby Channel" shortcut="88">
+      <icon url="media/icons/tv_logos/Baby Channel.png"/>
+    </item>
+    <item id="bBBC HD" shortcut="89">
+      <icon url="media/icons/tv_logos/BBC HD.png"/>
+    </item>
+    <item id="bCanal SUR" shortcut="90">
+      <icon url="media/icons/tv_logos/Canal SUR.png"/>
+    </item>
+    <item id="bCartoon Network" shortcut="91">
+      <icon url="media/icons/tv_logos/Cartoon Network.png"/>
+    </item>
+    <item id="bCine Greek" shortcut="92">
+      <icon url="media/icons/tv_logos/Cine Greek.png"/>
+    </item>
+    <item id="bCNN" shortcut="93">
+      <icon url="media/icons/tv_logos/cnn.png"/>
+    </item>
+    <item id="bDiscovery HD" shortcut="94">
+      <icon url="media/icons/tv_logos/Discovery HD.png"/>
+    </item>
+    <item id="bDisney Channel" shortcut="95">
+      <icon url="media/icons/tv_logos/Disney Channel.png"/>
+    </item>
+    <item id="bEuronews" shortcut="96">
+      <icon url="media/icons/tv_logos/EuroNews.png"/>
+    </item>
+    <item id="bEurosport" shortcut="97">
+      <icon url="media/icons/tv_logos/Euro Sport.png"/>
+    </item>
+    <item id="bFox Business" shortcut="98">
+      <icon url="media/icons/tv_logos/Fox Business.png"/>
+    </item>
+    <item id="bJetix" shortcut="99">
+      <icon url="media/icons/tv_logos/jetix.png"/>
+    </item>
+    <item id="bKinderkanal" shortcut="100">
+      <icon url="media/icons/tv_logos/Kinder Kanal.png"/>
+    </item>
+  </item>
+</menu>
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

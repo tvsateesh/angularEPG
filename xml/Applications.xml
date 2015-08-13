@@ -1,0 +1,56 @@
+  <item id="apps" title="Applications" labelbgcolor="#5b7723">
+    <icon url="media/icons/submenu/submenu icon internet youtube.png"/>
+    <item text="v112">
+      <action app="apps.ext/v112.swf"/>
+    </item>
+    <!--
+    <item text="bitbot">
+      <action app="apps.ext/com.playjam.bitbotadobe/bitbotadobe.swf"/>
+    </item>
+    -->
+    <item text="YouTube Test">
+      <action app="apps.ext/com.youtube.leanback/misc/flashvars.swf"/>
+      <args network="nUrv" vendor="st" model="FreemanUltra" sku="123" serial="12345678" firmware="0.1" remote="ruwido" lang="de" country="DE" q="sweat"/>  <!-- v="youtube video ID" t="1m45"-->
+    </item>
+    <item text="YouTube (unload)">
+      <action app="apps.ext/com.youtube.leanback/YTLeanBack.swf"/>
+      <args network="nUrv" vendor="st" model="FreemanUltra" sku="123" serial="12345678" firmware="0.1" remote="ruwido tau" lang="de" country="DE" q="sweat"/>
+    </item>
+    <item text="YouTube (unload &amp; stop)">
+      <action app="apps.ext/com.youtube.leanback/YTLeanBack.swf" dispose="true"/>
+      <args network="nUrv" vendor="st" model="FreemanUltra" sku="123" serial="12345678" firmware="0.1" remote="ruwido tau" lang="de" country="DE" q="sweat"/>
+    </item>
+    <!--
+    <item text="napster">
+      <action app="apps.ext/com.napster.tvapp/napster.swf"/>
+    </item>
+    <item text="HUB">
+      <action app="apps.ext/hubAS3/hubAS3.swf"/>
+    </item>
+    <item text="Hollywood Previews">
+      <action app="apps.ext/net.rcdb.hollywood-previews/HollywoodPreviews.swf"/>
+    </item>
+    <item text="App Market">
+      <action app="apps.ext/tv.adobe.app.app-market/tv.adobe.app.app-market.swf"/>
+    </item>
+    <item text="DevMaster">
+      <action app="apps.ext/tv.adobe.app.devmaster/tv.adobe.app.devmaster-deluxe.swf"/>
+    </item>
+    <item text="PerfMaster">
+      <action app="apps.ext/tv.adobe.app.perfmaster-deluxe/tv.adobe.app.perfmaster-deluxe.swf"/>
+    </item>
+    -->
+    <item text="YouTube (process)">
+      <action process="apps.ext/com.youtube.leanback/YTLeanBack.swf"/>
+      <args network="nUrv" vendor="st" model="FreemanUltra" sku="123" serial="12345678" firmware="0.1" remote="ruwido" lang="en" country="US" q="sweat"/>  <!-- v="youtube video ID" t="1m45"-->
+    </item>
+    <item text="BBC iPlayer (loader)">
+      <action app="/opt/adobe/stagecraft/apps/iplayer.swf"/>
+      <args bypassAsync="true"/>
+    </item>
+    <item text="BBC iPlayer (process)">
+      <action process="/opt/adobe/stagecraft/apps/iplayer.swf"/>
+      <args bypassAsync="true"/>
+      <cmdline proxy="109.233.112.174 9666" proxyauthentication="lamychristophe@neuf.fr Z4Wfze"/>
+    </item>
+  </item>

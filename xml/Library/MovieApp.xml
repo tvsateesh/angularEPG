@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="action_library">
+  <meta>
+    <select id="actions" /> 
+  </meta>
+  <item id="scan" title="Scan">
+    <item id="action_rewind" title="rewind" />
+    <item id="action_forward" title="forward" />
+  </item>
+  <!--
+  <item title="Search">
+    <item id="action_prev" title="back"/>
+    <item id="action_next" title="next"/>
+  </item>
+  -->
+  <item id="actions" title="Action">
+    <!--		<item id="action_play" title="play" /> -->
+    <item id="action_pause" title="pause" />
+  </item>
+</menu>

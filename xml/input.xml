@@ -1,0 +1,7 @@
+  <item id="input" title="Input" labelbgcolor="#5b7723">
+    <icon url="media/icons/mainmenu/main menu icon library.png"/>
+    <item text="A/V"/>
+    <item text="HDMI 1"/>
+    <item text="HDMI 2"/>
+    <item text="HDMI 3"/>
+  </item>

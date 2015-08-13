@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="Discovery HD">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+	<item id="amelie" text="Amelie">
+    <meta>
+      <duration>130</duration>
+    </meta>
+    <info url="media/tv/amelie.png">
+      <shorttext>
+        <span class="headline">Amelie</span>
+        <p class="subheadline">Comedy, FR 2001</p>
+        <p class="description">Amelie is looking for love, and perhaps for the meaning of life in general. We see her grow up in an original if slightly dysfunctional family. Now a waitress in central Paris, she interacts curiously with her neighbors and customers, as well as a mysterious Photomaton-image collector and one of his even more mysterious photo subjects.</p>
+      </shorttext>
+    <time><start hour="20" min="00"/><end hour="22" min="10"/></time></info>
+  </item>
+	<item id="twin-peaks" text="Twin Peaks">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/twin-peaks.png">
+      <shorttext>
+        <span class="headline">Twin Peaks</span>
+        <p class="subheadline">Mystery Drama, USA 1991</p>
+        <p class="subsubheadline">Season 2, Ep. 13: Checkmate</p>
+        <p class="description">Cooper is held hostage by Renault, Andy and Tremayne pry into Nicky's past, Ben slips into a fantasy life as a Civil War general, James succumbs to Evelyn and Cooper's ex-partner Windom Earle leaves a gruesome scene at the Twin Peaks Sheriff's Station.</p>
+      </shorttext>
+    <time><start hour="22" min="10"/><end hour="23" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="evening" title="Evening">
+	<item id="big-fish" text="Big Fish">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-fish.png">
+      <shorttext>
+        <span class="headline">Big Fish</span>
+        <p class="subheadline">Fantasy, USA 2003</p>
+        <p class="description">The story revolves around a dying father and his son, who is trying to learn more about his dad by piecing together the stories he has gathered over the years. The son winds up re-creating his father's elusive life in a series of legends and myths inspired by the few facts he knows. Through these tales, the son begins to understand his father's great feats and his great failings.</p>
+      </shorttext>
+    <time><start hour="17" min="30"/><end hour="19" min="30"/></time></info>
+  </item>
+	<item id="duck-tales" text="Duck Tales">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/duck-tales.png">
+      <shorttext>
+        <span class="headline">Duck Tales</span>
+        <p class="subheadline">Animated TV Series, USA 1988</p>
+        <p class="subsubheadline">Season 2, Ep. 1: Marking Time</p>
+        <p class="description">Scrooge buys one of Glomgold's islands housing a diamond mine. Upon finding out, Glomgold has the diamond mine blown away from the island. Scrooge, Launchpad, and the nephews then go back in time to try to prevent the explosion, but end up going back 1 million years.</p>
+      </shorttext>
+    <time><start hour="19" min="30"/><end hour="20" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="afternoon" title="Afternoon">
+	<item id="fringe" text="Fringe">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/fringe.png">
+      <shorttext>
+        <span class="headline">Fringe</span>
+        <p class="subheadline">Mystery, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+        <p class="description">At a cutting-edge research facility, a female FBI agent is forced to work with an institutionalized scientist, Dr. Walter Bishop, in order to rationalize a brewing storm of unexplained phenomena.</p>
+      </shorttext>
+    <time><start hour="11" min="40"/><end hour="12" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="stargate-atlantis" text="Stargate Atlantis">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/stargate-atlantis.png">
+      <shorttext>
+        <span class="headline">Stargate Atlantis</span>
+        <p class="subheadline">Sci-Fi, USA/CA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Whispers</p>
+        <p class="description">Sheppard and Beckett join Maj. Anne Teldy's team on a planet with one of Michael's research facilities for the early versions of his human-iratus hybrids concealed inside a cave system. Unfortunately for them, Michael's hybrids are nearby conspiring against them.</p>
+      </shorttext>
+    <time><start hour="12" min="50"/><end hour="13" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="rome" text="Rome">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/rome.png">
+      <shorttext>
+        <span class="headline">Rome</span>
+        <p class="subheadline">Drama, UK/USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 7: Death Mask</p>
+        <p class="description">Servilia mourns the death of Brutus, killed at Phillipi. She kneels in front of Atia's door chanting repeatedly for justice. Although Atia ignores her initially, the incessant chanting attracts a crowd of pleb onlookers and annoys Atia.</p>
+      </shorttext>
+    <time><start hour="13" min="50"/><end hour="15" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="entourage" text="Entourage">
+    <meta>
+      <duration>40</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/entourage.png">
+      <shorttext>
+        <span class="headline">Entourage</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 12: The Cannes Kids</p>
+        <p class="description">At Cannes, the guys party it up and attend to the business of selling Medellin, and find themselves with two offers on the table before it's even screened, and in the end, the film is bought from an unlikely source, at a price much lower than they were hoping for.</p>
+      </shorttext>
+    <time><start hour="15" min="20"/><end hour="16" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="tom-and-jerry" text="Tom &amp; Jerry">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tom-and-jerry.png">
+      <shorttext>
+        <span class="headline">Tom &amp; Jerry</span>
+        <p class="subheadline">Animated TV Series, USA 1950</p>
+        <p class="subsubheadline">Season 1, Ep. 48: Saturday Evening Puss</p>
+        <p class="description">Mammy Two Shoes goes out to her bridge club for the night. Seeing her leaving, Tom invites his feline pals Butch, Topsy and Lighting, who emerge from garbage cans outside of the house and rush in when Tom gives them the all-clear by showing them a sign written O.K. for the party.</p>
+      </shorttext>
+    <time><start hour="16" min="00"/><end hour="16" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="desperate-housewives" text="Desperate Housewives">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/desperate-housewives.png">
+      <shorttext>
+        <span class="headline">Desperate Housewives</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Free</p>
+        <p class="description">Several residents of Wisteria Lane are faced with deadly threats when Katherine's ex-husband wants to see his daughter again. Susan realizes she will soon lose her daughter when she goes off to college early, and Katherine Mayfair's secrets are finally revealed.</p>
+      </shorttext>
+    <time><start hour="16" min="30"/><end hour="17" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="big-fish" text="Big Fish">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-fish.png">
+      <shorttext>
+        <span class="headline">Big Fish</span>
+        <p class="subheadline">Fantasy, USA 2003</p>
+        <p class="description">The story revolves around a dying father and his son, who is trying to learn more about his dad by piecing together the stories he has gathered over the years. The son winds up re-creating his father's elusive life in a series of legends and myths inspired by the few facts he knows. Through these tales, the son begins to understand his father's great feats and his great failings.</p>
+      </shorttext>
+    <time><start hour="17" min="30"/><end hour="19" min="30"/></time></info>
+  </item>
+</item>
+<item id="noon" title="Noon">
+	<item id="forrest-gump" text="Forrest Gump">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/forrest-gump.png">
+      <shorttext>
+        <span class="headline">Forrest Gump</span>
+        <p class="subheadline">Dramedy, USA 1994</p>
+        <p class="description">A man with a low IQ has accomplished great things in his life and been present during significant historic events - in each case, far exceeding what anyone imagined he could do. It is the story of a man who rose above his challenges, and who proved that determination, courage, and love are more important than ability.</p>
+      </shorttext>
+    <time><start hour="07" min="40"/><end hour="10" min="00"/></time></info>
+  </item>
+	<item id="lilo-and-stitch" text="Lilo &amp; Stitch">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lilo-and-stitch.png">
+      <shorttext>
+        <span class="headline">Lilo &amp; Stitch</span>
+        <p class="subheadline">Animated TV Series, USA 2006</p>
+        <p class="subsubheadline">Season 2, Ep. 24: Woops</p>
+        <p class="description">A clumsy experiment causes Dr. Hamsterviel to nearly get caught by his prison guards, so he returns all of the captured experiments to Gantu for safekeeping. But when he lets the troublemaking experiment go, it threatens to ruin Pleakley's chance at a domino championship.</p>
+      </shorttext>
+    <time><start hour="10" min="00"/><end hour="10" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="csi-miami" text="CSI: Miami">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/csi-miami.png">
+      <shorttext>
+        <span class="headline">CSI: Miami</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 6, Ep. 18: Tunnel Vision</p>
+        <p class="description">The episode opens with two men chasing each other on the causeway. When the road collapses one man is thrown into a sinkhole and killed. While investigating, the CSIs discover a conspiracy to rob a bank.</p>
+      </shorttext>
+    <time><start hour="10" min="30"/><end hour="11" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="fringe" text="Fringe">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/fringe.png">
+      <shorttext>
+        <span class="headline">Fringe</span>
+        <p class="subheadline">Mystery, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+        <p class="description">At a cutting-edge research facility, a female FBI agent is forced to work with an institutionalized scientist, Dr. Walter Bishop, in order to rationalize a brewing storm of unexplained phenomena.</p>
+      </shorttext>
+    <time><start hour="11" min="40"/><end hour="12" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="morning" title="Morning">
+	<item id="six-feet-under" text="Six Feet Under">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/six-feet-under.png">
+      <shorttext>
+        <span class="headline">Six Feet Under</span>
+        <p class="subheadline">Drama, USA 2005</p>
+        <p class="subsubheadline">Season 5, Ep. 9: Ecotone</p>
+        <p class="description">After suffering a massive seizure, Nate is taken to the hospital. As Nate undergoes surgery, tension ensues between Maggie and Brenda in the waiting room. Elsewhere, Ruth is still camping in the wildnerness with Hiram and is completely oblivious to what is happening with her family in L.A.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gladiator" text="Gladiator">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/gladiator.png">
+      <shorttext>
+        <span class="headline">Gladiator</span>
+        <p class="subheadline">Historical Drama, USA 2000</p>
+        <p class="subsubheadline">In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos. Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor. As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed. He escapes, but is captured by slave traders.</p>
+      </shorttext>
+    <time><start hour="01" min="30"/><end hour="04" min="00"/></time></info>
+  </item>
+	<item id="law-and-order" text="Law &amp; Order">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/law-and-order.png">
+      <shorttext>
+        <span class="headline">Law &amp; Order</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 18, Ep. 5: Driven</p>
+        <p class="description">After a mob lawyer is attacked and his wife brutally murdered, Nina and Cyrus question their daughter. But her wild night of drunken partying leaves her unable to recall her actions, even though her father insists she was at the scene of the crime.</p>
+      </shorttext>
+    <time><start hour="04" min="00"/><end hour="05" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="star-wars" text="Star Wars">
+    <meta>
+      <duration>130</duration>
+    </meta>
+    <info url="media/tv/star-wars.png">
+      <shorttext>
+        <span class="headline">Star Wars</span>
+        <p class="subheadline">Sci-Fi, USA 1977</p>
+        <p class="description">Princess Leia is held hostage by the evil Imperial forces in their effort to take over the Galactic Empire. Venturesome Luke Skywalker and dashing Captain Han Solo team together with the lovable robotic duo, R2-D2 and C-3PO, to rescue the beautiful princess and restore justice in the Empire.</p>
+      </shorttext>
+    <time><start hour="05" min="30"/><end hour="07" min="40"/></time></info>
+  </item>
+	<item id="forrest-gump" text="Forrest Gump">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/forrest-gump.png">
+      <shorttext>
+        <span class="headline">Forrest Gump</span>
+        <p class="subheadline">Dramedy, USA 1994</p>
+        <p class="description">A man with a low IQ has accomplished great things in his life and been present during significant historic events - in each case, far exceeding what anyone imagined he could do. It is the story of a man who rose above his challenges, and who proved that determination, courage, and love are more important than ability.</p>
+      </shorttext>
+    <time><start hour="07" min="40"/><end hour="10" min="00"/></time></info>
+  </item>
+	<item id="lilo-and-stitch" text="Lilo &amp; Stitch">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lilo-and-stitch.png">
+      <shorttext>
+        <span class="headline">Lilo &amp; Stitch</span>
+        <p class="subheadline">Animated TV Series, USA 2006</p>
+        <p class="subsubheadline">Season 2, Ep. 24: Woops</p>
+        <p class="description">A clumsy experiment causes Dr. Hamsterviel to nearly get caught by his prison guards, so he returns all of the captured experiments to Gantu for safekeeping. But when he lets the troublemaking experiment go, it threatens to ruin Pleakley's chance at a domino championship.</p>
+      </shorttext>
+    <time><start hour="10" min="00"/><end hour="10" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="now" title="Now">
+	<item id="six-feet-under" text="Six Feet Under">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/six-feet-under.png">
+      <shorttext>
+        <span class="headline">Six Feet Under</span>
+        <p class="subheadline">Drama, USA 2005</p>
+        <p class="subsubheadline">Season 5, Ep. 9: Ecotone</p>
+        <p class="description">After suffering a massive seizure, Nate is taken to the hospital. As Nate undergoes surgery, tension ensues between Maggie and Brenda in the waiting room. Elsewhere, Ruth is still camping in the wildnerness with Hiram and is completely oblivious to what is happening with her family in L.A.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gladiator" text="Gladiator">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/gladiator.png">
+      <shorttext>
+        <span class="headline">Gladiator</span>
+        <p class="subheadline">Historical Drama, USA 2000</p>
+        <p class="subsubheadline">In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos. Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor. As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed. He escapes, but is captured by slave traders.</p>
+      </shorttext>
+    <time><start hour="01" min="30"/><end hour="04" min="00"/></time></info>
+  </item>
+	<item id="law-and-order" text="Law &amp; Order">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/law-and-order.png">
+      <shorttext>
+        <span class="headline">Law &amp; Order</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 18, Ep. 5: Driven</p>
+        <p class="description">After a mob lawyer is attacked and his wife brutally murdered, Nina and Cyrus question their daughter. But her wild night of drunken partying leaves her unable to recall her actions, even though her father insists she was at the scene of the crime.</p>
+      </shorttext>
+    <time><start hour="04" min="00"/><end hour="05" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="star-wars" text="Star Wars">
+    <meta>
+      <duration>130</duration>
+    </meta>
+    <info url="media/tv/star-wars.png">
+      <shorttext>
+        <span class="headline">Star Wars</span>
+        <p class="subheadline">Sci-Fi, USA 1977</p>
+        <p class="description">Princess Leia is held hostage by the evil Imperial forces in their effort to take over the Galactic Empire. Venturesome Luke Skywalker and dashing Captain Han Solo team together with the lovable robotic duo, R2-D2 and C-3PO, to rescue the beautiful princess and restore justice in the Empire.</p>
+      </shorttext>
+    <time><start hour="05" min="30"/><end hour="07" min="40"/></time></info>
+  </item>
+	<item id="forrest-gump" text="Forrest Gump">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/forrest-gump.png">
+      <shorttext>
+        <span class="headline">Forrest Gump</span>
+        <p class="subheadline">Dramedy, USA 1994</p>
+        <p class="description">A man with a low IQ has accomplished great things in his life and been present during significant historic events - in each case, far exceeding what anyone imagined he could do. It is the story of a man who rose above his challenges, and who proved that determination, courage, and love are more important than ability.</p>
+      </shorttext>
+    <time><start hour="07" min="40"/><end hour="10" min="00"/></time></info>
+  </item>
+	<item id="lilo-and-stitch" text="Lilo &amp; Stitch">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lilo-and-stitch.png">
+      <shorttext>
+        <span class="headline">Lilo &amp; Stitch</span>
+        <p class="subheadline">Animated TV Series, USA 2006</p>
+        <p class="subsubheadline">Season 2, Ep. 24: Woops</p>
+        <p class="description">A clumsy experiment causes Dr. Hamsterviel to nearly get caught by his prison guards, so he returns all of the captured experiments to Gantu for safekeeping. But when he lets the troublemaking experiment go, it threatens to ruin Pleakley's chance at a domino championship.</p>
+      </shorttext>
+    <time><start hour="10" min="00"/><end hour="10" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="csi-miami" text="CSI: Miami">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/csi-miami.png">
+      <shorttext>
+        <span class="headline">CSI: Miami</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 6, Ep. 18: Tunnel Vision</p>
+        <p class="description">The episode opens with two men chasing each other on the causeway. When the road collapses one man is thrown into a sinkhole and killed. While investigating, the CSIs discover a conspiracy to rob a bank.</p>
+      </shorttext>
+    <time><start hour="10" min="30"/><end hour="11" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="fringe" text="Fringe">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/fringe.png">
+      <shorttext>
+        <span class="headline">Fringe</span>
+        <p class="subheadline">Mystery, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+        <p class="description">At a cutting-edge research facility, a female FBI agent is forced to work with an institutionalized scientist, Dr. Walter Bishop, in order to rationalize a brewing storm of unexplained phenomena.</p>
+      </shorttext>
+    <time><start hour="11" min="40"/><end hour="12" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="stargate-atlantis" text="Stargate Atlantis">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/stargate-atlantis.png">
+      <shorttext>
+        <span class="headline">Stargate Atlantis</span>
+        <p class="subheadline">Sci-Fi, USA/CA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Whispers</p>
+        <p class="description">Sheppard and Beckett join Maj. Anne Teldy's team on a planet with one of Michael's research facilities for the early versions of his human-iratus hybrids concealed inside a cave system. Unfortunately for them, Michael's hybrids are nearby conspiring against them.</p>
+      </shorttext>
+    <time><start hour="12" min="50"/><end hour="13" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="rome" text="Rome">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/rome.png">
+      <shorttext>
+        <span class="headline">Rome</span>
+        <p class="subheadline">Drama, UK/USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 7: Death Mask</p>
+        <p class="description">Servilia mourns the death of Brutus, killed at Phillipi. She kneels in front of Atia's door chanting repeatedly for justice. Although Atia ignores her initially, the incessant chanting attracts a crowd of pleb onlookers and annoys Atia.</p>
+      </shorttext>
+    <time><start hour="13" min="50"/><end hour="15" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="entourage" text="Entourage">
+    <meta>
+      <duration>40</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/entourage.png">
+      <shorttext>
+        <span class="headline">Entourage</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 12: The Cannes Kids</p>
+        <p class="description">At Cannes, the guys party it up and attend to the business of selling Medellin, and find themselves with two offers on the table before it's even screened, and in the end, the film is bought from an unlikely source, at a price much lower than they were hoping for.</p>
+      </shorttext>
+    <time><start hour="15" min="20"/><end hour="16" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="tom-and-jerry" text="Tom &amp; Jerry">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tom-and-jerry.png">
+      <shorttext>
+        <span class="headline">Tom &amp; Jerry</span>
+        <p class="subheadline">Animated TV Series, USA 1950</p>
+        <p class="subsubheadline">Season 1, Ep. 48: Saturday Evening Puss</p>
+        <p class="description">Mammy Two Shoes goes out to her bridge club for the night. Seeing her leaving, Tom invites his feline pals Butch, Topsy and Lighting, who emerge from garbage cans outside of the house and rush in when Tom gives them the all-clear by showing them a sign written O.K. for the party.</p>
+      </shorttext>
+    <time><start hour="16" min="00"/><end hour="16" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="desperate-housewives" text="Desperate Housewives">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/desperate-housewives.png">
+      <shorttext>
+        <span class="headline">Desperate Housewives</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Free</p>
+        <p class="description">Several residents of Wisteria Lane are faced with deadly threats when Katherine's ex-husband wants to see his daughter again. Susan realizes she will soon lose her daughter when she goes off to college early, and Katherine Mayfair's secrets are finally revealed.</p>
+      </shorttext>
+    <time><start hour="16" min="30"/><end hour="17" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="big-fish" text="Big Fish">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-fish.png">
+      <shorttext>
+        <span class="headline">Big Fish</span>
+        <p class="subheadline">Fantasy, USA 2003</p>
+        <p class="description">The story revolves around a dying father and his son, who is trying to learn more about his dad by piecing together the stories he has gathered over the years. The son winds up re-creating his father's elusive life in a series of legends and myths inspired by the few facts he knows. Through these tales, the son begins to understand his father's great feats and his great failings.</p>
+      </shorttext>
+    <time><start hour="17" min="30"/><end hour="19" min="30"/></time></info>
+  </item>
+	<item id="duck-tales" text="Duck Tales">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/duck-tales.png">
+      <shorttext>
+        <span class="headline">Duck Tales</span>
+        <p class="subheadline">Animated TV Series, USA 1988</p>
+        <p class="subsubheadline">Season 2, Ep. 1: Marking Time</p>
+        <p class="description">Scrooge buys one of Glomgold's islands housing a diamond mine. Upon finding out, Glomgold has the diamond mine blown away from the island. Scrooge, Launchpad, and the nephews then go back in time to try to prevent the explosion, but end up going back 1 million years.</p>
+      </shorttext>
+    <time><start hour="19" min="30"/><end hour="20" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="amelie" text="Amelie">
+    <meta>
+      <duration>130</duration>
+    </meta>
+    <info url="media/tv/amelie.png">
+      <shorttext>
+        <span class="headline">Amelie</span>
+        <p class="subheadline">Comedy, FR 2001</p>
+        <p class="description">Amelie is looking for love, and perhaps for the meaning of life in general. We see her grow up in an original if slightly dysfunctional family. Now a waitress in central Paris, she interacts curiously with her neighbors and customers, as well as a mysterious Photomaton-image collector and one of his even more mysterious photo subjects.</p>
+      </shorttext>
+    <time><start hour="20" min="00"/><end hour="22" min="10"/></time></info>
+  </item>
+	<item id="twin-peaks" text="Twin Peaks">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/twin-peaks.png">
+      <shorttext>
+        <span class="headline">Twin Peaks</span>
+        <p class="subheadline">Mystery Drama, USA 1991</p>
+        <p class="subsubheadline">Season 2, Ep. 13: Checkmate</p>
+        <p class="description">Cooper is held hostage by Renault, Andy and Tremayne pry into Nicky's past, Ben slips into a fantasy life as a Civil War general, James succumbs to Evelyn and Cooper's ex-partner Windom Earle leaves a gruesome scene at the Twin Peaks Sheriff's Station.</p>
+      </shorttext>
+    <time><start hour="22" min="10"/><end hour="23" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+</menu>

@@ -1,0 +1,6 @@
+  <item id="favourites" title="Favorites" labelbgcolor="#a48a26">
+    <icon url="media/icons/mainmenu/main menu icon favourites.png"/>
+    <item text="show all">
+      <action module="AppTimeline"  menu="xml/AppFavorites.xml"/>
+    </item>
+  </item>

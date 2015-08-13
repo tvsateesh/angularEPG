@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="action_library">
+  <meta>
+    <select id="action_buy" /> 
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="448" />
+      <element id="txtHolder" type="TextField" x="20" y="20" width="370" height="448" />
+      <element id="imgHolder" type="MovieClip" x="410" y="0" scale="1" />
+    </screen>
+  </meta>
+  <item labelbgcolor="#217799" title="Movie">
+    <meta>
+      <select id="action_buy"/>
+    </meta>
+
+    <item id="action_rent" text="Rent &#8364; 4,90">
+      <action module="AppMovie"  menu="xml/Library/MovieApp.xml" />
+    </item>
+    <item id="action_buy" text="Buy &#8364; 9,90">
+      <action module="AppMovie"  menu="xml/Library/MovieApp.xml" />
+    </item>
+    <item id="action_trailer" text="view Trailer">
+      <action module="AppMovie"  menu="xml/Library/MovieApp.xml" />
+    </item>
+    <item id="action_tellfriends" text="recommend to Friend">
+      <action menu="xml/AppContactsRecommend.xml" />
+    </item>  </item>
+</menu>

@@ -1,0 +1,140 @@
+  <item id="teletext" title="Teletext" labelbgcolor="#222222">
+    <meta>
+      <select id="ORF1"/>
+    </meta>
+    <icon url="media/icons/mainmenu/main menu icon teletext.png"/>
+    <item id="ORF1" shortcut="1">
+      <icon url="media/icons/tv_logos/channel orf1.png"/>
+      <action module="AppTeletext"  menu="xml/AppTeletext.xml"/>
+    </item>
+    <item id="ORF2" shortcut="2">
+      <icon url="media/icons/tv_logos/channel orf2.png"/>
+      <action module="AppTeletext"  menu="xml/AppTeletext.xml"/>
+    </item>
+    <item id="BBC World" shortcut="3">
+      <icon url="media/icons/tv_logos/channel bbc world.png"/>
+      <action module="AppTeletext"  menu="xml/AppTeletext.xml"/>
+    </item>
+    <item id="CNN" shortcut="4">
+      <icon url="media/icons/tv_logos/channel cnn.png"/>
+    </item>
+    <item id="MTV" shortcut="5">
+      <icon url="media/icons/tv_logos/channel mtv.png"/>
+    </item>
+    <item id="VIVA" shortcut="6">
+      <icon url="media/icons/tv_logos/channel viva.png"/>
+    </item>
+    <item id="PRO7 Austria" shortcut="7">
+      <icon url="media/icons/tv_logos/channel pro7.png"/>
+    </item>
+    <item id="SAT1" shortcut="8">
+      <icon url="media/icons/tv_logos/channel sat1.png"/>
+    </item>
+    <item id="ATV" shortcut="9">
+      <icon url="media/icons/tv_logos/channel atv.png"/>
+    </item>
+    <item id="Kabel1" shortcut="10">
+      <icon url="media/icons/tv_logos/channel Kabel1.png"/>
+    </item>
+    <item id="Premiere Austria" shortcut="11">
+      <icon url="media/icons/tv_logos/channel premiere.png"/>
+    </item>
+    <item id="VOX" shortcut="12">
+      <icon url="media/icons/tv_logos/channel vox.png"/>
+    </item>
+    <item id="3Sat" shortcut="13">
+      <icon url="media/icons/tv_logos/channel 3sat.png"/>
+    </item>
+    <item id="9Live" shortcut="14">
+      <icon url="media/icons/tv_logos/channel 9live.png"/>
+    </item>
+    <item id="AB1" shortcut="15">
+      <icon url="media/icons/tv_logos/channel ab1.png"/>
+    </item>
+    <item id="ABC HD" shortcut="16">
+      <icon url="media/icons/tv_logos/channel ABC HD.png"/>
+    </item>
+    <item id="Animal Planet" shortcut="17">
+      <icon url="media/icons/tv_logos/channel Animal Planet.png"/>
+    </item>
+    <item id="Anime network" shortcut="18">
+      <icon url="media/icons/tv_logos/channel orf2.png"/>
+    </item>
+    <item id="Arte" shortcut="19">
+      <icon url="media/icons/tv_logos/channel arte.png"/>
+    </item>
+    <item id="Baby Channel" shortcut="20">
+      <icon url="media/icons/tv_logos/channel Baby Channel.png"/>
+    </item>
+    <item id="BBC HD" shortcut="21">
+      <icon url="media/icons/tv_logos/channel BBC HD.png"/>
+    </item>
+    <item id="Canal SUR" shortcut="22">
+      <icon url="media/icons/tv_logos/channel Canal SUR.png"/>
+    </item>
+    <item id="Cartoon Network" shortcut="23">
+      <icon url="media/icons/tv_logos/channel Cartoon Network.png"/>
+    </item>
+    <item id="Cine Greek" shortcut="24">
+      <icon url="media/icons/tv_logos/channel Cine Greek.png"/>
+    </item>
+    <item id="Discovery HD" shortcut="25">
+      <icon url="media/icons/tv_logos/channel Discovery HD.png"/>
+    </item>
+    <item id="Disney Channel" shortcut="26">
+      <icon url="media/icons/tv_logos/channel Disney Channel.png"/>
+    </item>
+    <item id="Euronews" shortcut="27">
+      <icon url="media/icons/tv_logos/channel euronews.png"/>
+    </item>
+    <item id="Eurosport" shortcut="28">
+      <icon url="media/icons/tv_logos/channel Euro Sport.png"/>
+    </item>
+    <item id="Fox" shortcut="29">
+      <icon url="media/icons/tv_logos/channel fox.png"/>
+    </item>
+    <item id="Fox Business" shortcut="30">
+      <icon url="media/icons/tv_logos/channel Fox Business.png"/>
+    </item>
+    <!--
+    <item id="Jetix" shortcut="31">
+      <icon url="media/icons/tv_logos/channel jetix.png"/>
+    </item>
+    <item id="Kinderkanal" shortcut="32">
+      <icon url="media/icons/tv_logos/channel Kinder Kanal.png"/>
+    </item>
+    <item id="Mad" shortcut="33">
+      <icon url="media/icons/tv_logos/channel mad.png"/>
+    </item>
+    <item id="MotorsTV" shortcut="34">
+      <icon url="media/icons/tv_logos/channel Motors TV.png"/>
+    </item>
+    <item id="Net TV" shortcut="35">
+      <icon url="media/icons/tv_logos/channel Net TV.png"/>
+    </item>
+    <item id="Nickelodeon" shortcut="36">
+      <icon url="media/icons/tv_logos/channel nickelodeon.png"/>
+    </item>
+    <item id="Nova TV" shortcut="37">
+      <icon url="media/icons/tv_logos/channel Nova TV.png"/>
+    </item>
+    <item id="RTL II" shortcut="38">
+      <icon url="media/icons/tv_logos/channel rtl2.png"/>
+    </item>
+    <item id="SF 1" shortcut="39">
+      <icon url="media/icons/tv_logos/channel sf1.png"/>
+    </item>
+    <item id="Sky One" shortcut="40">
+      <icon url="media/icons/tv_logos/channel Sky One.png"/>
+    </item>
+    <item id="TV5" shortcut="41">
+      <icon url="media/icons/tv_logos/channel tv5.png"/>
+    </item>
+    <item id="Viasat TV3" shortcut="42">
+      <icon url="media/icons/tv_logos/channel ViaSat TV3.png"/>
+    </item>
+    <item id="VTM" shortcut="43">
+      <icon url="media/icons/tv_logos/channel vtm.png"/>
+    </item>
+    -->
+  </item>

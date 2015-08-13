@@ -1,0 +1,6 @@
+  <item id="epg" title="Program Guide" labelbgcolor="#014a8d">
+    <icon url="media/icons/mainmenu/main menu icon overview.png"/>
+    <item text="show">
+      <action module="AppEPG"  menu="xml/AppEPG.xml"/>
+    </item>
+  </item>

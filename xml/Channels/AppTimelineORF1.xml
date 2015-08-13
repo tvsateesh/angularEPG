@@ -1,0 +1,1735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="ORF1">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+
+
+ <item id="true-blood-s7-ep8" text="True Blood">
+		<image url="media/tv/true-blood-s7-ep8.png"/>
+
+		<title>True Blood</title>
+		<series>Season 7, Ep. 8: Almost Home</series>
+		<description>Sarah is captured and kept prisoner at Fangtasia. Jason and Jessica feel Violet's wrath. Lettie Mae bids farewell to Tara, witnessing what Tara wanted her to. Through Sookie, Bill is made aware of the cure, but will he accept it?</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/true-blood-s7-ep8.png">
+			<shorttext>
+				<span class="headline">True Blood</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 7, Ep. 8: Almost Home</p>
+				<p class="description">Sarah is captured and kept prisoner at Fangtasia. Jason and Jessica feel Violet's wrath. Lettie Mae bids farewell to Tara, witnessing what Tara wanted her to. Through Sookie, Bill is made aware of the cure, but will he accept it?</p>
+			</shorttext>
+			<time><start hour="21" min="05"/><end hour="21" min="40"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="breaking-bad-s2-ep12" text="Breaking Bad">
+		<image url="media/tv/breaking-bad-s2-ep12.png"/>
+
+		<title>Breaking Bad</title>
+		<series>Season 2, Ep. 12: Peekaboo</series>
+		<description>After Skinny Pete gets ripped off, Walt makes Jesse go get the money. Meanwhile, Walt's cover story on how Elliott and Gretchen are paying for his medical treatment is on the verge of collapsing.</description>
+
+		<genre>Crime</genre>
+		<release>2011</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/breaking-bad-s2-ep12.png">
+			<shorttext>
+				<span class="headline">Breaking Bad</span>
+				<p class="subheadline">Crime &#183; 2011 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 12: Peekaboo</p>
+				<p class="description">After Skinny Pete gets ripped off, Walt makes Jesse go get the money. Meanwhile, Walt's cover story on how Elliott and Gretchen are paying for his medical treatment is on the verge of collapsing.</p>
+			</shorttext>
+			<time><start hour="21" min="40"/><end hour="22" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="once-upon-a-time-s1-ep6" text="Once Upon a Time">
+		<image url="media/tv/once-upon-a-time-s1-ep6.png"/>
+
+		<title>Once Upon a Time</title>
+		<series>Season 1, Ep. 6: The Shepherd</series>
+		<description>David must choose between staying with Kathryn or leaving her to be with Mary Margaret, with whom he's fallen deeply in love. Meanwhile, Prince Charming is about to encounter a life-changing event that will forever alter his destiny.</description>
+
+		<genre>Romance</genre>
+		<release>2012</release>
+		<stars>4</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/once-upon-a-time-s1-ep6.png">
+			<shorttext>
+				<span class="headline">Once Upon a Time</span>
+				<p class="subheadline">Romance &#183; 2012 &#183; TV-PG &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 1, Ep. 6: The Shepherd</p>
+				<p class="description">David must choose between staying with Kathryn or leaving her to be with Mary Margaret, with whom he's fallen deeply in love. Meanwhile, Prince Charming is about to encounter a life-changing event that will forever alter his destiny.</p>
+			</shorttext>
+			<time><start hour="22" min="45"/><end hour="23" min="50"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="under-the-dome-s2-ep5" text="Under the Dome">
+		<image url="media/tv/under-the-dome-s2-ep5.png"/>
+
+		<title>Under the Dome</title>
+		<series>Season 2, Ep. 5: Reconciliation</series>
+		<description>With Big Jim and Rebecca in jail, townsfolk begin to take sides leading to violence and a death. Julia urges everyone to combine their food supplies, but it all backfires when the food storage facility at the fire station is blown up.</description>
+
+		<genre>Mystery</genre>
+		<release>2014</release>
+		<stars>3</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/under-the-dome-s2-ep5.png">
+			<shorttext>
+				<span class="headline">Under the Dome</span>
+				<p class="subheadline">Mystery &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 5: Reconciliation</p>
+				<p class="description">With Big Jim and Rebecca in jail, townsfolk begin to take sides leading to violence and a death. Julia urges everyone to combine their food supplies, but it all backfires when the food storage facility at the fire station is blown up.</p>
+			</shorttext>
+			<time><start hour="23" min="50"/><end hour="00" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+  
+  </item>
+
+
+<item id="evening" title="Evening">
+
+ <item id="pretty-little-liars-s4-ep16" text="Pretty Little Liars">
+		<image url="media/tv/pretty-little-liars-s4-ep16.png"/>
+
+		<title>Pretty Little Liars</title>
+		<series>Season 4, Ep. 16: Close Encounters</series>
+		<description>Shana tells Emily that she has a message from Ali, but can Emily and the girls trust Shana with all that they know about her? And when Shana ups the stakes and says that Ali wants to meet Emily could it all be part of it.</description>
+
+		<genre>Thriller</genre>
+		<release>2013</release>
+		<stars>3</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/pretty-little-liars-s4-ep16.png">
+			<shorttext>
+				<span class="headline">Pretty Little Liars</span>
+				<p class="subheadline">Thriller &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 4, Ep. 16: Close Encounters</p>
+				<p class="description">Shana tells Emily that she has a message from Ali, but can Emily and the girls trust Shana with all that they know about her? And when Shana ups the stakes and says that Ali wants to meet Emily could it all be part of it.</p>
+			</shorttext>
+			<time><start hour="17" min="15"/><end hour="18" min="00"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="arrow-s1-ep4" text="Arrow">
+		<image url="media/tv/arrow-s1-ep4.png"/>
+
+		<title>Arrow</title>
+		<series>Season 1, Ep. 4: An Innocent Man</series>
+		<description>Peter Declan has been charged with murdering his wife, and only Oliver believes he's innocent. Arrow asks Laurel to look into Declan's case. Meanwhile, Walter investigates a warehouse that Moria mysteriously bought with the company's money.</description>
+
+		<genre>Action</genre>
+		<release>2012</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>60</duration><series/>
+		</meta>
+		<info url="media/tv/arrow-s1-ep4.png">
+			<shorttext>
+				<span class="headline">Arrow</span>
+				<p class="subheadline">Action &#183; 2012 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 4: An Innocent Man</p>
+				<p class="description">Peter Declan has been charged with murdering his wife, and only Oliver believes he's innocent. Arrow asks Laurel to look into Declan's case. Meanwhile, Walter investigates a warehouse that Moria mysteriously bought with the company's money.</p>
+			</shorttext>
+			<time><start hour="18" min="00"/><end hour="19" min="00"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="falling-skies-s3-ep9" text="Falling Skies">
+		<image url="media/tv/falling-skies-s3-ep9.png"/>
+
+		<title>Falling Skies</title>
+		<series>Season 3, Ep. 9: Journey to Xibalba</series>
+		<description>Tom uncovers confidential intelligence about the heart of the alien operation. Meanwhile, Charleston prepares to mount an offensive against the Espheni, but a massive explosion brings the operation to a halt.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2013</release>
+		<stars>3</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/falling-skies-s3-ep9.png">
+			<shorttext>
+				<span class="headline">Falling Skies</span>
+				<p class="subheadline">Sci-Fi &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 9: Journey to Xibalba</p>
+				<p class="description">Tom uncovers confidential intelligence about the heart of the alien operation. Meanwhile, Charleston prepares to mount an offensive against the Espheni, but a massive explosion brings the operation to a halt.</p>
+			</shorttext>
+			<time><start hour="19" min="00"/><end hour="19" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="continuum-s3-ep1" text="Continuum">
+		<image url="media/tv/continuum-s3-ep1.png"/>
+
+		<title>Continuum</title>
+		<series>Season 3, Ep. 1: Minute by Minute</series>
+		<description>Keira Cameron's world has disintegrated. Alec Sadler betrayed her chance of going back to 2077, using the time travel device in hope of saving his girlfriend. Now Kiera &amp; Liber8, prisoners of the Freelancers scramble to escape their grasp.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/continuum-s3-ep1.png">
+			<shorttext>
+				<span class="headline">Continuum</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 1: Minute by Minute</p>
+				<p class="description">Keira Cameron's world has disintegrated. Alec Sadler betrayed her chance of going back to 2077, using the time travel device in hope of saving his girlfriend. Now Kiera &amp; Liber8, prisoners of the Freelancers scramble to escape their grasp.</p>
+			</shorttext>
+			<time><start hour="19" min="45"/><end hour="20" min="25"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="manhattan-s1-ep1" text="Manhattan">
+		<image url="media/tv/manhattan-s1-ep1.png"/>
+
+		<title>Manhattan</title>
+		<series>Season 1, Ep. 1: The One You Love</series>
+		<description>Charlie Isaacs and his family arrive in Los Alamos and attempt to navigate a community built on secrets. Frank Winter, the head of the Manhattan Project, struggles with the sacrifices he is making to help the U.S. win World War II.</description>
+
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/manhattan-s1-ep1.png">
+			<shorttext>
+				<span class="headline">Manhattan</span>
+				<p class="subheadline">Drama &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 1: The One You Love</p>
+				<p class="description">Charlie Isaacs and his family arrive in Los Alamos and attempt to navigate a community built on secrets. Frank Winter, the head of the Manhattan Project, struggles with the sacrifices he is making to help the U.S. win World War II.</p>
+			</shorttext>
+			<time><start hour="20" min="25"/><end hour="21" min="05"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+  
+  </item>
+
+
+<item id="afternoon" title="Afternoon">
+
+
+	<item id="true-blood-s5-ep6" text="True Blood">
+		<image url="media/tv/true-blood-s5-ep6.png"/>
+
+		<title>True Blood</title>
+		<series>Season 5, Ep. 6: Hopeless</series>
+		<description>The former King of Mississippi is taken prisoner and put in a cell at the Authority. Not quite knowing what might be in store for them on their return, Bill and Eric are happy to see that Roman welcomes them back with open arms.</description>
+
+		<genre>Drama</genre>
+		<release>2012</release>
+		<stars>4</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/true-blood-s5-ep6.png">
+			<shorttext>
+				<span class="headline">True Blood</span>
+				<p class="subheadline">Drama &#183; 2012 &#183; TV-MA &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 5, Ep. 6: Hopeless</p>
+				<p class="description">The former King of Mississippi is taken prisoner and put in a cell at the Authority. Not quite knowing what might be in store for them on their return, Bill and Eric are happy to see that Roman welcomes them back with open arms.</p>
+			</shorttext>
+			<time><start hour="14" min="35"/><end hour="15" min="30"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="true-detective-s1-ep5" text="True Detective">
+		<image url="media/tv/true-detective-s1-ep5.png"/>
+
+		<title>True Detective</title>
+		<series>Season 1, Ep. 5: The Locked Room</series>
+		<description>Cohle and Martin finally get a new wind in the case and can confirm a suspect. Martin's mistress gets on with somebody else leaving him furious. Cohle's theory becomes increasingly more convincing than ever.</description>
+
+		<genre>Mystery</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/true-detective-s1-ep5.png">
+			<shorttext>
+				<span class="headline">True Detective</span>
+				<p class="subheadline">Mystery &#183; 2014 &#183; TV-MA &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 1, Ep. 5: The Locked Room</p>
+				<p class="description">Cohle and Martin finally get a new wind in the case and can confirm a suspect. Martin's mistress gets on with somebody else leaving him furious. Cohle's theory becomes increasingly more convincing than ever.</p>
+			</shorttext>
+			<time><start hour="15" min="30"/><end hour="16" min="25"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="outlander-s1-ep2" text="Outlander">
+		<image url="media/tv/outlander-s1-ep2.png"/>
+
+		<title>Outlander</title>
+		<series>Season 1, Ep. 2: Castle Leoch</series>
+		<description>Claire is brought to Castle Leoch under suspicion as an English spy. Learning that the year is 1743, she tries to arrange travel back to the standing stones. Colum MacKenzie uses her ability as a healer as an excuse to detain her.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>50</duration><series/>
+		</meta>
+		<info url="media/tv/outlander-s1-ep2.png">
+			<shorttext>
+				<span class="headline">Outlander</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 2: Castle Leoch</p>
+				<p class="description">Claire is brought to Castle Leoch under suspicion as an English spy. Learning that the year is 1743, she tries to arrange travel back to the standing stones. Colum MacKenzie uses her ability as a healer as an excuse to detain her.</p>
+			</shorttext>
+			<time><start hour="16" min="25"/><end hour="17" min="15"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+
+
+
+
+</item>
+
+<item id="noon" title="Noon">
+
+<item id="breaking-bad-s4-ep11" text="Breaking Bad">
+		<image url="media/tv/breaking-bad-s4-ep11.png"/>
+
+		<title>Breaking Bad</title>
+		<series>Season 4, Ep. 11: Crawl Space</series>
+		<description>Hank asks Walt to drive him to the laundry where the meth lab is hidden. Ted still won't pay the IRS so Skyler asks Saul for help, and Saul sends in his A-Team. Gus and Jesse return from Mexico, and Walt fears he is in trouble with Gus.</description>
+
+		<genre>Crime</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/breaking-bad-s4-ep11.png">
+			<shorttext>
+				<span class="headline">Breaking Bad</span>
+				<p class="subheadline">Crime &#183; 2013 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 4, Ep. 11: Crawl Space</p>
+				<p class="description">Hank asks Walt to drive him to the laundry where the meth lab is hidden. Ted still won't pay the IRS so Skyler asks Saul for help, and Saul sends in his A-Team. Gus and Jesse return from Mexico, and Walt fears he is in trouble with Gus.</p>
+			</shorttext>
+			<time><start hour="10" min="05"/><end hour="11" min="00"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="once-upon-a-time-s3-ep9" text="Once Upon a Time">
+		<image url="media/tv/once-upon-a-time-s3-ep9.png"/>
+
+		<title>Once Upon a Time</title>
+		<series>Season 3, Ep. 9: Save Henry</series>
+		<description>As Henry's life hangs in the balance, the race is on to stop Pan from gaining full power from the heart of the truest believer. Back in Storybrooke of the past, Regina decides to fill a void in her life and sets out to adopt a baby.</description>
+
+		<genre>Romance</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/once-upon-a-time-s3-ep9.png">
+			<shorttext>
+				<span class="headline">Once Upon a Time</span>
+				<p class="subheadline">Romance &#183; 2014 &#183; TV-PG &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 3, Ep. 9: Save Henry</p>
+				<p class="description">As Henry's life hangs in the balance, the race is on to stop Pan from gaining full power from the heart of the truest believer. Back in Storybrooke of the past, Regina decides to fill a void in her life and sets out to adopt a baby.</p>
+			</shorttext>
+			<time><start hour="11" min="00"/><end hour="11" min="40"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+
+
+
+
+
+	<item id="24-s8-ep7" text="24">
+		<image url="media/tv/24-s8-ep7.png"/>
+
+		<title>24</title>
+		<series>Season 8, Ep. 7: Day 8, 10-11 PM</series>
+		<description>While the media interview the peace delegates, Jack and Cole have gone rogue to rescue a traitor being tortured by off-the-grid operatives; Logan gets President Taylor to approve putting his aide in charge of the manhunt.</description>
+
+		<genre>Thriller</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/24-s8-ep7.png">
+			<shorttext>
+				<span class="headline">24</span>
+				<p class="subheadline">Thriller &#183; 2013 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 8, Ep. 7: Day 8, 10-11 PM</p>
+				<p class="description">While the media interview the peace delegates, Jack and Cole have gone rogue to rescue a traitor being tortured by off-the-grid operatives; Logan gets President Taylor to approve putting his aide in charge of the manhunt.</p>
+			</shorttext>
+			<time><start hour="11" min="40"/><end hour="12" min="20"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="orange-is-the-new-black-s2-ep11" text="Orange Is the New Black">
+		<image url="media/tv/orange-is-the-new-black-s2-ep11.png"/>
+
+		<title>Orange Is the New Black</title>
+		<series>Season 2, Ep. 11: It Was the Change</series>
+		<description>The prison guards finally crack down on the inmates to stop the smuggling issue. Tensions run high as a prison power outage forces several issues to come to light; Piper finds herself compromised and is forced to think on her feet.</description>
+
+		<genre>Crime</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/orange-is-the-new-black-s2-ep11.png">
+			<shorttext>
+				<span class="headline">Orange Is the New Black</span>
+				<p class="subheadline">Crime &#183; 2014 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 11: It Was the Change</p>
+				<p class="description">The prison guards finally crack down on the inmates to stop the smuggling issue. Tensions run high as a prison power outage forces several issues to come to light; Piper finds herself compromised and is forced to think on her feet.</p>
+			</shorttext>
+			<time><start hour="12" min="20"/><end hour="13" min="00"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="arrow-s2-ep15" text="Arrow">
+		<image url="media/tv/arrow-s2-ep15.png"/>
+
+		<title>Arrow</title>
+		<series>Season 2, Ep. 15: Sacrifice</series>
+		<description>Oliver awakens to find himself Malcolm Merlyn's prisoner. He manages to escape and away with help from Digg. Malcolm accelerates his timetable as a result. Lance about her hacking activities but is interrupted by Oliver.</description>
+
+		<genre>Action</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/arrow-s2-ep15.png">
+			<shorttext>
+				<span class="headline">Arrow</span>
+				<p class="subheadline">Action &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 15: Sacrifice</p>
+				<p class="description">Oliver awakens to find himself Malcolm Merlyn's prisoner. He manages to escape and away with help from Digg. Malcolm accelerates his timetable as a result. Lance about her hacking activities but is interrupted by Oliver.</p>
+			</shorttext>
+			<time><start hour="13" min="00"/><end hour="13" min="30"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="grimm-s3-ep7" text="Grimm">
+		<image url="media/tv/grimm-s3-ep7.png"/>
+
+		<title>Grimm</title>
+		<series>Season 3, Ep. 7: Cold Blooded</series>
+		<description>As a deadly crime spree begins to surface, a century-old urban legend takes shape in Portland's sewers and becomes Nick's latest case. Adalind meets Prince Viktor, who brings those responsible for his cousin Eric's demise to justice.</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/grimm-s3-ep7.png">
+			<shorttext>
+				<span class="headline">Grimm</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 7: Cold Blooded</p>
+				<p class="description">As a deadly crime spree begins to surface, a century-old urban legend takes shape in Portland's sewers and becomes Nick's latest case. Adalind meets Prince Viktor, who brings those responsible for his cousin Eric's demise to justice.</p>
+			</shorttext>
+			<time><start hour="13" min="30"/><end hour="14" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+
+
+  
+
+
+
+</item>
+
+<item id="morning" title="Morning">
+
+<item id="glee-s5-ep17" text="Glee">
+		<image url="media/tv/glee-s5-ep17.png"/>
+
+		<title>Glee</title>
+		<series>Season 5, Ep. 17: Opening Night</series>
+		<description>Nervous for opening night, Rachel is willing to do anything to succeed. When she finds out that Jacob Ben Isreal is writing a review of the show for the New Yorker, her director pressures her to do whatever it takes for a good review.</description>
+
+		<genre>Music</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/glee-s5-ep17.png">
+			<shorttext>
+				<span class="headline">Glee</span>
+				<p class="subheadline">Music &#183; 2014 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 5, Ep. 17: Opening Night</p>
+				<p class="description">Nervous for opening night, Rachel is willing to do anything to succeed. When she finds out that Jacob Ben Isreal is writing a review of the show for the New Yorker, her director pressures her to do whatever it takes for a good review.</p>
+			</shorttext>
+			<time><start hour="00" min="00"/><end hour="00" min="30"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="game-of-thrones-s2-ep2" text="Game of Thrones">
+		<image url="media/tv/game-of-thrones-s2-ep2.png"/>
+
+		<title>Game of Thrones</title>
+		<series>Season 2, Ep. 2: The Night Lands</series>
+		<description>Arya makes friends with Gendry. Tyrion tries to take control of the small council. Theon arrives at his home, Pyke, in order to persuade his father into helping Robb with the war. Jon tries to investigate Craster's secret.</description>
+
+		<genre>Fantasy</genre>
+		<release>2012</release>
+		<stars>5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/game-of-thrones-s2-ep2.png">
+			<shorttext>
+				<span class="headline">Game of Thrones</span>
+				<p class="subheadline">Fantasy &#183; 2012 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 2: The Night Lands</p>
+				<p class="description">Arya makes friends with Gendry. Tyrion tries to take control of the small council. Theon arrives at his home, Pyke, in order to persuade his father into helping Robb with the war. Jon tries to investigate Craster's secret.</p>
+			</shorttext>
+			<time><start hour="00" min="30"/><end hour="01" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="how-i-met-your-mother-s8-ep24" text="How I Met Your Mother">
+		<image url="media/tv/how-i-met-your-mother-s8-ep24.png"/>
+
+		<title>How I Met Your Mother</title>
+		<series>Season 8, Ep. 24: Something New</series>
+		<description>As the wedding approaches, Barney and Robin deliberately ruin an obnoxious couple's evening, Marshall and Lily's plans for Italy hit a snag, Ted tells Lily that he's moving to Chicago, and the mother buys her ticket to Farhampton.</description>
+
+		<genre>Romance</genre>
+		<release>2012</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/how-i-met-your-mother-s8-ep24.png">
+			<shorttext>
+				<span class="headline">How I Met Your Mother</span>
+				<p class="subheadline">Romance &#183; 2012 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 8, Ep. 24: Something New</p>
+				<p class="description">As the wedding approaches, Barney and Robin deliberately ruin an obnoxious couple's evening, Marshall and Lily's plans for Italy hit a snag, Ted tells Lily that he's moving to Chicago, and the mother buys her ticket to Farhampton.</p>
+			</shorttext>
+			<time><start hour="01" min="35"/><end hour="02" min="20"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="haven-s4-ep3" text="Haven">
+		<image url="media/tv/haven-s4-ep3.png"/>
+
+		<title>Haven</title>
+		<series>Season 4, Ep. 3: Bad Blood</series>
+		<description>A series of exsanguinated bodies have the police at a loss to explain the deaths. Everyone is angry at Nathan for shooting Agent Howard and destroying the barn, but it would appear that some are more angry than others.</description>
+
+		<genre>Crime</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/haven-s4-ep3.png">
+			<shorttext>
+				<span class="headline">Haven</span>
+				<p class="subheadline">Crime &#183; 2014 &#183; TV-MA &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 4, Ep. 3: Bad Blood</p>
+				<p class="description">A series of exsanguinated bodies have the police at a loss to explain the deaths. Everyone is angry at Nathan for shooting Agent Howard and destroying the barn, but it would appear that some are more angry than others.</p>
+			</shorttext>
+			<time><start hour="02" min="20"/><end hour="03" min="15"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="gotham-s1-ep1" text="Gotham">
+		<image url="media/tv/gotham-s1-ep1.png"/>
+
+		<title>Gotham</title>
+		<series>Season 1, Ep. 1: Pilot</series>
+		<description>A new recruit in Captain Sarah Essen's Gotham City Police Department, Detective James Gordon is paired with Harvey Bullock to solve one of Gotham's most high-profile cases ever: the murder of Thomas and Martha Wayne.</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/gotham-s1-ep1.png">
+			<shorttext>
+				<span class="headline">Gotham</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+				<p class="description">A new recruit in Captain Sarah Essen's Gotham City Police Department, Detective James Gordon is paired with Harvey Bullock to solve one of Gotham's most high-profile cases ever: the murder of Thomas and Martha Wayne.</p>
+			</shorttext>
+			<time><start hour="03" min="15"/><end hour="03" min="55"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="defiance-s2-ep3" text="Defiance">
+		<image url="media/tv/defiance-s2-ep3.png"/>
+
+		<title>Defiance</title>
+		<series>Season 2, Ep. 3: The Cord and the Ax</series>
+		<description>Irisa's terrifying black-outs escalate, driving a wedge of secrecy between her and a worried Nolan. Meanwhile, the Tarr family business thrives under Stahma's self-appointed direction while an increasingly suspicious Datak remains in jail.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/defiance-s2-ep3.png">
+			<shorttext>
+				<span class="headline">Defiance</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 3: The Cord and the Ax</p>
+				<p class="description">Irisa's terrifying black-outs escalate, driving a wedge of secrecy between her and a worried Nolan. Meanwhile, the Tarr family business thrives under Stahma's self-appointed direction while an increasingly suspicious Datak remains in jail.</p>
+			</shorttext>
+			<time><start hour="03" min="55"/><end hour="04" min="25"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="falling-skies-s4-ep3" text="Falling Skies">
+		<image url="media/tv/falling-skies-s4-ep3.png"/>
+
+		<title>Falling Skies</title>
+		<series>Season 4, Ep. 3: Exodus</series>
+		<description>Tom and the 2nd Mass hatch an elaborate plan to escape the confines of the Espheni Ghetto. Meanwhile back in Chinatown, after learning from Ben that Lexi has been keeping a deadly secret, Maggie confronts Lexi publicly.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/falling-skies-s4-ep3.png">
+			<shorttext>
+				<span class="headline">Falling Skies</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 4, Ep. 3: Exodus</p>
+				<p class="description">Tom and the 2nd Mass hatch an elaborate plan to escape the confines of the Espheni Ghetto. Meanwhile back in Chinatown, after learning from Ben that Lexi has been keeping a deadly secret, Maggie confronts Lexi publicly.</p>
+			</shorttext>
+			<time><start hour="04" min="25"/><end hour="05" min="05"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="the-big-bang-theory-s7-ep6" text="The Big Bang Theory">
+		<image url="media/tv/the-big-bang-theory-s7-ep6.png"/>
+
+		<title>The Big Bang Theory</title>
+		<series>Season 7, Ep. 6: The Romance Resonance</series>
+		<description>Howard tries to do something special to celebrate the anniversary of his first date with Bernadette. Sheldon is conflicted when he makes a major scientific breakthrough but some details have to be corrected.</description>
+
+		<genre>Comedy</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/the-big-bang-theory-s7-ep6.png">
+			<shorttext>
+				<span class="headline">The Big Bang Theory</span>
+				<p class="subheadline">Comedy &#183; 2013 &#183; TV-PG &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 7, Ep. 6: The Romance Resonance</p>
+				<p class="description">Howard tries to do something special to celebrate the anniversary of his first date with Bernadette. Sheldon is conflicted when he makes a major scientific breakthrough but some details have to be corrected.</p>
+			</shorttext>
+			<time><start hour="05" min="05"/><end hour="05" min="40"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="agents-of-shield-s2-ep2" text="Agents of Shield">
+		<image url="media/tv/agents-of-shield-s2-ep2.png"/>
+
+		<title>Agents of Shield</title>
+		<series>Season 2, Ep. 2: Eye Spy</series>
+		<description>Dark secrets are revealed as Coulson and his team put everything on the line to stop Garrett and the forces of Hydra. Everyone tries to track down a former agent who is now stealing highly valuable information.</description>
+
+		<genre>Action</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/agents-of-shield-s2-ep2.png">
+			<shorttext>
+				<span class="headline">Agents of Shield</span>
+				<p class="subheadline">Action &#183; 2014 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 2, Ep. 2: Eye Spy</p>
+				<p class="description">Dark secrets are revealed as Coulson and his team put everything on the line to stop Garrett and the forces of Hydra. Everyone tries to track down a former agent who is now stealing highly valuable information.</p>
+			</shorttext>
+			<time><start hour="05" min="40"/><end hour="06" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="the-big-bang-theory-s8-ep1" text="The Big Bang Theory">
+		<image url="media/tv/the-big-bang-theory-s8-ep1.png"/>
+
+		<title>The Big Bang Theory</title>
+		<series>Season 8, Ep. 1: Locomotion Interruption</series>
+		<description>Leonard and Amy take an unexpected road trip to Arizona to pick up Sheldon. Meanwhile, Penny interviews for a job at Bernadette's company, and Howard is weirded out by Stuart's relationship with Mrs. Wolowitz.</description>
+
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>3</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/the-big-bang-theory-s8-ep1.png">
+			<shorttext>
+				<span class="headline">The Big Bang Theory</span>
+				<p class="subheadline">Comedy &#183; 2014 &#183; TV-PG &#183; </p>
+				<p class="subsubheadline">Season 8, Ep. 1: Locomotion Interruption</p>
+				<p class="description">Leonard and Amy take an unexpected road trip to Arizona to pick up Sheldon. Meanwhile, Penny interviews for a job at Bernadette's company, and Howard is weirded out by Stuart's relationship with Mrs. Wolowitz.</p>
+			</shorttext>
+			<time><start hour="06" min="45"/><end hour="07" min="20"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="new-girl-s3-ep12" text="New Girl">
+		<image url="media/tv/new-girl-s3-ep12.png"/>
+
+		<title>New Girl</title>
+		<series>Season 3, Ep. 12: Basketsball</series>
+		<description>Jess pretends to be a fan of the Pistons in an attempt to befriend Coach, to Nick's dismay, who is a Bulls fan. Meanwhile, Schmidt is assigned to mentor an elderly colleague at work and Winston discovers a new career path.</description>
+
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/new-girl-s3-ep12.png">
+			<shorttext>
+				<span class="headline">New Girl</span>
+				<p class="subheadline">Comedy &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 12: Basketsball</p>
+				<p class="description">Jess pretends to be a fan of the Pistons in an attempt to befriend Coach, to Nick's dismay, who is a Bulls fan. Meanwhile, Schmidt is assigned to mentor an elderly colleague at work and Winston discovers a new career path.</p>
+			</shorttext>
+			<time><start hour="07" min="20"/><end hour="08" min="25"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="the-walking-dead-s4-ep4" text="The Walking Dead">
+		<image url="media/tv/the-walking-dead-s4-ep4.png"/>
+
+		<title>The Walking Dead</title>
+		<series>Season 4, Ep. 4: Isolation</series>
+		<description>As the sick are quarantined, Daryl, Tyreese, Michonne and Bob leave the prison in search of medical supplies. Rick makes a shocking discovery. Rick and Carol go to a nearby town where they find two uninfected stragglers.</description>
+
+		<genre>Horror</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/the-walking-dead-s4-ep4.png">
+			<shorttext>
+				<span class="headline">The Walking Dead</span>
+				<p class="subheadline">Horror &#183; 2014 &#183; TV-MA &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 4, Ep. 4: Isolation</p>
+				<p class="description">As the sick are quarantined, Daryl, Tyreese, Michonne and Bob leave the prison in search of medical supplies. Rick makes a shocking discovery. Rick and Carol go to a nearby town where they find two uninfected stragglers.</p>
+			</shorttext>
+			<time><start hour="08" min="25"/><end hour="09" min="10"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="da-vincis-demons-s1-ep5" text="Da Vinci's Demons">
+		<image url="media/tv/da-vincis-demons-s1-ep5.png"/>
+
+		<title>Da Vinci's Demons</title>
+		<series>Season 1, Ep. 5: The Hierophant</series>
+		<description>Leonardo builds an underwater suit and breaks into the Vatican through the sewer. He meets the Pope and the mysterious prisoner. Giuliano reveals the identity of spy in Rome. Later, the search for the Medici's spy intensifies.</description>
+
+		<genre>Fantasy</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/da-vincis-demons-s1-ep5.png">
+			<shorttext>
+				<span class="headline">Da Vinci's Demons</span>
+				<p class="subheadline">Fantasy &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 5: The Hierophant</p>
+				<p class="description">Leonardo builds an underwater suit and breaks into the Vatican through the sewer. He meets the Pope and the mysterious prisoner. Giuliano reveals the identity of spy in Rome. Later, the search for the Medici's spy intensifies.</p>
+			</shorttext>
+			<time><start hour="09" min="10"/><end hour="10" min="05"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ 
+</item>
+
+
+<item id="now" title="Now">
+	
+<item id="glee-s5-ep17" text="Glee">
+		<image url="media/tv/glee-s5-ep17.png"/>
+
+		<title>Glee</title>
+		<series>Season 5, Ep. 17: Opening Night</series>
+		<description>Nervous for opening night, Rachel is willing to do anything to succeed. When she finds out that Jacob Ben Isreal is writing a review of the show for the New Yorker, her director pressures her to do whatever it takes for a good review.</description>
+
+		<genre>Music</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/glee-s5-ep17.png">
+			<shorttext>
+				<span class="headline">Glee</span>
+				<p class="subheadline">Music &#183; 2014 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 5, Ep. 17: Opening Night</p>
+				<p class="description">Nervous for opening night, Rachel is willing to do anything to succeed. When she finds out that Jacob Ben Isreal is writing a review of the show for the New Yorker, her director pressures her to do whatever it takes for a good review.</p>
+			</shorttext>
+			<time><start hour="00" min="00"/><end hour="00" min="30"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="game-of-thrones-s2-ep2" text="Game of Thrones">
+		<image url="media/tv/game-of-thrones-s2-ep2.png"/>
+
+		<title>Game of Thrones</title>
+		<series>Season 2, Ep. 2: The Night Lands</series>
+		<description>Arya makes friends with Gendry. Tyrion tries to take control of the small council. Theon arrives at his home, Pyke, in order to persuade his father into helping Robb with the war. Jon tries to investigate Craster's secret.</description>
+
+		<genre>Fantasy</genre>
+		<release>2012</release>
+		<stars>5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/game-of-thrones-s2-ep2.png">
+			<shorttext>
+				<span class="headline">Game of Thrones</span>
+				<p class="subheadline">Fantasy &#183; 2012 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 2: The Night Lands</p>
+				<p class="description">Arya makes friends with Gendry. Tyrion tries to take control of the small council. Theon arrives at his home, Pyke, in order to persuade his father into helping Robb with the war. Jon tries to investigate Craster's secret.</p>
+			</shorttext>
+			<time><start hour="00" min="30"/><end hour="01" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="how-i-met-your-mother-s8-ep24" text="How I Met Your Mother">
+		<image url="media/tv/how-i-met-your-mother-s8-ep24.png"/>
+
+		<title>How I Met Your Mother</title>
+		<series>Season 8, Ep. 24: Something New</series>
+		<description>As the wedding approaches, Barney and Robin deliberately ruin an obnoxious couple's evening, Marshall and Lily's plans for Italy hit a snag, Ted tells Lily that he's moving to Chicago, and the mother buys her ticket to Farhampton.</description>
+
+		<genre>Romance</genre>
+		<release>2012</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/how-i-met-your-mother-s8-ep24.png">
+			<shorttext>
+				<span class="headline">How I Met Your Mother</span>
+				<p class="subheadline">Romance &#183; 2012 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 8, Ep. 24: Something New</p>
+				<p class="description">As the wedding approaches, Barney and Robin deliberately ruin an obnoxious couple's evening, Marshall and Lily's plans for Italy hit a snag, Ted tells Lily that he's moving to Chicago, and the mother buys her ticket to Farhampton.</p>
+			</shorttext>
+			<time><start hour="01" min="35"/><end hour="02" min="20"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="haven-s4-ep3" text="Haven">
+		<image url="media/tv/haven-s4-ep3.png"/>
+
+		<title>Haven</title>
+		<series>Season 4, Ep. 3: Bad Blood</series>
+		<description>A series of exsanguinated bodies have the police at a loss to explain the deaths. Everyone is angry at Nathan for shooting Agent Howard and destroying the barn, but it would appear that some are more angry than others.</description>
+
+		<genre>Crime</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/haven-s4-ep3.png">
+			<shorttext>
+				<span class="headline">Haven</span>
+				<p class="subheadline">Crime &#183; 2014 &#183; TV-MA &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 4, Ep. 3: Bad Blood</p>
+				<p class="description">A series of exsanguinated bodies have the police at a loss to explain the deaths. Everyone is angry at Nathan for shooting Agent Howard and destroying the barn, but it would appear that some are more angry than others.</p>
+			</shorttext>
+			<time><start hour="02" min="20"/><end hour="03" min="15"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="gotham-s1-ep1" text="Gotham">
+		<image url="media/tv/gotham-s1-ep1.png"/>
+
+		<title>Gotham</title>
+		<series>Season 1, Ep. 1: Pilot</series>
+		<description>A new recruit in Captain Sarah Essen's Gotham City Police Department, Detective James Gordon is paired with Harvey Bullock to solve one of Gotham's most high-profile cases ever: the murder of Thomas and Martha Wayne.</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/gotham-s1-ep1.png">
+			<shorttext>
+				<span class="headline">Gotham</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+				<p class="description">A new recruit in Captain Sarah Essen's Gotham City Police Department, Detective James Gordon is paired with Harvey Bullock to solve one of Gotham's most high-profile cases ever: the murder of Thomas and Martha Wayne.</p>
+			</shorttext>
+			<time><start hour="03" min="15"/><end hour="03" min="55"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="defiance-s2-ep3" text="Defiance">
+		<image url="media/tv/defiance-s2-ep3.png"/>
+
+		<title>Defiance</title>
+		<series>Season 2, Ep. 3: The Cord and the Ax</series>
+		<description>Irisa's terrifying black-outs escalate, driving a wedge of secrecy between her and a worried Nolan. Meanwhile, the Tarr family business thrives under Stahma's self-appointed direction while an increasingly suspicious Datak remains in jail.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/defiance-s2-ep3.png">
+			<shorttext>
+				<span class="headline">Defiance</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 3: The Cord and the Ax</p>
+				<p class="description">Irisa's terrifying black-outs escalate, driving a wedge of secrecy between her and a worried Nolan. Meanwhile, the Tarr family business thrives under Stahma's self-appointed direction while an increasingly suspicious Datak remains in jail.</p>
+			</shorttext>
+			<time><start hour="03" min="55"/><end hour="04" min="25"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="falling-skies-s4-ep3" text="Falling Skies">
+		<image url="media/tv/falling-skies-s4-ep3.png"/>
+
+		<title>Falling Skies</title>
+		<series>Season 4, Ep. 3: Exodus</series>
+		<description>Tom and the 2nd Mass hatch an elaborate plan to escape the confines of the Espheni Ghetto. Meanwhile back in Chinatown, after learning from Ben that Lexi has been keeping a deadly secret, Maggie confronts Lexi publicly.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/falling-skies-s4-ep3.png">
+			<shorttext>
+				<span class="headline">Falling Skies</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 4, Ep. 3: Exodus</p>
+				<p class="description">Tom and the 2nd Mass hatch an elaborate plan to escape the confines of the Espheni Ghetto. Meanwhile back in Chinatown, after learning from Ben that Lexi has been keeping a deadly secret, Maggie confronts Lexi publicly.</p>
+			</shorttext>
+			<time><start hour="04" min="25"/><end hour="05" min="05"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="the-big-bang-theory-s7-ep6" text="The Big Bang Theory">
+		<image url="media/tv/the-big-bang-theory-s7-ep6.png"/>
+
+		<title>The Big Bang Theory</title>
+		<series>Season 7, Ep. 6: The Romance Resonance</series>
+		<description>Howard tries to do something special to celebrate the anniversary of his first date with Bernadette. Sheldon is conflicted when he makes a major scientific breakthrough but some details have to be corrected.</description>
+
+		<genre>Comedy</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/the-big-bang-theory-s7-ep6.png">
+			<shorttext>
+				<span class="headline">The Big Bang Theory</span>
+				<p class="subheadline">Comedy &#183; 2013 &#183; TV-PG &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 7, Ep. 6: The Romance Resonance</p>
+				<p class="description">Howard tries to do something special to celebrate the anniversary of his first date with Bernadette. Sheldon is conflicted when he makes a major scientific breakthrough but some details have to be corrected.</p>
+			</shorttext>
+			<time><start hour="05" min="05"/><end hour="05" min="40"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="agents-of-shield-s2-ep2" text="Agents of Shield">
+		<image url="media/tv/agents-of-shield-s2-ep2.png"/>
+
+		<title>Agents of Shield</title>
+		<series>Season 2, Ep. 2: Eye Spy</series>
+		<description>Dark secrets are revealed as Coulson and his team put everything on the line to stop Garrett and the forces of Hydra. Everyone tries to track down a former agent who is now stealing highly valuable information.</description>
+
+		<genre>Action</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/agents-of-shield-s2-ep2.png">
+			<shorttext>
+				<span class="headline">Agents of Shield</span>
+				<p class="subheadline">Action &#183; 2014 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 2, Ep. 2: Eye Spy</p>
+				<p class="description">Dark secrets are revealed as Coulson and his team put everything on the line to stop Garrett and the forces of Hydra. Everyone tries to track down a former agent who is now stealing highly valuable information.</p>
+			</shorttext>
+			<time><start hour="05" min="40"/><end hour="06" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="the-big-bang-theory-s8-ep1" text="The Big Bang Theory">
+		<image url="media/tv/the-big-bang-theory-s8-ep1.png"/>
+
+		<title>The Big Bang Theory</title>
+		<series>Season 8, Ep. 1: Locomotion Interruption</series>
+		<description>Leonard and Amy take an unexpected road trip to Arizona to pick up Sheldon. Meanwhile, Penny interviews for a job at Bernadette's company, and Howard is weirded out by Stuart's relationship with Mrs. Wolowitz.</description>
+
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>3</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/the-big-bang-theory-s8-ep1.png">
+			<shorttext>
+				<span class="headline">The Big Bang Theory</span>
+				<p class="subheadline">Comedy &#183; 2014 &#183; TV-PG &#183; </p>
+				<p class="subsubheadline">Season 8, Ep. 1: Locomotion Interruption</p>
+				<p class="description">Leonard and Amy take an unexpected road trip to Arizona to pick up Sheldon. Meanwhile, Penny interviews for a job at Bernadette's company, and Howard is weirded out by Stuart's relationship with Mrs. Wolowitz.</p>
+			</shorttext>
+			<time><start hour="06" min="45"/><end hour="07" min="20"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="new-girl-s3-ep12" text="New Girl">
+		<image url="media/tv/new-girl-s3-ep12.png"/>
+
+		<title>New Girl</title>
+		<series>Season 3, Ep. 12: Basketsball</series>
+		<description>Jess pretends to be a fan of the Pistons in an attempt to befriend Coach, to Nick's dismay, who is a Bulls fan. Meanwhile, Schmidt is assigned to mentor an elderly colleague at work and Winston discovers a new career path.</description>
+
+		<genre>Comedy</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/new-girl-s3-ep12.png">
+			<shorttext>
+				<span class="headline">New Girl</span>
+				<p class="subheadline">Comedy &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 12: Basketsball</p>
+				<p class="description">Jess pretends to be a fan of the Pistons in an attempt to befriend Coach, to Nick's dismay, who is a Bulls fan. Meanwhile, Schmidt is assigned to mentor an elderly colleague at work and Winston discovers a new career path.</p>
+			</shorttext>
+			<time><start hour="07" min="20"/><end hour="08" min="25"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="the-walking-dead-s4-ep4" text="The Walking Dead">
+		<image url="media/tv/the-walking-dead-s4-ep4.png"/>
+
+		<title>The Walking Dead</title>
+		<series>Season 4, Ep. 4: Isolation</series>
+		<description>As the sick are quarantined, Daryl, Tyreese, Michonne and Bob leave the prison in search of medical supplies. Rick makes a shocking discovery. Rick and Carol go to a nearby town where they find two uninfected stragglers.</description>
+
+		<genre>Horror</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/the-walking-dead-s4-ep4.png">
+			<shorttext>
+				<span class="headline">The Walking Dead</span>
+				<p class="subheadline">Horror &#183; 2014 &#183; TV-MA &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 4, Ep. 4: Isolation</p>
+				<p class="description">As the sick are quarantined, Daryl, Tyreese, Michonne and Bob leave the prison in search of medical supplies. Rick makes a shocking discovery. Rick and Carol go to a nearby town where they find two uninfected stragglers.</p>
+			</shorttext>
+			<time><start hour="08" min="25"/><end hour="09" min="10"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="da-vincis-demons-s1-ep5" text="Da Vinci's Demons">
+		<image url="media/tv/da-vincis-demons-s1-ep5.png"/>
+
+		<title>Da Vinci's Demons</title>
+		<series>Season 1, Ep. 5: The Hierophant</series>
+		<description>Leonardo builds an underwater suit and breaks into the Vatican through the sewer. He meets the Pope and the mysterious prisoner. Giuliano reveals the identity of spy in Rome. Later, the search for the Medici's spy intensifies.</description>
+
+		<genre>Fantasy</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/da-vincis-demons-s1-ep5.png">
+			<shorttext>
+				<span class="headline">Da Vinci's Demons</span>
+				<p class="subheadline">Fantasy &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 5: The Hierophant</p>
+				<p class="description">Leonardo builds an underwater suit and breaks into the Vatican through the sewer. He meets the Pope and the mysterious prisoner. Giuliano reveals the identity of spy in Rome. Later, the search for the Medici's spy intensifies.</p>
+			</shorttext>
+			<time><start hour="09" min="10"/><end hour="10" min="05"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="breaking-bad-s4-ep11" text="Breaking Bad">
+		<image url="media/tv/breaking-bad-s4-ep11.png"/>
+
+		<title>Breaking Bad</title>
+		<series>Season 4, Ep. 11: Crawl Space</series>
+		<description>Hank asks Walt to drive him to the laundry where the meth lab is hidden. Ted still won't pay the IRS so Skyler asks Saul for help, and Saul sends in his A-Team. Gus and Jesse return from Mexico, and Walt fears he is in trouble with Gus.</description>
+
+		<genre>Crime</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/breaking-bad-s4-ep11.png">
+			<shorttext>
+				<span class="headline">Breaking Bad</span>
+				<p class="subheadline">Crime &#183; 2013 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 4, Ep. 11: Crawl Space</p>
+				<p class="description">Hank asks Walt to drive him to the laundry where the meth lab is hidden. Ted still won't pay the IRS so Skyler asks Saul for help, and Saul sends in his A-Team. Gus and Jesse return from Mexico, and Walt fears he is in trouble with Gus.</p>
+			</shorttext>
+			<time><start hour="10" min="05"/><end hour="11" min="00"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="once-upon-a-time-s3-ep9" text="Once Upon a Time">
+		<image url="media/tv/once-upon-a-time-s3-ep9.png"/>
+
+		<title>Once Upon a Time</title>
+		<series>Season 3, Ep. 9: Save Henry</series>
+		<description>As Henry's life hangs in the balance, the race is on to stop Pan from gaining full power from the heart of the truest believer. Back in Storybrooke of the past, Regina decides to fill a void in her life and sets out to adopt a baby.</description>
+
+		<genre>Romance</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/once-upon-a-time-s3-ep9.png">
+			<shorttext>
+				<span class="headline">Once Upon a Time</span>
+				<p class="subheadline">Romance &#183; 2014 &#183; TV-PG &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 3, Ep. 9: Save Henry</p>
+				<p class="description">As Henry's life hangs in the balance, the race is on to stop Pan from gaining full power from the heart of the truest believer. Back in Storybrooke of the past, Regina decides to fill a void in her life and sets out to adopt a baby.</p>
+			</shorttext>
+			<time><start hour="11" min="00"/><end hour="11" min="40"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="24-s8-ep7" text="24">
+		<image url="media/tv/24-s8-ep7.png"/>
+
+		<title>24</title>
+		<series>Season 8, Ep. 7: Day 8, 10-11 PM</series>
+		<description>While the media interview the peace delegates, Jack and Cole have gone rogue to rescue a traitor being tortured by off-the-grid operatives; Logan gets President Taylor to approve putting his aide in charge of the manhunt.</description>
+
+		<genre>Thriller</genre>
+		<release>2013</release>
+		<stars>4</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/24-s8-ep7.png">
+			<shorttext>
+				<span class="headline">24</span>
+				<p class="subheadline">Thriller &#183; 2013 &#183; TV-14 &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 8, Ep. 7: Day 8, 10-11 PM</p>
+				<p class="description">While the media interview the peace delegates, Jack and Cole have gone rogue to rescue a traitor being tortured by off-the-grid operatives; Logan gets President Taylor to approve putting his aide in charge of the manhunt.</p>
+			</shorttext>
+			<time><start hour="11" min="40"/><end hour="12" min="20"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="orange-is-the-new-black-s2-ep11" text="Orange Is the New Black">
+		<image url="media/tv/orange-is-the-new-black-s2-ep11.png"/>
+
+		<title>Orange Is the New Black</title>
+		<series>Season 2, Ep. 11: It Was the Change</series>
+		<description>The prison guards finally crack down on the inmates to stop the smuggling issue. Tensions run high as a prison power outage forces several issues to come to light; Piper finds herself compromised and is forced to think on her feet.</description>
+
+		<genre>Crime</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/orange-is-the-new-black-s2-ep11.png">
+			<shorttext>
+				<span class="headline">Orange Is the New Black</span>
+				<p class="subheadline">Crime &#183; 2014 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 11: It Was the Change</p>
+				<p class="description">The prison guards finally crack down on the inmates to stop the smuggling issue. Tensions run high as a prison power outage forces several issues to come to light; Piper finds herself compromised and is forced to think on her feet.</p>
+			</shorttext>
+			<time><start hour="12" min="20"/><end hour="13" min="00"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="arrow-s2-ep15" text="Arrow">
+		<image url="media/tv/arrow-s2-ep15.png"/>
+
+		<title>Arrow</title>
+		<series>Season 2, Ep. 15: Sacrifice</series>
+		<description>Oliver awakens to find himself Malcolm Merlyn's prisoner. He manages to escape and away with help from Digg. Malcolm accelerates his timetable as a result. Lance about her hacking activities but is interrupted by Oliver.</description>
+
+		<genre>Action</genre>
+		<release>2013</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>30</duration><series/>
+		</meta>
+		<info url="media/tv/arrow-s2-ep15.png">
+			<shorttext>
+				<span class="headline">Arrow</span>
+				<p class="subheadline">Action &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 15: Sacrifice</p>
+				<p class="description">Oliver awakens to find himself Malcolm Merlyn's prisoner. He manages to escape and away with help from Digg. Malcolm accelerates his timetable as a result. Lance about her hacking activities but is interrupted by Oliver.</p>
+			</shorttext>
+			<time><start hour="13" min="00"/><end hour="13" min="30"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="grimm-s3-ep7" text="Grimm">
+		<image url="media/tv/grimm-s3-ep7.png"/>
+
+		<title>Grimm</title>
+		<series>Season 3, Ep. 7: Cold Blooded</series>
+		<description>As a deadly crime spree begins to surface, a century-old urban legend takes shape in Portland's sewers and becomes Nick's latest case. Adalind meets Prince Viktor, who brings those responsible for his cousin Eric's demise to justice.</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/grimm-s3-ep7.png">
+			<shorttext>
+				<span class="headline">Grimm</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 7: Cold Blooded</p>
+				<p class="description">As a deadly crime spree begins to surface, a century-old urban legend takes shape in Portland's sewers and becomes Nick's latest case. Adalind meets Prince Viktor, who brings those responsible for his cousin Eric's demise to justice.</p>
+			</shorttext>
+			<time><start hour="13" min="30"/><end hour="14" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="true-blood-s5-ep6" text="True Blood">
+		<image url="media/tv/true-blood-s5-ep6.png"/>
+
+		<title>True Blood</title>
+		<series>Season 5, Ep. 6: Hopeless</series>
+		<description>The former King of Mississippi is taken prisoner and put in a cell at the Authority. Not quite knowing what might be in store for them on their return, Bill and Eric are happy to see that Roman welcomes them back with open arms.</description>
+
+		<genre>Drama</genre>
+		<release>2012</release>
+		<stars>4</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/true-blood-s5-ep6.png">
+			<shorttext>
+				<span class="headline">True Blood</span>
+				<p class="subheadline">Drama &#183; 2012 &#183; TV-MA &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 5, Ep. 6: Hopeless</p>
+				<p class="description">The former King of Mississippi is taken prisoner and put in a cell at the Authority. Not quite knowing what might be in store for them on their return, Bill and Eric are happy to see that Roman welcomes them back with open arms.</p>
+			</shorttext>
+			<time><start hour="14" min="35"/><end hour="15" min="30"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="true-detective-s1-ep5" text="True Detective">
+		<image url="media/tv/true-detective-s1-ep5.png"/>
+
+		<title>True Detective</title>
+		<series>Season 1, Ep. 5: The Locked Room</series>
+		<description>Cohle and Martin finally get a new wind in the case and can confirm a suspect. Martin's mistress gets on with somebody else leaving him furious. Cohle's theory becomes increasingly more convincing than ever.</description>
+
+		<genre>Mystery</genre>
+		<release>2014</release>
+		<stars>4</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>55</duration><series/>
+		</meta>
+		<info url="media/tv/true-detective-s1-ep5.png">
+			<shorttext>
+				<span class="headline">True Detective</span>
+				<p class="subheadline">Mystery &#183; 2014 &#183; TV-MA &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 1, Ep. 5: The Locked Room</p>
+				<p class="description">Cohle and Martin finally get a new wind in the case and can confirm a suspect. Martin's mistress gets on with somebody else leaving him furious. Cohle's theory becomes increasingly more convincing than ever.</p>
+			</shorttext>
+			<time><start hour="15" min="30"/><end hour="16" min="25"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="outlander-s1-ep2" text="Outlander">
+		<image url="media/tv/outlander-s1-ep2.png"/>
+
+		<title>Outlander</title>
+		<series>Season 1, Ep. 2: Castle Leoch</series>
+		<description>Claire is brought to Castle Leoch under suspicion as an English spy. Learning that the year is 1743, she tries to arrange travel back to the standing stones. Colum MacKenzie uses her ability as a healer as an excuse to detain her.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>50</duration><series/>
+		</meta>
+		<info url="media/tv/outlander-s1-ep2.png">
+			<shorttext>
+				<span class="headline">Outlander</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 2: Castle Leoch</p>
+				<p class="description">Claire is brought to Castle Leoch under suspicion as an English spy. Learning that the year is 1743, she tries to arrange travel back to the standing stones. Colum MacKenzie uses her ability as a healer as an excuse to detain her.</p>
+			</shorttext>
+			<time><start hour="16" min="25"/><end hour="17" min="15"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="pretty-little-liars-s4-ep16" text="Pretty Little Liars">
+		<image url="media/tv/pretty-little-liars-s4-ep16.png"/>
+
+		<title>Pretty Little Liars</title>
+		<series>Season 4, Ep. 16: Close Encounters</series>
+		<description>Shana tells Emily that she has a message from Ali, but can Emily and the girls trust Shana with all that they know about her? And when Shana ups the stakes and says that Ali wants to meet Emily could it all be part of it.</description>
+
+		<genre>Thriller</genre>
+		<release>2013</release>
+		<stars>3</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/pretty-little-liars-s4-ep16.png">
+			<shorttext>
+				<span class="headline">Pretty Little Liars</span>
+				<p class="subheadline">Thriller &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 4, Ep. 16: Close Encounters</p>
+				<p class="description">Shana tells Emily that she has a message from Ali, but can Emily and the girls trust Shana with all that they know about her? And when Shana ups the stakes and says that Ali wants to meet Emily could it all be part of it.</p>
+			</shorttext>
+			<time><start hour="17" min="15"/><end hour="18" min="00"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="arrow-s1-ep4" text="Arrow">
+		<image url="media/tv/arrow-s1-ep4.png"/>
+
+		<title>Arrow</title>
+		<series>Season 1, Ep. 4: An Innocent Man</series>
+		<description>Peter Declan has been charged with murdering his wife, and only Oliver believes he's innocent. Arrow asks Laurel to look into Declan's case. Meanwhile, Walter investigates a warehouse that Moria mysteriously bought with the company's money.</description>
+
+		<genre>Action</genre>
+		<release>2012</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>60</duration><series/>
+		</meta>
+		<info url="media/tv/arrow-s1-ep4.png">
+			<shorttext>
+				<span class="headline">Arrow</span>
+				<p class="subheadline">Action &#183; 2012 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 4: An Innocent Man</p>
+				<p class="description">Peter Declan has been charged with murdering his wife, and only Oliver believes he's innocent. Arrow asks Laurel to look into Declan's case. Meanwhile, Walter investigates a warehouse that Moria mysteriously bought with the company's money.</p>
+			</shorttext>
+			<time><start hour="18" min="00"/><end hour="19" min="00"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="falling-skies-s3-ep9" text="Falling Skies">
+		<image url="media/tv/falling-skies-s3-ep9.png"/>
+
+		<title>Falling Skies</title>
+		<series>Season 3, Ep. 9: Journey to Xibalba</series>
+		<description>Tom uncovers confidential intelligence about the heart of the alien operation. Meanwhile, Charleston prepares to mount an offensive against the Espheni, but a massive explosion brings the operation to a halt.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2013</release>
+		<stars>3</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/falling-skies-s3-ep9.png">
+			<shorttext>
+				<span class="headline">Falling Skies</span>
+				<p class="subheadline">Sci-Fi &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 9: Journey to Xibalba</p>
+				<p class="description">Tom uncovers confidential intelligence about the heart of the alien operation. Meanwhile, Charleston prepares to mount an offensive against the Espheni, but a massive explosion brings the operation to a halt.</p>
+			</shorttext>
+			<time><start hour="19" min="00"/><end hour="19" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="continuum-s3-ep1" text="Continuum">
+		<image url="media/tv/continuum-s3-ep1.png"/>
+
+		<title>Continuum</title>
+		<series>Season 3, Ep. 1: Minute by Minute</series>
+		<description>Keira Cameron's world has disintegrated. Alec Sadler betrayed her chance of going back to 2077, using the time travel device in hope of saving his girlfriend. Now Kiera &amp; Liber8, prisoners of the Freelancers scramble to escape their grasp.</description>
+
+		<genre>Sci-Fi</genre>
+		<release>2014</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/continuum-s3-ep1.png">
+			<shorttext>
+				<span class="headline">Continuum</span>
+				<p class="subheadline">Sci-Fi &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 3, Ep. 1: Minute by Minute</p>
+				<p class="description">Keira Cameron's world has disintegrated. Alec Sadler betrayed her chance of going back to 2077, using the time travel device in hope of saving his girlfriend. Now Kiera &amp; Liber8, prisoners of the Freelancers scramble to escape their grasp.</p>
+			</shorttext>
+			<time><start hour="19" min="45"/><end hour="20" min="25"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="manhattan-s1-ep1" text="Manhattan">
+		<image url="media/tv/manhattan-s1-ep1.png"/>
+
+		<title>Manhattan</title>
+		<series>Season 1, Ep. 1: The One You Love</series>
+		<description>Charlie Isaacs and his family arrive in Los Alamos and attempt to navigate a community built on secrets. Frank Winter, the head of the Manhattan Project, struggles with the sacrifices he is making to help the U.S. win World War II.</description>
+
+		<genre>Drama</genre>
+		<release>2013</release>
+		<stars>5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>40</duration><series/>
+		</meta>
+		<info url="media/tv/manhattan-s1-ep1.png">
+			<shorttext>
+				<span class="headline">Manhattan</span>
+				<p class="subheadline">Drama &#183; 2013 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 1, Ep. 1: The One You Love</p>
+				<p class="description">Charlie Isaacs and his family arrive in Los Alamos and attempt to navigate a community built on secrets. Frank Winter, the head of the Manhattan Project, struggles with the sacrifices he is making to help the U.S. win World War II.</p>
+			</shorttext>
+			<time><start hour="20" min="25"/><end hour="21" min="05"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="true-blood-s7-ep8" text="True Blood">
+		<image url="media/tv/true-blood-s7-ep8.png"/>
+
+		<title>True Blood</title>
+		<series>Season 7, Ep. 8: Almost Home</series>
+		<description>Sarah is captured and kept prisoner at Fangtasia. Jason and Jessica feel Violet's wrath. Lettie Mae bids farewell to Tara, witnessing what Tara wanted her to. Through Sookie, Bill is made aware of the cure, but will he accept it?</description>
+
+		<genre>Drama</genre>
+		<release>2014</release>
+		<stars>3.5</stars>
+		<ageRating>TV-MA</ageRating>
+	
+
+		<meta>
+			<duration>35</duration><series/>
+		</meta>
+		<info url="media/tv/true-blood-s7-ep8.png">
+			<shorttext>
+				<span class="headline">True Blood</span>
+				<p class="subheadline">Drama &#183; 2014 &#183; TV-MA &#183; </p>
+				<p class="subsubheadline">Season 7, Ep. 8: Almost Home</p>
+				<p class="description">Sarah is captured and kept prisoner at Fangtasia. Jason and Jessica feel Violet's wrath. Lettie Mae bids farewell to Tara, witnessing what Tara wanted her to. Through Sookie, Bill is made aware of the cure, but will he accept it?</p>
+			</shorttext>
+			<time><start hour="21" min="05"/><end hour="21" min="40"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="breaking-bad-s2-ep12" text="Breaking Bad">
+		<image url="media/tv/breaking-bad-s2-ep12.png"/>
+
+		<title>Breaking Bad</title>
+		<series>Season 2, Ep. 12: Peekaboo</series>
+		<description>After Skinny Pete gets ripped off, Walt makes Jesse go get the money. Meanwhile, Walt's cover story on how Elliott and Gretchen are paying for his medical treatment is on the verge of collapsing.</description>
+
+		<genre>Crime</genre>
+		<release>2011</release>
+		<stars>4.5</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/breaking-bad-s2-ep12.png">
+			<shorttext>
+				<span class="headline">Breaking Bad</span>
+				<p class="subheadline">Crime &#183; 2011 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 12: Peekaboo</p>
+				<p class="description">After Skinny Pete gets ripped off, Walt makes Jesse go get the money. Meanwhile, Walt's cover story on how Elliott and Gretchen are paying for his medical treatment is on the verge of collapsing.</p>
+			</shorttext>
+			<time><start hour="21" min="40"/><end hour="22" min="45"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="once-upon-a-time-s1-ep6" text="Once Upon a Time">
+		<image url="media/tv/once-upon-a-time-s1-ep6.png"/>
+
+		<title>Once Upon a Time</title>
+		<series>Season 1, Ep. 6: The Shepherd</series>
+		<description>David must choose between staying with Kathryn or leaving her to be with Mary Margaret, with whom he's fallen deeply in love. Meanwhile, Prince Charming is about to encounter a life-changing event that will forever alter his destiny.</description>
+
+		<genre>Romance</genre>
+		<release>2012</release>
+		<stars>4</stars>
+		<ageRating>TV-PG</ageRating>
+	
+
+		<meta>
+			<duration>65</duration><series/>
+		</meta>
+		<info url="media/tv/once-upon-a-time-s1-ep6.png">
+			<shorttext>
+				<span class="headline">Once Upon a Time</span>
+				<p class="subheadline">Romance &#183; 2012 &#183; TV-PG &#183; <div class="starContainer"><div class="starRating" style="width:80%; height:100%"/></div></p>
+				<p class="subsubheadline">Season 1, Ep. 6: The Shepherd</p>
+				<p class="description">David must choose between staying with Kathryn or leaving her to be with Mary Margaret, with whom he's fallen deeply in love. Meanwhile, Prince Charming is about to encounter a life-changing event that will forever alter his destiny.</p>
+			</shorttext>
+			<time><start hour="22" min="45"/><end hour="23" min="50"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+ <item id="under-the-dome-s2-ep5" text="Under the Dome">
+		<image url="media/tv/under-the-dome-s2-ep5.png"/>
+
+		<title>Under the Dome</title>
+		<series>Season 2, Ep. 5: Reconciliation</series>
+		<description>With Big Jim and Rebecca in jail, townsfolk begin to take sides leading to violence and a death. Julia urges everyone to combine their food supplies, but it all backfires when the food storage facility at the fire station is blown up.</description>
+
+		<genre>Mystery</genre>
+		<release>2014</release>
+		<stars>3</stars>
+		<ageRating>TV-14</ageRating>
+	
+
+		<meta>
+			<duration>45</duration><series/>
+		</meta>
+		<info url="media/tv/under-the-dome-s2-ep5.png">
+			<shorttext>
+				<span class="headline">Under the Dome</span>
+				<p class="subheadline">Mystery &#183; 2014 &#183; TV-14 &#183; </p>
+				<p class="subsubheadline">Season 2, Ep. 5: Reconciliation</p>
+				<p class="description">With Big Jim and Rebecca in jail, townsfolk begin to take sides leading to violence and a death. Julia urges everyone to combine their food supplies, but it all backfires when the food storage facility at the fire station is blown up.</p>
+			</shorttext>
+			<time><start hour="23" min="50"/><end hour="00" min="35"/></time>
+		</info>
+		<action module="ActionTimeline" menu="xml/ActionEPGSeries.xml"/>
+	</item> 
+  
+  
+  </item>
+</menu>

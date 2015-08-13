@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="facebook" cache="false">
+  <meta>
+    <select id="news"/>
+    <logo url="media/icons/submenu/submenu icon internet facebook.png"/>
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="450"/>
+      <element id="shorttext" type="TextField" x="20" y="20" width="670" height="380"/>
+      <element id="txtHolder" type="TextField" x="20" y="20" width="370" height="408"/>
+      <element id="imgHolder" type="Image" x="410" y="0" scale="1"/>
+      <element id="logo" type="Image" x="517" y="0" width="220" height="85"/>
+    </screen>
+  </meta>
+  <item id="photos" title="Photos" labelbgcolor="#00192d">
+    <icon url="media/icons/submenu/submenu icon internet facebook photos.png"/>
+    <item text="Lin's birthday" subtext="Jeremy Lo Wun">
+      <action module="AppLibrary"  menu="xml/internet/AppFacebookPhoto1.xml"/>
+      <info url="media/facebook/photos_album/facebook photos lin.jpg">
+        <shorttext>
+          <p class="headline">Lin's birthday</p>
+          <p class="time">2 hours ago</p>
+          <p class="description">Mark and Adam have very kindly agreed to organise a boat party to celebrate Linís 20th birthday. There was a boat, there was music, there was drinking and there was dancing.</p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="My new dog" subtext="Emilia Reester">
+      <action module="AppLibrary"  menu="xml/internet/AppFacebookPhoto2.xml"/>
+      <info url="media/facebook/photos_album/facebook photos dog.jpg">
+        <shorttext>
+          <p class="headline">My new dog</p>
+          <p class="time">14 hours ago</p>
+          <p class="description">We got Ruby just a few days ago, bust she has already adjusted herself to the house very well. She also loves Al's place, where she can play at the well as long as she'd like.</p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Mt. Tremblant" subtext="John Pecker">
+      <action module="AppLibrary"  menu="xml/internet/AppFacebookPhoto3.xml"/>
+      <info url="media/facebook/photos_album/facebook photos tremblant.jpg">
+        <shorttext>
+          <p class="headline">Mt. Tremblant</p>
+          <p class="time">2 days ago</p>
+          <p class="description">Our family summer vacation at Mt. Tremblant, Canada. We stayed at the Fairmont Resort which is just below Saracusa in the heart of a European-style village and loved every minute of it!</p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Party at Sue's" subtext="Amanda Churchlyn">
+      <action module="AppLibrary"  menu="xml/internet/AppFacebookPhoto4.xml"/>
+      <info url="media/facebook/photos_album/facebook photos sue.jpg">
+        <img src="media/photos/large/nature-01.jpg" width="670" height="380"/>
+        <shorttext>
+          <p class="headline">Party at Sue's</p>
+          <p class="time">3 days ago</p>
+          <p class="description">Thanks so much everyone for coming to our party! Sue and me had a blast hosting everyone and you guys seemed to enjoy it a lot, too. Just have a look at the pictures ;)</p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+  <item id="messages" title="Messages" labelbgcolor="#00192d">
+    <icon url="media/icons/submenu/submenu icon internet twitter messages.png"/>
+    <item text="Show Last messages">
+      <action module="InternetDetail"  menu="xml/internet/ActionFacebookMessages.xml"/>
+      <info>
+        <title>
+          <span class="headline">Messages</span>
+        </title>
+        <shorttext>
+          <entry>
+            <p>Hey there... how about we catch a movie tomorrow night? Say 8.30 PM at Glastino's? I'll get the tickets...</p>
+          </entry>
+          <entry>
+            <p>I'm doing soo much music these days, it's great - I have an Irish trio which is going well, paid gigs, etc, a rock band where we experiment and improvise, and now I've just started playing with a brilliant female jazz guitarist, doing the old jazz standards, grappelli-style. I still have my day job, but my main focus has been entirely packing in as much playing as possible. It's the thing I enjoy the most. How is your new album coming along?</p>
+          </entry>
+          <entry>
+            <p>The tour I'm organising is coming together, the Dutch band will be here from the 2nd to the 13th, shame you won't be around then. You could join us for some of the tour later, though. I'm meant to be hiring a van and driving them to all the gigs, what a mapcap idea in the middle of winter, but in for a penny, in for a pound ;)</p>
+          </entry>
+          <entry>
+            <p>You sound like you're having fun, we'd love to see you - and your new girl :) any time you're in Paris, you can bring me news of the outside world, going to the shops is a military operation these days, but I really appreciate it when I do get there!</p>
+          </entry>
+          <entry>
+            <p>Here is all fine. Martin's family finally arrived 2 weeks ago - it was an endless story trying to get the visa, the ticket money etc., but in the end we all got it!</p>
+          </entry>
+          <entry>
+            <p>How is life treating you? Hope you did well yesterday and enjoyed it as much as possible! Regarding your invitation to madrid: that sounds awesome and we would love to come. we just don't know yet, if we'll both get off 2 weeks at the same time in summer, but we'll definitely keep you posted.</p>
+          </entry>
+          <entry>
+            <p>Cheers for the fantastic email, we've been laughing out loud. It sure was better than 'On the Road' and 'Easy Rider' combined. I can't believe all the scrapes and adventures you've had, and you're still in one piece! What's up next?</p>
+          </entry>
+          <entry>
+            <p>How is it going? Let me know your plans around early October! Would be great to catch up, I think we will have fun and do a lot of nothing anyway ;)</p>
+          </entry>
+          <entry>
+            <p>As you know last year was a bit of a mess and I'm still trying to recover from the aftermath both financially and mentally. However, I am beyond any doubt planning to return to the heartland of Europe in May, so let's try and meet up soon!</p>
+          </entry>
+          <entry>
+            <p>Can you please send me your office number later today? For some reason your mobile seem to have been off for days - or did you flush it down the toilet again? ;)</p>
+          </entry>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+  <item id="news" title="Facebook Feed" labelbgcolor="#00192d">
+    <icon url="media/icons/submenu/submenu icon internet twitter feed.png"/>
+    <item text="Show Last messages">
+      <action module="InternetDetail"  menu="xml/internet/ActionFacebookMessages.xml"/>
+      <info>
+        <title>
+          <span class="headline">Timeline</span>
+        </title>
+        <shorttext>
+          <entry id="1">
+            <img src="media/facebook/avatars/facebook avatar evelyn richardson.png"/>
+            <span class="sender">Evelyn Richardson</span>
+            <span class="time">1 minute ago</span>
+            <p>The cashier at the supermarket is whistling. Now he's singing. I better not be in a musical.</p>
+          </entry>
+          <entry id="2">
+            <img src="media/facebook/avatars/facebook avatar jeremy lo wun.png"/>
+            <span class="sender">Jeremy Lo Wun</span>
+            <span class="time">1 minute ago</span>
+            <p>My wife has a hangover and cramps and just told me she loves me. I think it's a trap.</p>
+          </entry>
+          <entry id="3">
+            <img src="media/facebook/avatars/facebook avatar emilia rester.png"/>
+            <span class="sender">Emilia Rester</span>
+            <span class="time">2 minutes ago</span>
+            <p>The new house is great! Really enjoying having more space. Wishing I could snap my fingers and have it fully furnished, though... it's taking so long. Worst thing is figuring out the zillion window dressings - big disadvantage of this building.</p>
+          </entry>
+          <entry id="4">
+            <img src="media/facebook/avatars/facebook avatar barry fandrik.png"/>
+            <span class="sender">Barry Fandrik</span>
+            <span class="time">4 minutes ago</span>
+            <p>A good way to test your knowledge of swear words is to discover you didn't properly close a can of paint when it falls over in your car.</p>
+          </entry>
+          <entry id="5">
+            <img src="media/facebook/avatars/facebook avatar jacqueline moribar.png"/>
+            <span class="sender">Jacqueline Moribar</span>
+            <span class="time">6 minutes ago</span>
+            <p>Heard you ran into Denise today! I'm in the city for 2 more days and then we're heading to the cottage. Tomorrow, Darrah and her husband Brian are coming to have lunch with us. If you can join, that'd be great!</p>
+          </entry>
+          <entry id="6">
+            <img src="media/facebook/avatars/facebook avatar martin de lour.png"/>
+            <span class="sender">Martin de Lour</span>
+            <span class="time">7 minutes ago</span>
+            <p>Dave and I always say we'd love to come back to camp for one summer: He'd like to teach tennis, and I'd just like to be a lady of leisure! Haha. Plus Fefe Dobson and Five for Fighting's Superman (my blue alma mater) were both just on the radio!</p>
+          </entry>
+          <entry id="7">
+            <img src="media/facebook/avatars/facebook avatar heribert kaiser.png"/>
+            <span class="sender">Heribert Kaiser</span>
+            <span class="time">10 minutes ago</span>
+            <p>Only his big sister could bring me to tears on this beautiful, sunny day. It is a day to celebrate and the sun was shining just like today on the day he was born xoxo</p>
+          </entry>
+          <entry id="8">
+            <img src="media/facebook/avatars/facebook avatar joe franklin.png"/>
+            <span class="sender">Joe Franklin</span>
+            <span class="time">11 minutes ago</span>
+            <p>The best part of eating cookies is the way they whimper when you bite them.</p>
+          </entry>
+          <entry id="9">
+            <img src="media/facebook/avatars/facebook avatar amanda churchlyn.png"/>
+            <span class="sender">Amanda Churchlyn</span>
+            <span class="time">14 minutes ago</span>
+            <p>I am SO nostalgic for all things Spanish since last weekend. I have even been reading El Pais online everyday, don't ask me why ;)</p>
+          </entry>
+          <entry id="10">
+            <img src="media/facebook/avatars/facebook avatar vanessa collins.png"/>
+            <span class="sender">Vanessa Collins</span>
+            <span class="time">15 minutes ago</span>
+            <p>Jimmy, are your reading this? There is a slim chance that I might be coming to Halifax for September long. We will all  be chilling with some of Stevo's friends out of town for most of the trip. However, I would love love love to see you!</p>
+          </entry>
+          <entry id="11">
+            <img src="media/facebook/avatars/facebook avatar cheryl rue.png"/>
+            <span class="sender">Cheryl Rue</span>
+            <span class="time">17 minutes ago</span>
+            <p>You come to a crossroads. There is a talking goat. Do not talk to the goat. The goat is a deceiver. The goat will tell you it is single.</p>
+          </entry>
+          <entry id="12">
+            <img src="media/facebook/avatars/facebook avatar john pecker.png"/>
+            <span class="sender">John Pecker</span>
+            <span class="time">19 minutes ago</span>
+            <p>Good luck to Dave with his move! We're anxious to see the new digs especially to compare with the "work in progress". With his style, I'm sure it will be totally amazing!</p>
+          </entry>
+          <entry id="13">
+            <img src="media/facebook/avatars/facebook avatar philip bomer.png"/>
+            <span class="sender">Philip Bomer</span>
+            <span class="time">20 minutes ago</span>
+            <p>The best part of eating cookies is the way they whimper when you bite them.</p>
+          </entry>
+          <entry id="14">
+            <img src="media/facebook/avatars/facebook avatar emilia reester.png"/>
+            <span class="sender">Emilia Reester</span>
+            <span class="time">23 minutes ago</span>
+            <p>I just moved all the stuffed animals in the room to face new directions. In case they were bored.</p>
+          </entry>
+          <entry id="15">
+            <img src="media/facebook/avatars/facebook avatar richard tuhns.png"/>
+            <span class="sender">Richard Tuhns</span>
+            <span class="time">24 minutes ago</span>
+            <p>Fingers crossed for Canada Day weekend, but I'm thinking more like the middle of July. Have you walked by lately? Apparently the kitchen will take three weeks and then a week for the granite. My life is consumed by decision making these days.</p>
+          </entry>
+          <entry id="16">
+            <img src="media/facebook/avatars/facebook avatar kevin ferr.png"/>
+            <span class="sender">Kevin Ferr</span>
+            <span class="time">28 minutes ago</span>
+            <p>I got the job here a week before we went to Europe. We've been here a month. I'm working at a social media agency and he's got a developing job! You'll have to come visit - bring Barry with you again too!!</p>
+          </entry>
+          <!--
+          <entry id="17">
+            <img src="media/facebook/avatars/facebook avatar kumar ceril.png"/>
+            <span class="sender">Kumar Ceril</span>
+            <span class="time">31 minutes ago</span>
+            <p>Hopes this time in 30 days the weather in Nova Scotia proves to be just as nice as today. And if not, it doesn't matter we will be celebrating an amazing couple. Oh yeah, and drinking some wine.</p>
+          </entry>
+          -->
+          <entry id="18">
+            <img src="media/facebook/avatars/facebook avatar sandra neubauer.png"/>
+            <span class="sender">Sandra Neubauer</span>
+            <span class="time">32 minutes ago</span>
+            <p>Hates being sick... especially on a long weekend...</p>
+          </entry>
+          <entry id="19">
+            <img src="media/facebook/avatars/facebook avatar wan chi ong.png"/>
+            <span class="sender">Wan Chi Ong</span>
+            <span class="time">33 minutes ago</span>
+            <p>Why am I shopping for a car anyway? We're in the future. I should be shopping for a jetpack.</p>
+          </entry>
+          <entry id="20">
+            <img src="media/facebook/avatars/facebook avatar frank billigan.png"/>
+            <span class="sender">Frank Billigan</span>
+            <span class="time">36 minutes ago</span>
+            <p>Would you come see me at Ochi Lounge at Comix on Saturday? Sure you would. You'd be a fool not to.</p>
+          </entry>
+          <entry id="21">
+            <img src="media/facebook/avatars/facebook avatar akshay ramuk.png"/>
+            <span class="sender">Akshay Ramuk</span>
+            <span class="time">38 minutes ago</span>
+            <p>Sitting in Starbucks in Florida, listening to Vienna Tang - she sounds great!</p>
+          </entry>
+          <entry id="22">
+            <img src="media/facebook/avatars/facebook avatar william gorichov.png"/>
+            <span class="sender">William Gorichov</span>
+            <span class="time">39 minutes ago</span>
+            <p>Happy 30th Birthday to my beautiful sister!! You have always been so loving and supportive and I am so grateful that you are such a big part of my life. Here is to the next 30 being just as fabulous as the first :)</p>
+          </entry>
+          <entry id="23">
+            <img src="media/facebook/avatars/facebook avatar sylvester thoull.png"/>
+            <span class="sender">Sylvester Thoull</span>
+            <span class="time">40 minutes ago</span>
+            <p>Dana Brown's surf documentary "High Water": likable doc, visually/rhythmically amazing, worth seeing even if you've never surfed in your life.</p>
+          </entry>
+          <entry id="24">
+            <img src="media/facebook/avatars/facebook avatar catherine connells.png"/>
+            <span class="sender">Catherine Connells</span>
+            <span class="time">44 minutes ago</span>
+            <p>Hello New World. Just returned from my extended UK trip, 1st time on US soil in 2010... Nobody can understand me again, must pronounce consonants i guess.</p>
+          </entry>
+          <entry id="25">
+            <img src="media/facebook/avatars/facebook avatar britney rogan.png"/>
+            <span class="sender">Britney Rogan</span>
+            <span class="time">45 minutes ago</span>
+            <p>Hillbilly Deluxe are a band from England I used to play with - We did part of the record there and doing overdubs here in the Ville!</p>
+          </entry>
+          <entry id="26">
+            <img src="media/facebook/avatars/facebook avatar elenoire camille.png"/>
+            <span class="sender">Elenoire Camille</span>
+            <span class="time">46 minutes ago</span>
+            <p>Aunt Mitzy is so amazing, her mind doesn't miss a thing. She loved the flowers and there was a huge turn out at the party. It was nice to meet so many relatives who I've never met before and who all love Mitzy as much as I do.</p>
+          </entry>
+          <entry id="27">
+            <img src="media/facebook/avatars/facebook avatar robert johnston.png"/>
+            <span class="sender">Robert Johnston</span>
+            <span class="time">48 minutes ago</span>
+            <p>To sum up: I dance badly. I dance badly *very well*.</p>
+          </entry>
+          <entry id="28">
+            <img src="media/facebook/avatars/facebook avatar rebecca haugen.png"/>
+            <span class="sender">Rebecca Haugen</span>
+            <span class="time">50 minutes ago</span>
+            <p>Is finally putting her acting skills to the test - check out my few days of fame in the Studio In Essence commercial!</p>
+          </entry>
+          <entry id="29">
+            <img src="media/facebook/avatars/facebook avatar michael scott.png"/>
+            <span class="sender">Michael Scott</span>
+            <span class="time">54 minutes ago</span>
+            <p>Productivity is important, but how can I be productive if I have this one little thing in my brain that I cannot get out. And that one little thing is a soft pretzel. So Iím just gonna have my soft pretzel. When I get back to work Iím gonna be super productive.</p>
+          </entry>
+          <entry id="30">
+            <img src="media/facebook/avatars/facebook avatar paul manulesco.png"/>
+            <span class="sender">Paul Manulesco</span>
+            <span class="time">57 minutes ago</span>
+            <p>My mother used to say that average people are the most special people in the world, and that's why God made so many.</p>
+          </entry>
+    </shorttext>
+      </info>
+    </item>
+  </item>
+</menu>

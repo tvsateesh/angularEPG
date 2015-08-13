@@ -1,0 +1,190 @@
+  <item id="channels" title="Channels" labelbgcolor="#46158a">
+    <meta>
+      <select id="ORF1"/>
+    </meta>
+    <icon url="media/icons/mainmenu/main menu icon channels.png"/>
+
+	<item id="orf1" shortcut="1">
+		<icon url="media/icons/tv_logos/orf1.png"/>
+		<media url="media/tvbackground/channel01.mp4"/>
+		<action module="AppTimeline" menu="xml/Channels/AppTimelineORF1.xml"/>
+	</item>
+
+<item id="orf2" shortcut="2"><icon url="media/icons/tv_logos/orf2.png"/><media url="media/tvbackground/channel02.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineORF2.xml"/></item>
+<item id="orf3" shortcut="3"><icon url="media/icons/tv_logos/orf3.png"/><media url="media/tvbackground/channel03.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineORF3.xml"/></item>
+<item id="puls4" shortcut="4"><icon url="media/icons/tv_logos/puls4.png"/><media url="media/tvbackground/channel04.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelinePULS4.xml"/></item>
+<item id="servustv" shortcut="5"><icon url="media/icons/tv_logos/servustv.png"/><media url="media/tvbackground/channel05.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineSERVUSTV.xml"/></item>
+<item id="bbc1" shortcut="6"><icon url="media/icons/tv_logos/bbc1.png"/><media url="media/tvbackground/channel06.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineBBC1.xml"/></item>
+<item id="bbc2" shortcut="7"><icon url="media/icons/tv_logos/bbc2.png"/><media url="media/tvbackground/channel07.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineBBC2.xml"/></item>
+<item id="bbc3" shortcut="8"><icon url="media/icons/tv_logos/bbc3.png"/><media url="media/tvbackground/channel08.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineBBC3.xml"/></item>
+<item id="bbc4" shortcut="9"><icon url="media/icons/tv_logos/bbc4.png"/><media url="media/tvbackground/channel09.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineBBC4.xml"/></item>
+<item id="itv" shortcut="10"><icon url="media/icons/tv_logos/itv.png"/><media url="media/tvbackground/channel10.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineITV.xml"/></item>
+<item id="comedycentral" shortcut="11"><icon url="media/icons/tv_logos/comedycentral.png"/><media url="media/tvbackground/channel01.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineCOMEDYCENTRAL.xml"/></item>
+<item id="rts1" shortcut="12"><icon url="media/icons/tv_logos/rts1.png"/><media url="media/tvbackground/channel02.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineRTS1.xml"/></item>
+<item id="rts2" shortcut="13"><icon url="media/icons/tv_logos/rts2.png"/><media url="media/tvbackground/channel03.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineRTS2.xml"/></item>
+<item id="be1" shortcut="14"><icon url="media/icons/tv_logos/be1.png"/><media url="media/tvbackground/channel04.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineBE1.xml"/></item>
+<item id="be2" shortcut="15"><icon url="media/icons/tv_logos/be2.png"/><media url="media/tvbackground/channel05.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineBE2.xml"/></item>
+<item id="sky" shortcut="16"><icon url="media/icons/tv_logos/sky.png"/><media url="media/tvbackground/channel06.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineSKY.xml"/></item>
+<item id="srf1" shortcut="17"><icon url="media/icons/tv_logos/srf1.png"/><media url="media/tvbackground/channel07.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineSRF1.xml"/></item>
+<item id="srf2" shortcut="18"><icon url="media/icons/tv_logos/srf2.png"/><media url="media/tvbackground/channel08.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineSRF2.xml"/></item>
+<item id="tf1" shortcut="19"><icon url="media/icons/tv_logos/tf1.png"/><media url="media/tvbackground/channel09.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineTF1.xml"/></item>
+<item id="franceo" shortcut="20"><icon url="media/icons/tv_logos/franceo.png"/><media url="media/tvbackground/channel10.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineFRANCEO.xml"/></item>
+<item id="france1" shortcut="21"><icon url="media/icons/tv_logos/france1.png"/><media url="media/tvbackground/channel01.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineFRANCE1.xml"/></item>
+<item id="france2" shortcut="22"><icon url="media/icons/tv_logos/france2.png"/><media url="media/tvbackground/channel02.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineFRANCE2.xml"/></item>
+<item id="france3" shortcut="23"><icon url="media/icons/tv_logos/france3.png"/><media url="media/tvbackground/channel03.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineFRANCE3.xml"/></item>
+<item id="france4" shortcut="24"><icon url="media/icons/tv_logos/france4.png"/><media url="media/tvbackground/channel04.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineFRANCE4.xml"/></item>
+<item id="france5" shortcut="25"><icon url="media/icons/tv_logos/france5.png"/><media url="media/tvbackground/channel05.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineFRANCE5.xml"/></item>
+<item id="m6" shortcut="26"><icon url="media/icons/tv_logos/m6.png"/><media url="media/tvbackground/channel06.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineM6.xml"/></item>
+<item id="arte" shortcut="27"><icon url="media/icons/tv_logos/arte.png"/><media url="media/tvbackground/channel07.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineARTE.xml"/></item>
+<item id="canalplus" shortcut="28"><icon url="media/icons/tv_logos/canalplus.png"/><media url="media/tvbackground/channel08.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineCANALPLUS.xml"/></item>
+<item id="nt1" shortcut="29"><icon url="media/icons/tv_logos/nt1.png"/><media url="media/tvbackground/channel09.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineNT1.xml"/></item>
+<item id="wdr" shortcut="30"><icon url="media/icons/tv_logos/wdr.png"/><media url="media/tvbackground/channel10.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineWDR.xml"/></item>
+<item id="ard" shortcut="31"><icon url="media/icons/tv_logos/ard.png"/><media url="media/tvbackground/channel01.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineARD.xml"/></item>
+<item id="ardplus" shortcut="32"><icon url="media/icons/tv_logos/ardplus.png"/><media url="media/tvbackground/channel02.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineARDPLUS.xml"/></item>
+<item id="zdf" shortcut="33"><icon url="media/icons/tv_logos/zdf.png"/><media url="media/tvbackground/channel03.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineZDF.xml"/></item>
+<item id="zdfneo" shortcut="34"><icon url="media/icons/tv_logos/zdfneo.png"/><media url="media/tvbackground/channel04.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineZDFNEO.xml"/></item>
+<item id="3sat" shortcut="35"><icon url="media/icons/tv_logos/3sat.png"/><media url="media/tvbackground/channel05.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimeline3SAT.xml"/></item>
+<item id="sat1" shortcut="36"><icon url="media/icons/tv_logos/sat1.png"/><media url="media/tvbackground/channel06.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineSAT1.xml"/></item>
+<item id="prosieben" shortcut="37"><icon url="media/icons/tv_logos/prosieben.png"/><media url="media/tvbackground/channel07.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelinePROSIEBEN.xml"/></item>
+<item id="kabeleins" shortcut="38"><icon url="media/icons/tv_logos/kabeleins.png"/><media url="media/tvbackground/channel08.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineKABELEINS.xml"/></item>
+<item id="sixx" shortcut="39"><icon url="media/icons/tv_logos/sixx.png"/><media url="media/tvbackground/channel09.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineSIXX.xml"/></item>
+<item id="e4" shortcut="40"><icon url="media/icons/tv_logos/e4.png"/><media url="media/tvbackground/channel10.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineE4.xml"/></item>
+<item id="nickelodeon" shortcut="41"><icon url="media/icons/tv_logos/nickelodeon.png"/><media url="media/tvbackground/channel01.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineNICKELODEON.xml"/></item>
+<item id="disneychannel" shortcut="42"><icon url="media/icons/tv_logos/disneychannel.png"/><media url="media/tvbackground/channel02.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineDISNEYCHANNEL.xml"/></item>
+<item id="sho" shortcut="43"><icon url="media/icons/tv_logos/sho.png"/><media url="media/tvbackground/channel03.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineSHO.xml"/></item>
+<item id="mtv" shortcut="44"><icon url="media/icons/tv_logos/mtv.png"/><media url="media/tvbackground/channel04.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineMTV.xml"/></item>
+<item id="sf" shortcut="45"><icon url="media/icons/tv_logos/sf.png"/><media url="media/tvbackground/channel05.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineSF.xml"/></item>
+<item id="cnn" shortcut="46"><icon url="media/icons/tv_logos/cnn.png"/><media url="media/tvbackground/channel06.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineCNN.xml"/></item>
+<item id="hbo" shortcut="47"><icon url="media/icons/tv_logos/hbo.png"/><media url="media/tvbackground/channel07.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineHBO.xml"/></item>
+<item id="animalplanet" shortcut="48"><icon url="media/icons/tv_logos/animalplanet.png"/><media url="media/tvbackground/channel08.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineANIMALPLANET.xml"/></item>
+<item id="discoverychannel" shortcut="49"><icon url="media/icons/tv_logos/discoverychannel.png"/><media url="media/tvbackground/channel09.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineDISCOVERYCHANNEL.xml"/></item>
+<item id="nationalgeographicchannel" shortcut="50"><icon url="media/icons/tv_logos/nationalgeographicchannel.png"/><media url="media/tvbackground/channel10.mp4"/><action module="AppTimeline" menu="xml/Channels/AppTimelineNATIONALGEOGRAPHICCHANNEL.xml"/></item>
+
+	
+	<!--
+	<item id="ORF1" shortcut="1">
+      <icon url="media/icons/tv_logos/orf1.png"/>
+      <media url="media/tvbackground/channel01.flv"/> 
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineORF1.xml"/>
+    </item>
+    <item id="ORF2" shortcut="2">
+      <icon url="media/icons/tv_logos/orf2.png"/>
+      <media url="media/tvbackground/channel02.flv"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineORF2.xml"/>
+    </item>
+    <item id="BBC World" shortcut="3">
+      <icon url="media/icons/tv_logos/bbc world.png"/>
+      <media url="media/tvbackground/channel04.flv"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineBBC World.xml"/>
+    </item>
+    <item id="CNN" shortcut="4">
+      <icon url="media/icons/tv_logos/cnn.png"/>
+      <media url="media/tvbackground/channel03.flv"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineCNN.xml"/>
+    </item>
+    <item id="MTV" shortcut="5">
+      <icon url="media/icons/tv_logos/mtv.png"/>
+      <media url="media/tvbackground/channel05.flv"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineMTV.xml"/>
+    </item>
+    <item id="VIVA" shortcut="6">
+      <icon url="media/icons/tv_logos/viva.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineVIVA.xml"/>
+    </item>
+    <item id="PRO7 Austria" shortcut="7">
+      <icon url="media/icons/tv_logos/pro7.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelinePro7.xml"/>
+    </item>
+    <item id="SAT1" shortcut="8">
+      <icon url="media/icons/tv_logos/sat1.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineSat1.xml"/>
+    </item>
+    <item id="ATV" shortcut="9">
+      <icon url="media/icons/tv_logos/atv.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineATV.xml"/>
+    </item>
+    <item id="Kabel1" shortcut="10">
+      <icon url="media/icons/tv_logos/Kabel1.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineKabel1.xml"/>
+    </item>
+    <item id="Premiere Austria" shortcut="11">
+      <icon url="media/icons/tv_logos/premiere.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelinePremiere.xml"/>
+    </item>
+    <item id="VOX" shortcut="12">
+      <icon url="media/icons/tv_logos/vox.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineVOX.xml"/>
+    </item>
+    <item id="3Sat" shortcut="13">
+      <icon url="media/icons/tv_logos/3sat.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimeline3Sat.xml"/>
+    </item>
+    <item id="9Live" shortcut="14">
+      <icon url="media/icons/tv_logos/9live.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimeline9Live.xml"/>
+    </item>
+    <item id="AB1" shortcut="15">
+      <icon url="media/icons/tv_logos/ab1.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineAB1.xml"/>
+    </item>
+    <item id="ABC HD" shortcut="16">
+      <icon url="media/icons/tv_logos/ABC HD.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineABC HD.xml"/>
+    </item>
+    <item id="Animal Planet" shortcut="17">
+      <icon url="media/icons/tv_logos/Animal Planet.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineAnimal Planet.xml"/>
+    </item>
+    <item id="Anime network" shortcut="18">
+      <icon url="media/icons/tv_logos/orf2.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineAnimal Planet.xml"/>
+    </item>
+    <item id="Arte" shortcut="19">
+      <icon url="media/icons/tv_logos/arte.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineArte.xml"/>
+    </item>
+    <item id="Baby Channel" shortcut="20">
+      <icon url="media/icons/tv_logos/Baby Channel.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineBaby Channel.xml"/>
+    </item>
+    <item id="BBC HD" shortcut="21">
+      <icon url="media/icons/tv_logos/BBC HD.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineBBC HD.xml"/>
+    </item>
+    <item id="Canal SUR" shortcut="22">
+      <icon url="media/icons/tv_logos/Canal SUR.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineCanal SUR.xml"/>
+    </item>
+    <item id="Cartoon Network" shortcut="23">
+      <icon url="media/icons/tv_logos/Cartoon Network.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineCartoon Network.xml"/>
+    </item>
+    <item id="Cine Greek" shortcut="24">
+      <icon url="media/icons/tv_logos/Cine Greek.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineCine Greek.xml"/>
+    </item>
+    <item id="Discovery HD" shortcut="25">
+      <icon url="media/icons/tv_logos/Discovery HD.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineDiscovery HD.xml"/>
+    </item>
+    <item id="Disney Channel" shortcut="26">
+      <icon url="media/icons/tv_logos/Disney Channel.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineDisney Channel.xml"/>
+    </item>
+    <item id="Euronews" shortcut="27">
+      <icon url="media/icons/tv_logos/euronews.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineEuronews.xml"/>
+    </item>
+    <item id="Eurosport" shortcut="28">
+      <icon url="media/icons/tv_logos/Euro Sport.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineEuro Sport.xml"/>
+    </item>
+    <item id="Fox" shortcut="29">
+      <icon url="media/icons/tv_logos/fox.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineFox.xml"/>
+    </item>
+    <item id="Fox Business" shortcut="30">
+      <icon url="media/icons/tv_logos/Fox Business.png"/>
+      <action module="AppTimeline"  menu="xml/Channels/AppTimelineFox Business.xml"/>
+    </item> -->
+  </item>

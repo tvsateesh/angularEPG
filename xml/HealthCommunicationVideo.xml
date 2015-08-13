@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Menu for Communication -->
+<menu cache="false">
+  <meta>
+    <select id="This Call" />
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="410" />
+      <element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+      <element id="imgHolder" type="MovieClip" x="230" y="0" />
+      <element id="videoHolder" type="MovieClip" x="230" y="20"/>
+    </screen>
+  </meta>
+
+  <item title="This Call" id="This Call">
+    <item text="end Call" id="quit"/>
+    <item text="mute" id="mute"/>
+    <item text="fullscreen" id="fullscreen"/>
+    <item text="turn off Video" id="toggleVideo"/>
+  </item>
+</menu>
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

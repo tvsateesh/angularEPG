@@ -1,0 +1,29 @@
+<item id="buy_movie" title="Buy Movies" labelbgcolor="#217799">
+    <icon url="media/icons/mainmenu/main menu icon videoondemand.png"/>
+	
+	<item text="New Releases">
+      <action module="AppLibrary"  menu="xml/Library/VoDNewReleases.xml"/>
+    </item>
+	
+	<item text="Featured">
+      <action module="AppLibrary"  menu="xml/Library/VoDFeatured.xml"/>
+    </item>
+		
+	<item text="Most Popular">
+      <action module="AppLibrary"  menu="xml/Library/VoDPopular.xml"/>
+    </item> 
+	
+	<item text="Genres">
+      <action module="AppLibrary"  menu="xml/Library/VoDCategory_ADULT.xml"/>
+    </item>
+	
+	<item text="A-Z">
+      <action module="AppLibrary"  menu="xml/Library/VoDAlphabet_ADULT.xml"/>
+    </item>
+    
+	<item text="Search">
+	<!-- <action module="AppSearch"  menu="xml/AppSearch.xml"/>
+    <info url="media/search/searchbar1.png"/> -->
+    </item>
+</item>
+

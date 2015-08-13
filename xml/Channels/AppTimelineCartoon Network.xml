@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="Cartoon Network">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="20" min="10"/><end hour="21" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="entourage" text="Entourage">
+    <meta>
+      <duration>40</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/entourage.png">
+      <shorttext>
+        <span class="headline">Entourage</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 12: The Cannes Kids</p>
+        <p class="description">At Cannes, the guys party it up and attend to the business of selling Medellin, and find themselves with two offers on the table before it's even screened, and in the end, the film is bought from an unlikely source, at a price much lower than they were hoping for.</p>
+      </shorttext>
+    <time><start hour="21" min="10"/><end hour="21" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="weeds" text="Weeds">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/weeds.png">
+      <shorttext>
+        <span class="headline">Weeds</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 8: I Am The Table</p>
+        <p class="description">Esteban and Nancy's spontaneous date ends in near violence. Andy and Doug successfully smuggle their first customer across the border. Silas reveals to Lisa that he grows pot, and she offers to let him do business in the back of her store.</p>
+      </shorttext>
+    <time><start hour="21" min="50"/><end hour="22" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="heroes" text="Heroes">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/heroes.png">
+      <shorttext>
+        <span class="headline">Heroes</span>
+        <p class="subheadline">Sci-Fi Drama, USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 34: Powerless</p>
+        <p class="description">Peter finds out that Adam wants to unleash a virus and stops him from doing so. Meanwhile, Hiro buries Adam alive. Monica is kidnapped by a street gang and Niki saves her, but gets trapped in a burning, exploding building. And Elle saves Suresh, Maya and Molly from Sylar's clutches.</p>
+      </shorttext>
+    <time><start hour="22" min="50"/><end hour="23" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="evening" title="Evening">
+	<item id="lost-in-translation" text="Lost in Translation">
+    <meta>
+      <duration>100</duration>
+    </meta>
+    <info url="media/tv/lost-in-translation.png">
+      <shorttext>
+        <span class="headline">Lost in Translation</span>
+        <p class="subheadline">Dramedy, USA 2003</p>
+        <p class="description">Bob Harris is an American film actor, far past his prime. He visits Tokyo to appear in commercials, and he meets Charlotte, the young wife of a visiting photographer. Bored and weary, Bob and Charlotte make ideal if improbable traveling companions.</p>
+      </shorttext>
+    <time><start hour="16" min="20"/><end hour="18" min="00"/></time></info>
+  </item>
+	<item id="csi-miami" text="CSI: Miami">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/csi-miami.png">
+      <shorttext>
+        <span class="headline">CSI: Miami</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 6, Ep. 18: Tunnel Vision</p>
+        <p class="description">The episode opens with two men chasing each other on the causeway. When the road collapses one man is thrown into a sinkhole and killed. While investigating, the CSIs discover a conspiracy to rob a bank.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="19" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dawsons-creek" text="Dawson's Creek">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dawsons-creek.png">
+      <shorttext>
+        <span class="headline">Dawson's Creek</span>
+        <p class="subheadline">Soap Opera, USA 2003</p>
+        <p class="subsubheadline">Season 6, Ep. 19: Lovelines</p>
+        <p class="description">Joey and Eddie's emotional and sexual relationship is played out on stage during a counseling center benefit. At the same event, Jack and David deal with the insecurities in their relationship, Jen opens up to C.J. about Grams' cancer, and a sober Audrey returns to Boston and surprises everyone at the benefit.</p>
+      </shorttext>
+    <time><start hour="19" min="10"/><end hour="20" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="20" min="10"/><end hour="21" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="entourage" text="Entourage">
+    <meta>
+      <duration>40</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/entourage.png">
+      <shorttext>
+        <span class="headline">Entourage</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 12: The Cannes Kids</p>
+        <p class="description">At Cannes, the guys party it up and attend to the business of selling Medellin, and find themselves with two offers on the table before it's even screened, and in the end, the film is bought from an unlikely source, at a price much lower than they were hoping for.</p>
+      </shorttext>
+    <time><start hour="21" min="10"/><end hour="21" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="afternoon" title="Afternoon">
+	<item id="amadeus" text="Amadeus">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/amadeus.png">
+      <shorttext>
+        <span class="headline">Amadeus</span>
+        <p class="subheadline">Drama, USA 1984</p>
+        <p class="description">Antonio Salieri believes that Mozart's music is divine. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. But he can't understand why God favored Mozart, such a vulgar creature, to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is set to take revenge.</p>
+      </shorttext>
+    <time><start hour="10" min="00"/><end hour="13" min="00"/></time></info>
+  </item>
+	<item id="forrest-gump" text="Forrest Gump">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/forrest-gump.png">
+      <shorttext>
+        <span class="headline">Forrest Gump</span>
+        <p class="subheadline">Dramedy, USA 1994</p>
+        <p class="description">A man with a low IQ has accomplished great things in his life and been present during significant historic events - in each case, far exceeding what anyone imagined he could do. It is the story of a man who rose above his challenges, and who proved that determination, courage, and love are more important than ability.</p>
+      </shorttext>
+    <time><start hour="13" min="00"/><end hour="15" min="20"/></time></info>
+  </item>
+	<item id="ugly-betty" text="Ugly Betty">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/ugly-betty.png">
+      <shorttext>
+        <span class="headline">Ugly Betty</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 18: Jump</p>
+        <p class="description">A teenager arrives who may be Meade-related. Also Henry comes back to propose to Betty, as well as Gio asking her to go to Rome with him for a holiday. Wilhelmina takes over Daniel as editor-in-chief. Lindsay Lohan is set to play an old schoolmate of Betty's.</p>
+      </shorttext>
+    <time><start hour="15" min="20"/><end hour="16" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="lost-in-translation" text="Lost in Translation">
+    <meta>
+      <duration>100</duration>
+    </meta>
+    <info url="media/tv/lost-in-translation.png">
+      <shorttext>
+        <span class="headline">Lost in Translation</span>
+        <p class="subheadline">Dramedy, USA 2003</p>
+        <p class="description">Bob Harris is an American film actor, far past his prime. He visits Tokyo to appear in commercials, and he meets Charlotte, the young wife of a visiting photographer. Bored and weary, Bob and Charlotte make ideal if improbable traveling companions.</p>
+      </shorttext>
+    <time><start hour="16" min="20"/><end hour="18" min="00"/></time></info>
+  </item>
+	<item id="csi-miami" text="CSI: Miami">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/csi-miami.png">
+      <shorttext>
+        <span class="headline">CSI: Miami</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 6, Ep. 18: Tunnel Vision</p>
+        <p class="description">The episode opens with two men chasing each other on the causeway. When the road collapses one man is thrown into a sinkhole and killed. While investigating, the CSIs discover a conspiracy to rob a bank.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="19" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="noon" title="Noon">
+	<item id="big-lebowski" text="Big Lebowski">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-lebowski.png">
+      <shorttext>
+        <span class="headline">Big Lebowski</span>
+        <p class="subheadline">Comedy, USA 1998</p>
+        <p class="description">Jeffrey 'The Dude' Lebowski is the ultimate LA slacker, until one day his house is broken into and his rug is peed on by two angry gangsters who have mistaken him for Jeffrey Lebowski, the Los Angeles millionaire, whose wife owes some bad people some big money.</p>
+      </shorttext>
+    <time><start hour="08" min="00"/><end hour="10" min="00"/></time></info>
+  </item>
+	<item id="amadeus" text="Amadeus">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/amadeus.png">
+      <shorttext>
+        <span class="headline">Amadeus</span>
+        <p class="subheadline">Drama, USA 1984</p>
+        <p class="description">Antonio Salieri believes that Mozart's music is divine. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. But he can't understand why God favored Mozart, such a vulgar creature, to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is set to take revenge.</p>
+      </shorttext>
+    <time><start hour="10" min="00"/><end hour="13" min="00"/></time></info>
+  </item>
+</item>
+<item id="morning" title="Morning">
+	<item id="prison-break" text="Prison Break">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prison-break.png">
+      <shorttext>
+        <span class="headline">Prison Break</span>
+        <p class="subheadline">Thriller, USA 2008</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Art of the Deal</p>
+        <p class="description">Michael and Lincoln must hand over Whistler to Gretchen so they can save LJ and Sofia's lives. Mahone seizes a golden opportunity. Meanwhile, T-Bag shows Sona who's boss and a familiar face enters Sona as another leaves it in a body bag.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="godfather" text="The Godfather">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/godfather.png">
+      <shorttext>
+        <span class="headline">The Godfather</span>
+        <p class="subheadline">Drama, USA 1972</p>
+        <p class="description">Vito Corleone is the aging don of the Corleone Mafia Family. His youngest son Michael has returned from World War II just in time to see the wedding of Connie Corleone, his sister, to Carlo Rizzi. All of Michael's family is involved with the Mafia, but Michael just wants to live a normal life.</p>
+      </shorttext>
+    <time><start hour="01" min="00"/><end hour="04" min="00"/></time></info>
+  </item>
+	<item id="desperate-housewives" text="Desperate Housewives">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/desperate-housewives.png">
+      <shorttext>
+        <span class="headline">Desperate Housewives</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Free</p>
+        <p class="description">Several residents of Wisteria Lane are faced with deadly threats when Katherine's ex-husband wants to see his daughter again. Susan realizes she will soon lose her daughter when she goes off to college early, and Katherine Mayfair's secrets are finally revealed.</p>
+      </shorttext>
+    <time><start hour="04" min="00"/><end hour="05" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="twin-peaks" text="Twin Peaks">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/twin-peaks.png">
+      <shorttext>
+        <span class="headline">Twin Peaks</span>
+        <p class="subheadline">Mystery Drama, USA 1991</p>
+        <p class="subsubheadline">Season 2, Ep. 13: Checkmate</p>
+        <p class="description">Cooper is held hostage by Renault, Andy and Tremayne pry into Nicky's past, Ben slips into a fantasy life as a Civil War general, James succumbs to Evelyn and Cooper's ex-partner Windom Earle leaves a gruesome scene at the Twin Peaks Sheriff's Station.</p>
+      </shorttext>
+    <time><start hour="05" min="00"/><end hour="06" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="wire" text="The Wire">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/wire.png">
+      <shorttext>
+        <span class="headline">The Wire</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Took</p>
+        <p class="description">McNulty begins getting extreme amounts of unwanted attention towards his serial killer case. Because he knows this plot is one big facade, he allocates the extra man power to get other detectives real police work done, acting almost as Santa Claus: giving the detectives what they need.</p>
+      </shorttext>
+    <time><start hour="06" min="30"/><end hour="07" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="little-amadeus" text="Little Amadeus">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/little-amadeus.png">
+      <shorttext>
+        <span class="headline">Little Amadeus</span>
+        <p class="subheadline">Animated TV Series, Germany 2006</p>
+        <p class="subsubheadline">Season 1, Ep. 20: Shooting Stars</p>
+        <p class="description">The children of Salzburg are playing in the snow. Pumperl joins in the fun and jumps on some ice in the river yet starts to float away. Can the children save the dog? And what has this got to do with the big telescope?</p>
+      </shorttext>
+    <time><start hour="07" min="30"/><end hour="08" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="big-lebowski" text="Big Lebowski">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-lebowski.png">
+      <shorttext>
+        <span class="headline">Big Lebowski</span>
+        <p class="subheadline">Comedy, USA 1998</p>
+        <p class="description">Jeffrey 'The Dude' Lebowski is the ultimate LA slacker, until one day his house is broken into and his rug is peed on by two angry gangsters who have mistaken him for Jeffrey Lebowski, the Los Angeles millionaire, whose wife owes some bad people some big money.</p>
+      </shorttext>
+    <time><start hour="08" min="00"/><end hour="10" min="00"/></time></info>
+  </item>
+</item>
+<item id="now" title="Now">
+	<item id="prison-break" text="Prison Break">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prison-break.png">
+      <shorttext>
+        <span class="headline">Prison Break</span>
+        <p class="subheadline">Thriller, USA 2008</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Art of the Deal</p>
+        <p class="description">Michael and Lincoln must hand over Whistler to Gretchen so they can save LJ and Sofia's lives. Mahone seizes a golden opportunity. Meanwhile, T-Bag shows Sona who's boss and a familiar face enters Sona as another leaves it in a body bag.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="godfather" text="The Godfather">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/godfather.png">
+      <shorttext>
+        <span class="headline">The Godfather</span>
+        <p class="subheadline">Drama, USA 1972</p>
+        <p class="description">Vito Corleone is the aging don of the Corleone Mafia Family. His youngest son Michael has returned from World War II just in time to see the wedding of Connie Corleone, his sister, to Carlo Rizzi. All of Michael's family is involved with the Mafia, but Michael just wants to live a normal life.</p>
+      </shorttext>
+    <time><start hour="01" min="00"/><end hour="04" min="00"/></time></info>
+  </item>
+	<item id="desperate-housewives" text="Desperate Housewives">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/desperate-housewives.png">
+      <shorttext>
+        <span class="headline">Desperate Housewives</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Free</p>
+        <p class="description">Several residents of Wisteria Lane are faced with deadly threats when Katherine's ex-husband wants to see his daughter again. Susan realizes she will soon lose her daughter when she goes off to college early, and Katherine Mayfair's secrets are finally revealed.</p>
+      </shorttext>
+    <time><start hour="04" min="00"/><end hour="05" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="twin-peaks" text="Twin Peaks">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/twin-peaks.png">
+      <shorttext>
+        <span class="headline">Twin Peaks</span>
+        <p class="subheadline">Mystery Drama, USA 1991</p>
+        <p class="subsubheadline">Season 2, Ep. 13: Checkmate</p>
+        <p class="description">Cooper is held hostage by Renault, Andy and Tremayne pry into Nicky's past, Ben slips into a fantasy life as a Civil War general, James succumbs to Evelyn and Cooper's ex-partner Windom Earle leaves a gruesome scene at the Twin Peaks Sheriff's Station.</p>
+      </shorttext>
+    <time><start hour="05" min="00"/><end hour="06" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="wire" text="The Wire">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/wire.png">
+      <shorttext>
+        <span class="headline">The Wire</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Took</p>
+        <p class="description">McNulty begins getting extreme amounts of unwanted attention towards his serial killer case. Because he knows this plot is one big facade, he allocates the extra man power to get other detectives real police work done, acting almost as Santa Claus: giving the detectives what they need.</p>
+      </shorttext>
+    <time><start hour="06" min="30"/><end hour="07" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="little-amadeus" text="Little Amadeus">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/little-amadeus.png">
+      <shorttext>
+        <span class="headline">Little Amadeus</span>
+        <p class="subheadline">Animated TV Series, Germany 2006</p>
+        <p class="subsubheadline">Season 1, Ep. 20: Shooting Stars</p>
+        <p class="description">The children of Salzburg are playing in the snow. Pumperl joins in the fun and jumps on some ice in the river yet starts to float away. Can the children save the dog? And what has this got to do with the big telescope?</p>
+      </shorttext>
+    <time><start hour="07" min="30"/><end hour="08" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="big-lebowski" text="Big Lebowski">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-lebowski.png">
+      <shorttext>
+        <span class="headline">Big Lebowski</span>
+        <p class="subheadline">Comedy, USA 1998</p>
+        <p class="description">Jeffrey 'The Dude' Lebowski is the ultimate LA slacker, until one day his house is broken into and his rug is peed on by two angry gangsters who have mistaken him for Jeffrey Lebowski, the Los Angeles millionaire, whose wife owes some bad people some big money.</p>
+      </shorttext>
+    <time><start hour="08" min="00"/><end hour="10" min="00"/></time></info>
+  </item>
+	<item id="amadeus" text="Amadeus">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/amadeus.png">
+      <shorttext>
+        <span class="headline">Amadeus</span>
+        <p class="subheadline">Drama, USA 1984</p>
+        <p class="description">Antonio Salieri believes that Mozart's music is divine. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. But he can't understand why God favored Mozart, such a vulgar creature, to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is set to take revenge.</p>
+      </shorttext>
+    <time><start hour="10" min="00"/><end hour="13" min="00"/></time></info>
+  </item>
+	<item id="forrest-gump" text="Forrest Gump">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/forrest-gump.png">
+      <shorttext>
+        <span class="headline">Forrest Gump</span>
+        <p class="subheadline">Dramedy, USA 1994</p>
+        <p class="description">A man with a low IQ has accomplished great things in his life and been present during significant historic events - in each case, far exceeding what anyone imagined he could do. It is the story of a man who rose above his challenges, and who proved that determination, courage, and love are more important than ability.</p>
+      </shorttext>
+    <time><start hour="13" min="00"/><end hour="15" min="20"/></time></info>
+  </item>
+	<item id="ugly-betty" text="Ugly Betty">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/ugly-betty.png">
+      <shorttext>
+        <span class="headline">Ugly Betty</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 18: Jump</p>
+        <p class="description">A teenager arrives who may be Meade-related. Also Henry comes back to propose to Betty, as well as Gio asking her to go to Rome with him for a holiday. Wilhelmina takes over Daniel as editor-in-chief. Lindsay Lohan is set to play an old schoolmate of Betty's.</p>
+      </shorttext>
+    <time><start hour="15" min="20"/><end hour="16" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="lost-in-translation" text="Lost in Translation">
+    <meta>
+      <duration>100</duration>
+    </meta>
+    <info url="media/tv/lost-in-translation.png">
+      <shorttext>
+        <span class="headline">Lost in Translation</span>
+        <p class="subheadline">Dramedy, USA 2003</p>
+        <p class="description">Bob Harris is an American film actor, far past his prime. He visits Tokyo to appear in commercials, and he meets Charlotte, the young wife of a visiting photographer. Bored and weary, Bob and Charlotte make ideal if improbable traveling companions.</p>
+      </shorttext>
+    <time><start hour="16" min="20"/><end hour="18" min="00"/></time></info>
+  </item>
+	<item id="csi-miami" text="CSI: Miami">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/csi-miami.png">
+      <shorttext>
+        <span class="headline">CSI: Miami</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 6, Ep. 18: Tunnel Vision</p>
+        <p class="description">The episode opens with two men chasing each other on the causeway. When the road collapses one man is thrown into a sinkhole and killed. While investigating, the CSIs discover a conspiracy to rob a bank.</p>
+      </shorttext>
+    <time><start hour="18" min="00"/><end hour="19" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dawsons-creek" text="Dawson's Creek">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dawsons-creek.png">
+      <shorttext>
+        <span class="headline">Dawson's Creek</span>
+        <p class="subheadline">Soap Opera, USA 2003</p>
+        <p class="subsubheadline">Season 6, Ep. 19: Lovelines</p>
+        <p class="description">Joey and Eddie's emotional and sexual relationship is played out on stage during a counseling center benefit. At the same event, Jack and David deal with the insecurities in their relationship, Jen opens up to C.J. about Grams' cancer, and a sober Audrey returns to Boston and surprises everyone at the benefit.</p>
+      </shorttext>
+    <time><start hour="19" min="10"/><end hour="20" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gossip-girl" text="Gossip Girl">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/gossip-girl.png">
+      <shorttext>
+        <span class="headline">Gossip Girl</span>
+        <p class="subheadline">Teen Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 12: School Lies</p>
+        <p class="description">The gang breaks into the school swimming pool for an impromptu night of fun, but when a member of their group nearly drowns, the school threatens to expel the person responsible for the break-in. Meanwhile Chuck continues to blackmail Blair which causes strain on her already fragile relationship with Nate.</p>
+      </shorttext>
+    <time><start hour="20" min="10"/><end hour="21" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="entourage" text="Entourage">
+    <meta>
+      <duration>40</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/entourage.png">
+      <shorttext>
+        <span class="headline">Entourage</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 12: The Cannes Kids</p>
+        <p class="description">At Cannes, the guys party it up and attend to the business of selling Medellin, and find themselves with two offers on the table before it's even screened, and in the end, the film is bought from an unlikely source, at a price much lower than they were hoping for.</p>
+      </shorttext>
+    <time><start hour="21" min="10"/><end hour="21" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="weeds" text="Weeds">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/weeds.png">
+      <shorttext>
+        <span class="headline">Weeds</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 8: I Am The Table</p>
+        <p class="description">Esteban and Nancy's spontaneous date ends in near violence. Andy and Doug successfully smuggle their first customer across the border. Silas reveals to Lisa that he grows pot, and she offers to let him do business in the back of her store.</p>
+      </shorttext>
+    <time><start hour="21" min="50"/><end hour="22" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="heroes" text="Heroes">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/heroes.png">
+      <shorttext>
+        <span class="headline">Heroes</span>
+        <p class="subheadline">Sci-Fi Drama, USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 34: Powerless</p>
+        <p class="description">Peter finds out that Adam wants to unleash a virus and stops him from doing so. Meanwhile, Hiro buries Adam alive. Monica is kidnapped by a street gang and Niki saves her, but gets trapped in a burning, exploding building. And Elle saves Suresh, Maya and Molly from Sylar's clutches.</p>
+      </shorttext>
+    <time><start hour="22" min="50"/><end hour="23" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+</menu>

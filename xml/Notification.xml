@@ -1,0 +1,195 @@
+<Notification>
+  <item id="SearchError">
+    <text id="en-US"><span class="nWarn">No search results found for</span><br/><span class="nNotify">"$errorMsg"</span></text>
+    <text id="de"><span class="nWarn">Es konnte kein Ergebnis für</span><br/><span class="nNotify">"$errorMsg"</span><br/><span class="nWarn">gefunden werden.</span></text>
+    <text id="hr"><span class="nWarn">Es konnte kein Ergebnis für</span><br/><span class="nNotify">"$errorMsg"</span><br/><span class="nWarn">gefunden werden.</span></text>
+  </item>
+
+  <item id="VoiceError">
+    <text id="en-US"><span class="nWarn">$errorMsg</span></text>
+    <text id="de"><span class="nWarn">$errorMsg</span></text>
+    <text id="hr"><span class="nWarn">$errorMsg</span></text>
+  </item>
+
+  <item id="AppError">
+    <text id="en-US"><span class="nWarn">Failed to load $appName.</span></text>
+    <text id="de"><span class="nWarn">$appName konnte nicht geladen werden.</span></text>
+    <text id="hr"><span class="nWarn">Failed to load $appName.</span></text>
+  </item>
+
+  <item id="UserLogin">
+    <text id="en-US"><span class="nOk">$userName logged in.</span></text>
+    <text id="de"><span class="nOk">$userName hat sich angemeldet.</span></text>
+    <text id="hr"><span class="nOk">$userName prijavljeni.</span></text>
+  </item>
+  <item id="UserLogout">
+    <text id="en-US"><span class="nOk">$userName logged out.</span></text>
+    <text id="de"><span class="nOk">$userName hat sich abgemeldet.</span></text>
+    <text id="hr"><span class="nOk">$userName odjavljeni.</span></text>
+  </item>
+
+  <item id="VodBuyMovieFP">
+    <text id="en-US"><span class="nNotify">The movie costs $price.</span><br/><span class="nInfoText">Please confirm your order.</span></text>
+    <text id="de"><span class="nNotify">Der Film $movieName kostet $price.</span><br/><p class="nInfoText">Bitte bestätigen Sie Ihre Bestellung.</p></text>
+    <text id="hr"><span class="nNotify">Film iznosi $price.</span><br/><p class="nInfoText">Molimo vas da potvrdite svoju narud&#382;bu.</p></text>
+  </item>
+  <item id="VodBuyMoviePIN">
+    <text id="en-US"><span class="nNotify">The movie costs $price.</span><br/><p class="nInfoText">Please confirm your order.</p></text>
+    <text id="de"><span class="nNotify">Der Film $movieName kostet $price.</span><br/><p class="nInfoText">Bitte bestätigen Sie mit Ihrem Fingerabdruck.</p></text>
+    <text id="hr"><span class="nNotify">Film iznosi $price.</span><br/><p class="nInfoText">Molimo vas da potvrdite svoju narud&#382;bu.</p></text>
+  </item>
+  <item id="VodCancelBuy">
+    <text id="en-US"><span class="nOk">Order cancelled.</span></text>
+    <text id="de"><span class="nOk">Der Bestellvorgang wurde abgebrochen.</span></text>
+    <text id="hr"><span class="nOk">Order cancelled.</span></text>
+  </item>
+  <item id="VodConfirmBuy">
+    <text id="en-US"><span class="nOk">Movie purchased.</span><br/><p class="nInfoText">Select Play to start.</p></text>
+    <text id="de"><span class="nOk">Bestellvorgang von $movieName war erfolgreich.</span><br/><p class="nInfoText">Wählen Sie Play, um den Film zu starten.</p></text>
+    <text id="hr"><span class="nOk">Kupit film.</span><br/><p class="nInfoText">Odaberite play za start.</p></text>
+  </item>
+
+  <item id="RecordAddToList">
+    <text id="en-US"><span class="nOk">$recordingName<br/>is scheduled for recording.</span></text>
+    <text id="de"><span class="nOk">$recordingName<br/>wird aufgezeichnet".</span></text>
+    <text id="hr"><span class="nOk">$recordingName<br/>is scheduled for recording.</span></text>
+  </item>
+  <item id="RecordSeriesAddToList">
+    <text id="en-US"><span class="nOk">All Episodes of<br/>$recordingName<br/>are scheduled for recording.</span></text>
+    <text id="de"><span class="nOk">Alle Episoden von<br/>$recordingName<br/>werden aufgezeichnet".</span></text>
+    <text id="hr"><span class="nOk">All Episodes of<br/>$recordingName<br/>are scheduled for recording.</span></text>
+  </item>
+
+  <item id="FilterApply">
+    <text id="en-US"><span class="nOk">Filter<br/>"$filterName"<br/>applied successfully.</span></text>
+    <text id="de"><span class="nOk">Filter<br/>"$filterName"<br/>wurde angewandt.</span></text>
+    <text id="hr"><span class="nOk">Filter<br/>"$filterName"<br/>applied successfully.</span></text>
+  </item>
+  <item id="FilterRemove">
+    <text id="en-US"><span class="nOk">Filter<br/>"$filterName"<br/>removed successfully.</span></text>
+    <text id="de"><span class="nOk">Filter<br/>"$filterName"<br/>wurde erfolgreich entfernt.</span></text>
+    <text id="hr"><span class="nOk">Filter<br/>"$filterName"<br/>removed successfully.</span></text>
+  </item>
+
+  <item id="ConfirmFP">
+    <text id="en-US"><span class="nNotify">Please confirm with your<br/>fingerprint to proceed.</span></text>
+    <text id="de"><span class="nNotify">Bitte identifizieren Sie sich<br/>mit Ihrem Fingerabdruck um fortzufahren.</span></text>
+    <text id="hr"><span class="nNotify">Molimo vas da potvrdite svoj<br/>otisak prsta za nastavak.</span></text>
+  </item>
+  <item id="ConfirmPIN">
+    <text id="en-US"><span class="nNotify">Please confirm with your<br/>PIN to proceed.</span></text>
+    <text id="de"><span class="nNotify">Bitte identifizieren Sie sich<br/>mit Ihrem PIN um fortzufahren.</span></text>
+    <text id="hr"><span class="nNotify">Please confirm with your<br/>PIN to proceed.</span></text>
+  </item>
+
+  <item id="AccessDenied">
+    <text id="en-US"><span class="nWarn">Access denied.</span></text>
+    <text id="de"><span class="nWarn">Zugriff verweigert.</span></text>
+    <text id="hr"><span class="nWarn">Access denied.</span></text>
+  </item>
+  <item id="AccessGranted">
+    <text id="en-US"><span class="nOk">Access granted.</span></text>
+    <text id="de"><span class="nOk">Zugriff gewährt</span></text>
+    <text id="hr"><span class="nOk">Access granted.</span></text>
+  </item>
+
+  <item id="ProfileApply">
+    <text id="en-US"><span class="nOk">$profileName<br/>was applied to the profile.</span></text>
+    <text id="de"><span class="nOk">$profileName<br/>wurde auf das Profil angewandt.</span></text>
+    <text id="hr"><span class="nOk">$profileName<br/>was applied to the profile.</span></text>
+  </item>
+  <item id="ProfileUsername">
+    <text id="en-US"><span class="nOk">Username $userName<br/>entered successfully.</span></text>
+    <text id="de"><span class="nOk">Username $userName<br/>erfolgreich eingegeben.</span></text>
+    <text id="hr"><span class="nOk">Username $userName<br/>entered successfully.</span></text>
+  </item>
+  <item id="CallUsername">
+    <text id="en-US"><span class="nNotify">Calling:<br/><br/>$userName</span></text>
+    <text id="de"><span class="nNotify">Anrufen:<br/><br/>$userName</span></text>
+    <text id="hr"><span class="nNotify">Calling:<br/><br/>$userName</span></text>
+  </item>
+  <item id="CallHangup">
+    <text id="en-US"><span class="nOk">Connection closed.</span></text>
+    <text id="de"><span class="nOk">Verbindung unterbrochen.</span></text>
+    <text id="hr"><span class="nOk">Connection closed.</span></text>
+  </item>
+  <item id="CallNotReached">
+    <text id="en-US"><span class="nWarn">$userName not reached.<br/>Connection closed.</span></text>
+    <text id="de"><span class="nWarn">$userName nicht erreicht.<br/>Verbindung unterbrochen.</span></text>
+    <text id="hr"><span class="nWarn">$userName not reached.<br/>Connection closed.</span></text>
+  </item>
+  <item id="FingerprintGuest">
+    <text id="en-US"><span class="nWarn">Unknown fingerprint.</span></text>
+    <text id="de"><span class="nWarn">Unbekannter Fingerabdruck.</span></text>
+    <text id="hr"><span class="nWarn">Unknown fingerprint.</span></text>
+  </item>
+  <item id="FingerprintError">
+    <text id="en-US"><span class="nNotify">Please clean sensor</span></text>
+    <text id="de"><span class="nNotify">Bitte Sensor reinigen.</span></text>
+    <text id="hr"><span class="nNotify">Please clean sensor</span></text>
+  </item>
+  <item id="FingerprintLearn">
+    <text id="en-US"><span class="nNotify">Please press the sensor.</span></text>
+    <text id="de"><span class="nNotify">Bitte auf den Sensor drücken.</span></text>
+    <text id="hr"><span class="nNotify">Please press the sensor.</span></text>
+  </item>
+  <item id="FingerprintLearned">
+    <text id="en-US"><span class="nOk">Fingerprint successfully learned.</span></text>
+    <text id="de"><span class="nOk">Fingerprint wurde erfolgreich gelernt.</span></text>
+    <text id="hr"><span class="nOk">Fingerprint successfully learned.</span></text>
+  </item>
+  <item id="FingerprintOK">
+    <text id="en-US"><span class="nOk">Fingerprint is OK.</span></text>
+    <text id="de"><span class="nOk">Fingerprint in Ordnung.</span></text>
+    <text id="hr"><span class="nOk">Fingerprint is OK.</span></text>
+  </item>
+  <item id="WrongLogin">
+    <text id="en-US"><span class="nWarn">Function can not be acessed because $userName is logged in.</span></text>
+    <text id="de"><span class="nWarn">Funktion ist nicht zugänglich weil $userName angemeldet ist.</span></text>
+    <text id="hr"><span class="nWarn">Function can not be acessed because $userName is logged in.</span></text>
+  </item>
+  <item id="UserGroup">
+    <text id="en-US"><span class="nOk">The profile was added to the $groupName group.</span></text>
+    <text id="de"><span class="nOk">Das Profil wurde zur Gruppe der $groupName hinzugefügt.</span></text>
+    <text id="hr"><span class="nOk">The profile was added to the $groupName group.</span></text>
+  </item>
+
+  <!-- Remote Learn -->
+  <item id="RemoteLearn">
+    <text id="en-US"><span class="nNotify">Press and hold button: <br/><br/>$b_text</span></text>
+    <text id="de"><span class="nNotify">Bitte drücken Sie folgende Taste: <br/><br/>$b_text</span></text>
+    <text id="hr"><span class="nNotify">Press and hold button: <br/><br/>$b_text</span></text>
+  </item>
+  <item id="RemoteLearnAgain">
+    <text id="en-US"><span class="nNotify">Press and hold button again:<br/><br/>$b_text</span></text>
+      <text id="de"><span class="nNotify">Bitte Knopf<br/>$b_text<br/>nochmal drücken</span></text>
+     <text id="hr"><span class="nNotify">Press and hold button again:<br/><br/>$b_text</span></text>
+  </item>
+  <item id="RemoteReleaseKey">
+    <text id="en-US"><span class="nNotify">Please release the button</span></text>
+    <text id="de"><span class="nNotify">Bitte Knopf loslassen</span></text>
+    <text id="hr"><span class="nNotify">Please release the button</span></text>
+  </item>
+  <item id="RemoteLearned">
+    <text id="en-US"><span class="nOk">Your STB remote control <br/>was updated successfully</span></text>
+    <text id="de"><span class="nOk">Die Fernbedienung wurde <br/>erfolgreich aktualisiert</span></text>
+    <text id="hr"><span class="nOk">Your STB remote control <br/>was updated successfully</span></text>
+  </item>
+  <item id="RemoteKeyLearned">
+    <text id="en-US"><span class="nOk">Button recognized<br/><br/>successfully</span></text>
+    <text id="de"><span class="nOk">Taste erfolgreich erkannt.</span></text>
+    <text id="hr"><span class="nOk">Your STB remote control <br/>was updated successfully</span></text>
+  </item>
+  <item id="RemoteError">
+    <text id="en-US"><span class="nWarn">Error learning<br/>Please try again</span></text>
+    <text id="de"><span class="nWarn">Fehler beim Einlernen<br/>Bitte versuchen Sie es erneut</span></text>
+    <text id="hr"><span class="nWarn">Error learning<br/>Please try again</span></text>
+  </item>
+  <item id="RemoteActivateLayerError">
+    <text id="en-US"><span class="nWarn">Communication Error.</span><br/><p class="nInfoText">Please point remote control towards<br/>the TV screen and press OK.</p></text>
+    <text id="de"><span class="nWarn">Übertragungsfehler.</span><br/><p class="nInfoText">Bitte die Fernbedienung auf<br/>den Fernseher ausrichten und OK drücken.</p></text>
+    <text id="hr"><span class="nWarn">Communication Error.</span><br/><p class="nInfoText">Please point remote control towards<br/>the TV screen and press OK.</p></text>
+  </item>
+</Notification>
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

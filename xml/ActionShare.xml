@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="action_share">
+  <meta>
+    <select id="share"/>
+  </meta>
+  <item id="share" labelbgcolor="#5b7723" title= "Share">
+    <item text="Default" checked="false"/>
+    <item text="Ferdinand" checked="true"/>
+    <item text="Christine" checked="false"/>
+    <item text="Peter" checked="false"/>
+    <item text="Martina" checked="false"/>
+    <item text="Eckhard" checked="false"/>
+  </item>
+</menu>

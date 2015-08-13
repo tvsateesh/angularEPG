@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<menu>
+  <meta>
+    <select id="salzburg"/>
+    <!--		<action module="Weather"  menu="xml/internet/ActionWeatherDetail.xml"/> -->
+		<screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="448" />
+		</screen>
+	</meta>
+  <item title="Paris" labelbgcolor="#00192d">
+    <item id="week" text="This Week">
+    <info><shorttext>
+<entry><day>Tue</day><temperature high="19" low="17" /><weather>light rain</weather></entry>
+<entry><day>Wed</day><temperature high="21" low="13" /><weather>showers</weather></entry>
+<entry><day>Thu</day><temperature high="23" low="13" /><weather>mostly sunny</weather></entry>
+<entry><day>Fri</day><temperature high="22" low="12" /><weather>partly cloudy</weather></entry>
+<entry><day>Sat</day><temperature high="22" low="12" /><weather>scattered showers</weather></entry>
+    </shorttext></info>
+    </item>
+  </item>
+  <item title="Amsterdam" labelbgcolor="#00192d">
+    <item id="week" text="This Week">
+    <info><shorttext>
+<entry><day>Tue</day><temperature high="18" low="16" /><weather>mostly cloudy</weather></entry>
+<entry><day>Wed</day><temperature high="20" low="14" /><weather>am showers</weather></entry>
+<entry><day>Thu</day><temperature high="20" low="13" /><weather>sunny</weather></entry>
+<entry><day>Fri</day><temperature high="19" low="13" /><weather>showers</weather></entry>
+<entry><day>Sat</day><temperature high="19" low="13" /><weather>showers</weather></entry>
+    </shorttext></info>
+    </item>
+  </item>
+  <item id="salzburg" title="Salzburg" labelbgcolor="#00192d">
+    <item id="week" text="This Week">
+    <info><shorttext>
+<entry><day>Tue</day><temperature high="20" low="14" /><weather>partly cloudy</weather></entry>
+<entry><day>Wed</day><temperature high="25" low="15" /><weather>pm showers</weather></entry>
+<entry><day>Thu</day><temperature high="23" low="15" /><weather>showers</weather></entry>
+<entry><day>Fri</day><temperature high="19" low="13" /><weather>showers</weather></entry>
+<entry><day>Sat</day><temperature high="21" low="13" /><weather>showers</weather></entry>
+    </shorttext></info>
+    </item>
+  </item>
+</menu>

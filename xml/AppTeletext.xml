@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <meta>
+    <select id="shortcuts" /> 
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="410" />
+      <element id="imgHolder" type="MovieClip" x="500" y="70"/><!-- width="602" height="434" -->
+      <element id="txtHolder" type="TextField" x="500" y="40"/><!-- width="200" height="100" -->
+    </screen>
+  </meta>
+
+  <item title="Color keys" id="colors" labelbgcolor="#222222">
+    <icon url="media/icons/teletext/submenu icon teletext colors.png" />
+    <item>
+      <icon url="media/icons/teletext/teletext-color-red.png" />
+    </item>
+    <item>
+      <icon url="media/icons/teletext/teletext-color-green.png" />
+    </item>
+    <item>
+      <icon url="media/icons/teletext/teletext-color-yellow.png" />
+    </item>
+    <item>
+      <icon url="media/icons/teletext/teletext-color-blue.png" />
+    </item>
+  </item>
+
+  <item title="Shortcuts" id="shortcuts" labelbgcolor="#222222">
+    <icon url="media/icons/teletext/submenu icon teletext shortcuts.png" />
+    <item id="short_start" text="Start" shortcut="100"><page num="100"/></item>
+    <item id="short_business" text="Business" shortcut="200"><page num="200"/></item>
+    <item id="short_sport" text="Sport" shortcut="300"><page num="300"/></item>
+    <item id="short_weather" text="Weather" shortcut="400"><page num="400"/></item>
+    <item id="short_entertainment" text="Entertainment" shortcut="500"><page num="500"/></item>
+    <item id="short_tv" text="TV Program" shortcut="600"><page num="600"/></item>
+  </item>
+
+  <item title="pages" id="pages" labelbgcolor="#222222">
+    <meta>
+      <select id="action_next_page"/>
+    </meta>
+    <icon url="media/icons/teletext/submenu icon teletext subpages.png" />
+    <item id="action_previous_page" text="previous page"/>
+    <item id="action_next_page" text="next page"/>
+  </item>
+
+  <item title="SubPages" id="subpages" labelbgcolor="#222222">
+    <meta>
+      <select id="next"/>
+    </meta>
+    <icon url="media/icons/teletext/submenu icon teletext prev-next.png" />
+    <item id="action_previous_subpage" text="previous page"/>
+    <item id="action_next_subpage" text="next page"/>
+  </item>
+
+  <item title="0-9" id="0-9" labelbgcolor="#222222">
+    <icon url="media/icons/teletext/submenu icon teletext 0-9.png" />
+    <item id="0" text="0" shortcut="0"/>
+    <item id="1" text="1" shortcut="1"/>
+    <item id="2" text="2" shortcut="2"/>
+    <item id="3" text="3" shortcut="3"/>
+    <item id="4" text="4" shortcut="4"/>
+    <item id="5" text="5" shortcut="5"/>
+    <item id="6" text="6" shortcut="6"/>
+    <item id="7" text="7" shortcut="7"/>
+    <item id="8" text="8" shortcut="8"/>
+    <item id="9" text="9" shortcut="9"/>
+  </item>
+</menu>
+
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Menu for Communication -->
+<menu cache="false">
+  <meta>
+    <select id="This Call" />
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="410" />
+      <element id="imgHolder" type="Component" x="230" y="0"/>
+      <element id="videoHolder" type="Component" x="230" y="0" width="567" height="454"/>
+      <element id="txtHolder" type="TextField" x="1000" y="150" width="150" height="454"/>
+    </screen>
+  </meta>
+  <item title="Watch TV" id="watchTV">
+    <item text="watch TV while talking" id="watchTV" />
+  </item>
+  <item title="This Call" id="This Call">
+    <item text="end call" id="quit"/>
+    <item text="mute" id="mute"/>
+    <item text="turn on video" id="toggleVideo"/>
+  </item>
+
+  <!--<item title="Call" id="call">
+    <icon url="" />
+    <item title="Voice only" active="false">
+    </item>
+    <item title="Voice and Picture" active="false">
+      <action module="AppCommunicationCall"  menu="xml/AppCommunicationCall.xml" />
+    </item>
+    <item title="show Screen" active="false">
+    </item>
+  </item>-->
+</menu>
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

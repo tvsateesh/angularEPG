@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="action_library">
+  <meta>
+    <select id="actions"/>
+  </meta>
+  <item id="search" title="Search">
+    <item id="action_prev" title="back">
+      <!-- <icon url="library_2.swf#back"/> -->
+    </item>
+    <item id="action_next" title="next">
+      <!-- <icon url="library_2.swf#next"/> -->
+    </item>
+  </item>
+  <item id="actions" title="Action">
+    <!--    <item id="action_play" title="play"/>	-->
+    <item id="action_pause" title="pause"/>
+  </item>
+</menu>

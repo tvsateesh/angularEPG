@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <meta>
+    <select id="Name" />
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="410" />
+      <element id="shorttext" type="TextField" x="20" y="20" width="600" height="300" />
+      <element id="profileName" type="TextField" x="600" y="20" width="500" height="100" />
+    </screen>
+  </meta>
+
+  <item title="Delete" labelbgcolor="#084007">
+    <icon url="media/icons/submenu/submenu icon profile delete.png" />
+    <item text="No" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Delete Profile</span>
+          <p class="description">Select "Yes" to delete this profile.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Yes" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Delete Profile</span>
+          <p class="description">Select to delete this profile. Warning: Deleted Profiles can not be restored.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+
+  <item title="Photo" labelbgcolor="#084007">
+    <icon url="media/icons/submenu/submenu icon profile photo.png" />
+    <item text="change" active="false">
+      <action module="AppLibrary"  menu="xml/AppLibraryPhoto.xml" />
+      <info>
+        <shorttext>
+          <span class="headline">Photo</span>
+          <p class="description">Select to change the photo that is attached to this profile.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="delete" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Photo</span>
+          <p class="description">Select to delete the photo that is attached to this profile.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+  <item id="channelList" title="Channel list"  labelbgcolor="#084007">
+    <icon url="media/icons/submenu/submenu icon profile sort channels.png" />
+    <item text="reorder">
+      <action module="AppReorderChannels"  menu="xml/ShortCutTvChannels.xml" />
+      <info>
+        <shorttext>
+          <span class="headline">Reorder Channels</span>
+          <p class="description">Select to change the order of your channels in the channel list.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="add new">
+      <info>
+        <shorttext>
+          <span class="headline">Add New Channels</span>
+          <p class="description">Select to add deleted channels to you channel list.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="delete">
+      <info>
+        <shorttext>
+          <span class="headline">Delete Channels</span>
+          <p class="description">Select to delete channels in your channel list.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+  <item id="channelFilter" title="Channel Filter" labelbgcolor="#084007">
+    <icon url="media/icons/submenu/submenu icon profile channels.png" />
+    <item id="orf1" shortcut="1">
+      <icon url="media/icons/tv_logos/orf1.png"/>
+      <media url="media/tvbackground/channel01.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="orf2" shortcut="2">
+      <icon url="media/icons/tv_logos/orf2.png"/>
+      <media url="media/tvbackground/channel02.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="orf3" shortcut="3">
+      <icon url="media/icons/tv_logos/orf3.png"/>
+      <media url="media/tvbackground/channel03.mp4"/>
+      <info >
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="puls4" shortcut="4">
+      <icon url="media/icons/tv_logos/puls4.png"/>
+      <media url="media/tvbackground/channel04.mp4"/>
+      <info >
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="servustv" shortcut="5">
+      <icon url="media/icons/tv_logos/servustv.png"/>
+      <media url="media/tvbackground/channel05.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="bbc1" shortcut="6">
+      <icon url="media/icons/tv_logos/bbc1.png"/>
+      <media url="media/tvbackground/channel06.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="bbc2" shortcut="7">
+      <icon url="media/icons/tv_logos/bbc2.png"/>
+      <media url="media/tvbackground/channel07.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="bbc3" shortcut="8">
+      <icon url="media/icons/tv_logos/bbc3.png"/>
+      <media url="media/tvbackground/channel08.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="bbc4" shortcut="9">
+      <icon url="media/icons/tv_logos/bbc4.png"/>
+      <media url="media/tvbackground/channel09.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="itv" shortcut="10">
+      <icon url="media/icons/tv_logos/itv.png"/>
+      <media url="media/tvbackground/channel10.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="comedycentral" shortcut="11">
+      <icon url="media/icons/tv_logos/comedycentral.png"/>
+      <media url="media/tvbackground/channel01.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="rts1" shortcut="12">
+      <icon url="media/icons/tv_logos/rts1.png"/>
+      <media url="media/tvbackground/channel02.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="rts2" shortcut="13">
+      <icon url="media/icons/tv_logos/rts2.png"/>
+      <media url="media/tvbackground/channel03.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="be1" shortcut="14">
+      <icon url="media/icons/tv_logos/be1.png"/>
+      <media url="media/tvbackground/channel04.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="be2" shortcut="15">
+      <icon url="media/icons/tv_logos/be2.png"/>
+      <media url="media/tvbackground/channel05.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="sky" shortcut="16">
+      <icon url="media/icons/tv_logos/sky.png"/>
+      <media url="media/tvbackground/channel06.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="srf1" shortcut="17">
+      <icon url="media/icons/tv_logos/srf1.png"/>
+      <media url="media/tvbackground/channel07.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="srf2" shortcut="18">
+      <icon url="media/icons/tv_logos/srf2.png"/>
+      <media url="media/tvbackground/channel08.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="tf1" shortcut="19">
+      <icon url="media/icons/tv_logos/tf1.png"/>
+      <media url="media/tvbackground/channel09.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="franceo" shortcut="20">
+      <icon url="media/icons/tv_logos/franceo.png"/>
+      <media url="media/tvbackground/channel10.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="france1" shortcut="21">
+      <icon url="media/icons/tv_logos/france1.png"/>
+      <media url="media/tvbackground/channel01.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="france2" shortcut="22">
+      <icon url="media/icons/tv_logos/france2.png"/>
+      <media url="media/tvbackground/channel02.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="france3" shortcut="23">
+      <icon url="media/icons/tv_logos/france3.png"/>
+      <media url="media/tvbackground/channel03.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="france4" shortcut="24">
+      <icon url="media/icons/tv_logos/france4.png"/>
+      <media url="media/tvbackground/channel04.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="france5" shortcut="25">
+      <icon url="media/icons/tv_logos/france5.png"/>
+      <media url="media/tvbackground/channel05.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="m6" shortcut="26">
+      <icon url="media/icons/tv_logos/m6.png"/>
+      <media url="media/tvbackground/channel06.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="arte" shortcut="27">
+      <icon url="media/icons/tv_logos/arte.png"/>
+      <media url="media/tvbackground/channel07.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="canalplus" shortcut="28">
+      <icon url="media/icons/tv_logos/canalplus.png"/>
+      <media url="media/tvbackground/channel08.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="nt1" shortcut="29">
+      <icon url="media/icons/tv_logos/nt1.png"/>
+      <media url="media/tvbackground/channel09.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="wdr" shortcut="30">
+      <icon url="media/icons/tv_logos/wdr.png"/>
+      <media url="media/tvbackground/channel10.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="ard" shortcut="31">
+      <icon url="media/icons/tv_logos/ard.png"/>
+      <media url="media/tvbackground/channel01.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="ardplus" shortcut="32">
+      <icon url="media/icons/tv_logos/ardplus.png"/>
+      <media url="media/tvbackground/channel02.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="zdf" shortcut="33">
+      <icon url="media/icons/tv_logos/zdf.png"/>
+      <media url="media/tvbackground/channel03.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="zdfneo" shortcut="34">
+      <icon url="media/icons/tv_logos/zdfneo.png"/>
+      <media url="media/tvbackground/channel04.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="3sat" shortcut="35">
+      <icon url="media/icons/tv_logos/3sat.png"/>
+      <media url="media/tvbackground/channel05.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="sat1" shortcut="36">
+      <icon url="media/icons/tv_logos/sat1.png"/>
+      <media url="media/tvbackground/channel06.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="prosieben" shortcut="37">
+      <icon url="media/icons/tv_logos/prosieben.png"/>
+      <media url="media/tvbackground/channel07.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="kabeleins" shortcut="38">
+      <icon url="media/icons/tv_logos/kabeleins.png"/>
+      <media url="media/tvbackground/channel08.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="sixx" shortcut="39">
+      <icon url="media/icons/tv_logos/sixx.png"/>
+      <media url="media/tvbackground/channel09.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="e4" shortcut="40">
+      <icon url="media/icons/tv_logos/e4.png"/>
+      <media url="media/tvbackground/channel10.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="nickelodeon" shortcut="41">
+      <icon url="media/icons/tv_logos/nickelodeon.png"/>
+      <media url="media/tvbackground/channel01.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="disneychannel" shortcut="42">
+      <icon url="media/icons/tv_logos/disneychannel.png"/>
+      <media url="media/tvbackground/channel02.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="sho" shortcut="43">
+      <icon url="media/icons/tv_logos/sho.png"/>
+      <media url="media/tvbackground/channel03.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="mtv" shortcut="44">
+      <icon url="media/icons/tv_logos/mtv.png"/>
+      <media url="media/tvbackground/channel04.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="sf" shortcut="45">
+      <icon url="media/icons/tv_logos/sf.png"/>
+      <media url="media/tvbackground/channel05.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="cnn" shortcut="46">
+      <icon url="media/icons/tv_logos/cnn.png"/>
+      <media url="media/tvbackground/channel06.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="hbo" shortcut="47">
+      <icon url="media/icons/tv_logos/hbo.png"/>
+      <media url="media/tvbackground/channel07.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="animalplanet" shortcut="48">
+      <icon url="media/icons/tv_logos/animalplanet.png"/>
+      <media url="media/tvbackground/channel08.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="discoverychannel" shortcut="49">
+      <icon url="media/icons/tv_logos/discoverychannel.png"/>
+      <media url="media/tvbackground/channel09.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item id="nationalgeographicchannel" shortcut="50">
+      <icon url="media/icons/tv_logos/nationalgeographicchannel.png"/>
+      <media url="media/tvbackground/channel10.mp4"/>
+      <info>
+        <shorttext>
+          <span class="headline">Channel Filter</span>
+          <p class="description">
+            With this filter you can deny access to the station. Press OK to activate the filter.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+
+  </item>
+  <item id="moneyFilter" title="Money Filter" labelbgcolor="#084007">
+    <icon url="media/icons/submenu/submenu icon profile money.png" />
+    <item text="No money can  be spent" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Money Filter</span> 
+          <p class="description">
+            This filter disables the Video on Demand Function for this Profile. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Less than 5€" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Money Filter</span> 
+          <p class="description">
+            This filter allows this profile to spend up to 5€ a month for Video on Demand Content. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Less than 10€" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Money Filter</span> 
+          <p class="description">
+            This filter allows this profile to spend up to 10€ a month for Video on Demand Content. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Less than 15€" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Money Filter</span> 
+          <p class="description">
+            This filter allows this profile to spend up to 15€ a month for Video on Demand Content. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Less than 25€" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Money Filter</span> 
+          <p class="description">
+            This filter allows this profile to spend up to 25€ a month for Video on Demand Content. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Less than 50€" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Money Filter</span> 
+          <p class="description">
+            This filter allows this profile to spend up to 50€ a month for Video on Demand Content. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="No limit" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Money Filter</span> 
+          <p class="description">
+            This filter allows this profile to spend an unlimited amount for Video on Demand Content. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+  <item id="durationFilter" title="Duration Filter" labelbgcolor="#084007">
+    <icon url="media/icons/submenu/submenu icon profile duration.png" />
+    <item text="1 hour" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Duration Filter</span> 
+          <p class="description">
+            This filter limits the daily TV usage to 1 hour. Press OK to activate the filter. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="2 hours" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Duration Filter</span> 
+          <p class="description">
+            This filter limits the daily TV usage to 2 hours. Press OK to activate the filter. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="3 hours" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Duration Filter</span> 
+          <p class="description">
+            This filter limits the daily TV usage to 3 hours. Press OK to activate the filter. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+  <item  id="time" title="Time Filter" labelbgcolor="#084007">
+    <icon url="media/icons/submenu/submenu icon profile time.png" />
+    <item text="8:00 - 18:00" checked="false">
+      <info>
+        <shorttext>
+          <span class="headline">Time Range Filter</span> 
+          <p class="description">
+            This filter limits the daily TV usage to the time between 8.00 - 18.00. Press OK to activate the filter. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="8:00 - 20:00" checked="false">
+      <info>
+        <shorttext>
+          <span class="headline">Time Range Filter</span> 
+          <p class="description">
+            This filter limits the daily TV usage to the time between 8.00 - 20.00. Press OK to activate the filter. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="8:00 - 22:00" checked="false">
+      <info>
+        <shorttext>
+          <span class="headline">Time Range Filter</span> 
+          <p class="description">
+            This filter limits the daily TV usage to the time between 8.00 - 22.00. Press OK to activate the filter. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+  <item id="ageFilter" title="Age Filter" active="false" labelbgcolor="#084007">
+    <icon url="media/icons/submenu/submenu icon profile filters.png" />
+    <item text="FSK 6" selected="false" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">FSK Filter</span> 
+          <p class="description">
+            This filter denies access to programs, which are not suitable for children under 6 years. Press OK to activate the filter. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="FSK 12" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">FSK Filter</span> 
+          <p class="description">
+            This filter denies access to programs, which are not suitable for children under 12 years. Press OK to activate the filter. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="FSK 16" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">FSK Filter</span> 
+          <p class="description">
+            This filter denies access to programs, which are not suitable for teenager under 16 years. Press OK to activate the filter. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="FSK 18" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">FSK Filter</span> 
+          <p class="description">
+            This filter denies access to programs, which are not suitable for teenager under 18 years. Press OK to activate the filter. 
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+  <item id="usergroup" title="Usergroup" active="false" labelbgcolor="#084007">
+    <icon url="media/icons/submenu/submenu icon profile usergroup.png" />
+    <item text="Admin User" selected="false" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Group Membership</span>
+          <p class="description">Select to add this profile to the group of Administrators. Members can change all settings and use all functions.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Standard User" active="true">
+      <info>
+        <shorttext>
+          <span class="headline">Group Membership</span>
+          <p class="description">Select to add this profile to the group of Standard Users. Members of this group can use all functions but can not change settings.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Restricted User" active="false">
+      <info>
+        <shorttext>
+          <span class="headline">Group Membership</span>
+          <p class="description">Select to add this profile to the group of Restricted Users. Members of this group can only use functions that are not filtered and can not change settings.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+
+
+  <item id="voicebiometrics" title="Voice Biometrics" labelbgcolor="#084007">
+    <icon url="media/icons/submenu/submenu icon profile fingerprint.png" />
+    <item id="biometrics" text="Start Learning">
+      <action module="ActionLearnVoiceBiometrics"  menu="xml/ActionLearnVoiceBiometrics.xml" />
+      <info>
+        <shorttext>
+          <span class="headline">Voice Biometrics</span>
+          <p class="description">Voice Biometrics
+You can teach the system your voice to automatically recognize you as a user when you are performing voice commands with the system.
+You will have to speak a specific sentence a couple of times into the microphone of the system in order to teach the system your voice.
+Press ‘start learning’ when you are ready to start.
+Please speak the following sentence into the microphone:
+The quick brown fox jumps over the lazy dog.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+  <item title="Pin Code" id="pinCode" labelbgcolor="#084007">
+    <icon url="media/icons/submenu/submenu icon profile name.png" />
+    <item id="changePin" text="change">
+      <info>
+        <shorttext>
+          <span class="headline">Pin Code</span>
+          <p class="description">Select to change the Pin code of this profile.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+  <item title="Name" labelbgcolor="#084007">
+    <icon url="media/icons/submenu/submenu icon profile name.png" />
+    <item id="change" text="change">
+      <action module="AppTxtInput"  menu="xml/TextInputProfile.xml" />
+      <info>
+        <shorttext>
+          <span class="headline">Profile Name</span>
+          <p class="description">Select to change the name of this profile.
+          </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+</menu>
+
+<!-- vim: ts=2 sw=2 et encoding=utf-8:
+-->

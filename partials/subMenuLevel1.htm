@@ -1,0 +1,37 @@
+﻿<section class="links">
+    <p >
+        Sub Menu
+    </p>
+</section>
+
+<!--
+<p>
+    Search: <input ng-model="search">
+</p>
+-->
+
+
+<div ng-switch on="{{menus.menu._id}}">
+    <div ng-switch-default>
+        <table class="table table-bordered">
+            <tr ng-repeat="menu in menus.menu.item | filter:search" >
+                <td class="channelLogo" >
+                    <a >{{menu._title}}</a>
+                </td>
+                <td>
+                    <table class="table table-bordered">
+                        <tr>
+                        <td ng-repeat="program in menu.item | filter:search" class="EPGContent">
+                            <a href="default.htm#/subMenu?id={{}}">{{program._text}}</a>
+                            <hr>
+
+                            <a href="default.htm#/subMenu?id={{}}">{{program.info.time.start._hour }}:{{program.info.time.start._min}} -
+                                {{program.info.time.end._hour}} : {{program.info.time.end._min }}</a>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>

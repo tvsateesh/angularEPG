@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="action_library">
+  <meta>
+    <select id="actions" />
+    <screen>
+      <element id="container" type="Container" x="470" y="49" width="448" height="448" />
+      <element id="imgHolder" type="Image" x="0" y="0" width="448" height="448" scale="1"/>
+      <element id="txtHolder" type="TextField" x="950" y="69" width="240" height="380"/>
+    </screen>
+  </meta>
+  <item id="scan" title="Scan">
+    <item id="action_rewind" title="rewind">
+      <!-- <icon url="library_2.swf#rewind"/> -->
+    </item>
+    <item id="action_forward" title="forward">
+      <!-- <icon url="library_2.swf#forward"/> -->
+    </item>
+  </item>
+  <item id="search" title="Skip">
+    <item id="action_prev" title="back">
+      <!-- <icon url="library_2.swf#back"/> -->
+    </item>
+    <item id="action_next" title="next">
+      <!-- <icon url="library_2.swf#next"/> -->
+    </item>
+  </item>
+  <item id="actions" title="Action">
+    <item id="action_pause" title="pause"/>
+    <!--    <item id="action_pause" title="pause"/>-->
+    <!--    <item id="action_stop" title="stop"/>  -->
+  </item>
+</menu>

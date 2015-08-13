@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="action_library">
+  <meta>
+    <select id="movie"/>
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="448" />
+      <element id="txtHolder" type="TextField" x="20" y="20" width="370" height="408" />
+      <element id="imgHolder" type="Image" x="410" y="0" scale="1"/>
+    </screen>
+  </meta>
+  <item id="movie" labelbgcolor="#5b7723" title= "Movie">
+    <meta>
+      <select id="view"/>
+    </meta>
+
+    <item text="delete"></item>
+    <item id="view" text="view">
+      <action module="AppMovie"  menu="xml/Library/MovieApp.xml"/>
+    </item>
+    <item text="share">
+      <action menu="xml/ActionShare.xml"/>
+    </item>
+    <item id="action_tellfriends" text="recommend to Friend">
+      <action module="AppFilter"  menu="xml/AppContactsRecommend.xml" />
+    </item>
+  </item>
+</menu>

@@ -1,0 +1,6 @@
+  <item id="timeshifting" title="Time Shifting" labelbgcolor="#aa6e07">
+    <icon url="media/icons/mainmenu/main menu icon timeshifting.png"/>
+    <item text="activate">
+      <action module="AppTimeShift"  menu="xml/AppTimeShifting.xml"/>
+    </item>
+  </item>

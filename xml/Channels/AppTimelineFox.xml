@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="Fox">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+	<item id="american-beauty" text="American Beauty">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/american-beauty.png">
+      <shorttext>
+        <span class="headline">American Beauty</span>
+        <p class="subheadline">Drama, USA 1999</p>
+        <p class="description">Lester Burnham, a man in his mid-40s going through an intense midlife crisis, has grown cynical and is convinced that he has no reason to go on. After developing an infatuation for his daughter's attractive friend, he decides to turn his hectic life around.</p>
+      </shorttext>
+    <time><start hour="19" min="10"/><end hour="21" min="10"/></time></info>
+  </item>
+	<item id="21-grams" text="21 Grams">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/21-grams.png">
+      <shorttext>
+        <span class="headline">21 Grams</span>
+        <p class="subheadline">Drama, USA 2003</p>
+        <p class="description">This is the story of three gentle persons: Paul Rivers an ailing mathematician lovelessly married to an English emigree, Christina Peck, an upper-middle-class suburban housewife, happily married and mother of two little girls, and Jack Jordan, an ex-convict who has found in his Christian faith the strength to raise a family.</p>
+      </shorttext>
+    <time><start hour="21" min="10"/><end hour="23" min="10"/></time></info>
+  </item>
+</item>
+<item id="evening" title="Evening">
+	<item id="oceans-eleven" text="Ocean's Eleven">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/oceans-eleven.png">
+      <shorttext>
+        <span class="headline">Ocean's Eleven</span>
+        <p class="subheadline">Crime Dramedy, USA 2001</p>
+        <p class="description">Danny Ocean wants to score the biggest heist in history. He combines an eleven team member, including Frank Catton, Rusty Ryan and Linus Caldwell. Their target? The Bellagio, the Mirage and the MGM Grand, all casinos owned by Terry Benedict. It's not going to be easy, as they plan to get in secretly and out with $150 million.</p>
+      </shorttext>
+    <time><start hour="17" min="10"/><end hour="19" min="10"/></time></info>
+  </item>
+	<item id="american-beauty" text="American Beauty">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/american-beauty.png">
+      <shorttext>
+        <span class="headline">American Beauty</span>
+        <p class="subheadline">Drama, USA 1999</p>
+        <p class="description">Lester Burnham, a man in his mid-40s going through an intense midlife crisis, has grown cynical and is convinced that he has no reason to go on. After developing an infatuation for his daughter's attractive friend, he decides to turn his hectic life around.</p>
+      </shorttext>
+    <time><start hour="19" min="10"/><end hour="21" min="10"/></time></info>
+  </item>
+</item>
+<item id="afternoon" title="Afternoon">
+	<item id="metropolis" text="Metropolis">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/metropolis.png">
+      <shorttext>
+        <span class="headline">Metropolis</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees.</p>
+      </shorttext>
+    <time><start hour="10" min="00"/><end hour="12" min="30"/></time></info>
+  </item>
+	<item id="sopranos" text="The Sopranos">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/sopranos.png">
+      <shorttext>
+        <span class="headline">The Sopranos</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 6, Ep. 16: Chasing It</p>
+        <p class="description">Tony hits an unlucky stretch with a series of gambling losses, creating difficulties between him and Hesh. A.J. makes a life-changing decision regarding his relationship with Blanca, who makes an important decision of her own. And Vito's widow Marie turns to Tony for help with her troubled son.</p>
+      </shorttext>
+    <time><start hour="12" min="30"/><end hour="13" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="lilo-and-stitch" text="Lilo &amp; Stitch">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lilo-and-stitch.png">
+      <shorttext>
+        <span class="headline">Lilo &amp; Stitch</span>
+        <p class="subheadline">Animated TV Series, USA 2006</p>
+        <p class="subsubheadline">Season 2, Ep. 24: Woops</p>
+        <p class="description">A clumsy experiment causes Dr. Hamsterviel to nearly get caught by his prison guards, so he returns all of the captured experiments to Gantu for safekeeping. But when he lets the troublemaking experiment go, it threatens to ruin Pleakley's chance at a domino championship.</p>
+      </shorttext>
+    <time><start hour="13" min="30"/><end hour="14" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="l-word" text="The L-Word">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/l-word.png">
+      <shorttext>
+        <span class="headline">The L-Word</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 10: Lifecycle</p>
+        <p class="description">Bette and Tina are forced to reveal their secret newfround romance to their appalled friends leaving Jodi completely wrecked. Meanwhile, Molly's continuing interest with Shane leads her to follow her on the bicycle marathon and eventually succeeding in hooking up with her.</p>
+      </shorttext>
+    <time><start hour="14" min="00"/><end hour="15" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="star-wars" text="Star Wars">
+    <meta>
+      <duration>130</duration>
+    </meta>
+    <info url="media/tv/star-wars.png">
+      <shorttext>
+        <span class="headline">Star Wars</span>
+        <p class="subheadline">Sci-Fi, USA 1977</p>
+        <p class="description">Princess Leia is held hostage by the evil Imperial forces in their effort to take over the Galactic Empire. Venturesome Luke Skywalker and dashing Captain Han Solo team together with the lovable robotic duo, R2-D2 and C-3PO, to rescue the beautiful princess and restore justice in the Empire.</p>
+      </shorttext>
+    <time><start hour="15" min="00"/><end hour="17" min="10"/></time></info>
+  </item>
+	<item id="oceans-eleven" text="Ocean's Eleven">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/oceans-eleven.png">
+      <shorttext>
+        <span class="headline">Ocean's Eleven</span>
+        <p class="subheadline">Crime Dramedy, USA 2001</p>
+        <p class="description">Danny Ocean wants to score the biggest heist in history. He combines an eleven team member, including Frank Catton, Rusty Ryan and Linus Caldwell. Their target? The Bellagio, the Mirage and the MGM Grand, all casinos owned by Terry Benedict. It's not going to be easy, as they plan to get in secretly and out with $150 million.</p>
+      </shorttext>
+    <time><start hour="17" min="10"/><end hour="19" min="10"/></time></info>
+  </item>
+</item>
+<item id="noon" title="Noon">
+	<item id="superman-returns" text="Superman Returns">
+    <meta>
+      <duration>160</duration>
+    </meta>
+    <info url="media/tv/superman-returns.png">
+      <shorttext>
+        <span class="headline">Superman Returns</span>
+        <p class="subheadline">Action, USA 2006</p>
+        <p class="description">After a long period in the space, looking for the remains of planet Krypton, Superman returns to Earth. He misses Lois Lane, who lives with Richard White and has a son. Meanwhile, Lex Luthor plots an evil plan, using crystals he stole from the Fortress of Solitude, to create a new land and submerge the United States.</p>
+      </shorttext>
+    <time><start hour="06" min="20"/><end hour="09" min="00"/></time></info>
+  </item>
+	<item id="eureka" text="Eureka">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/eureka.png">
+      <shorttext>
+        <span class="headline">Eureka</span>
+        <p class="subheadline">Sci-Fi, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 8: Sight Unseen</p>
+        <p class="description">As an experiment that will recreate the first moments of the origins of the universe, the Big Bang, goes terribly awry, the town's geniuses turn into morons, leaving the fate of Eureka in the hands of Jack Carter and an antisocial young ubergenius, Zane Donovan.</p>
+      </shorttext>
+    <time><start hour="09" min="00"/><end hour="10" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="metropolis" text="Metropolis">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/metropolis.png">
+      <shorttext>
+        <span class="headline">Metropolis</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees.</p>
+      </shorttext>
+    <time><start hour="10" min="00"/><end hour="12" min="30"/></time></info>
+  </item>
+</item>
+<item id="morning" title="Morning">
+	<item id="big-fish" text="Big Fish">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-fish.png">
+      <shorttext>
+        <span class="headline">Big Fish</span>
+        <p class="subheadline">Fantasy, USA 2003</p>
+        <p class="description">The story revolves around a dying father and his son, who is trying to learn more about his dad by piecing together the stories he has gathered over the years. The son winds up re-creating his father's elusive life in a series of legends and myths inspired by the few facts he knows. Through these tales, the son begins to understand his father's great feats and his great failings.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="02" min="00"/></time></info>
+  </item>
+	<item id="closer" text="Closer">
+    <meta>
+      <duration>110</duration>
+    </meta>
+    <info url="media/tv/closer.png">
+      <shorttext>
+        <span class="headline">Closer</span>
+        <p class="subheadline">Drama, USA 2004</p>
+        <p class="description">In London, the new arrival Alice Ayres meets the mediocre obituary journalist Daniel and they move together. Dan writes a book, inspired in the life of Alice, and while photographing for the release of the book, he meets the photographer Anna. Dan introduces the dermatologist Larry to Anna, and they get married.</p>
+      </shorttext>
+    <time><start hour="02" min="00"/><end hour="03" min="50"/></time></info>
+  </item>
+	<item id="departed" text="The Departed">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/departed.png">
+      <shorttext>
+        <span class="headline">The Departed</span>
+        <p class="subheadline">Thriller, USA 2006</p>
+        <p class="description">As the police force attempts to reign in the increasingly powerful Irish mafia, authorities are faced with the prospect of sending in an undercover agent or seeing their already frail grip on the criminal underworld slip even further.</p>
+      </shorttext>
+    <time><start hour="03" min="50"/><end hour="06" min="20"/></time></info>
+  </item>
+	<item id="superman-returns" text="Superman Returns">
+    <meta>
+      <duration>160</duration>
+    </meta>
+    <info url="media/tv/superman-returns.png">
+      <shorttext>
+        <span class="headline">Superman Returns</span>
+        <p class="subheadline">Action, USA 2006</p>
+        <p class="description">After a long period in the space, looking for the remains of planet Krypton, Superman returns to Earth. He misses Lois Lane, who lives with Richard White and has a son. Meanwhile, Lex Luthor plots an evil plan, using crystals he stole from the Fortress of Solitude, to create a new land and submerge the United States.</p>
+      </shorttext>
+    <time><start hour="06" min="20"/><end hour="09" min="00"/></time></info>
+  </item>
+	<item id="eureka" text="Eureka">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/eureka.png">
+      <shorttext>
+        <span class="headline">Eureka</span>
+        <p class="subheadline">Sci-Fi, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 8: Sight Unseen</p>
+        <p class="description">As an experiment that will recreate the first moments of the origins of the universe, the Big Bang, goes terribly awry, the town's geniuses turn into morons, leaving the fate of Eureka in the hands of Jack Carter and an antisocial young ubergenius, Zane Donovan.</p>
+      </shorttext>
+    <time><start hour="09" min="00"/><end hour="10" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="now" title="Now">
+	<item id="big-fish" text="Big Fish">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/big-fish.png">
+      <shorttext>
+        <span class="headline">Big Fish</span>
+        <p class="subheadline">Fantasy, USA 2003</p>
+        <p class="description">The story revolves around a dying father and his son, who is trying to learn more about his dad by piecing together the stories he has gathered over the years. The son winds up re-creating his father's elusive life in a series of legends and myths inspired by the few facts he knows. Through these tales, the son begins to understand his father's great feats and his great failings.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="02" min="00"/></time></info>
+  </item>
+	<item id="closer" text="Closer">
+    <meta>
+      <duration>110</duration>
+    </meta>
+    <info url="media/tv/closer.png">
+      <shorttext>
+        <span class="headline">Closer</span>
+        <p class="subheadline">Drama, USA 2004</p>
+        <p class="description">In London, the new arrival Alice Ayres meets the mediocre obituary journalist Daniel and they move together. Dan writes a book, inspired in the life of Alice, and while photographing for the release of the book, he meets the photographer Anna. Dan introduces the dermatologist Larry to Anna, and they get married.</p>
+      </shorttext>
+    <time><start hour="02" min="00"/><end hour="03" min="50"/></time></info>
+  </item>
+	<item id="departed" text="The Departed">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/departed.png">
+      <shorttext>
+        <span class="headline">The Departed</span>
+        <p class="subheadline">Thriller, USA 2006</p>
+        <p class="description">As the police force attempts to reign in the increasingly powerful Irish mafia, authorities are faced with the prospect of sending in an undercover agent or seeing their already frail grip on the criminal underworld slip even further.</p>
+      </shorttext>
+    <time><start hour="03" min="50"/><end hour="06" min="20"/></time></info>
+  </item>
+	<item id="superman-returns" text="Superman Returns">
+    <meta>
+      <duration>160</duration>
+    </meta>
+    <info url="media/tv/superman-returns.png">
+      <shorttext>
+        <span class="headline">Superman Returns</span>
+        <p class="subheadline">Action, USA 2006</p>
+        <p class="description">After a long period in the space, looking for the remains of planet Krypton, Superman returns to Earth. He misses Lois Lane, who lives with Richard White and has a son. Meanwhile, Lex Luthor plots an evil plan, using crystals he stole from the Fortress of Solitude, to create a new land and submerge the United States.</p>
+      </shorttext>
+    <time><start hour="06" min="20"/><end hour="09" min="00"/></time></info>
+  </item>
+	<item id="eureka" text="Eureka">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/eureka.png">
+      <shorttext>
+        <span class="headline">Eureka</span>
+        <p class="subheadline">Sci-Fi, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 8: Sight Unseen</p>
+        <p class="description">As an experiment that will recreate the first moments of the origins of the universe, the Big Bang, goes terribly awry, the town's geniuses turn into morons, leaving the fate of Eureka in the hands of Jack Carter and an antisocial young ubergenius, Zane Donovan.</p>
+      </shorttext>
+    <time><start hour="09" min="00"/><end hour="10" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="metropolis" text="Metropolis">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/metropolis.png">
+      <shorttext>
+        <span class="headline">Metropolis</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="description">It is the future, and humans are divided into two groups: the thinkers, who make plans (but don't know how anything works), and the workers, who achieve goals (but don't have the vision). Completely separate, neither group is complete, but together they make a whole. One man from the thinkers dares visit the underground where the workers toil, and is astonished by what he sees.</p>
+      </shorttext>
+    <time><start hour="10" min="00"/><end hour="12" min="30"/></time></info>
+  </item>
+	<item id="sopranos" text="The Sopranos">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/sopranos.png">
+      <shorttext>
+        <span class="headline">The Sopranos</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 6, Ep. 16: Chasing It</p>
+        <p class="description">Tony hits an unlucky stretch with a series of gambling losses, creating difficulties between him and Hesh. A.J. makes a life-changing decision regarding his relationship with Blanca, who makes an important decision of her own. And Vito's widow Marie turns to Tony for help with her troubled son.</p>
+      </shorttext>
+    <time><start hour="12" min="30"/><end hour="13" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="lilo-and-stitch" text="Lilo &amp; Stitch">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/lilo-and-stitch.png">
+      <shorttext>
+        <span class="headline">Lilo &amp; Stitch</span>
+        <p class="subheadline">Animated TV Series, USA 2006</p>
+        <p class="subsubheadline">Season 2, Ep. 24: Woops</p>
+        <p class="description">A clumsy experiment causes Dr. Hamsterviel to nearly get caught by his prison guards, so he returns all of the captured experiments to Gantu for safekeeping. But when he lets the troublemaking experiment go, it threatens to ruin Pleakley's chance at a domino championship.</p>
+      </shorttext>
+    <time><start hour="13" min="30"/><end hour="14" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="l-word" text="The L-Word">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/l-word.png">
+      <shorttext>
+        <span class="headline">The L-Word</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 10: Lifecycle</p>
+        <p class="description">Bette and Tina are forced to reveal their secret newfround romance to their appalled friends leaving Jodi completely wrecked. Meanwhile, Molly's continuing interest with Shane leads her to follow her on the bicycle marathon and eventually succeeding in hooking up with her.</p>
+      </shorttext>
+    <time><start hour="14" min="00"/><end hour="15" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="star-wars" text="Star Wars">
+    <meta>
+      <duration>130</duration>
+    </meta>
+    <info url="media/tv/star-wars.png">
+      <shorttext>
+        <span class="headline">Star Wars</span>
+        <p class="subheadline">Sci-Fi, USA 1977</p>
+        <p class="description">Princess Leia is held hostage by the evil Imperial forces in their effort to take over the Galactic Empire. Venturesome Luke Skywalker and dashing Captain Han Solo team together with the lovable robotic duo, R2-D2 and C-3PO, to rescue the beautiful princess and restore justice in the Empire.</p>
+      </shorttext>
+    <time><start hour="15" min="00"/><end hour="17" min="10"/></time></info>
+  </item>
+	<item id="oceans-eleven" text="Ocean's Eleven">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/oceans-eleven.png">
+      <shorttext>
+        <span class="headline">Ocean's Eleven</span>
+        <p class="subheadline">Crime Dramedy, USA 2001</p>
+        <p class="description">Danny Ocean wants to score the biggest heist in history. He combines an eleven team member, including Frank Catton, Rusty Ryan and Linus Caldwell. Their target? The Bellagio, the Mirage and the MGM Grand, all casinos owned by Terry Benedict. It's not going to be easy, as they plan to get in secretly and out with $150 million.</p>
+      </shorttext>
+    <time><start hour="17" min="10"/><end hour="19" min="10"/></time></info>
+  </item>
+	<item id="american-beauty" text="American Beauty">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/american-beauty.png">
+      <shorttext>
+        <span class="headline">American Beauty</span>
+        <p class="subheadline">Drama, USA 1999</p>
+        <p class="description">Lester Burnham, a man in his mid-40s going through an intense midlife crisis, has grown cynical and is convinced that he has no reason to go on. After developing an infatuation for his daughter's attractive friend, he decides to turn his hectic life around.</p>
+      </shorttext>
+    <time><start hour="19" min="10"/><end hour="21" min="10"/></time></info>
+  </item>
+	<item id="21-grams" text="21 Grams">
+    <meta>
+      <duration>120</duration>
+    </meta>
+    <info url="media/tv/21-grams.png">
+      <shorttext>
+        <span class="headline">21 Grams</span>
+        <p class="subheadline">Drama, USA 2003</p>
+        <p class="description">This is the story of three gentle persons: Paul Rivers an ailing mathematician lovelessly married to an English emigree, Christina Peck, an upper-middle-class suburban housewife, happily married and mother of two little girls, and Jack Jordan, an ex-convict who has found in his Christian faith the strength to raise a family.</p>
+      </shorttext>
+    <time><start hour="21" min="10"/><end hour="23" min="10"/></time></info>
+  </item>
+</item>
+</menu>

@@ -1,0 +1,6 @@
+ <item id="timeshifting" title="vrijeme prebacivanje" labelbgcolor="#aa6e07">
+    <icon url="icons/mainmenu/main menu icon timeshifting.png"/>
+    <item text="aktivirati">
+      <action module="AppTimeShift"  menu="xml/AppTimeShifting.xml"/>
+    </item>
+  </item>

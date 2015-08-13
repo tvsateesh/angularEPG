@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Menu for Communication -->
+<menu>
+  <meta>
+    <select id="Contacts" />
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="410" />
+      <element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+      <element id="imgHolder" type="MovieClip" x="230" y="0" />
+    </screen>
+  </meta>
+  <item title="Contacts" id="contacts" labelbgcolor="#ac22a7">
+    <icon url="media/icons/submenu/submenu icon communications address nppl.png" />
+    <item text="Mark" active="false">
+      <action module="AppCommunicationCall"  menu="xml/AppCommunicationCall.xml" />
+      <info url="media/teleconf/mark_messenger.png" vid="media/teleconf/mark_iphone.flv">
+        <shorttext>
+          <span class="headline">Mark</span>
+          <p class="subheadline"> MarkKra </p>
+          <p class="description"> </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Linda" active="false">
+      <action module="AppCommunicationCall"  menu="xml/AppCommunicationCall.xml" />
+      <info url="media/teleconf/linda_messenger.png" vid="media/movies/thesimpsons.flv">
+        <shorttext>
+          <span class="headline">Linda</span>
+          <p class="subheadline"> spiderCat </p>
+          <p class="description"> </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Boris" active="false">
+      <action module="AppCommunicationCall"  menu="xml/AppCommunicationCall.xml" />
+      <info url="media/teleconf/boris_messenger.png" vid="media/movies/thedeparted.flv">
+        <shorttext>
+          <span class="headline">Boris</span>
+          <p class="subheadline"> boristheone </p>
+          <p class="description"> </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Anna" active="false">
+      <action module="AppCommunicationCall"  menu="xml/AppCommunicationCall.xml" />
+      <info url="media/teleconf/anna_messenger.png" vid="media/movies/ray.flv">
+        <shorttext>
+          <span class="headline">Anna</span>
+          <p class="subheadline"> ANNIE </p>
+          <p class="description"> </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Max" active="false">
+      <action module="AppCommunicationCall"  menu="xml/AppCommunicationCall.xml" />
+      <info url="media/teleconf/max_messenger.png" vid="media/movies/thequeen.flv">
+        <shorttext>
+          <span class="headline">Amx</span>
+          <p class="subheadline"> MaxiMal </p>
+          <p class="description"> </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Sandy" active="false">
+      <action module="AppCommunicationCall"  menu="xml/AppCommunicationCall.xml" />
+      <info url="media/teleconf/sandy_messenger.png" vid="media/movies/thequeen.flv">
+        <shorttext>
+          <span class="headline">Sandy</span>
+          <p class="subheadline"> SandyKiss </p>
+          <p class="description"> </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Yosef" active="false">
+      <action module="AppCommunicationCall"  menu="xml/AppCommunicationCall.xml" />
+      <info url="media/teleconf/yosef_messenger.png" vid="media/movies/thequeen.flv">
+        <shorttext>
+          <span class="headline">Yosef</span>
+          <p class="subheadline"> Oldmen </p>
+          <p class="description"> </p>
+        </shorttext>
+      </info>
+    </item>
+    <item text="Joe" active="false">
+      <action module="AppCommunicationCall"  menu="xml/AppCommunicationCall.xml" />
+      <info url="media/teleconf/joe_messenger.png" vid="media/movies/thequeen.flv">
+        <shorttext>
+          <span class="headline">Joe</span>
+          <p class="subheadline"> JoeTheMan </p>
+          <p class="description"> </p>
+        </shorttext>
+      </info>
+    </item>
+  </item>
+
+
+
+  <!-- Schrei design Vorlage
+
+  <item title="Delete Contact" id="delContact">
+    <icon url="" />
+    <item text="delete" id="delete"/>
+  </item>
+
+  <item title="Add Contact" id="addContact">
+    <icon url="" />
+    <item id="addID" text="add this ID">
+      <action module="ActionCommunication"  menu="xml/ActionCommunication.xml" />
+    </item>
+    <item id="a" text="a"/>
+    <item id="b" text="b"/>
+    <item id="c" text="c"/>
+    <item id="d" text="d"/>
+    <item id="e" text="e"/>
+    <item id="f" text="f"/>
+    <item id="g" text="g"/>
+    <item id="h" text="h"/>
+    <item id="i" text="i"/>
+    <item id="j" text="j"/>
+    <item id="k" text="k"/>
+    <item id="l" text="l"/>
+    <item id="m" text="m"/>
+    <item id="n" text="n"/>
+    <item id="o" text="o"/>
+    <item id="p" text="p"/>
+    <item id="q" text="q"/>
+    <item id="r" text="r"/>
+    <item id="s" text="s"/>
+    <item id="t" text="t"/>
+    <item id="u" text="u"/>
+    <item id="v" text="v"/>
+    <item id="w" text="w"/>
+    <item id="x" text="x"/>
+    <item id="y" text="y"/>
+    <item id="z" text="z"/>
+    <item id="0" text="0"/>
+    <item id="1" text="1"/>
+    <item id="2" text="2"/>
+    <item id="3" text="3"/>
+    <item id="4" text="4"/>
+    <item id="5" text="5"/>
+    <item id="6" text="6"/>
+    <item id="7" text="7"/>
+    <item id="8" text="8"/>
+    <item id="9" text="9"/>
+  </item>
+
+  <item title="Video Call" id="VideoCall">
+    <icon url="" />
+    <item text="Kurt" active="false">
+      <action module="ActionCommunication"  menu="xml/ActionCommunicationVideo.xml" />
+      <info url="media/icons/telephone/kurt.png" vid="media/movies/vforvendetta.flv">
+        <shorttext>
+          <span class="headline">Kurt</span>
+          <p class="subheadline"> kurt32 </p>
+          <p class="description"> </p>
+        </shorttext>
+      </info>
+    </item>
+    <item title="Linda" active="false" />
+    <item title="Julia" active="false" />
+    <item title="Ron" active="false" />
+    <item title="Mother" active="false" />
+  </item>
+
+  <item title="Audio Call" id="AudioCall">
+    <icon url="" />
+    <item text="Kurt" active="false">
+      <action module="ActionCommunication"  menu="xml/ActionCommunicationAudio.xml" />
+      <info url="media/icons/telephone/kurt.png" vid="media/movies/vforvendetta.flv">
+        <shorttext>
+          <span class="headline">Kurt</span>
+          <p class="subheadline"> best friend </p>
+          <p class="description"> Kurt is the best friend in the whole wide world  </p>
+        </shorttext>
+      </info>
+    </item>
+    <item title="Linda" active="false" />
+    <item title="Julia" active="false" />
+    <item title="Ron" active="false" />
+    <item title="Mother" active="false" />
+  </item>
+
+  <item title="My Status" id="status">
+    <icon url="" />
+    <item text="Online" id="online" status="true"/>
+    <item text="Away" id="away" status="false"/>
+    <item text="Offline" id="offline" status="false"/>
+  </item>
+  -->
+</menu>

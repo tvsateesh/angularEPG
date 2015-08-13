@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="Motors TV">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+	<item id="amadeus" text="Amadeus">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/amadeus.png">
+      <shorttext>
+        <span class="headline">Amadeus</span>
+        <p class="subheadline">Drama, USA 1984</p>
+        <p class="description">Antonio Salieri believes that Mozart's music is divine. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. But he can't understand why God favored Mozart, such a vulgar creature, to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is set to take revenge.</p>
+      </shorttext>
+    <time><start hour="17" min="30"/><end hour="20" min="30"/></time></info>
+  </item>
+	<item id="law-and-order" text="Law &amp; Order">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/law-and-order.png">
+      <shorttext>
+        <span class="headline">Law &amp; Order</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 18, Ep. 5: Driven</p>
+        <p class="description">After a mob lawyer is attacked and his wife brutally murdered, Nina and Cyrus question their daughter. But her wild night of drunken partying leaves her unable to recall her actions, even though her father insists she was at the scene of the crime.</p>
+      </shorttext>
+    <time><start hour="20" min="30"/><end hour="22" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="evening" title="Evening">
+	<item id="pianist" text="The Pianist">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/pianist.png">
+      <shorttext>
+        <span class="headline">The Pianist</span>
+        <p class="subheadline">Drama, USA 2002</p>
+        <p class="description">A brilliant pianist, a Polish Jew, witnesses the restrictions Nazis place on Jews in the Polish capital, from restricted access to the building of the Warsaw ghetto. As his family is rounded up to be shipped off to the Nazi labor camps, he escapes deportation and eludes capture by living in the ruins of Warsaw.</p>
+      </shorttext>
+    <time><start hour="15" min="00"/><end hour="17" min="30"/></time></info>
+  </item>
+	<item id="amadeus" text="Amadeus">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/amadeus.png">
+      <shorttext>
+        <span class="headline">Amadeus</span>
+        <p class="subheadline">Drama, USA 1984</p>
+        <p class="description">Antonio Salieri believes that Mozart's music is divine. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. But he can't understand why God favored Mozart, such a vulgar creature, to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is set to take revenge.</p>
+      </shorttext>
+    <time><start hour="17" min="30"/><end hour="20" min="30"/></time></info>
+  </item>
+	<item id="law-and-order" text="Law &amp; Order">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/law-and-order.png">
+      <shorttext>
+        <span class="headline">Law &amp; Order</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 18, Ep. 5: Driven</p>
+        <p class="description">After a mob lawyer is attacked and his wife brutally murdered, Nina and Cyrus question their daughter. But her wild night of drunken partying leaves her unable to recall her actions, even though her father insists she was at the scene of the crime.</p>
+      </shorttext>
+    <time><start hour="20" min="30"/><end hour="22" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="afternoon" title="Afternoon">
+	<item id="casino-royale" text="Casino Royale">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/casino-royale.png">
+      <shorttext>
+        <span class="headline">Casino Royale</span>
+        <p class="subheadline">Action, UK 2006</p>
+        <p class="description">Recently promoted to 00 status, James Bond takes over his first mission, in which he faces a mysterious private banker to world terrorism and poker player, Le Chiffre. Along with a beautiful Treasury agent and the MI6 man in Montenegro, Bond takes part in a high stakes poker game set up by Le Chiffre.</p>
+      </shorttext>
+    <time><start hour="08" min="40"/><end hour="11" min="00"/></time></info>
+  </item>
+	<item id="sound-of-music" text="Sound of Music">
+    <meta>
+      <duration>170</duration>
+    </meta>
+    <info url="media/tv/sound-of-music.png">
+      <shorttext>
+        <span class="headline">Sound of Music</span>
+        <p class="subheadline">Musical, USA 1965</p>
+        <p class="description">Baron Von Trapp, a widower, runs his home near Salzburg like the ship he once commanded. That changes when Maria arrives from the convent to be the new governess of his seven children. Their romps through the hills inspire all to sing and to find joy in the smallest things.</p>
+      </shorttext>
+    <time><start hour="11" min="00"/><end hour="13" min="50"/></time></info>
+  </item>
+	<item id="csi-miami" text="CSI: Miami">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/csi-miami.png">
+      <shorttext>
+        <span class="headline">CSI: Miami</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 6, Ep. 18: Tunnel Vision</p>
+        <p class="description">The episode opens with two men chasing each other on the causeway. When the road collapses one man is thrown into a sinkhole and killed. While investigating, the CSIs discover a conspiracy to rob a bank.</p>
+      </shorttext>
+    <time><start hour="13" min="50"/><end hour="15" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="pianist" text="The Pianist">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/pianist.png">
+      <shorttext>
+        <span class="headline">The Pianist</span>
+        <p class="subheadline">Drama, USA 2002</p>
+        <p class="description">A brilliant pianist, a Polish Jew, witnesses the restrictions Nazis place on Jews in the Polish capital, from restricted access to the building of the Warsaw ghetto. As his family is rounded up to be shipped off to the Nazi labor camps, he escapes deportation and eludes capture by living in the ruins of Warsaw.</p>
+      </shorttext>
+    <time><start hour="15" min="00"/><end hour="17" min="30"/></time></info>
+  </item>
+</item>
+<item id="noon" title="Noon">
+	<item id="casino-royale" text="Casino Royale">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/casino-royale.png">
+      <shorttext>
+        <span class="headline">Casino Royale</span>
+        <p class="subheadline">Action, UK 2006</p>
+        <p class="description">Recently promoted to 00 status, James Bond takes over his first mission, in which he faces a mysterious private banker to world terrorism and poker player, Le Chiffre. Along with a beautiful Treasury agent and the MI6 man in Montenegro, Bond takes part in a high stakes poker game set up by Le Chiffre.</p>
+      </shorttext>
+    <time><start hour="08" min="40"/><end hour="11" min="00"/></time></info>
+  </item>
+</item>
+<item id="morning" title="Morning">
+	<item id="forrest-gump" text="Forrest Gump">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/forrest-gump.png">
+      <shorttext>
+        <span class="headline">Forrest Gump</span>
+        <p class="subheadline">Dramedy, USA 1994</p>
+        <p class="description">A man with a low IQ has accomplished great things in his life and been present during significant historic events - in each case, far exceeding what anyone imagined he could do. It is the story of a man who rose above his challenges, and who proved that determination, courage, and love are more important than ability.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="02" min="20"/></time></info>
+  </item>
+	<item id="dr-who" text="Dr. Who">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dr-who.png">
+      <shorttext>
+        <span class="headline">Dr. Who</span>
+        <p class="subheadline">Sci-Fi, UK 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 10: Midnight</p>
+        <p class="description">The Doctor and Donna take a holiday on the crystalline planet Midnight, which orbits close enough to its sun that the Xtonic radiation exposure would vaporise any living thing walking unprotected on its surface.</p>
+      </shorttext>
+    <time><start hour="02" min="20"/><end hour="03" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="finding-nemo" text="Finding Nemo">
+    <meta>
+      <duration>100</duration>
+    </meta>
+    <info url="media/tv/finding-nemo.png">
+      <shorttext>
+        <span class="headline">Finding Nemo</span>
+        <p class="subheadline">Animation, USA 2003</p>
+        <p class="description">Clown fish Nemo is captured by a scuba diver and taken to live in a dentist office's fish tank. Marlin and his new absent-minded friend Dory set off across the ocean to find Nemo, while Nemo and his tankmates scheme on how to get out of the tank before he becomes the dentist's niece's new pet.</p>
+      </shorttext>
+    <time><start hour="03" min="20"/><end hour="05" min="00"/></time></info>
+  </item>
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="05" min="00"/><end hour="06" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="amelie" text="Amelie">
+    <meta>
+      <duration>130</duration>
+    </meta>
+    <info url="media/tv/amelie.png">
+      <shorttext>
+        <span class="headline">Amelie</span>
+        <p class="subheadline">Comedy, FR 2001</p>
+        <p class="description">Amelie is looking for love, and perhaps for the meaning of life in general. We see her grow up in an original if slightly dysfunctional family. Now a waitress in central Paris, she interacts curiously with her neighbors and customers, as well as a mysterious Photomaton-image collector and one of his even more mysterious photo subjects.</p>
+      </shorttext>
+    <time><start hour="06" min="00"/><end hour="08" min="10"/></time></info>
+  </item>
+	<item id="duck-tales" text="Duck Tales">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/duck-tales.png">
+      <shorttext>
+        <span class="headline">Duck Tales</span>
+        <p class="subheadline">Animated TV Series, USA 1988</p>
+        <p class="subsubheadline">Season 2, Ep. 1: Marking Time</p>
+        <p class="description">Scrooge buys one of Glomgold's islands housing a diamond mine. Upon finding out, Glomgold has the diamond mine blown away from the island. Scrooge, Launchpad, and the nephews then go back in time to try to prevent the explosion, but end up going back 1 million years.</p>
+      </shorttext>
+    <time><start hour="08" min="10"/><end hour="08" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="casino-royale" text="Casino Royale">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/casino-royale.png">
+      <shorttext>
+        <span class="headline">Casino Royale</span>
+        <p class="subheadline">Action, UK 2006</p>
+        <p class="description">Recently promoted to 00 status, James Bond takes over his first mission, in which he faces a mysterious private banker to world terrorism and poker player, Le Chiffre. Along with a beautiful Treasury agent and the MI6 man in Montenegro, Bond takes part in a high stakes poker game set up by Le Chiffre.</p>
+      </shorttext>
+    <time><start hour="08" min="40"/><end hour="11" min="00"/></time></info>
+  </item>
+</item>
+<item id="now" title="Now">
+	<item id="forrest-gump" text="Forrest Gump">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/forrest-gump.png">
+      <shorttext>
+        <span class="headline">Forrest Gump</span>
+        <p class="subheadline">Dramedy, USA 1994</p>
+        <p class="description">A man with a low IQ has accomplished great things in his life and been present during significant historic events - in each case, far exceeding what anyone imagined he could do. It is the story of a man who rose above his challenges, and who proved that determination, courage, and love are more important than ability.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="02" min="20"/></time></info>
+  </item>
+	<item id="dr-who" text="Dr. Who">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dr-who.png">
+      <shorttext>
+        <span class="headline">Dr. Who</span>
+        <p class="subheadline">Sci-Fi, UK 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 10: Midnight</p>
+        <p class="description">The Doctor and Donna take a holiday on the crystalline planet Midnight, which orbits close enough to its sun that the Xtonic radiation exposure would vaporise any living thing walking unprotected on its surface.</p>
+      </shorttext>
+    <time><start hour="02" min="20"/><end hour="03" min="20"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="finding-nemo" text="Finding Nemo">
+    <meta>
+      <duration>100</duration>
+    </meta>
+    <info url="media/tv/finding-nemo.png">
+      <shorttext>
+        <span class="headline">Finding Nemo</span>
+        <p class="subheadline">Animation, USA 2003</p>
+        <p class="description">Clown fish Nemo is captured by a scuba diver and taken to live in a dentist office's fish tank. Marlin and his new absent-minded friend Dory set off across the ocean to find Nemo, while Nemo and his tankmates scheme on how to get out of the tank before he becomes the dentist's niece's new pet.</p>
+      </shorttext>
+    <time><start hour="03" min="20"/><end hour="05" min="00"/></time></info>
+  </item>
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="05" min="00"/><end hour="06" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="amelie" text="Amelie">
+    <meta>
+      <duration>130</duration>
+    </meta>
+    <info url="media/tv/amelie.png">
+      <shorttext>
+        <span class="headline">Amelie</span>
+        <p class="subheadline">Comedy, FR 2001</p>
+        <p class="description">Amelie is looking for love, and perhaps for the meaning of life in general. We see her grow up in an original if slightly dysfunctional family. Now a waitress in central Paris, she interacts curiously with her neighbors and customers, as well as a mysterious Photomaton-image collector and one of his even more mysterious photo subjects.</p>
+      </shorttext>
+    <time><start hour="06" min="00"/><end hour="08" min="10"/></time></info>
+  </item>
+	<item id="duck-tales" text="Duck Tales">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/duck-tales.png">
+      <shorttext>
+        <span class="headline">Duck Tales</span>
+        <p class="subheadline">Animated TV Series, USA 1988</p>
+        <p class="subsubheadline">Season 2, Ep. 1: Marking Time</p>
+        <p class="description">Scrooge buys one of Glomgold's islands housing a diamond mine. Upon finding out, Glomgold has the diamond mine blown away from the island. Scrooge, Launchpad, and the nephews then go back in time to try to prevent the explosion, but end up going back 1 million years.</p>
+      </shorttext>
+    <time><start hour="08" min="10"/><end hour="08" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="casino-royale" text="Casino Royale">
+    <meta>
+      <duration>140</duration>
+    </meta>
+    <info url="media/tv/casino-royale.png">
+      <shorttext>
+        <span class="headline">Casino Royale</span>
+        <p class="subheadline">Action, UK 2006</p>
+        <p class="description">Recently promoted to 00 status, James Bond takes over his first mission, in which he faces a mysterious private banker to world terrorism and poker player, Le Chiffre. Along with a beautiful Treasury agent and the MI6 man in Montenegro, Bond takes part in a high stakes poker game set up by Le Chiffre.</p>
+      </shorttext>
+    <time><start hour="08" min="40"/><end hour="11" min="00"/></time></info>
+  </item>
+	<item id="sound-of-music" text="Sound of Music">
+    <meta>
+      <duration>170</duration>
+    </meta>
+    <info url="media/tv/sound-of-music.png">
+      <shorttext>
+        <span class="headline">Sound of Music</span>
+        <p class="subheadline">Musical, USA 1965</p>
+        <p class="description">Baron Von Trapp, a widower, runs his home near Salzburg like the ship he once commanded. That changes when Maria arrives from the convent to be the new governess of his seven children. Their romps through the hills inspire all to sing and to find joy in the smallest things.</p>
+      </shorttext>
+    <time><start hour="11" min="00"/><end hour="13" min="50"/></time></info>
+  </item>
+	<item id="csi-miami" text="CSI: Miami">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/csi-miami.png">
+      <shorttext>
+        <span class="headline">CSI: Miami</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 6, Ep. 18: Tunnel Vision</p>
+        <p class="description">The episode opens with two men chasing each other on the causeway. When the road collapses one man is thrown into a sinkhole and killed. While investigating, the CSIs discover a conspiracy to rob a bank.</p>
+      </shorttext>
+    <time><start hour="13" min="50"/><end hour="15" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="pianist" text="The Pianist">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/pianist.png">
+      <shorttext>
+        <span class="headline">The Pianist</span>
+        <p class="subheadline">Drama, USA 2002</p>
+        <p class="description">A brilliant pianist, a Polish Jew, witnesses the restrictions Nazis place on Jews in the Polish capital, from restricted access to the building of the Warsaw ghetto. As his family is rounded up to be shipped off to the Nazi labor camps, he escapes deportation and eludes capture by living in the ruins of Warsaw.</p>
+      </shorttext>
+    <time><start hour="15" min="00"/><end hour="17" min="30"/></time></info>
+  </item>
+	<item id="amadeus" text="Amadeus">
+    <meta>
+      <duration>180</duration>
+    </meta>
+    <info url="media/tv/amadeus.png">
+      <shorttext>
+        <span class="headline">Amadeus</span>
+        <p class="subheadline">Drama, USA 1984</p>
+        <p class="description">Antonio Salieri believes that Mozart's music is divine. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. But he can't understand why God favored Mozart, such a vulgar creature, to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is set to take revenge.</p>
+      </shorttext>
+    <time><start hour="17" min="30"/><end hour="20" min="30"/></time></info>
+  </item>
+	<item id="law-and-order" text="Law &amp; Order">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/law-and-order.png">
+      <shorttext>
+        <span class="headline">Law &amp; Order</span>
+        <p class="subheadline">Crime Drama, USA 2008</p>
+        <p class="subsubheadline">Season 18, Ep. 5: Driven</p>
+        <p class="description">After a mob lawyer is attacked and his wife brutally murdered, Nina and Cyrus question their daughter. But her wild night of drunken partying leaves her unable to recall her actions, even though her father insists she was at the scene of the crime.</p>
+      </shorttext>
+    <time><start hour="20" min="30"/><end hour="22" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+</menu>

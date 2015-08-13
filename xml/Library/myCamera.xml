@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="root_library">
+  <meta>
+    <select id="Nature"/>
+    <action module="ActionLibrary"  menu="xml/Library/myCameraAction.xml"/>
+    <screen>
+      <element id="imgHolder" type="Image" x="430" y="50"/>
+    </screen>
+  </meta>
+
+  <item title="Banksy Art" labelbgcolor="#5b7723">
+    <icon url="media/photos_widescreen/thumbs/banksy-preview.png"/>
+    <item id="banksy-01">
+      <icon url="media/photos_widescreen/thumbs/banksy-01.png"/>
+      <preview url="media/photos_widescreen/preview/banksy-01.jpg"/>
+      <info url="media/photos_widescreen/large/banksy-01.jpg"/>
+    </item>
+    <item id="banksy-02">
+      <icon url="media/photos_widescreen/thumbs/banksy-02.png"/>
+      <preview url="media/photos_widescreen/preview/banksy-02.jpg"/>
+      <info url="media/photos_widescreen/large/banksy-02.jpg"/>
+    </item>
+    <item id="banksy-03">
+      <icon url="media/photos_widescreen/thumbs/banksy-03.png"/>
+      <preview url="media/photos_widescreen/preview/banksy-03.jpg"/>
+      <info url="media/photos_widescreen/large/banksy-03.jpg"/>
+    </item>
+    <item id="banksy-04">
+      <icon url="media/photos_widescreen/thumbs/banksy-04.png"/>
+      <preview url="media/photos_widescreen/preview/banksy-04.jpg"/>
+      <info url="media/photos_widescreen/large/banksy-04.jpg"/>
+    </item>
+    <item id="banksy-05">
+      <icon url="media/photos_widescreen/thumbs/banksy-05.png"/>
+      <preview url="media/photos_widescreen/preview/banksy-05.jpg"/>
+      <info url="media/photos_widescreen/large/banksy-05.jpg"/>
+    </item>
+    <item id="banksy-06">
+      <icon url="media/photos_widescreen/thumbs/banksy-06.png"/>
+      <preview url="media/photos_widescreen/preview/banksy-06.jpg"/>
+      <info url="media/photos_widescreen/large/banksy-06.jpg"/>
+    </item>
+  </item>
+  <item title="Buildings" labelbgcolor="#5b7723">
+    <icon url="media/photos_widescreen/thumbs/architecture-preview.png"/>
+    <item id="architecture-01">
+      <icon url="media/photos_widescreen/thumbs/architecture-01.png"/>
+      <preview url="media/photos_widescreen/preview/architecture-01.jpg"/>
+      <info url="media/photos_widescreen/large/architecture-01.jpg"/>
+    </item>
+    <item id="architecture-02">
+      <icon url="media/photos_widescreen/thumbs/architecture-02.png"/>
+      <preview url="media/photos_widescreen/preview/architecture-02.jpg"/>
+      <info url="media/photos_widescreen/large/architecture-02.jpg"/>
+    </item>
+    <item id="architecture-03">
+      <icon url="media/photos_widescreen/thumbs/architecture-03.png"/>
+      <preview url="media/photos_widescreen/preview/architecture-03.jpg"/>
+      <info url="media/photos_widescreen/large/architecture-03.jpg"/>
+    </item>
+    <item id="architecture-04">
+      <icon url="media/photos_widescreen/thumbs/architecture-04.png"/>
+      <preview url="media/photos_widescreen/preview/architecture-04.jpg"/>
+      <info url="media/photos_widescreen/large/architecture-04.jpg"/>
+    </item>
+    <item id="architecture-05">
+      <icon url="media/photos_widescreen/thumbs/architecture-05.png"/>
+      <preview url="media/photos_widescreen/preview/architecture-05.jpg"/>
+      <info url="media/photos_widescreen/large/architecture-05.jpg"/>
+    </item>
+    <item id="architecture-06">
+      <icon url="media/photos_widescreen/thumbs/architecture-06.png"/>
+      <preview url="media/photos_widescreen/preview/architecture-06.jpg"/>
+      <info url="media/photos_widescreen/large/architecture-06.jpg"/>
+    </item>
+  </item>
+  <item title="India 10" labelbgcolor="#5b7723">
+    <icon url="media/photos_widescreen/thumbs/india-preview.png"/>
+    <item id="india-01">
+      <icon url="media/photos_widescreen/thumbs/india-01.png"/>
+      <preview url="media/photos_widescreen/preview/india-01.jpg"/>
+      <info url="media/photos_widescreen/large/india-01.jpg"/>
+    </item>
+    <item id="india-02">
+      <icon url="media/photos_widescreen/thumbs/india-02.png"/>
+      <preview url="media/photos_widescreen/preview/india-02.jpg"/>
+      <info url="media/photos_widescreen/large/india-02.jpg"/>
+    </item>
+    <item id="india-03">
+      <icon url="media/photos_widescreen/thumbs/india-03.png"/>
+      <preview url="media/photos_widescreen/preview/india-03.jpg"/>
+      <info url="media/photos_widescreen/large/india-03.jpg"/>
+    </item>
+    <item id="india-04">
+      <icon url="media/photos_widescreen/thumbs/india-04.png"/>
+      <preview url="media/photos_widescreen/preview/india-04.jpg"/>
+      <info url="media/photos_widescreen/large/india-04.jpg"/>
+    </item>
+    <item id="india-05">
+      <icon url="media/photos_widescreen/thumbs/india-05.png"/>
+      <preview url="media/photos_widescreen/preview/india-05.jpg"/>
+      <info url="media/photos_widescreen/large/india-05.jpg"/>
+    </item>
+    <item id="india-06">
+      <icon url="media/photos_widescreen/thumbs/india-06.png"/>
+      <preview url="media/photos_widescreen/preview/india-06.jpg"/>
+      <info url="media/photos_widescreen/large/india-06.jpg"/>
+    </item>
+  </item>
+  <item title="Nature" labelbgcolor="#5b7723">
+    <icon url="media/photos_widescreen/thumbs/nature-preview.png"/>
+    <item id="nature-01">
+      <icon url="media/photos_widescreen/thumbs/nature-01.png"/>
+      <preview url="media/photos_widescreen/preview/nature-01.jpg"/>
+      <info url="media/photos_widescreen/large/nature-01.jpg"/>
+    </item>
+    <item id="nature-02">
+      <icon url="media/photos_widescreen/thumbs/nature-02.png"/>
+      <preview url="media/photos_widescreen/preview/nature-02.jpg"/>
+      <info url="media/photos_widescreen/large/nature-02.jpg"/>
+    </item>
+    <item id="nature-03">
+      <icon url="media/photos_widescreen/thumbs/nature-03.png"/>
+      <preview url="media/photos_widescreen/preview/nature-03.jpg"/>
+      <info url="media/photos_widescreen/large/nature-03.jpg"/>
+    </item>
+    <item id="nature-04">
+      <icon url="media/photos_widescreen/thumbs/nature-04.png"/>
+      <preview url="media/photos_widescreen/preview/nature-04.jpg"/>
+      <info url="media/photos_widescreen/large/nature-04.jpg"/>
+    </item>
+    <item id="nature-05">
+      <icon url="media/photos_widescreen/thumbs/nature-05.png"/>
+      <preview url="media/photos_widescreen/preview/nature-05.jpg"/>
+      <info url="media/photos_widescreen/large/nature-05.jpg"/>
+    </item>
+    <item id="nature-06">
+      <icon url="media/photos_widescreen/thumbs/nature-06.png"/>
+      <preview url="media/photos_widescreen/preview/nature-06.jpg"/>
+      <info url="media/photos_widescreen/large/nature-06.jpg"/>
+    </item>
+  </item>
+  <item title="Mountains" labelbgcolor="#5b7723">
+    <icon url="media/photos_widescreen/thumbs/mountains-preview.png"/>
+    <item id="mountains-01">
+      <icon url="media/photos_widescreen/thumbs/mountains-01.png"/>
+      <preview url="media/photos_widescreen/preview/mountains-01.jpg"/>
+      <info url="media/photos_widescreen/large/mountains-01.jpg"/>
+    </item>
+    <item id="mountains-02">
+      <icon url="media/photos_widescreen/thumbs/mountains-02.png"/>
+      <preview url="media/photos_widescreen/preview/mountains-02.jpg"/>
+      <info url="media/photos_widescreen/large/mountains-02.jpg"/>
+    </item>
+    <item id="mountains-03">
+      <icon url="media/photos_widescreen/thumbs/mountains-03.png"/>
+      <preview url="media/photos_widescreen/preview/mountains-03.jpg"/>
+      <info url="media/photos_widescreen/large/mountains-03.jpg"/>
+    </item>
+    <item id="mountains-04" labelbgcolor="#5b7723">
+      <icon url="media/photos_widescreen/thumbs/mountains-04.png"/>
+      <preview url="media/photos_widescreen/preview/mountains-04.jpg"/>
+      <info url="media/photos_widescreen/large/mountains-04.jpg"/>
+    </item>
+    <item id="mountains-05">
+      <icon url="media/photos_widescreen/thumbs/mountains-05.png"/>
+      <preview url="media/photos_widescreen/preview/mountains-05.jpg"/>
+      <info url="media/photos_widescreen/large/mountains-05.jpg"/>
+    </item>
+    <item id="mountains-06">
+      <icon url="media/photos_widescreen/thumbs/mountains-06.png"/>
+      <preview url="media/photos_widescreen/preview/mountains-06.jpg"/>
+      <info url="media/photos_widescreen/large/mountains-06.jpg"/>
+    </item>
+  </item>
+</menu>

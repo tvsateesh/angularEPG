@@ -1,0 +1,42 @@
+﻿/*!
+ * Extend Bootstrap v2.3.1 to provide cell alignment (doh)
+ *
+ */
+.table td.tdRight {
+  text-align: right;
+}
+.table td.tdCenter {
+  text-align: center;
+}
+.table-nonfluid {
+   width: auto;
+}
+.channelLogo{
+    width:250px;
+    height: 60px;
+    background-color: #808080;
+    opacity: 0.9;
+    vertical-align: middle !important;
+}
+
+
+.EPGContent{
+    color: whitesmoke;
+    text-align: center;
+    width:350px !important;
+    height: 60px;
+    background-color: #808080;
+    vertical-align: middle !important;
+
+}
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color:#00A0C6;
+    text-decoration:none;
+    cursor:pointer;
+}

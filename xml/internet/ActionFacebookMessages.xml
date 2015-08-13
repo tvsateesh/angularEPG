@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="twitter">
+  <meta>
+    <logo url="media/icons/submenu/submenu icon internet facebook.png"/>
+    <screen>
+      <element id="container" type="Container" x="470" y="50" width="710" height="448"/>
+      <element id="shorttext" type="TextField" x="20" y="80" width="370" height="380"/>
+      <element id="counttext" type="TextField" x="620" y="380" width="670" height="328"/>
+      <element id="logo" type="Image" x="517" y="0" width="220" height="85"/>
+    </screen>
+  </meta>
+
+  <item title="Action" labelbgcolor="#00192d">
+    <meta>
+      <select id="next"/>
+    </meta>
+    <item text="previous" id="action_prev"/>
+    <item text="next" id="action_next"/>
+    <item text="add as favorite" />
+  </item>
+</menu>

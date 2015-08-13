@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="root_library">
+  <meta>
+    <select id="Nature"/>
+    <action module="ActionLibrary"  menu="xml/Library/PhotoAction.xml"/>
+    <screen>
+      <element id="imgHolder" type="Image" x="430" y="50"/>
+    </screen>
+  </meta>
+
+  <item title="Blooming" labelbgcolor="#5b7723">
+    <icon url="media/photos/thumbs/blooming-preview.png"/>
+    <item id="blooming-01">
+      <icon url="media/photos/thumbs/blooming-01.jpg"/>
+      <preview url="media/photos/preview/blooming-01.jpg"/>
+      <info url="media/photos/large/blooming-01.jpg"/>
+    </item>
+    <item id="blooming-02">
+      <icon url="media/photos/thumbs/blooming-02.jpg"/>
+      <preview url="media/photos/preview/blooming-02.jpg"/>
+      <info url="media/photos/large/blooming-02.jpg"/>
+    </item>
+    <item id="blooming-03">
+      <icon url="media/photos/thumbs/blooming-03.jpg"/>
+      <preview url="media/photos/preview/blooming-03.jpg"/>
+      <info url="media/photos/large/blooming-03.jpg"/>
+    </item>
+    <item id="blooming-04">
+      <icon url="media/photos/thumbs/blooming-04.jpg"/>
+      <preview url="media/photos/preview/blooming-04.jpg"/>
+      <info url="media/photos/large/blooming-04.jpg"/>
+    </item>
+    <item id="blooming-05">
+      <icon url="media/photos/thumbs/blooming-05.jpg"/>
+      <preview url="media/photos/preview/blooming-05.jpg"/>
+      <info url="media/photos/large/blooming-05.jpg"/>
+    </item>
+    <item id="blooming-06">
+      <icon url="media/photos/thumbs/blooming-06.jpg"/>
+      <preview url="media/photos/preview/blooming-06.jpg"/>
+      <info url="media/photos/large/blooming-06.jpg"/>
+    </item>
+	    <item id="blooming-07">
+      <icon url="media/photos/thumbs/blooming-07.jpg"/>
+      <preview url="media/photos/preview/blooming-07.jpg"/>
+      <info url="media/photos/large/blooming-07.jpg"/>
+    </item>
+	    <item id="blooming-08">
+      <icon url="media/photos/thumbs/blooming-08.jpg"/>
+      <preview url="media/photos/preview/blooming-08.jpg"/>
+      <info url="media/photos/large/blooming-08.jpg"/>
+    </item>
+	    <item id="blooming-09">
+      <icon url="media/photos/thumbs/blooming-09.jpg"/>
+      <preview url="media/photos/preview/blooming-09.jpg"/>
+      <info url="media/photos/large/blooming-09.jpg"/>
+    </item>
+	    <item id="blooming-10">
+      <icon url="media/photos/thumbs/blooming-10.jpg"/>
+      <preview url="media/photos/preview/blooming-10.jpg"/>
+      <info url="media/photos/large/blooming-10.jpg"/>
+    </item>
+  </item>
+  
+  
+    <item title="Wildlife" labelbgcolor="#5b7723">
+    <icon url="media/photos/thumbs/wildlife-preview.png"/>
+    <item id="wildlife-01">
+      <icon url="media/photos/thumbs/wildlife-01.jpg"/>
+      <preview url="media/photos/preview/wildlife-01.jpg"/>
+      <info url="media/photos/large/wildlife-01.jpg"/>
+    </item>
+    <item id="wildlife-02">
+      <icon url="media/photos/thumbs/wildlife-02.jpg"/>
+      <preview url="media/photos/preview/wildlife-02.jpg"/>
+      <info url="media/photos/large/wildlife-02.jpg"/>
+    </item>
+    <item id="wildlife-03">
+      <icon url="media/photos/thumbs/wildlife-03.jpg"/>
+      <preview url="media/photos/preview/wildlife-03.jpg"/>
+      <info url="media/photos/large/wildlife-03.jpg"/>
+    </item>
+    <item id="wildlife-04">
+      <icon url="media/photos/thumbs/wildlife-04.jpg"/>
+      <preview url="media/photos/preview/wildlife-04.jpg"/>
+      <info url="media/photos/large/wildlife-04.jpg"/>
+    </item>
+    <item id="wildlife-05">
+      <icon url="media/photos/thumbs/wildlife-05.jpg"/>
+      <preview url="media/photos/preview/wildlife-05.jpg"/>
+      <info url="media/photos/large/wildlife-05.jpg"/>
+    </item>
+    <item id="wildlife-06">
+      <icon url="media/photos/thumbs/wildlife-06.jpg"/>
+      <preview url="media/photos/preview/wildlife-06.jpg"/>
+      <info url="media/photos/large/wildlife-06.jpg"/>
+    </item>
+	    <item id="wildlife-07">
+      <icon url="media/photos/thumbs/wildlife-07.jpg"/>
+      <preview url="media/photos/preview/wildlife-07.jpg"/>
+      <info url="media/photos/large/wildlife-07.jpg"/>
+    </item>
+	    <item id="wildlife-08">
+      <icon url="media/photos/thumbs/wildlife-08.jpg"/>
+      <preview url="media/photos/preview/wildlife-08.jpg"/>
+      <info url="media/photos/large/wildlife-08.jpg"/>
+    </item>
+	    <item id="wildlife-09">
+      <icon url="media/photos/thumbs/wildlife-09.jpg"/>
+      <preview url="media/photos/preview/wildlife-09.jpg"/>
+      <info url="media/photos/large/wildlife-09.jpg"/>
+    </item>
+	    <item id="wildlife-10">
+      <icon url="media/photos/thumbs/wildlife-10.jpg"/>
+      <preview url="media/photos/preview/wildlife-10.jpg"/>
+      <info url="media/photos/large/wildlife-10.jpg"/>
+    </item>
+  </item>
+  
+  
+ 
+    <item title="Scenery" labelbgcolor="#5b7723">
+    <icon url="media/photos/thumbs/scenery-preview.png"/>
+    <item id="scenery-01">
+      <icon url="media/photos/thumbs/scenery-01.jpg"/>
+      <preview url="media/photos/preview/scenery-01.jpg"/>
+      <info url="media/photos/large/scenery-01.jpg"/>
+    </item>
+    <item id="scenery-02">
+      <icon url="media/photos/thumbs/scenery-02.jpg"/>
+      <preview url="media/photos/preview/scenery-02.jpg"/>
+      <info url="media/photos/large/scenery-02.jpg"/>
+    </item>
+    <item id="scenery-03">
+      <icon url="media/photos/thumbs/scenery-03.jpg"/>
+      <preview url="media/photos/preview/scenery-03.jpg"/>
+      <info url="media/photos/large/scenery-03.jpg"/>
+    </item>
+    <item id="scenery-04">
+      <icon url="media/photos/thumbs/scenery-04.jpg"/>
+      <preview url="media/photos/preview/scenery-04.jpg"/>
+      <info url="media/photos/large/scenery-04.jpg"/>
+    </item>
+    <item id="scenery-05">
+      <icon url="media/photos/thumbs/scenery-05.jpg"/>
+      <preview url="media/photos/preview/scenery-05.jpg"/>
+      <info url="media/photos/large/scenery-05.jpg"/>
+    </item>
+    <item id="scenery-06">
+      <icon url="media/photos/thumbs/scenery-06.jpg"/>
+      <preview url="media/photos/preview/scenery-06.jpg"/>
+      <info url="media/photos/large/scenery-06.jpg"/>
+    </item>
+	    <item id="scenery-07">
+      <icon url="media/photos/thumbs/scenery-07.jpg"/>
+      <preview url="media/photos/preview/scenery-07.jpg"/>
+      <info url="media/photos/large/scenery-07.jpg"/>
+    </item>
+	    <item id="scenery-08">
+      <icon url="media/photos/thumbs/scenery-08.jpg"/>
+      <preview url="media/photos/preview/scenery-08.jpg"/>
+      <info url="media/photos/large/scenery-08.jpg"/>
+    </item>
+	    <item id="scenery-09">
+      <icon url="media/photos/thumbs/scenery-09.jpg"/>
+      <preview url="media/photos/preview/scenery-09.jpg"/>
+      <info url="media/photos/large/scenery-09.jpg"/>
+    </item>
+	    <item id="scenery-10">
+      <icon url="media/photos/thumbs/scenery-10.jpg"/>
+      <preview url="media/photos/preview/scenery-10.jpg"/>
+      <info url="media/photos/large/scenery-10.jpg"/>
+    </item>
+  </item>
+  
+  
+    <item title="Objects" labelbgcolor="#5b7723">
+    <icon url="media/photos/thumbs/objects-preview.png"/>
+    <item id="objects-01">
+      <icon url="media/photos/thumbs/objects-01.jpg"/>
+      <preview url="media/photos/preview/objects-01.jpg"/>
+      <info url="media/photos/large/objects-01.jpg"/>
+    </item>
+    <item id="objects-02">
+      <icon url="media/photos/thumbs/objects-02.jpg"/>
+      <preview url="media/photos/preview/objects-02.jpg"/>
+      <info url="media/photos/large/objects-02.jpg"/>
+    </item>
+    <item id="objects-03">
+      <icon url="media/photos/thumbs/objects-03.jpg"/>
+      <preview url="media/photos/preview/objects-03.jpg"/>
+      <info url="media/photos/large/objects-03.jpg"/>
+    </item>
+    <item id="objects-04">
+      <icon url="media/photos/thumbs/objects-04.jpg"/>
+      <preview url="media/photos/preview/objects-04.jpg"/>
+      <info url="media/photos/large/objects-04.jpg"/>
+    </item>
+    <item id="objects-05">
+      <icon url="media/photos/thumbs/objects-05.jpg"/>
+      <preview url="media/photos/preview/objects-05.jpg"/>
+      <info url="media/photos/large/objects-05.jpg"/>
+    </item>
+    <item id="objects-06">
+      <icon url="media/photos/thumbs/objects-06.jpg"/>
+      <preview url="media/photos/preview/objects-06.jpg"/>
+      <info url="media/photos/large/objects-06.jpg"/>
+    </item>
+	    <item id="objects-07">
+      <icon url="media/photos/thumbs/objects-07.jpg"/>
+      <preview url="media/photos/preview/objects-07.jpg"/>
+      <info url="media/photos/large/objects-07.jpg"/>
+    </item>
+	    <item id="objects-08">
+      <icon url="media/photos/thumbs/objects-08.jpg"/>
+      <preview url="media/photos/preview/objects-08.jpg"/>
+      <info url="media/photos/large/objects-08.jpg"/>
+    </item>
+	    <item id="objects-09">
+      <icon url="media/photos/thumbs/objects-09.jpg"/>
+      <preview url="media/photos/preview/objects-09.jpg"/>
+      <info url="media/photos/large/objects-09.jpg"/>
+    </item>
+	    <item id="objects-10">
+      <icon url="media/photos/thumbs/objects-10.jpg"/>
+      <preview url="media/photos/preview/objects-10.jpg"/>
+      <info url="media/photos/large/objects-10.jpg"/>
+    </item>
+  </item>
+  
+  
+    <item title="Water" labelbgcolor="#5b7723">
+    <icon url="media/photos/thumbs/water-preview.png"/>
+    <item id="water-01">
+      <icon url="media/photos/thumbs/water-01.jpg"/>
+      <preview url="media/photos/preview/water-01.jpg"/>
+      <info url="media/photos/large/water-01.jpg"/>
+    </item>
+    <item id="water-02">
+      <icon url="media/photos/thumbs/water-02.jpg"/>
+      <preview url="media/photos/preview/water-02.jpg"/>
+      <info url="media/photos/large/water-02.jpg"/>
+    </item>
+    <item id="water-03">
+      <icon url="media/photos/thumbs/water-03.jpg"/>
+      <preview url="media/photos/preview/water-03.jpg"/>
+      <info url="media/photos/large/water-03.jpg"/>
+    </item>
+    <item id="water-04">
+      <icon url="media/photos/thumbs/water-04.jpg"/>
+      <preview url="media/photos/preview/water-04.jpg"/>
+      <info url="media/photos/large/water-04.jpg"/>
+    </item>
+    <item id="water-05">
+      <icon url="media/photos/thumbs/water-05.jpg"/>
+      <preview url="media/photos/preview/water-05.jpg"/>
+      <info url="media/photos/large/water-05.jpg"/>
+    </item>
+    <item id="water-06">
+      <icon url="media/photos/thumbs/water-06.jpg"/>
+      <preview url="media/photos/preview/water-06.jpg"/>
+      <info url="media/photos/large/water-06.jpg"/>
+    </item>
+	    <item id="water-07">
+      <icon url="media/photos/thumbs/water-07.jpg"/>
+      <preview url="media/photos/preview/water-07.jpg"/>
+      <info url="media/photos/large/water-07.jpg"/>
+    </item>
+	    <item id="water-08">
+      <icon url="media/photos/thumbs/water-08.jpg"/>
+      <preview url="media/photos/preview/water-08.jpg"/>
+      <info url="media/photos/large/water-08.jpg"/>
+    </item>
+	    <item id="water-09">
+      <icon url="media/photos/thumbs/water-09.jpg"/>
+      <preview url="media/photos/preview/water-09.jpg"/>
+      <info url="media/photos/large/water-09.jpg"/>
+    </item>
+	    <item id="water-10">
+      <icon url="media/photos/thumbs/water-10.jpg"/>
+      <preview url="media/photos/preview/water-10.jpg"/>
+      <info url="media/photos/large/water-10.jpg"/>
+    </item>
+  </item>
+  
+  
+</menu>

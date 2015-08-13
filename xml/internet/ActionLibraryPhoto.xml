@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="action_library">
+  <meta>
+    <select id="picture"/>
+    <screen>
+      <element id="imgHolder" type="Image" x="526" y="49" scale="0.622222222222222"/>
+    </screen>
+  </meta>
+  <!-- <item text="View"/> -->
+  <!--	<item id= "profile" title="Profile" labelbgcolor="#5b7723">
+    <item text="use picture for profile"/>
+  </item>
+  -->
+  <item id= "picture" title="Picture" labelbgcolor="#00192d">
+    <meta>
+      <select id="action_slideshow"/>
+    </meta>
+
+    <item text="delete"/>
+    <item id="action_slideshow" text="start Slideshow">
+      <action module="AppSlideshow"  menu="xml/AppSlideShow.xml"/>
+    </item>
+    <item text="share">
+      <action menu="xml/ActionShare.xml"/>
+    </item>
+    <item text="show to Friends"/>
+  </item>
+</menu>

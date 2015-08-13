@@ -1,0 +1,10 @@
+  <item id="devices" title="Devices" labelbgcolor="#4b2e05">
+    <icon url="media/icons/mainmenu/main menu icon devices.png"/>
+    <item id="2" text="Light1">
+      <action module="ActionRemote"  menu="xml/devices/ActionRemoteLight1.xml"/>
+    </item>
+    <item id="1" text="Loewe">
+      <action module="ActionRemote"  menu="xml/devices/ActionRemoteTV.xml"/>
+    </item>
+  </item>
+</menu>

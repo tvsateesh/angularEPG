@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu id="Baby Channel">
+	<meta>
+		<select id="now"/>
+		<action module="ActionTimeline"  menu="xml/ActionTimeline.xml"/>
+		<screen>
+			<element id="container" type="Container" x="470" y="50" width="710" height="410" />
+			<element id="txtHolder" type="TextField" x="20" y="20" width="370" height="380" />
+			<element id="imgHolder" type="MovieClip" x="410" y="0"/>
+			<element id="progHolder" type="MovieClip" x="20" y="320"/>
+		</screen>
+	</meta>
+<item id="night" title="Night">
+	<item id="gladiator" text="Gladiator">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/gladiator.png">
+      <shorttext>
+        <span class="headline">Gladiator</span>
+        <p class="subheadline">Historical Drama, USA 2000</p>
+        <p class="subsubheadline">In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos. Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor. As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed. He escapes, but is captured by slave traders.</p>
+      </shorttext>
+    <time><start hour="17" min="10"/><end hour="19" min="40"/></time></info>
+  </item>
+	<item id="sound-of-music" text="Sound of Music">
+    <meta>
+      <duration>170</duration>
+    </meta>
+    <info url="media/tv/sound-of-music.png">
+      <shorttext>
+        <span class="headline">Sound of Music</span>
+        <p class="subheadline">Musical, USA 1965</p>
+        <p class="description">Baron Von Trapp, a widower, runs his home near Salzburg like the ship he once commanded. That changes when Maria arrives from the convent to be the new governess of his seven children. Their romps through the hills inspire all to sing and to find joy in the smallest things.</p>
+      </shorttext>
+    <time><start hour="19" min="40"/><end hour="22" min="30"/></time></info>
+  </item>
+	<item id="brotherhood" text="Brotherhood">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/brotherhood.png">
+      <shorttext>
+        <span class="headline">Brotherhood</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 9: Call Letter Blues</p>
+        <p class="description">Thanksgiving in the Caffee household bursts when Rose walks out on her family Thanksgiving morning, leaving the younger generations to pull the holiday together on their own. Freddie and Marty Trio are allowed a holiday furlough in exchange for information.</p>
+      </shorttext>
+    <time><start hour="22" min="30"/><end hour="23" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="evening" title="Evening">
+	<item id="gladiator" text="Gladiator">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/gladiator.png">
+      <shorttext>
+        <span class="headline">Gladiator</span>
+        <p class="subheadline">Historical Drama, USA 2000</p>
+        <p class="subsubheadline">In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos. Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor. As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed. He escapes, but is captured by slave traders.</p>
+      </shorttext>
+    <time><start hour="17" min="10"/><end hour="19" min="40"/></time></info>
+  </item>
+</item>
+<item id="afternoon" title="Afternoon">
+	<item id="24" text="24">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/24.png">
+      <shorttext>
+        <span class="headline">24</span>
+        <p class="subheadline">Thriller, USA 2007</p>
+        <p class="subsubheadline">Season 6, Ep. 18: 11 PM - 12 AM</p>
+        <p class="description">President Palmer collapses at a press conference, making Vice President Daniels acting president. Against the orders of Daniels, Jack ditches his partner Mike Doyle and proceeds alone to negotiate the release of Audrey Raines, who is being held captive by Cheng Zhi.</p>
+      </shorttext>
+    <time><start hour="11" min="50"/><end hour="12" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="desperate-housewives" text="Desperate Housewives">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/desperate-housewives.png">
+      <shorttext>
+        <span class="headline">Desperate Housewives</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Free</p>
+        <p class="description">Several residents of Wisteria Lane are faced with deadly threats when Katherine's ex-husband wants to see his daughter again. Susan realizes she will soon lose her daughter when she goes off to college early, and Katherine Mayfair's secrets are finally revealed.</p>
+      </shorttext>
+    <time><start hour="12" min="50"/><end hour="13" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="sopranos" text="The Sopranos">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/sopranos.png">
+      <shorttext>
+        <span class="headline">The Sopranos</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 6, Ep. 16: Chasing It</p>
+        <p class="description">Tony hits an unlucky stretch with a series of gambling losses, creating difficulties between him and Hesh. A.J. makes a life-changing decision regarding his relationship with Blanca, who makes an important decision of her own. And Vito's widow Marie turns to Tony for help with her troubled son.</p>
+      </shorttext>
+    <time><start hour="13" min="50"/><end hour="14" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="office" text="The Office">
+    <meta>
+      <duration>50</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/office.png">
+      <shorttext>
+        <span class="headline">The Office</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Job Fair</p>
+        <p class="description">In response to Ryan's warning, Jim hits the links with Andy and Kevin to attempt to land his biggest client ever. Michael, Pam, Oscar, and Darryl set up a booth at a job fair at Pam's old high school to find applicants for Dunder Mifflin's summer internship, but Michael's shenanigans produce failure.</p>
+      </shorttext>
+    <time><start hour="14" min="50"/><end hour="15" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="rome" text="Rome">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/rome.png">
+      <shorttext>
+        <span class="headline">Rome</span>
+        <p class="subheadline">Drama, UK/USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 7: Death Mask</p>
+        <p class="description">Servilia mourns the death of Brutus, killed at Phillipi. She kneels in front of Atia's door chanting repeatedly for justice. Although Atia ignores her initially, the incessant chanting attracts a crowd of pleb onlookers and annoys Atia.</p>
+      </shorttext>
+    <time><start hour="15" min="40"/><end hour="17" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="noon" title="Noon">
+	<item id="stargate-atlantis" text="Stargate Atlantis">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/stargate-atlantis.png">
+      <shorttext>
+        <span class="headline">Stargate Atlantis</span>
+        <p class="subheadline">Sci-Fi, USA/CA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Whispers</p>
+        <p class="description">Sheppard and Beckett join Maj. Anne Teldy's team on a planet with one of Michael's research facilities for the early versions of his human-iratus hybrids concealed inside a cave system. Unfortunately for them, Michael's hybrids are nearby conspiring against them.</p>
+      </shorttext>
+    <time><start hour="09" min="50"/><end hour="10" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="true-blood" text="True Blood">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/true-blood.png">
+      <shorttext>
+        <span class="headline">True Blood</span>
+        <p class="subheadline">Supernatural Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Strange Love</p>
+        <p class="description">Louisiana gets its first vampire visitor, Bill Compton, whose arrival creates a wave of interest, fear and excitement. Particularly in Sookie, who is thrilled to discover she can't hear Bill's innermost thoughts. She later forms a bond with the bloodsucker, after rescuing him from two opportunistic thieves.</p>
+      </shorttext>
+    <time><start hour="10" min="50"/><end hour="11" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="24" text="24">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/24.png">
+      <shorttext>
+        <span class="headline">24</span>
+        <p class="subheadline">Thriller, USA 2007</p>
+        <p class="subsubheadline">Season 6, Ep. 18: 11 PM - 12 AM</p>
+        <p class="description">President Palmer collapses at a press conference, making Vice President Daniels acting president. Against the orders of Daniels, Jack ditches his partner Mike Doyle and proceeds alone to negotiate the release of Audrey Raines, who is being held captive by Cheng Zhi.</p>
+      </shorttext>
+    <time><start hour="11" min="50"/><end hour="12" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="morning" title="Morning">
+	<item id="dawsons-creek" text="Dawson's Creek">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dawsons-creek.png">
+      <shorttext>
+        <span class="headline">Dawson's Creek</span>
+        <p class="subheadline">Soap Opera, USA 2003</p>
+        <p class="subsubheadline">Season 6, Ep. 19: Lovelines</p>
+        <p class="description">Joey and Eddie's emotional and sexual relationship is played out on stage during a counseling center benefit. At the same event, Jack and David deal with the insecurities in their relationship, Jen opens up to C.J. about Grams' cancer, and a sober Audrey returns to Boston and surprises everyone at the benefit.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="winx-club" text="Winx Club">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/winx-club.png">
+      <shorttext>
+        <span class="headline">Winx Club</span>
+        <p class="subheadline">Animated TV Series, Italy 2008</p>
+        <p class="subsubheadline">Season 3, Ep. 7: Invasion of Tides</p>
+        <p class="description">On the Planet Tides, Baltor's invasion has reached a critical phase when Baltor manipulates the gate to the Omega dimension into using its negative energy to cancel the positive of the Realm of Tides and destroying the existence of both areas.</p>
+      </shorttext>
+    <time><start hour="01" min="00"/><end hour="01" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dr-who" text="Dr. Who">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dr-who.png">
+      <shorttext>
+        <span class="headline">Dr. Who</span>
+        <p class="subheadline">Sci-Fi, UK 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 10: Midnight</p>
+        <p class="description">The Doctor and Donna take a holiday on the crystalline planet Midnight, which orbits close enough to its sun that the Xtonic radiation exposure would vaporise any living thing walking unprotected on its surface.</p>
+      </shorttext>
+    <time><start hour="01" min="30"/><end hour="02" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="mad-men" text="Mad Men">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/mad-men.png">
+      <shorttext>
+        <span class="headline">Mad Men</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 13: The Wheel</p>
+        <p class="description">Betty discovers a secret, leading her to re-evaluate her marital situation. Peggy gets promoted but receives news that may interfere with her career. Don's professional and private lives affects each other in curious ways as he's left to fend for himself.</p>
+      </shorttext>
+    <time><start hour="02" min="30"/><end hour="03" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="fringe" text="Fringe">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/fringe.png">
+      <shorttext>
+        <span class="headline">Fringe</span>
+        <p class="subheadline">Mystery, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+        <p class="description">At a cutting-edge research facility, a female FBI agent is forced to work with an institutionalized scientist, Dr. Walter Bishop, in order to rationalize a brewing storm of unexplained phenomena.</p>
+      </shorttext>
+    <time><start hour="03" min="30"/><end hour="04" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dirt" text="Dirt">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dirt.png">
+      <shorttext>
+        <span class="headline">Dirt</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 1: Welcome to Normal</p>
+        <p class="description">After surviving her violent attack, Lucy Spiller returns to Dirt Now magazine to reclaim her position as Tabloid Queen. Julia, while fleeing the scene, is hit by Leo and eventually gets killed. A chance encounter between Lucy and a young pop star results in a surprising opportunity.</p>
+      </shorttext>
+    <time><start hour="04" min="40"/><end hour="05" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="inconvenient-truth" text="An Inconvenient Truth">
+    <meta>
+      <duration>100</duration>
+    </meta>
+    <info url="media/tv/inconvenient-truth.png">
+      <shorttext>
+        <span class="headline">An Inconvenient Truth</span>
+        <p class="subheadline">Documentary, USA 2006</p>
+        <p class="description">A longtime advocate for the environment, Gore presents a wide array of facts and information in a thoughtful and compelling way. An Inconvenient Truth is not a story of despair but rather a rallying cry to protect the one earth we all share. It is now clear that we face a deepening global climate crisis that requires us to act boldly, quickly, and wisely.</p>
+      </shorttext>
+    <time><start hour="05" min="40"/><end hour="07" min="20"/></time></info>
+  </item>
+	<item id="tom-and-jerry" text="Tom &amp; Jerry">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tom-and-jerry.png">
+      <shorttext>
+        <span class="headline">Tom &amp; Jerry</span>
+        <p class="subheadline">Animated TV Series, USA 1950</p>
+        <p class="subsubheadline">Season 1, Ep. 48: Saturday Evening Puss</p>
+        <p class="description">Mammy Two Shoes goes out to her bridge club for the night. Seeing her leaving, Tom invites his feline pals Butch, Topsy and Lighting, who emerge from garbage cans outside of the house and rush in when Tom gives them the all-clear by showing them a sign written O.K. for the party.</p>
+      </shorttext>
+    <time><start hour="07" min="20"/><end hour="07" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="07" min="50"/><end hour="08" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="weeds" text="Weeds">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/weeds.png">
+      <shorttext>
+        <span class="headline">Weeds</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 8: I Am The Table</p>
+        <p class="description">Esteban and Nancy's spontaneous date ends in near violence. Andy and Doug successfully smuggle their first customer across the border. Silas reveals to Lisa that he grows pot, and she offers to let him do business in the back of her store.</p>
+      </shorttext>
+    <time><start hour="08" min="50"/><end hour="09" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="stargate-atlantis" text="Stargate Atlantis">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/stargate-atlantis.png">
+      <shorttext>
+        <span class="headline">Stargate Atlantis</span>
+        <p class="subheadline">Sci-Fi, USA/CA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Whispers</p>
+        <p class="description">Sheppard and Beckett join Maj. Anne Teldy's team on a planet with one of Michael's research facilities for the early versions of his human-iratus hybrids concealed inside a cave system. Unfortunately for them, Michael's hybrids are nearby conspiring against them.</p>
+      </shorttext>
+    <time><start hour="09" min="50"/><end hour="10" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+<item id="now" title="Now">
+	<item id="dawsons-creek" text="Dawson's Creek">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dawsons-creek.png">
+      <shorttext>
+        <span class="headline">Dawson's Creek</span>
+        <p class="subheadline">Soap Opera, USA 2003</p>
+        <p class="subsubheadline">Season 6, Ep. 19: Lovelines</p>
+        <p class="description">Joey and Eddie's emotional and sexual relationship is played out on stage during a counseling center benefit. At the same event, Jack and David deal with the insecurities in their relationship, Jen opens up to C.J. about Grams' cancer, and a sober Audrey returns to Boston and surprises everyone at the benefit.</p>
+      </shorttext>
+    <time><start hour="00" min="00"/><end hour="01" min="00"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="winx-club" text="Winx Club">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/winx-club.png">
+      <shorttext>
+        <span class="headline">Winx Club</span>
+        <p class="subheadline">Animated TV Series, Italy 2008</p>
+        <p class="subsubheadline">Season 3, Ep. 7: Invasion of Tides</p>
+        <p class="description">On the Planet Tides, Baltor's invasion has reached a critical phase when Baltor manipulates the gate to the Omega dimension into using its negative energy to cancel the positive of the Realm of Tides and destroying the existence of both areas.</p>
+      </shorttext>
+    <time><start hour="01" min="00"/><end hour="01" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dr-who" text="Dr. Who">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dr-who.png">
+      <shorttext>
+        <span class="headline">Dr. Who</span>
+        <p class="subheadline">Sci-Fi, UK 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 10: Midnight</p>
+        <p class="description">The Doctor and Donna take a holiday on the crystalline planet Midnight, which orbits close enough to its sun that the Xtonic radiation exposure would vaporise any living thing walking unprotected on its surface.</p>
+      </shorttext>
+    <time><start hour="01" min="30"/><end hour="02" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="mad-men" text="Mad Men">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/mad-men.png">
+      <shorttext>
+        <span class="headline">Mad Men</span>
+        <p class="subheadline">Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 13: The Wheel</p>
+        <p class="description">Betty discovers a secret, leading her to re-evaluate her marital situation. Peggy gets promoted but receives news that may interfere with her career. Don's professional and private lives affects each other in curious ways as he's left to fend for himself.</p>
+      </shorttext>
+    <time><start hour="02" min="30"/><end hour="03" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="fringe" text="Fringe">
+    <meta>
+      <duration>70</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/fringe.png">
+      <shorttext>
+        <span class="headline">Fringe</span>
+        <p class="subheadline">Mystery, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Pilot</p>
+        <p class="description">At a cutting-edge research facility, a female FBI agent is forced to work with an institutionalized scientist, Dr. Walter Bishop, in order to rationalize a brewing storm of unexplained phenomena.</p>
+      </shorttext>
+    <time><start hour="03" min="30"/><end hour="04" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="dirt" text="Dirt">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/dirt.png">
+      <shorttext>
+        <span class="headline">Dirt</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 1: Welcome to Normal</p>
+        <p class="description">After surviving her violent attack, Lucy Spiller returns to Dirt Now magazine to reclaim her position as Tabloid Queen. Julia, while fleeing the scene, is hit by Leo and eventually gets killed. A chance encounter between Lucy and a young pop star results in a surprising opportunity.</p>
+      </shorttext>
+    <time><start hour="04" min="40"/><end hour="05" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="inconvenient-truth" text="An Inconvenient Truth">
+    <meta>
+      <duration>100</duration>
+    </meta>
+    <info url="media/tv/inconvenient-truth.png">
+      <shorttext>
+        <span class="headline">An Inconvenient Truth</span>
+        <p class="subheadline">Documentary, USA 2006</p>
+        <p class="description">A longtime advocate for the environment, Gore presents a wide array of facts and information in a thoughtful and compelling way. An Inconvenient Truth is not a story of despair but rather a rallying cry to protect the one earth we all share. It is now clear that we face a deepening global climate crisis that requires us to act boldly, quickly, and wisely.</p>
+      </shorttext>
+    <time><start hour="05" min="40"/><end hour="07" min="20"/></time></info>
+  </item>
+	<item id="tom-and-jerry" text="Tom &amp; Jerry">
+    <meta>
+      <duration>30</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/tom-and-jerry.png">
+      <shorttext>
+        <span class="headline">Tom &amp; Jerry</span>
+        <p class="subheadline">Animated TV Series, USA 1950</p>
+        <p class="subsubheadline">Season 1, Ep. 48: Saturday Evening Puss</p>
+        <p class="description">Mammy Two Shoes goes out to her bridge club for the night. Seeing her leaving, Tom invites his feline pals Butch, Topsy and Lighting, who emerge from garbage cans outside of the house and rush in when Tom gives them the all-clear by showing them a sign written O.K. for the party.</p>
+      </shorttext>
+    <time><start hour="07" min="20"/><end hour="07" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="prince-of-bel-air" text="Fresh Prince of Bel-Air">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/prince-of-bel-air.png">
+      <shorttext>
+        <span class="headline">Fresh Prince of Bel-Air</span>
+        <p class="subheadline">Sitcom, USA 1993</p>
+        <p class="subsubheadline">Season 3, Ep. 13: Triple Luck</p>
+        <p class="description">As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</p>
+      </shorttext>
+    <time><start hour="07" min="50"/><end hour="08" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="weeds" text="Weeds">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/weeds.png">
+      <shorttext>
+        <span class="headline">Weeds</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 2, Ep. 8: I Am The Table</p>
+        <p class="description">Esteban and Nancy's spontaneous date ends in near violence. Andy and Doug successfully smuggle their first customer across the border. Silas reveals to Lisa that he grows pot, and she offers to let him do business in the back of her store.</p>
+      </shorttext>
+    <time><start hour="08" min="50"/><end hour="09" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="stargate-atlantis" text="Stargate Atlantis">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/stargate-atlantis.png">
+      <shorttext>
+        <span class="headline">Stargate Atlantis</span>
+        <p class="subheadline">Sci-Fi, USA/CA 2008</p>
+        <p class="subsubheadline">Season 5, Ep. 7: Whispers</p>
+        <p class="description">Sheppard and Beckett join Maj. Anne Teldy's team on a planet with one of Michael's research facilities for the early versions of his human-iratus hybrids concealed inside a cave system. Unfortunately for them, Michael's hybrids are nearby conspiring against them.</p>
+      </shorttext>
+    <time><start hour="09" min="50"/><end hour="10" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="true-blood" text="True Blood">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/true-blood.png">
+      <shorttext>
+        <span class="headline">True Blood</span>
+        <p class="subheadline">Supernatural Drama, USA 2008</p>
+        <p class="subsubheadline">Season 1, Ep. 1: Strange Love</p>
+        <p class="description">Louisiana gets its first vampire visitor, Bill Compton, whose arrival creates a wave of interest, fear and excitement. Particularly in Sookie, who is thrilled to discover she can't hear Bill's innermost thoughts. She later forms a bond with the bloodsucker, after rescuing him from two opportunistic thieves.</p>
+      </shorttext>
+    <time><start hour="10" min="50"/><end hour="11" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="24" text="24">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/24.png">
+      <shorttext>
+        <span class="headline">24</span>
+        <p class="subheadline">Thriller, USA 2007</p>
+        <p class="subsubheadline">Season 6, Ep. 18: 11 PM - 12 AM</p>
+        <p class="description">President Palmer collapses at a press conference, making Vice President Daniels acting president. Against the orders of Daniels, Jack ditches his partner Mike Doyle and proceeds alone to negotiate the release of Audrey Raines, who is being held captive by Cheng Zhi.</p>
+      </shorttext>
+    <time><start hour="11" min="50"/><end hour="12" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="desperate-housewives" text="Desperate Housewives">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/desperate-housewives.png">
+      <shorttext>
+        <span class="headline">Desperate Housewives</span>
+        <p class="subheadline">Dramedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Free</p>
+        <p class="description">Several residents of Wisteria Lane are faced with deadly threats when Katherine's ex-husband wants to see his daughter again. Susan realizes she will soon lose her daughter when she goes off to college early, and Katherine Mayfair's secrets are finally revealed.</p>
+      </shorttext>
+    <time><start hour="12" min="50"/><end hour="13" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="sopranos" text="The Sopranos">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/sopranos.png">
+      <shorttext>
+        <span class="headline">The Sopranos</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 6, Ep. 16: Chasing It</p>
+        <p class="description">Tony hits an unlucky stretch with a series of gambling losses, creating difficulties between him and Hesh. A.J. makes a life-changing decision regarding his relationship with Blanca, who makes an important decision of her own. And Vito's widow Marie turns to Tony for help with her troubled son.</p>
+      </shorttext>
+    <time><start hour="13" min="50"/><end hour="14" min="50"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="office" text="The Office">
+    <meta>
+      <duration>50</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/office.png">
+      <shorttext>
+        <span class="headline">The Office</span>
+        <p class="subheadline">Comedy, USA 2008</p>
+        <p class="subsubheadline">Season 4, Ep. 17: Job Fair</p>
+        <p class="description">In response to Ryan's warning, Jim hits the links with Andy and Kevin to attempt to land his biggest client ever. Michael, Pam, Oscar, and Darryl set up a booth at a job fair at Pam's old high school to find applicants for Dunder Mifflin's summer internship, but Michael's shenanigans produce failure.</p>
+      </shorttext>
+    <time><start hour="14" min="50"/><end hour="15" min="40"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="rome" text="Rome">
+    <meta>
+      <duration>90</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/rome.png">
+      <shorttext>
+        <span class="headline">Rome</span>
+        <p class="subheadline">Drama, UK/USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 7: Death Mask</p>
+        <p class="description">Servilia mourns the death of Brutus, killed at Phillipi. She kneels in front of Atia's door chanting repeatedly for justice. Although Atia ignores her initially, the incessant chanting attracts a crowd of pleb onlookers and annoys Atia.</p>
+      </shorttext>
+    <time><start hour="15" min="40"/><end hour="17" min="10"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+	<item id="gladiator" text="Gladiator">
+    <meta>
+      <duration>150</duration>
+    </meta>
+    <info url="media/tv/gladiator.png">
+      <shorttext>
+        <span class="headline">Gladiator</span>
+        <p class="subheadline">Historical Drama, USA 2000</p>
+        <p class="subsubheadline">In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos. Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor. As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed. He escapes, but is captured by slave traders.</p>
+      </shorttext>
+    <time><start hour="17" min="10"/><end hour="19" min="40"/></time></info>
+  </item>
+	<item id="sound-of-music" text="Sound of Music">
+    <meta>
+      <duration>170</duration>
+    </meta>
+    <info url="media/tv/sound-of-music.png">
+      <shorttext>
+        <span class="headline">Sound of Music</span>
+        <p class="subheadline">Musical, USA 1965</p>
+        <p class="description">Baron Von Trapp, a widower, runs his home near Salzburg like the ship he once commanded. That changes when Maria arrives from the convent to be the new governess of his seven children. Their romps through the hills inspire all to sing and to find joy in the smallest things.</p>
+      </shorttext>
+    <time><start hour="19" min="40"/><end hour="22" min="30"/></time></info>
+  </item>
+	<item id="brotherhood" text="Brotherhood">
+    <meta>
+      <duration>60</duration>
+      <series/>
+    </meta>
+    <info url="media/tv/brotherhood.png">
+      <shorttext>
+        <span class="headline">Brotherhood</span>
+        <p class="subheadline">Drama, USA 2007</p>
+        <p class="subsubheadline">Season 2, Ep. 9: Call Letter Blues</p>
+        <p class="description">Thanksgiving in the Caffee household bursts when Rose walks out on her family Thanksgiving morning, leaving the younger generations to pull the holiday together on their own. Freddie and Marty Trio are allowed a holiday furlough in exchange for information.</p>
+      </shorttext>
+    <time><start hour="22" min="30"/><end hour="23" min="30"/></time></info>
+  <action module="ActionTimeline"  menu="xml/ActionEPGSeries.xml"/></item>
+</item>
+</menu>
