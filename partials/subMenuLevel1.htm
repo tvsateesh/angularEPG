@@ -22,10 +22,10 @@
                     <table class="table table-bordered">
                         <tr>
                         <td ng-repeat="program in menu.item | filter:search" class="EPGContent">
-                            <a href="default.htm#/subMenu?id={{}}">{{program._text}}</a>
+                            <a href="/#/subMenu?id={{}}">{{program._text}}</a>
                             <hr>
 
-                            <a href="default.htm#/subMenu?id={{}}">{{program.info.time.start._hour }}:{{program.info.time.start._min}} -
+                            <a href="/#/subMenu?id={{}}">{{program.info.time.start._hour }}:{{program.info.time.start._min}} -
                                 {{program.info.time.end._hour}} : {{program.info.time.end._min }}</a>
                             </td>
                         </tr>

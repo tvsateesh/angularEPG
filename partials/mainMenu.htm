@@ -15,7 +15,7 @@
         <tr>
             <td ng-repeat="menu in menus.menu.include | filter:search" class="channelLogo"
                     >
-                <a href="default.htm#/subMenu?id={{menu._href }}">{{menu._href | trimUnderscore | uppercase }}</a>
+                <a href="/#/subMenu?id={{menu._href }}">{{menu._href | trimUnderscore | uppercase }}</a>
             </td>
         </tr>
     </table>
