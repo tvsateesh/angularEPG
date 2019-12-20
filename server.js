@@ -7,10 +7,10 @@ app.use(express.static(__dirname + '/'));
 
 // views is directory for all template files
 app.set('views', __dirname + '/partials');
-app.set('view engine', 'htm');
+app.set('view engine', 'html');
 
 app.get('/', function(request, response) {
-  response.render('default.htm');
+  response.render('index.html');
 });
 
 app.listen(app.get('port'), function() {
