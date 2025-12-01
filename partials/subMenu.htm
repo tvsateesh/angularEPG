@@ -1,8 +1,10 @@
-﻿<section class="links">
-    <p >
-        Sub Menu
-    </p>
-</section>
+﻿<nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Home</a>
+    <span ng-if="menus.menu.include">/</span>
+    <a ng-if="menus.menu.include" href="#/">Main</a>
+    <span ng-if="menus.item">/</span>
+    <span ng-if="menus.item" class="crumb-current">{{menus.item._text || menus.item._id || 'Sub Menu'}}</span>
+</nav>
 <!--
 <p>
     Search: <input ng-model="search">
@@ -17,9 +19,13 @@
             <tr class="channelLogo">
                 <td ng-repeat="menu in menus.item.item" ng-if="menus.item.item.length > 1" class="channelLogo" >
                     <a href="/#/subMenuLevel1?id={{menu.action._menu }}&module={{menu.action._module }}">
-                        <div style="width:100px"><img src="{{menu.icon._url }}" >
-                            </img></div>
-                        {{menu._text}}</a>
+                                <div style="width:100px;text-align:center;">
+                                    <img ng-src="{{ (menu.icon && menu.icon._url) || ('media/icons/submenu/' + (menu._text || menu.action._menu) + '.png') }}"
+                                         alt="{{menu._text}}"
+                                         style="max-width:96px;max-height:96px;display:block;margin:0 auto;"
+                                         onerror="this.onerror=null;this.src='media/icons/ui/HD.png'" />
+                                </div>
+                                {{menu._text}}</a>
                 </td>
             </tr>
         </table>

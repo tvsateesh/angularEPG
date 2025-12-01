@@ -2,6 +2,15 @@
  * Extend Bootstrap v2.3.1 to provide cell alignment (doh)
  *
  */
+/* CSS variables for easy theming */
+:root{
+  --bg: #0f1721; /* page background */
+  --card: #1f2a37; /* menu card background */
+  --muted: #98a2b3; /* muted text */
+  --accent: #00a0c6; /* accent / link */
+  --text: #e6eef6; /* primary text */
+}
+
 .table td.tdRight {
   text-align: right;
 }
@@ -11,33 +20,78 @@
 .table-nonfluid {
    width: auto;
 }
+
+/* Main menu tile */
 .channelLogo{
-    width:250px;
-    height: 60px;
-    background-color: #808080;
-    color: black;
-    opacity: 0.9;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
+    min-width:140px;
+    max-width:260px;
+    height:110px;
+    padding:8px 12px;
+    background: linear-gradient(180deg, var(--card), #172031);
+    color: var(--text);
+    border-radius:8px;
+    box-shadow:0 6px 14px rgba(2,6,23,0.6), inset 0 1px 0 rgba(255,255,255,0.02);
+    transition: transform 180ms ease, box-shadow 180ms ease, filter 180ms ease;
     vertical-align: middle !important;
+    overflow:hidden;
+}
+.channelLogo:hover{
+    transform: translateY(-4px);
+    box-shadow:0 12px 28px rgba(2,6,23,0.6);
+    filter:brightness(1.03);
 }
 
+.channelLogo img{
+    max-width:96px;
+    max-height:96px;
+    width:auto;
+    height:auto;
+    object-fit:contain;
+    display:block;
+}
 
 .EPGContent{
-    color: whitesmoke;
+    color: var(--text);
     text-align: center;
     width:350px !important;
     height: 60px;
-    background-color: #808080;
+    background-color: var(--card);
     vertical-align: middle !important;
-
+    border-radius:6px;
 }
+
 a {
-    color: whitesmoke;
+    color: var(--text);
     text-decoration: none;
 }
 
-a:hover
-{
-    color:#00A0C6;
+a:hover{
+    color: var(--accent);
     text-decoration:none;
     cursor:pointer;
+}
+
+/* Responsive grid for menu tiles */
+.menu-grid{display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start;justify-content:flex-start;padding:8px}
+.menu-grid td{border:none;padding:0;background:transparent}
+
+/* Body background (if not controlled elsewhere) */
+body{background:var(--bg);color:var(--text);font-family:Arial, Helvetica, sans-serif}
+
+/* Breadcrumb */
+.breadcrumb{
+  display:flex;align-items:center;gap:8px;font-size:14px;color:var(--muted);background:transparent;padding:6px 8px;border-radius:6px;margin-bottom:12px
+}
+.breadcrumb a{color:var(--muted);text-decoration:none}
+.breadcrumb a:hover{color:var(--accent)}
+.breadcrumb .crumb-current{color:var(--text);font-weight:600}
+
+/* small screens */
+@media (max-width:600px){
+  .channelLogo{min-width:120px;height:86px}
+  .EPGContent{width:90%}
 }

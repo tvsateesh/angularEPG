@@ -1,8 +1,12 @@
-﻿<section class="links">
-    <p >
-        Sub Menu
-    </p>
-</section>
+﻿<nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Home</a>
+    <span>/</span>
+    <a href="#/">Main</a>
+    <span ng-if="menus.item">/</span>
+    <a ng-if="menus.item" href="#/subMenu">{{menus.item._text || menus.item._id || 'Sub'}}</a>
+    <span ng-if="menus.menu._id">/</span>
+    <span ng-if="menus.menu._id" class="crumb-current">{{menus.menu._title || menus.menu._id || 'Level'}}</span>
+</nav>
 
 <!--
 <p>

@@ -1,9 +1,7 @@
 ﻿<div>
-    <section class="links">
-        <p>
-            Main Menu
-        </p>
-    </section>
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+    </nav>
 
     <!--
     <p>
@@ -11,12 +9,17 @@
     </p>
     -->
 
-    <table class="table table-bordered">
-        <tr>
-            <td ng-repeat="menu in menus.menu.include | filter:search" class="channelLogo"
-                    >
-                <a href="/#/subMenu?id={{menu._href }}">{{menu._href | trimUnderscore | uppercase }}</a>
-            </td>
-        </tr>
-    </table>
+    <div class="menu-grid" role="list">
+        <div role="listitem" ng-repeat="menu in menus.menu.include | filter:search" class="channelLogo">
+            <a href="/#/subMenu?id={{menu._href }}" style="display:block;width:100%;height:100%;">
+                <div style="text-align:center;">
+                    <img ng-src="media/icons/mainmenu/{{menu._href | trim}}.png"
+                         alt="{{menu._href | trimUnderscore}}"
+                         style="max-width:96px;max-height:96px;display:block;margin:0 auto;"
+                         onerror="if(!this.dataset.attempt){this.dataset.attempt=1;this.src='media/icons/mainmenu/main menu icon {{menu._href | trimUnderscore | lowercase}}.png';}else{this.onerror=null;this.src='media/icons/ui/HD.png';}" />
+                    <div style="margin-top:8px;font-weight:600;letter-spacing:0.4px">{{menu._href | trimUnderscore | uppercase }}</div>
+                </div>
+            </a>
+        </div>
+    </div>
 </div>
