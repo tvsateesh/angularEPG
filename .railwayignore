@@ -1,0 +1,10 @@
+node_modules
+.git
+.env
+.DS_Store
+*.log
+.vscode
+package-lock.json.bak
+package.json.bak
+npm-debug.log
+angular_epg_server.log
